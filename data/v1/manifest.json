@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "7.3.2",
-  "generatedAt": "2026-04-10T11:42:17.594Z",
+  "generatedAt": "2026-04-10T11:44:00.796Z",
   "sections": [
     {
-      "id": "oraldent",
-      "file": "oraldent.json",
-      "cardCount": 4,
-      "sizeKb": 25,
+      "id": "algorithms",
+      "file": "algorithms.json",
+      "cardCount": 10,
+      "sizeKb": 46,
       "priority": "lazy",
       "lastUpdated": "2026-04-10",
-      "etag": "921c03971072"
+      "etag": "32fe1b896b44"
     }
   ]
 }
