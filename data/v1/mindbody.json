@@ -1,0 +1,1606 @@
+{
+  "schemaVersion": "1.0",
+  "section": "mindbody",
+  "generatedAt": "2026-04-10T10:50:25.459Z",
+  "cardCount": 26,
+  "cards": [
+    {
+      "id": "mindbody-pvt-polyvagal-theory-clinical-application",
+      "title": "Polyvagal Theory — Clinical Application",
+      "badge": "Foundation",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Core model — Dr. Stephen Porges",
+            "text": "The ANS has three hierarchical response states. Safety → connection → healing. Chronic threat → dysregulation → disease."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "State",
+              "Branch",
+              "Physiology",
+              "Behaviour",
+              "Clinical signs"
+            ],
+            "rows": [
+              [
+                "Ventral Vagal (Safe)",
+                "Myelinated vagus",
+                "↓ HR, ↓ cortisol, ↑ HRV, social engagement",
+                "Calm, connected, curious",
+                "Good digestion, sleep, immunity"
+              ],
+              [
+                "Sympathetic (Mobilise)",
+                "SNS",
+                "↑ HR, ↑ cortisol, ↑ adrenaline",
+                "Fight or flight",
+                "Anxiety, insomnia, IBS-D, HTN"
+              ],
+              [
+                "Dorsal Vagal (Freeze)",
+                "Unmyelinated vagus",
+                "↓ HR, ↓ BP, dissociation, shutdown",
+                "Freeze, collapse, dissociate",
+                "Fatigue, depression, IBS-C, fibromyalgia"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Vagal toning in practice",
+            "text": "Interventions that activate ventral vagal state: humming/chanting/singing (stimulates vagus via laryngeal branch), cold water face immersion (diving reflex), slow diaphragmatic breathing (4-7-8, coherent breathing at 0.1Hz = 6 breaths/min), gargling vigorously, yoga, social connection. HRV biofeedback is the most measurable intervention — target HRV SDNN >50ms."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-blu\"><div class=\"a-label\">Core model — Dr. Stephen Porges</div>The ANS has three hierarchical response states. Safety → connection → healing. Chronic threat → dysregulation → disease.</div>\n    <table class=\"tbl\"><thead><tr><th>State</th><th>Branch</th><th>Physiology</th><th>Behaviour</th><th>Clinical signs</th></tr></thead><tbody>\n      <tr><td>Ventral Vagal (Safe)</td><td>Myelinated vagus</td><td>↓ HR, ↓ cortisol, ↑ HRV, social engagement</td><td>Calm, connected, curious</td><td>Good digestion, sleep, immunity</td></tr>\n      <tr><td>Sympathetic (Mobilise)</td><td>SNS</td><td>↑ HR, ↑ cortisol, ↑ adrenaline</td><td>Fight or flight</td><td>Anxiety, insomnia, IBS-D, HTN</td></tr>\n      <tr><td>Dorsal Vagal (Freeze)</td><td>Unmyelinated vagus</td><td>↓ HR, ↓ BP, dissociation, shutdown</td><td>Freeze, collapse, dissociate</td><td>Fatigue, depression, IBS-C, fibromyalgia</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Vagal toning in practice</div><div class=\"pt\">Interventions that activate ventral vagal state: humming/chanting/singing (stimulates vagus via laryngeal branch), cold water face immersion (diving reflex), slow diaphragmatic breathing (4-7-8, coherent breathing at 0.1Hz = 6 breaths/min), gargling vigorously, yoga, social connection. HRV biofeedback is the most measurable intervention — target HRV SDNN &gt;50ms.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-pvt-heart-rate-variability-hrv-clinical-guide",
+      "title": "Heart Rate Variability (HRV) — Clinical Guide",
+      "badge": "Assessment",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "HRV Level",
+              "Clinical Interpretation",
+              "Intervention"
+            ],
+            "rows": [
+              [
+                "SDNN >100ms",
+                "Excellent vagal tone, resilient ANS",
+                "Maintain — preventive"
+              ],
+              [
+                "SDNN 50–100ms",
+                "Normal, moderate resilience",
+                "Lifestyle optimisation, breathing practice"
+              ],
+              [
+                "SDNN 30–50ms",
+                "Low — ANS dysregulation",
+                "Stress reduction, yoga, cold therapy, magnesium"
+              ],
+              [
+                "SDNN <30ms",
+                "Very low — high CVD and all-cause mortality risk",
+                "Medical review + intensive lifestyle programme"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 HRV as a therapeutic marker",
+            "text": "HRV is the best non-invasive marker of ANS health, resilience, and naturopathic treatment response. Low HRV predicts: CVD mortality, depression relapse, poor surgical outcomes, post-COVID fatigue. Measure at the same time daily (morning, lying, 5 minutes). Track trends over weeks not days. Wearables (Garmin, Polar, WHOOP) now give reliable RMSSD."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"nv-grid\">\n      <div class=\"nv-card\"><div class=\"nv-label\">SDNN (overall HRV)</div><div class=\"nv-val\">&gt;50ms = healthy</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">RMSSD (parasympathetic)</div><div class=\"nv-val\">&gt;40ms = good vagal tone</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">LF/HF ratio</div><div class=\"nv-val\">&lt;2 = balanced ANS</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">Coherence breathing</div><div class=\"nv-val\">6 breaths/min = 0.1Hz</div></div>\n    </div>\n    <table class=\"tbl\"><thead><tr><th>HRV Level</th><th>Clinical Interpretation</th><th>Intervention</th></tr></thead><tbody>\n      <tr><td>SDNN &gt;100ms</td><td>Excellent vagal tone, resilient ANS</td><td>Maintain — preventive</td></tr>\n      <tr><td>SDNN 50–100ms</td><td>Normal, moderate resilience</td><td>Lifestyle optimisation, breathing practice</td></tr>\n      <tr><td>SDNN 30–50ms</td><td>Low — ANS dysregulation</td><td>Stress reduction, yoga, cold therapy, magnesium</td></tr>\n      <tr><td>SDNN &lt;30ms</td><td>Very low — high CVD and all-cause mortality risk</td><td>Medical review + intensive lifestyle programme</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 HRV as a therapeutic marker</div><div class=\"pt\">HRV is the best non-invasive marker of ANS health, resilience, and naturopathic treatment response. Low HRV predicts: CVD mortality, depression relapse, poor surgical outcomes, post-COVID fatigue. Measure at the same time daily (morning, lying, 5 minutes). Track trends over weeks not days. Wearables (Garmin, Polar, WHOOP) now give reliable RMSSD.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-pvt-trauma-informed-care-in-naturopathy",
+      "title": "Trauma-Informed Care in Naturopathy",
+      "badge": "Practice",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "danger",
+            "label": "ACE Score — Adverse Childhood Experiences",
+            "text": "ACE score ≥4 correlates with 2× CVD risk, 3× depression/anxiety, 4× COPD, 7× alcoholism, 12× suicide attempt. Trauma is a root cause of chronic disease."
+          }
+        ],
+        "tables": [],
+        "pearls": [
+          {
+            "label": "🟡 Somatic approaches first",
+            "text": "For trauma-affected patients, start with bottom-up (body → mind) approaches: gentle yoga, breathwork, grounding exercises, nature immersion. Cognitive approaches (CBT, talking therapy) are often ineffective until the nervous system is regulated. Peter Levine's Somatic Experiencing and Bessel van der Kolk's work are key references."
+          }
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Realise",
+            "text": "— Understand the widespread impact of trauma. Up to 70% of your patients have significant ACEs."
+          },
+          {
+            "n": 2,
+            "title": "Recognise",
+            "text": "— Signs: hypervigilance, chronic pain without pathology, treatment resistance, autoimmune flares with stress, dissociation during consultation."
+          },
+          {
+            "n": 3,
+            "title": "Respond",
+            "text": "— Safety first. Warm, predictable environment. Explain before touch. Avoid triggers. Somatic approaches (yoga, breathwork) before cognitive."
+          },
+          {
+            "n": 4,
+            "title": "Resist re-traumatisation",
+            "text": "— Don't press for trauma history unnecessarily. Respect autonomy. Collaborate, don't prescribe. Refer to trauma-trained therapist."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">ACE Score — Adverse Childhood Experiences</div>ACE score ≥4 correlates with 2× CVD risk, 3× depression/anxiety, 4× COPD, 7× alcoholism, 12× suicide attempt. Trauma is a root cause of chronic disease.</div>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">1</div><div class=\"st\"><span class=\"sh\">Realise</span> — Understand the widespread impact of trauma. Up to 70% of your patients have significant ACEs.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">2</div><div class=\"st\"><span class=\"sh\">Recognise</span> — Signs: hypervigilance, chronic pain without pathology, treatment resistance, autoimmune flares with stress, dissociation during consultation.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">3</div><div class=\"st\"><span class=\"sh\">Respond</span> — Safety first. Warm, predictable environment. Explain before touch. Avoid triggers. Somatic approaches (yoga, breathwork) before cognitive.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">4</div><div class=\"st\"><span class=\"sh\">Resist re-traumatisation</span> — Don't press for trauma history unnecessarily. Respect autonomy. Collaborate, don't prescribe. Refer to trauma-trained therapist.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Somatic approaches first</div><div class=\"pt\">For trauma-affected patients, start with bottom-up (body → mind) approaches: gentle yoga, breathwork, grounding exercises, nature immersion. Cognitive approaches (CBT, talking therapy) are often ineffective until the nervous system is regulated. Peter Levine's Somatic Experiencing and Bessel van der Kolk's work are key references.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-pvt-trauma-informed-care-bnys-framework",
+      "title": "Trauma-Informed Care — BNYS Framework",
+      "badge": "Clinical",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Trauma-Informed Care — 4 Core Principles",
+            "text": "Trauma-informed care (TIC) recognises that many patients have experienced adverse childhood experiences (ACEs) or other trauma that affects their physical and psychological health. The 4 Rs: Realise (prevalence), Recognise (signs), Respond (sensitively), Resist re-traumatisation."
+          }
+        ],
+        "tables": [],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 1,
+            "title": "ACEs & Health Outcomes",
+            "text": "ACE Study (Kaiser Permanente, n=17,000): ACEs (abuse, neglect, household dysfunction in childhood) dose-dependently increase adult risk of: heart disease (2×), cancer, stroke, COPD, diabetes, depression, suicide, substance use, early death. ACE score ≥4 vs 0: 7× increased alcoholism, 12× attempted suicide. The body keeps the score — physical illness is often the downstream expression of unresolved trauma. Ask: \"Have you experienced significant stress or trauma that you think might be affecting your health now?\""
+          },
+          {
+            "n": 2,
+            "title": "BNYS Trauma-Informed Practice Principles",
+            "text": "Safety: create a physically and emotionally safe consultation space. Control: offer choices at every step (\"Is it okay if I...?\"). Transparency: explain what you are doing and why before doing it. Collaboration: work WITH the patient, not ON them. Empowerment: identify strengths, not just deficits. Cultural sensitivity: understand how culture shapes trauma experience and expression. Avoid: rushing, unexpected touch, authoritative tone, dismissing emotional responses. Trauma-informed yoga: emphasise choice (\"you might try...\"), use invitational language, never adjust without permission."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-info\"><div class=\"a-label\">Trauma-Informed Care — 4 Core Principles</div>Trauma-informed care (TIC) recognises that many patients have experienced adverse childhood experiences (ACEs) or other trauma that affects their physical and psychological health. The 4 Rs: Realise (prevalence), Recognise (signs), Respond (sensitively), Resist re-traumatisation.</div><div class=\"steps\"><div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">1</div><div class=\"st\"><span class=\"sh\">ACEs & Health Outcomes</span>ACE Study (Kaiser Permanente, n=17,000): ACEs (abuse, neglect, household dysfunction in childhood) dose-dependently increase adult risk of: heart disease (2×), cancer, stroke, COPD, diabetes, depression, suicide, substance use, early death. ACE score ≥4 vs 0: 7× increased alcoholism, 12× attempted suicide. The body keeps the score — physical illness is often the downstream expression of unresolved trauma. Ask: \"Have you experienced significant stress or trauma that you think might be affecting your health now?\"</div></div><div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">2</div><div class=\"st\"><span class=\"sh\">BNYS Trauma-Informed Practice Principles</span>Safety: create a physically and emotionally safe consultation space. Control: offer choices at every step (\"Is it okay if I...?\"). Transparency: explain what you are doing and why before doing it. Collaboration: work WITH the patient, not ON them. Empowerment: identify strengths, not just deficits. Cultural sensitivity: understand how culture shapes trauma experience and expression. Avoid: rushing, unexpected touch, authoritative tone, dismissing emotional responses. Trauma-informed yoga: emphasise choice (\"you might try...\"), use invitational language, never adjust without permission.</div></div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-pvt-hrv-heart-rate-variability-clinical-measurement-meaning",
+      "title": "HRV (Heart Rate Variability) — Clinical Measurement & Meaning",
+      "badge": "Assessment",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "HRV — The Most Accessible Autonomic Biomarker",
+            "text": "HRV is the variation in time between successive heartbeats (RR intervals). High HRV = healthy autonomic flexibility. Low HRV = sympathetic dominance, poor adaptation, higher disease risk. Measurable with smartphone apps — making it the most accessible real-time physiological feedback tool in naturopathic practice."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Metric",
+              "What It Measures",
+              "Clinical Use"
+            ],
+            "rows": [
+              [
+                "RMSSD (ms)",
+                "Root mean square of successive RR differences — primarily vagal tone",
+                "Most clinically relevant short-term HRV metric. Normal range: 20–80ms (lower with age). <20ms = very low vagal tone."
+              ],
+              [
+                "SDNN (ms)",
+                "Standard deviation of all NN intervals — overall HRV",
+                "24-hour SDNN: <50ms = high mortality risk. Used in cardiac monitoring."
+              ],
+              [
+                "LF/HF ratio",
+                "Low frequency / High frequency power ratio — sympathovagal balance",
+                "LF/HF >2 = sympathetic dominance. Clinical use limited — controversial interpretation."
+              ],
+              [
+                "HF power",
+                "High frequency (0.15–0.40 Hz) — respiratory sinus arrhythmia — pure vagal",
+                "Best marker of parasympathetic activity."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 HRV-Guided Treatment Response",
+            "text": "Use weekly HRV as an objective biomarker of treatment response. Patient starts: ashwagandha + pranayama + sleep protocol. Track HRV weekly. Rising RMSSD over 4–8 weeks = objective evidence of improved vagal tone and HPA normalisation. This is powerful for patient motivation (\"your nervous system is genuinely calming down\") and for identifying non-responders early. HRV also predicts cardiovascular disease: RMSSD <20ms = 2× increased CV mortality independent of other risk factors."
+          }
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Measurement Tools for BNYS Clinic",
+            "text": "Polar H10 chest strap + Elite HRV app (most accurate consumer device). HRV4Training app (camera-based, no hardware — 98% accuracy vs chest strap for RMSSD). Morning HRV protocol: immediately on waking, before getting up, lying still, 60-second measurement. Track daily for trends. Acute HRV drop of >10ms from personal baseline = physiological stress (overtraining, illness, emotional stress, poor sleep) — REDUCE training load, increase recovery interventions. Consistently rising HRV trend = positive adaptation to naturopathic protocol."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">HRV — The Most Accessible Autonomic Biomarker</div>HRV is the variation in time between successive heartbeats (RR intervals). High HRV = healthy autonomic flexibility. Low HRV = sympathetic dominance, poor adaptation, higher disease risk. Measurable with smartphone apps — making it the most accessible real-time physiological feedback tool in naturopathic practice.</div><table class=\"tbl\"><thead><tr><th>Metric</th><th>What It Measures</th><th>Clinical Use</th></tr></thead><tbody><tr><td>RMSSD (ms)</td><td>Root mean square of successive RR differences — primarily vagal tone</td><td>Most clinically relevant short-term HRV metric. Normal range: 20–80ms (lower with age). &lt;20ms = very low vagal tone.</td></tr><tr><td>SDNN (ms)</td><td>Standard deviation of all NN intervals — overall HRV</td><td>24-hour SDNN: &lt;50ms = high mortality risk. Used in cardiac monitoring.</td></tr><tr><td>LF/HF ratio</td><td>Low frequency / High frequency power ratio — sympathovagal balance</td><td>LF/HF &gt;2 = sympathetic dominance. Clinical use limited — controversial interpretation.</td></tr><tr><td>HF power</td><td>High frequency (0.15–0.40 Hz) — respiratory sinus arrhythmia — pure vagal</td><td>Best marker of parasympathetic activity.</td></tr></tbody></table><div class=\"steps\"><div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">1</div><div class=\"st\"><span class=\"sh\">Measurement Tools for BNYS Clinic</span>Polar H10 chest strap + Elite HRV app (most accurate consumer device). HRV4Training app (camera-based, no hardware — 98% accuracy vs chest strap for RMSSD). Morning HRV protocol: immediately on waking, before getting up, lying still, 60-second measurement. Track daily for trends. Acute HRV drop of &gt;10ms from personal baseline = physiological stress (overtraining, illness, emotional stress, poor sleep) — REDUCE training load, increase recovery interventions. Consistently rising HRV trend = positive adaptation to naturopathic protocol.</div></div></div><div class=\"pearl\"><div class=\"pl\">🟡 HRV-Guided Treatment Response</div><div class=\"pt\">Use weekly HRV as an objective biomarker of treatment response. Patient starts: ashwagandha + pranayama + sleep protocol. Track HRV weekly. Rising RMSSD over 4–8 weeks = objective evidence of improved vagal tone and HPA normalisation. This is powerful for patient motivation (\"your nervous system is genuinely calming down\") and for identifying non-responders early. HRV also predicts cardiovascular disease: RMSSD &lt;20ms = 2× increased CV mortality independent of other risk factors.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-pvt-psychoneuroimmunology-pni",
+      "title": "Psychoneuroimmunology (PNI)",
+      "badge": "Foundation",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "PNI — The Science Behind Mind-Body Medicine",
+            "text": "Psychoneuroimmunology studies bidirectional communication between the nervous system, endocrine system, and immune system. This provides the mechanistic explanation for why mental states profoundly influence physical health — the scientific foundation of naturopathic mind-body medicine."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Pathway",
+              "Mechanism",
+              "Clinical Significance"
+            ],
+            "rows": [
+              [
+                "HPA Axis → Immune",
+                "CRH → ACTH → Cortisol → GR on immune cells → NF-κB suppression → ↓ cytokines",
+                "Acute stress = adaptive immune activation. Chronic stress = immune suppression + paradoxical pro-inflammatory state (GR resistance). Explains: chronic stress → ↑ infection, ↑ cancer risk, ↑ autoimmunity."
+              ],
+              [
+                "SNS → Immune",
+                "Noradrenaline → β₂-adrenergic receptors on NK cells, T/B cells → cytokine modulation",
+                "Chronic SNS: ↓ NK cell cytotoxicity, ↓ antiviral responses. Social isolation = chronic SNS activation."
+              ],
+              [
+                "Vagus Nerve (cholinergic anti-inflammatory)",
+                "Vagal efferents → α7-nAChR on macrophages → ↓ TNF-α, IL-1β, IL-6",
+                "Inflammatory reflex — slow breathing, meditation, cold water activates vagus → reduces systemic inflammation. Basis for pranayama as anti-inflammatory intervention."
+              ],
+              [
+                "Telomere-Stress axis",
+                "Chronic stress → ↑ oxidative damage + ↓ telomerase → accelerated telomere shortening",
+                "Blackburn (Nobel 2009): meditation ↑ telomerase activity. Chronic stress biologically ages cells — measurable in telomere length."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Social Connection as Clinical Intervention",
+            "text": "Social isolation increases all-cause mortality equivalent to smoking 15 cigarettes/day (Holt-Lunstad meta-analysis, n=3.4 million). Mechanisms: loneliness activates same neural circuits as physical pain, increases cortisol, increases pro-inflammatory cytokines, decreases NK cell activity. Prescribe social connection — yoga group classes, singing (vagal activation), volunteering, peer support groups — all are PNI interventions with measurable immune and autonomic effects."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">PNI — The Science Behind Mind-Body Medicine</div>Psychoneuroimmunology studies bidirectional communication between the nervous system, endocrine system, and immune system. This provides the mechanistic explanation for why mental states profoundly influence physical health — the scientific foundation of naturopathic mind-body medicine.</div><table class=\"tbl\"><thead><tr><th>Pathway</th><th>Mechanism</th><th>Clinical Significance</th></tr></thead><tbody><tr><td>HPA Axis → Immune</td><td>CRH → ACTH → Cortisol → GR on immune cells → NF-κB suppression → ↓ cytokines</td><td>Acute stress = adaptive immune activation. Chronic stress = immune suppression + paradoxical pro-inflammatory state (GR resistance). Explains: chronic stress → ↑ infection, ↑ cancer risk, ↑ autoimmunity.</td></tr><tr><td>SNS → Immune</td><td>Noradrenaline → β₂-adrenergic receptors on NK cells, T/B cells → cytokine modulation</td><td>Chronic SNS: ↓ NK cell cytotoxicity, ↓ antiviral responses. Social isolation = chronic SNS activation.</td></tr><tr><td>Vagus Nerve (cholinergic anti-inflammatory)</td><td>Vagal efferents → α7-nAChR on macrophages → ↓ TNF-α, IL-1β, IL-6</td><td>Inflammatory reflex — slow breathing, meditation, cold water activates vagus → reduces systemic inflammation. Basis for pranayama as anti-inflammatory intervention.</td></tr><tr><td>Telomere-Stress axis</td><td>Chronic stress → ↑ oxidative damage + ↓ telomerase → accelerated telomere shortening</td><td>Blackburn (Nobel 2009): meditation ↑ telomerase activity. Chronic stress biologically ages cells — measurable in telomere length.</td></tr></tbody></table><div class=\"pearl\"><div class=\"pl\">🟡 Social Connection as Clinical Intervention</div><div class=\"pt\">Social isolation increases all-cause mortality equivalent to smoking 15 cigarettes/day (Holt-Lunstad meta-analysis, n=3.4 million). Mechanisms: loneliness activates same neural circuits as physical pain, increases cortisol, increases pro-inflammatory cytokines, decreases NK cell activity. Prescribe social connection — yoga group classes, singing (vagal activation), volunteering, peer support groups — all are PNI interventions with measurable immune and autonomic effects.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-pvt-biofeedback-neurofeedback",
+      "title": "Biofeedback & Neurofeedback",
+      "badge": "Clinical",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Biofeedback — Real-Time Physiological Feedback for Self-Regulation",
+            "text": "Biofeedback provides real-time information about physiological processes to enable voluntary control. What can be measured can be influenced. HRV biofeedback is the most accessible and evidence-based tool for BNYS practitioners."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Type",
+              "Indication",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "HRV Biofeedback",
+                "Hypertension ★★★, anxiety ★★★, depression ★★★, asthma ★★, PTSD ★★, fibromyalgia ★★",
+                "★★★ Multiple meta-analyses. Protocol: 0.1Hz (6 breaths/min), 20 min sessions 3–4×/week"
+              ],
+              [
+                "EMG Biofeedback",
+                "Tension headache ★★★, TMJ, bruxism ★★, chronic LBP, post-stroke rehab ★★",
+                "★★★ Cochrane: EMG + relaxation = most effective non-pharmacological tension headache treatment"
+              ],
+              [
+                "Thermal Biofeedback",
+                "Migraine (hand warming) ★★★, Raynaud's ★★, hypertension ★★",
+                "★★★ Hand warming of 2°C = migraine abort or prevention. Menninger Foundation landmark studies."
+              ],
+              [
+                "Neurofeedback (EEG)",
+                "ADHD ★★★ (comparable to methylphenidate in some RCTs), anxiety ★★, PTSD ★★",
+                "★★★ ADHD theta/beta training — significant sustained attention improvement"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 1,
+            "title": "HRV Biofeedback — BNYS Clinic Protocol",
+            "text": "Equipment: Elite HRV + Polar H10, or Inner Balance (HeartMath), or HRV4Biofeedback. Protocol: breathe at resonance frequency (find personal peak — usually 5.5–6 breaths/min). Goal: coherence (smooth sine wave on HRV tracing) for ≥50% of session. Duration: 20 min, 3–4×/week. Home practice: daily 10-min sessions compound the benefit. Track RMSSD baseline weekly — objective biomarker of treatment response."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-info\"><div class=\"a-label\">Biofeedback — Real-Time Physiological Feedback for Self-Regulation</div>Biofeedback provides real-time information about physiological processes to enable voluntary control. What can be measured can be influenced. HRV biofeedback is the most accessible and evidence-based tool for BNYS practitioners.</div><table class=\"tbl\"><thead><tr><th>Type</th><th>Indication</th><th>Evidence</th></tr></thead><tbody><tr><td>HRV Biofeedback</td><td>Hypertension ★★★, anxiety ★★★, depression ★★★, asthma ★★, PTSD ★★, fibromyalgia ★★</td><td>★★★ Multiple meta-analyses. Protocol: 0.1Hz (6 breaths/min), 20 min sessions 3–4×/week</td></tr><tr><td>EMG Biofeedback</td><td>Tension headache ★★★, TMJ, bruxism ★★, chronic LBP, post-stroke rehab ★★</td><td>★★★ Cochrane: EMG + relaxation = most effective non-pharmacological tension headache treatment</td></tr><tr><td>Thermal Biofeedback</td><td>Migraine (hand warming) ★★★, Raynaud's ★★, hypertension ★★</td><td>★★★ Hand warming of 2°C = migraine abort or prevention. Menninger Foundation landmark studies.</td></tr><tr><td>Neurofeedback (EEG)</td><td>ADHD ★★★ (comparable to methylphenidate in some RCTs), anxiety ★★, PTSD ★★</td><td>★★★ ADHD theta/beta training — significant sustained attention improvement</td></tr></tbody></table><div class=\"steps\"><div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">1</div><div class=\"st\"><span class=\"sh\">HRV Biofeedback — BNYS Clinic Protocol</span>Equipment: Elite HRV + Polar H10, or Inner Balance (HeartMath), or HRV4Biofeedback. Protocol: breathe at resonance frequency (find personal peak — usually 5.5–6 breaths/min). Goal: coherence (smooth sine wave on HRV tracing) for ≥50% of session. Duration: 20 min, 3–4×/week. Home practice: daily 10-min sessions compound the benefit. Track RMSSD baseline weekly — objective biomarker of treatment response.</div></div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-pvt-somatic-therapies-clinical-overview",
+      "title": "Somatic Therapies — Clinical Overview",
+      "badge": "Reference",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Somatic Therapies — Body-Centred Processing",
+            "text": "Somatic therapies work through the body to process psychological and physiological dysregulation — particularly useful when cognitive \"talk therapy\" has limited effect. Based on the understanding that trauma and stress are stored in the body (van der Kolk: \"The Body Keeps the Score\")."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Therapy",
+              "Indication",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "Somatic Experiencing (SE)",
+                "PTSD ★★★, developmental trauma, chronic pain, panic, freeze states",
+                "★★★ RCT (Brom 2017): SE comparable to EMDR and trauma-focused CBT for PTSD"
+              ],
+              [
+                "Feldenkrais Method",
+                "Chronic pain ★★, balance/mobility in elderly ★★, MS, performing arts injuries",
+                "★★ Good evidence for chronic pain and movement disorders"
+              ],
+              [
+                "Alexander Technique",
+                "Chronic LBP ★★★ (NHS-funded in UK), performing arts, respiratory conditions",
+                "★★★ ATEAM trial (BMJ 2008): 24 lessons = 86% fewer days with back pain"
+              ],
+              [
+                "Craniosacral Therapy",
+                "Infant colic ★★, tension headache, TMJ, fibromyalgia",
+                "★ Clinical evidence mostly observational. Patient-reported outcomes positive."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 When to Refer to Somatic Therapist",
+            "text": "Refer when: (1) Patient tried CBT/counselling with limited benefit. (2) Chronic pain with significant psychological component. (3) Trauma history with persistent physical symptoms (chronic tension, hyperventilation, IBS) that began after trauma. (4) Dissociation preventing cognitive therapy engagement. (5) Complex PTSD. BNYS yoga therapy IS a somatic therapy — acknowledge this in clinical notes and integrate with referrals."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-info\"><div class=\"a-label\">Somatic Therapies — Body-Centred Processing</div>Somatic therapies work through the body to process psychological and physiological dysregulation — particularly useful when cognitive \"talk therapy\" has limited effect. Based on the understanding that trauma and stress are stored in the body (van der Kolk: \"The Body Keeps the Score\").</div><table class=\"tbl\"><thead><tr><th>Therapy</th><th>Indication</th><th>Evidence</th></tr></thead><tbody><tr><td>Somatic Experiencing (SE)</td><td>PTSD ★★★, developmental trauma, chronic pain, panic, freeze states</td><td>★★★ RCT (Brom 2017): SE comparable to EMDR and trauma-focused CBT for PTSD</td></tr><tr><td>Feldenkrais Method</td><td>Chronic pain ★★, balance/mobility in elderly ★★, MS, performing arts injuries</td><td>★★ Good evidence for chronic pain and movement disorders</td></tr><tr><td>Alexander Technique</td><td>Chronic LBP ★★★ (NHS-funded in UK), performing arts, respiratory conditions</td><td>★★★ ATEAM trial (BMJ 2008): 24 lessons = 86% fewer days with back pain</td></tr><tr><td>Craniosacral Therapy</td><td>Infant colic ★★, tension headache, TMJ, fibromyalgia</td><td>★ Clinical evidence mostly observational. Patient-reported outcomes positive.</td></tr></tbody></table><div class=\"pearl\"><div class=\"pl\">🟡 When to Refer to Somatic Therapist</div><div class=\"pt\">Refer when: (1) Patient tried CBT/counselling with limited benefit. (2) Chronic pain with significant psychological component. (3) Trauma history with persistent physical symptoms (chronic tension, hyperventilation, IBS) that began after trauma. (4) Dissociation preventing cognitive therapy engagement. (5) Complex PTSD. BNYS yoga therapy IS a somatic therapy — acknowledge this in clinical notes and integrate with referrals.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-pvt-stress-physiology-allostatic-load",
+      "title": "Stress Physiology & Allostatic Load",
+      "badge": "Foundation",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "warning",
+            "label": "Allostatic load",
+            "text": "The cumulative wear and tear on the body from chronic stress adaptation. Measured by: cortisol awakening response, DHEA:cortisol ratio, HRV, inflammatory markers (IL-6, CRP), metabolic markers (waist:hip, fasting glucose, HbA1c)."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Phase",
+              "HPA State",
+              "Cortisol",
+              "DHEA",
+              "Clinical picture"
+            ],
+            "rows": [
+              [
+                "Acute stress",
+                "Activated",
+                "↑↑",
+                "↑",
+                "Alertness, energy, anti-inflammatory"
+              ],
+              [
+                "Chronic stress (early)",
+                "Hyperactive",
+                "↑ (especially AM)",
+                "Normal/↓",
+                "Anxiety, insomnia, visceral fat, IBS"
+              ],
+              [
+                "Chronic stress (late)",
+                "Dysregulated",
+                "Flat diurnal curve",
+                "↓↓",
+                "Fatigue, burnout, immune suppression"
+              ],
+              [
+                "HPA exhaustion",
+                "Hyporeactive",
+                "↓ AM, flat",
+                "Very low",
+                "Post-viral fatigue, fibromyalgia pattern"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Testing cortisol properly",
+            "text": "Single serum cortisol is almost useless for functional assessment. Use: 4-point salivary cortisol (8am, noon, 4pm, 10pm) to assess diurnal rhythm and awakening response. DUTCH test (dried urine) adds cortisol metabolites and oestrogen metabolism — gold standard for functional medicine. Elevated CAR (cortisol awakening response) = anticipatory stress. Flat curve = adrenal fatigue pattern (not a medical diagnosis)."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-amb\"><div class=\"a-label\">Allostatic load</div>The cumulative wear and tear on the body from chronic stress adaptation. Measured by: cortisol awakening response, DHEA:cortisol ratio, HRV, inflammatory markers (IL-6, CRP), metabolic markers (waist:hip, fasting glucose, HbA1c).</div>\n    <table class=\"tbl\"><thead><tr><th>Phase</th><th>HPA State</th><th>Cortisol</th><th>DHEA</th><th>Clinical picture</th></tr></thead><tbody>\n      <tr><td>Acute stress</td><td>Activated</td><td>↑↑</td><td>↑</td><td>Alertness, energy, anti-inflammatory</td></tr>\n      <tr><td>Chronic stress (early)</td><td>Hyperactive</td><td>↑ (especially AM)</td><td>Normal/↓</td><td>Anxiety, insomnia, visceral fat, IBS</td></tr>\n      <tr><td>Chronic stress (late)</td><td>Dysregulated</td><td>Flat diurnal curve</td><td>↓↓</td><td>Fatigue, burnout, immune suppression</td></tr>\n      <tr><td>HPA exhaustion</td><td>Hyporeactive</td><td>↓ AM, flat</td><td>Very low</td><td>Post-viral fatigue, fibromyalgia pattern</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Testing cortisol properly</div><div class=\"pt\">Single serum cortisol is almost useless for functional assessment. Use: 4-point salivary cortisol (8am, noon, 4pm, 10pm) to assess diurnal rhythm and awakening response. DUTCH test (dried urine) adds cortisol metabolites and oestrogen metabolism — gold standard for functional medicine. Elevated CAR (cortisol awakening response) = anticipatory stress. Flat curve = adrenal fatigue pattern (not a medical diagnosis).</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-pvt-mindfulness-based-interventions-evidence-summary",
+      "title": "Mindfulness-Based Interventions — Evidence Summary",
+      "badge": "Evidence",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Intervention",
+              "Duration",
+              "Best Evidence",
+              "Effect size"
+            ],
+            "rows": [
+              [
+                "MBSR (Mindfulness-Based Stress Reduction)",
+                "8 weeks, 2.5 hr/week",
+                "Chronic pain, anxiety, depression, cancer fatigue",
+                "Medium (d=0.5–0.8)"
+              ],
+              [
+                "MBCT (Mindfulness-Based Cognitive Therapy)",
+                "8 weeks",
+                "Depression relapse prevention ★ (≥3 episodes)",
+                "Large — equal to antidepressants"
+              ],
+              [
+                "Yoga (therapeutic)",
+                "60 min × 2/week",
+                "Low back pain ★, anxiety, depression, HRV",
+                "Medium-large"
+              ],
+              [
+                "Meditation (general)",
+                "20 min/day",
+                "Blood pressure ★, cortisol, HRV, immune markers",
+                "Small-medium"
+              ],
+              [
+                "Tai Chi / Qigong",
+                "30 min × 3/week",
+                "Falls prevention ★, osteoporosis, fibromyalgia",
+                "Medium"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Prescribing mindfulness",
+            "text": "Prescribe like a drug: dose (20 min/day), frequency (daily), duration (8 weeks minimum for neuroplastic change). MBCT halves depression relapse rate in recurrent depression — one of the strongest evidence bases in mental health. App-based mindfulness (Headspace, Calm) shows modest but real effects even without a structured program."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Intervention</th><th>Duration</th><th>Best Evidence</th><th>Effect size</th></tr></thead><tbody>\n      <tr><td>MBSR (Mindfulness-Based Stress Reduction)</td><td>8 weeks, 2.5 hr/week</td><td>Chronic pain, anxiety, depression, cancer fatigue</td><td>Medium (d=0.5–0.8)</td></tr>\n      <tr><td>MBCT (Mindfulness-Based Cognitive Therapy)</td><td>8 weeks</td><td>Depression relapse prevention ★ (≥3 episodes)</td><td>Large — equal to antidepressants</td></tr>\n      <tr><td>Yoga (therapeutic)</td><td>60 min × 2/week</td><td>Low back pain ★, anxiety, depression, HRV</td><td>Medium-large</td></tr>\n      <tr><td>Meditation (general)</td><td>20 min/day</td><td>Blood pressure ★, cortisol, HRV, immune markers</td><td>Small-medium</td></tr>\n      <tr><td>Tai Chi / Qigong</td><td>30 min × 3/week</td><td>Falls prevention ★, osteoporosis, fibromyalgia</td><td>Medium</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Prescribing mindfulness</div><div class=\"pt\">Prescribe like a drug: dose (20 min/day), frequency (daily), duration (8 weeks minimum for neuroplastic change). MBCT halves depression relapse rate in recurrent depression — one of the strongest evidence bases in mental health. App-based mindfulness (Headspace, Calm) shows modest but real effects even without a structured program.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-pvt-therapeutic-breathwork-protocols-physiology",
+      "title": "Therapeutic Breathwork — Protocols & Physiology",
+      "badge": "Practice",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Technique",
+              "Pattern",
+              "Physiological Effect",
+              "Indication"
+            ],
+            "rows": [
+              [
+                "Coherent breathing",
+                "5 sec in / 5 sec out (6/min)",
+                "↑ HRV ★, vagal activation, baroreceptor resonance",
+                "Anxiety, HTN, chronic stress, fatigue"
+              ],
+              [
+                "4-7-8 breathing",
+                "4 in / 7 hold / 8 out",
+                "↑ parasympathetic, ↓ cortisol, sedation",
+                "Insomnia, acute anxiety, pain"
+              ],
+              [
+                "Box breathing",
+                "4-4-4-4",
+                "ANS balance, prefrontal cortex activation",
+                "Performance anxiety, stress response"
+              ],
+              [
+                "Wim Hof method",
+                "30 deep + retention",
+                "↑ adrenaline, ↑ anti-inflammatory IL-10, alkalosis",
+                "Autoimmune, energy, cold tolerance"
+              ],
+              [
+                "Nadi Shodhana",
+                "Alternate nostril",
+                "Bilateral brain activation, ANS balance",
+                "Pre-meditation, anxiety, focus"
+              ],
+              [
+                "Bhramari (bee breath)",
+                "Humming on exhale",
+                "Vagus nerve stimulation via vibration, ↑ NO",
+                "Anxiety, hypertension, tinnitus"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Nitric oxide and nasal breathing",
+            "text": "Nasal breathing produces 15–25x more nitric oxide than mouth breathing. NO dilates airways, improves O₂ delivery, is anti-microbial, and reduces BP. Mouth-taping at night (with medical tape) significantly improves sleep quality and HRV in habitual mouth-breathers. James Nestor's \"Breath\" is the key clinical reference."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Technique</th><th>Pattern</th><th>Physiological Effect</th><th>Indication</th></tr></thead><tbody>\n      <tr><td>Coherent breathing</td><td>5 sec in / 5 sec out (6/min)</td><td>↑ HRV ★, vagal activation, baroreceptor resonance</td><td>Anxiety, HTN, chronic stress, fatigue</td></tr>\n      <tr><td>4-7-8 breathing</td><td>4 in / 7 hold / 8 out</td><td>↑ parasympathetic, ↓ cortisol, sedation</td><td>Insomnia, acute anxiety, pain</td></tr>\n      <tr><td>Box breathing</td><td>4-4-4-4</td><td>ANS balance, prefrontal cortex activation</td><td>Performance anxiety, stress response</td></tr>\n      <tr><td>Wim Hof method</td><td>30 deep + retention</td><td>↑ adrenaline, ↑ anti-inflammatory IL-10, alkalosis</td><td>Autoimmune, energy, cold tolerance</td></tr>\n      <tr><td>Nadi Shodhana</td><td>Alternate nostril</td><td>Bilateral brain activation, ANS balance</td><td>Pre-meditation, anxiety, focus</td></tr>\n      <tr><td>Bhramari (bee breath)</td><td>Humming on exhale</td><td>Vagus nerve stimulation via vibration, ↑ NO</td><td>Anxiety, hypertension, tinnitus</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Nitric oxide and nasal breathing</div><div class=\"pt\">Nasal breathing produces 15–25x more nitric oxide than mouth breathing. NO dilates airways, improves O₂ delivery, is anti-microbial, and reduces BP. Mouth-taping at night (with medical tape) significantly improves sleep quality and HRV in habitual mouth-breathers. James Nestor's \"Breath\" is the key clinical reference.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-pvt-sleep-medicine-naturopathic-assessment-cbt-i",
+      "title": "Sleep Medicine — Naturopathic Assessment & CBT-I",
+      "badge": "Clinical",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "CBT-I — Cognitive Behavioural Therapy for Insomnia",
+            "text": "CBT-I is the FIRST-LINE treatment for chronic insomnia (Grade A evidence) — superior to sleep medications in the long term. Every BNYS practitioner should be able to deliver basic CBT-I."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "CBT-I Component",
+              "Technique",
+              "Rationale"
+            ],
+            "rows": [
+              [
+                "Sleep restriction",
+                "Limit time in bed to actual sleep time (e.g. 11pm–6am only) initially. Extend by 15 min/week as efficiency improves.",
+                "Builds homeostatic sleep pressure — eliminates fragmented sleep"
+              ],
+              [
+                "Stimulus control",
+                "Bed = sleep + sex only. No screens/reading/worrying in bed. Get up if awake >20 min.",
+                "Re-associates bed with sleepiness"
+              ],
+              [
+                "Sleep hygiene",
+                "Consistent wake time ★ (even weekends), no caffeine after 1pm, cool room (18–19°C), dark/quiet",
+                "Circadian entrainment"
+              ],
+              [
+                "Cognitive restructuring",
+                "Challenge catastrophic thoughts: \"I can't function on <8h\" → \"Most people function well on 6h\"",
+                "Reduces hyperarousal and sleep anxiety"
+              ],
+              [
+                "Relaxation training",
+                "Progressive muscle relaxation, 4-7-8 breathing, yoga nidra 20 min",
+                "↓ Arousal threshold before sleep"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Consistent wake time — the single most powerful intervention",
+            "text": "The morning wake time is the most potent circadian zeitgeber. Set it and do NOT deviate — even after a poor sleep night. Sleeping in (even 1 hour) delays the circadian phase the next night. The consistent anchor point is: fixed wake time + bright light within 10 minutes of waking. This alone resolves 30–40% of insomnia cases."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-blu\"><div class=\"a-label\">CBT-I — Cognitive Behavioural Therapy for Insomnia</div>CBT-I is the FIRST-LINE treatment for chronic insomnia (Grade A evidence) — superior to sleep medications in the long term. Every BNYS practitioner should be able to deliver basic CBT-I.</div>\n    <table class=\"tbl\"><thead><tr><th>CBT-I Component</th><th>Technique</th><th>Rationale</th></tr></thead><tbody>\n      <tr><td>Sleep restriction</td><td>Limit time in bed to actual sleep time (e.g. 11pm–6am only) initially. Extend by 15 min/week as efficiency improves.</td><td>Builds homeostatic sleep pressure — eliminates fragmented sleep</td></tr>\n      <tr><td>Stimulus control</td><td>Bed = sleep + sex only. No screens/reading/worrying in bed. Get up if awake &gt;20 min.</td><td>Re-associates bed with sleepiness</td></tr>\n      <tr><td>Sleep hygiene</td><td>Consistent wake time ★ (even weekends), no caffeine after 1pm, cool room (18–19°C), dark/quiet</td><td>Circadian entrainment</td></tr>\n      <tr><td>Cognitive restructuring</td><td>Challenge catastrophic thoughts: \"I can't function on &lt;8h\" → \"Most people function well on 6h\"</td><td>Reduces hyperarousal and sleep anxiety</td></tr>\n      <tr><td>Relaxation training</td><td>Progressive muscle relaxation, 4-7-8 breathing, yoga nidra 20 min</td><td>↓ Arousal threshold before sleep</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Consistent wake time — the single most powerful intervention</div><div class=\"pt\">The morning wake time is the most potent circadian zeitgeber. Set it and do NOT deviate — even after a poor sleep night. Sleeping in (even 1 hour) delays the circadian phase the next night. The consistent anchor point is: fixed wake time + bright light within 10 minutes of waking. This alone resolves 30–40% of insomnia cases.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-pvt-flow-state-positive-psychology",
+      "title": "Flow State & Positive Psychology",
+      "badge": "Wellness",
+      "category": "pvt",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Positive Psychology — Beyond the Absence of Illness",
+            "text": "Positive psychology (Martin Seligman) studies the conditions that enable individuals and communities to flourish. BNYS naturopathy aligns perfectly — it is not merely about removing disease but actively cultivating health, vitality, and meaning. Positive psychology tools are clinically effective and increasingly evidence-based."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Concept",
+              "Definition",
+              "Clinical Application",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "PERMA Model (Seligman)",
+                "5 pillars of wellbeing: Positive emotions, Engagement (flow), Relationships, Meaning/Purpose, Accomplishment",
+                "Use as assessment framework: \"Which PERMA pillar is weakest for this patient?\" Target interventions to the deficit.",
+                "★★★ Foundation of positive psychology interventions. PERMA profile assessment tool available free."
+              ],
+              [
+                "Flow State (Csikszentmihalyi)",
+                "Complete absorption in an activity — challenge matches skill, intrinsic motivation, loss of self-consciousness. Associated with: ↑ dopamine, ↑ noradrenaline, ↑ endorphins.",
+                "Prescribe flow-inducing activities: music, cooking, sport, creative arts, gardening, yoga — must be challenging but achievable. Reduces rumination, depression, anxiety.",
+                "★★★ Flow is a highly researched state associated with peak performance, psychological wellbeing, and health"
+              ],
+              [
+                "Gratitude Practice",
+                "Daily intentional acknowledgement of positive aspects of life",
+                "Gratitude journal (3 things daily ★★★). Gratitude letter/visit (most powerful — deliver a letter of gratitude to someone in person). Reframes cognitive bias toward threat.",
+                "★★★ Multiple RCTs: 3-good-things exercise reduces depression 6 months post-intervention. Increases sleep quality, reduces BP, improves immunity."
+              ],
+              [
+                "Ikigai (Purpose/Reason for Being)",
+                "Japanese concept — intersection of: what you love, what you're good at, what the world needs, what you can be paid for",
+                "Longevity connection: Okinawan Blue Zone residents score highest on Ikigai. Purpose-in-life reduces all-cause mortality 20% (meta-analysis). Prescribe: clarifying life values, volunteering, mentoring, creative contribution.",
+                "★★★ Purpose in life — 20% mortality reduction (Alimujiang meta-analysis n=136,000)"
+              ],
+              [
+                "Character Strengths (VIA)",
+                "24 universal character strengths (VIA Institute). Using \"signature strengths\" in new ways daily = increased wellbeing.",
+                "VIA strengths survey (free: viacharacter.org). Prescribe: use top strength in a new way every day for 1 week. \"Strengths-based approach\" in patient consultations — focus on capabilities, not deficits.",
+                "★★★ Seligman RCT: signature strengths exercise → ↑ happiness + ↓ depression sustained at 6 months"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Positive Psychology — Beyond the Absence of Illness</div>Positive psychology (Martin Seligman) studies the conditions that enable individuals and communities to flourish. BNYS naturopathy aligns perfectly — it is not merely about removing disease but actively cultivating health, vitality, and meaning. Positive psychology tools are clinically effective and increasingly evidence-based.</div>\n    <table class=\"tbl\"><thead><tr><th>Concept</th><th>Definition</th><th>Clinical Application</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td><strong>PERMA Model (Seligman)</strong></td><td>5 pillars of wellbeing: Positive emotions, Engagement (flow), Relationships, Meaning/Purpose, Accomplishment</td><td>Use as assessment framework: \"Which PERMA pillar is weakest for this patient?\" Target interventions to the deficit.</td><td>★★★ Foundation of positive psychology interventions. PERMA profile assessment tool available free.</td></tr>\n      <tr><td><strong>Flow State (Csikszentmihalyi)</strong></td><td>Complete absorption in an activity — challenge matches skill, intrinsic motivation, loss of self-consciousness. Associated with: ↑ dopamine, ↑ noradrenaline, ↑ endorphins.</td><td>Prescribe flow-inducing activities: music, cooking, sport, creative arts, gardening, yoga — must be challenging but achievable. Reduces rumination, depression, anxiety.</td><td>★★★ Flow is a highly researched state associated with peak performance, psychological wellbeing, and health</td></tr>\n      <tr><td><strong>Gratitude Practice</strong></td><td>Daily intentional acknowledgement of positive aspects of life</td><td>Gratitude journal (3 things daily ★★★). Gratitude letter/visit (most powerful — deliver a letter of gratitude to someone in person). Reframes cognitive bias toward threat.</td><td>★★★ Multiple RCTs: 3-good-things exercise reduces depression 6 months post-intervention. Increases sleep quality, reduces BP, improves immunity.</td></tr>\n      <tr><td><strong>Ikigai (Purpose/Reason for Being)</strong></td><td>Japanese concept — intersection of: what you love, what you're good at, what the world needs, what you can be paid for</td><td>Longevity connection: Okinawan Blue Zone residents score highest on Ikigai. Purpose-in-life reduces all-cause mortality 20% (meta-analysis). Prescribe: clarifying life values, volunteering, mentoring, creative contribution.</td><td>★★★ Purpose in life — 20% mortality reduction (Alimujiang meta-analysis n=136,000)</td></tr>\n      <tr><td><strong>Character Strengths (VIA)</strong></td><td>24 universal character strengths (VIA Institute). Using \"signature strengths\" in new ways daily = increased wellbeing.</td><td>VIA strengths survey (free: viacharacter.org). Prescribe: use top strength in a new way every day for 1 week. \"Strengths-based approach\" in patient consultations — focus on capabilities, not deficits.</td><td>★★★ Seligman RCT: signature strengths exercise → ↑ happiness + ↓ depression sustained at 6 months</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-neuro-polyvagal-theory-clinical-application",
+      "title": "Polyvagal Theory — Clinical Application",
+      "badge": "Foundation",
+      "category": "neuro",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Core model — Dr. Stephen Porges",
+            "text": "The ANS has three hierarchical response states. Safety → connection → healing. Chronic threat → dysregulation → disease."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "State",
+              "Branch",
+              "Physiology",
+              "Behaviour",
+              "Clinical signs"
+            ],
+            "rows": [
+              [
+                "Ventral Vagal (Safe)",
+                "Myelinated vagus",
+                "↓ HR, ↓ cortisol, ↑ HRV, social engagement",
+                "Calm, connected, curious",
+                "Good digestion, sleep, immunity"
+              ],
+              [
+                "Sympathetic (Mobilise)",
+                "SNS",
+                "↑ HR, ↑ cortisol, ↑ adrenaline",
+                "Fight or flight",
+                "Anxiety, insomnia, IBS-D, HTN"
+              ],
+              [
+                "Dorsal Vagal (Freeze)",
+                "Unmyelinated vagus",
+                "↓ HR, ↓ BP, dissociation, shutdown",
+                "Freeze, collapse, dissociate",
+                "Fatigue, depression, IBS-C, fibromyalgia"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Vagal toning in practice",
+            "text": "Interventions that activate ventral vagal state: humming/chanting/singing (stimulates vagus via laryngeal branch), cold water face immersion (diving reflex), slow diaphragmatic breathing (4-7-8, coherent breathing at 0.1Hz = 6 breaths/min), gargling vigorously, yoga, social connection. HRV biofeedback is the most measurable intervention — target HRV SDNN >50ms."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-blu\"><div class=\"a-label\">Core model — Dr. Stephen Porges</div>The ANS has three hierarchical response states. Safety → connection → healing. Chronic threat → dysregulation → disease.</div>\n    <table class=\"tbl\"><thead><tr><th>State</th><th>Branch</th><th>Physiology</th><th>Behaviour</th><th>Clinical signs</th></tr></thead><tbody>\n      <tr><td>Ventral Vagal (Safe)</td><td>Myelinated vagus</td><td>↓ HR, ↓ cortisol, ↑ HRV, social engagement</td><td>Calm, connected, curious</td><td>Good digestion, sleep, immunity</td></tr>\n      <tr><td>Sympathetic (Mobilise)</td><td>SNS</td><td>↑ HR, ↑ cortisol, ↑ adrenaline</td><td>Fight or flight</td><td>Anxiety, insomnia, IBS-D, HTN</td></tr>\n      <tr><td>Dorsal Vagal (Freeze)</td><td>Unmyelinated vagus</td><td>↓ HR, ↓ BP, dissociation, shutdown</td><td>Freeze, collapse, dissociate</td><td>Fatigue, depression, IBS-C, fibromyalgia</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Vagal toning in practice</div><div class=\"pt\">Interventions that activate ventral vagal state: humming/chanting/singing (stimulates vagus via laryngeal branch), cold water face immersion (diving reflex), slow diaphragmatic breathing (4-7-8, coherent breathing at 0.1Hz = 6 breaths/min), gargling vigorously, yoga, social connection. HRV biofeedback is the most measurable intervention — target HRV SDNN &gt;50ms.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-neuro-heart-rate-variability-hrv-clinical-guide",
+      "title": "Heart Rate Variability (HRV) — Clinical Guide",
+      "badge": "Assessment",
+      "category": "neuro",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "HRV Level",
+              "Clinical Interpretation",
+              "Intervention"
+            ],
+            "rows": [
+              [
+                "SDNN >100ms",
+                "Excellent vagal tone, resilient ANS",
+                "Maintain — preventive"
+              ],
+              [
+                "SDNN 50–100ms",
+                "Normal, moderate resilience",
+                "Lifestyle optimisation, breathing practice"
+              ],
+              [
+                "SDNN 30–50ms",
+                "Low — ANS dysregulation",
+                "Stress reduction, yoga, cold therapy, magnesium"
+              ],
+              [
+                "SDNN <30ms",
+                "Very low — high CVD and all-cause mortality risk",
+                "Medical review + intensive lifestyle programme"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 HRV as a therapeutic marker",
+            "text": "HRV is the best non-invasive marker of ANS health, resilience, and naturopathic treatment response. Low HRV predicts: CVD mortality, depression relapse, poor surgical outcomes, post-COVID fatigue. Measure at the same time daily (morning, lying, 5 minutes). Track trends over weeks not days. Wearables (Garmin, Polar, WHOOP) now give reliable RMSSD."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"nv-grid\">\n      <div class=\"nv-card\"><div class=\"nv-label\">SDNN (overall HRV)</div><div class=\"nv-val\">&gt;50ms = healthy</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">RMSSD (parasympathetic)</div><div class=\"nv-val\">&gt;40ms = good vagal tone</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">LF/HF ratio</div><div class=\"nv-val\">&lt;2 = balanced ANS</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">Coherence breathing</div><div class=\"nv-val\">6 breaths/min = 0.1Hz</div></div>\n    </div>\n    <table class=\"tbl\"><thead><tr><th>HRV Level</th><th>Clinical Interpretation</th><th>Intervention</th></tr></thead><tbody>\n      <tr><td>SDNN &gt;100ms</td><td>Excellent vagal tone, resilient ANS</td><td>Maintain — preventive</td></tr>\n      <tr><td>SDNN 50–100ms</td><td>Normal, moderate resilience</td><td>Lifestyle optimisation, breathing practice</td></tr>\n      <tr><td>SDNN 30–50ms</td><td>Low — ANS dysregulation</td><td>Stress reduction, yoga, cold therapy, magnesium</td></tr>\n      <tr><td>SDNN &lt;30ms</td><td>Very low — high CVD and all-cause mortality risk</td><td>Medical review + intensive lifestyle programme</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 HRV as a therapeutic marker</div><div class=\"pt\">HRV is the best non-invasive marker of ANS health, resilience, and naturopathic treatment response. Low HRV predicts: CVD mortality, depression relapse, poor surgical outcomes, post-COVID fatigue. Measure at the same time daily (morning, lying, 5 minutes). Track trends over weeks not days. Wearables (Garmin, Polar, WHOOP) now give reliable RMSSD.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-neuro-hrv-heart-rate-variability-clinical-measurement-meaning",
+      "title": "HRV (Heart Rate Variability) — Clinical Measurement & Meaning",
+      "badge": "Assessment",
+      "category": "neuro",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "HRV — The Most Accessible Autonomic Biomarker",
+            "text": "HRV is the variation in time between successive heartbeats (RR intervals). High HRV = healthy autonomic flexibility. Low HRV = sympathetic dominance, poor adaptation, higher disease risk. Measurable with smartphone apps — making it the most accessible real-time physiological feedback tool in naturopathic practice."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Metric",
+              "What It Measures",
+              "Clinical Use"
+            ],
+            "rows": [
+              [
+                "RMSSD (ms)",
+                "Root mean square of successive RR differences — primarily vagal tone",
+                "Most clinically relevant short-term HRV metric. Normal range: 20–80ms (lower with age). <20ms = very low vagal tone."
+              ],
+              [
+                "SDNN (ms)",
+                "Standard deviation of all NN intervals — overall HRV",
+                "24-hour SDNN: <50ms = high mortality risk. Used in cardiac monitoring."
+              ],
+              [
+                "LF/HF ratio",
+                "Low frequency / High frequency power ratio — sympathovagal balance",
+                "LF/HF >2 = sympathetic dominance. Clinical use limited — controversial interpretation."
+              ],
+              [
+                "HF power",
+                "High frequency (0.15–0.40 Hz) — respiratory sinus arrhythmia — pure vagal",
+                "Best marker of parasympathetic activity."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 HRV-Guided Treatment Response",
+            "text": "Use weekly HRV as an objective biomarker of treatment response. Patient starts: ashwagandha + pranayama + sleep protocol. Track HRV weekly. Rising RMSSD over 4–8 weeks = objective evidence of improved vagal tone and HPA normalisation. This is powerful for patient motivation (\"your nervous system is genuinely calming down\") and for identifying non-responders early. HRV also predicts cardiovascular disease: RMSSD <20ms = 2× increased CV mortality independent of other risk factors."
+          }
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Measurement Tools for BNYS Clinic",
+            "text": "Polar H10 chest strap + Elite HRV app (most accurate consumer device). HRV4Training app (camera-based, no hardware — 98% accuracy vs chest strap for RMSSD). Morning HRV protocol: immediately on waking, before getting up, lying still, 60-second measurement. Track daily for trends. Acute HRV drop of >10ms from personal baseline = physiological stress (overtraining, illness, emotional stress, poor sleep) — REDUCE training load, increase recovery interventions. Consistently rising HRV trend = positive adaptation to naturopathic protocol."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">HRV — The Most Accessible Autonomic Biomarker</div>HRV is the variation in time between successive heartbeats (RR intervals). High HRV = healthy autonomic flexibility. Low HRV = sympathetic dominance, poor adaptation, higher disease risk. Measurable with smartphone apps — making it the most accessible real-time physiological feedback tool in naturopathic practice.</div><table class=\"tbl\"><thead><tr><th>Metric</th><th>What It Measures</th><th>Clinical Use</th></tr></thead><tbody><tr><td>RMSSD (ms)</td><td>Root mean square of successive RR differences — primarily vagal tone</td><td>Most clinically relevant short-term HRV metric. Normal range: 20–80ms (lower with age). &lt;20ms = very low vagal tone.</td></tr><tr><td>SDNN (ms)</td><td>Standard deviation of all NN intervals — overall HRV</td><td>24-hour SDNN: &lt;50ms = high mortality risk. Used in cardiac monitoring.</td></tr><tr><td>LF/HF ratio</td><td>Low frequency / High frequency power ratio — sympathovagal balance</td><td>LF/HF &gt;2 = sympathetic dominance. Clinical use limited — controversial interpretation.</td></tr><tr><td>HF power</td><td>High frequency (0.15–0.40 Hz) — respiratory sinus arrhythmia — pure vagal</td><td>Best marker of parasympathetic activity.</td></tr></tbody></table><div class=\"steps\"><div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">1</div><div class=\"st\"><span class=\"sh\">Measurement Tools for BNYS Clinic</span>Polar H10 chest strap + Elite HRV app (most accurate consumer device). HRV4Training app (camera-based, no hardware — 98% accuracy vs chest strap for RMSSD). Morning HRV protocol: immediately on waking, before getting up, lying still, 60-second measurement. Track daily for trends. Acute HRV drop of &gt;10ms from personal baseline = physiological stress (overtraining, illness, emotional stress, poor sleep) — REDUCE training load, increase recovery interventions. Consistently rising HRV trend = positive adaptation to naturopathic protocol.</div></div></div><div class=\"pearl\"><div class=\"pl\">🟡 HRV-Guided Treatment Response</div><div class=\"pt\">Use weekly HRV as an objective biomarker of treatment response. Patient starts: ashwagandha + pranayama + sleep protocol. Track HRV weekly. Rising RMSSD over 4–8 weeks = objective evidence of improved vagal tone and HPA normalisation. This is powerful for patient motivation (\"your nervous system is genuinely calming down\") and for identifying non-responders early. HRV also predicts cardiovascular disease: RMSSD &lt;20ms = 2× increased CV mortality independent of other risk factors.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-neuro-stress-physiology-allostatic-load",
+      "title": "Stress Physiology & Allostatic Load",
+      "badge": "Foundation",
+      "category": "neuro",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "warning",
+            "label": "Allostatic load",
+            "text": "The cumulative wear and tear on the body from chronic stress adaptation. Measured by: cortisol awakening response, DHEA:cortisol ratio, HRV, inflammatory markers (IL-6, CRP), metabolic markers (waist:hip, fasting glucose, HbA1c)."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Phase",
+              "HPA State",
+              "Cortisol",
+              "DHEA",
+              "Clinical picture"
+            ],
+            "rows": [
+              [
+                "Acute stress",
+                "Activated",
+                "↑↑",
+                "↑",
+                "Alertness, energy, anti-inflammatory"
+              ],
+              [
+                "Chronic stress (early)",
+                "Hyperactive",
+                "↑ (especially AM)",
+                "Normal/↓",
+                "Anxiety, insomnia, visceral fat, IBS"
+              ],
+              [
+                "Chronic stress (late)",
+                "Dysregulated",
+                "Flat diurnal curve",
+                "↓↓",
+                "Fatigue, burnout, immune suppression"
+              ],
+              [
+                "HPA exhaustion",
+                "Hyporeactive",
+                "↓ AM, flat",
+                "Very low",
+                "Post-viral fatigue, fibromyalgia pattern"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Testing cortisol properly",
+            "text": "Single serum cortisol is almost useless for functional assessment. Use: 4-point salivary cortisol (8am, noon, 4pm, 10pm) to assess diurnal rhythm and awakening response. DUTCH test (dried urine) adds cortisol metabolites and oestrogen metabolism — gold standard for functional medicine. Elevated CAR (cortisol awakening response) = anticipatory stress. Flat curve = adrenal fatigue pattern (not a medical diagnosis)."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-amb\"><div class=\"a-label\">Allostatic load</div>The cumulative wear and tear on the body from chronic stress adaptation. Measured by: cortisol awakening response, DHEA:cortisol ratio, HRV, inflammatory markers (IL-6, CRP), metabolic markers (waist:hip, fasting glucose, HbA1c).</div>\n    <table class=\"tbl\"><thead><tr><th>Phase</th><th>HPA State</th><th>Cortisol</th><th>DHEA</th><th>Clinical picture</th></tr></thead><tbody>\n      <tr><td>Acute stress</td><td>Activated</td><td>↑↑</td><td>↑</td><td>Alertness, energy, anti-inflammatory</td></tr>\n      <tr><td>Chronic stress (early)</td><td>Hyperactive</td><td>↑ (especially AM)</td><td>Normal/↓</td><td>Anxiety, insomnia, visceral fat, IBS</td></tr>\n      <tr><td>Chronic stress (late)</td><td>Dysregulated</td><td>Flat diurnal curve</td><td>↓↓</td><td>Fatigue, burnout, immune suppression</td></tr>\n      <tr><td>HPA exhaustion</td><td>Hyporeactive</td><td>↓ AM, flat</td><td>Very low</td><td>Post-viral fatigue, fibromyalgia pattern</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Testing cortisol properly</div><div class=\"pt\">Single serum cortisol is almost useless for functional assessment. Use: 4-point salivary cortisol (8am, noon, 4pm, 10pm) to assess diurnal rhythm and awakening response. DUTCH test (dried urine) adds cortisol metabolites and oestrogen metabolism — gold standard for functional medicine. Elevated CAR (cortisol awakening response) = anticipatory stress. Flat curve = adrenal fatigue pattern (not a medical diagnosis).</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-neuro-mindfulness-based-interventions-evidence-summary",
+      "title": "Mindfulness-Based Interventions — Evidence Summary",
+      "badge": "Evidence",
+      "category": "neuro",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Intervention",
+              "Duration",
+              "Best Evidence",
+              "Effect size"
+            ],
+            "rows": [
+              [
+                "MBSR (Mindfulness-Based Stress Reduction)",
+                "8 weeks, 2.5 hr/week",
+                "Chronic pain, anxiety, depression, cancer fatigue",
+                "Medium (d=0.5–0.8)"
+              ],
+              [
+                "MBCT (Mindfulness-Based Cognitive Therapy)",
+                "8 weeks",
+                "Depression relapse prevention ★ (≥3 episodes)",
+                "Large — equal to antidepressants"
+              ],
+              [
+                "Yoga (therapeutic)",
+                "60 min × 2/week",
+                "Low back pain ★, anxiety, depression, HRV",
+                "Medium-large"
+              ],
+              [
+                "Meditation (general)",
+                "20 min/day",
+                "Blood pressure ★, cortisol, HRV, immune markers",
+                "Small-medium"
+              ],
+              [
+                "Tai Chi / Qigong",
+                "30 min × 3/week",
+                "Falls prevention ★, osteoporosis, fibromyalgia",
+                "Medium"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Prescribing mindfulness",
+            "text": "Prescribe like a drug: dose (20 min/day), frequency (daily), duration (8 weeks minimum for neuroplastic change). MBCT halves depression relapse rate in recurrent depression — one of the strongest evidence bases in mental health. App-based mindfulness (Headspace, Calm) shows modest but real effects even without a structured program."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Intervention</th><th>Duration</th><th>Best Evidence</th><th>Effect size</th></tr></thead><tbody>\n      <tr><td>MBSR (Mindfulness-Based Stress Reduction)</td><td>8 weeks, 2.5 hr/week</td><td>Chronic pain, anxiety, depression, cancer fatigue</td><td>Medium (d=0.5–0.8)</td></tr>\n      <tr><td>MBCT (Mindfulness-Based Cognitive Therapy)</td><td>8 weeks</td><td>Depression relapse prevention ★ (≥3 episodes)</td><td>Large — equal to antidepressants</td></tr>\n      <tr><td>Yoga (therapeutic)</td><td>60 min × 2/week</td><td>Low back pain ★, anxiety, depression, HRV</td><td>Medium-large</td></tr>\n      <tr><td>Meditation (general)</td><td>20 min/day</td><td>Blood pressure ★, cortisol, HRV, immune markers</td><td>Small-medium</td></tr>\n      <tr><td>Tai Chi / Qigong</td><td>30 min × 3/week</td><td>Falls prevention ★, osteoporosis, fibromyalgia</td><td>Medium</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Prescribing mindfulness</div><div class=\"pt\">Prescribe like a drug: dose (20 min/day), frequency (daily), duration (8 weeks minimum for neuroplastic change). MBCT halves depression relapse rate in recurrent depression — one of the strongest evidence bases in mental health. App-based mindfulness (Headspace, Calm) shows modest but real effects even without a structured program.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-trauma-trauma-informed-care-in-naturopathy",
+      "title": "Trauma-Informed Care in Naturopathy",
+      "badge": "Practice",
+      "category": "trauma",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "danger",
+            "label": "ACE Score — Adverse Childhood Experiences",
+            "text": "ACE score ≥4 correlates with 2× CVD risk, 3× depression/anxiety, 4× COPD, 7× alcoholism, 12× suicide attempt. Trauma is a root cause of chronic disease."
+          }
+        ],
+        "tables": [],
+        "pearls": [
+          {
+            "label": "🟡 Somatic approaches first",
+            "text": "For trauma-affected patients, start with bottom-up (body → mind) approaches: gentle yoga, breathwork, grounding exercises, nature immersion. Cognitive approaches (CBT, talking therapy) are often ineffective until the nervous system is regulated. Peter Levine's Somatic Experiencing and Bessel van der Kolk's work are key references."
+          }
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Realise",
+            "text": "— Understand the widespread impact of trauma. Up to 70% of your patients have significant ACEs."
+          },
+          {
+            "n": 2,
+            "title": "Recognise",
+            "text": "— Signs: hypervigilance, chronic pain without pathology, treatment resistance, autoimmune flares with stress, dissociation during consultation."
+          },
+          {
+            "n": 3,
+            "title": "Respond",
+            "text": "— Safety first. Warm, predictable environment. Explain before touch. Avoid triggers. Somatic approaches (yoga, breathwork) before cognitive."
+          },
+          {
+            "n": 4,
+            "title": "Resist re-traumatisation",
+            "text": "— Don't press for trauma history unnecessarily. Respect autonomy. Collaborate, don't prescribe. Refer to trauma-trained therapist."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">ACE Score — Adverse Childhood Experiences</div>ACE score ≥4 correlates with 2× CVD risk, 3× depression/anxiety, 4× COPD, 7× alcoholism, 12× suicide attempt. Trauma is a root cause of chronic disease.</div>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">1</div><div class=\"st\"><span class=\"sh\">Realise</span> — Understand the widespread impact of trauma. Up to 70% of your patients have significant ACEs.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">2</div><div class=\"st\"><span class=\"sh\">Recognise</span> — Signs: hypervigilance, chronic pain without pathology, treatment resistance, autoimmune flares with stress, dissociation during consultation.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">3</div><div class=\"st\"><span class=\"sh\">Respond</span> — Safety first. Warm, predictable environment. Explain before touch. Avoid triggers. Somatic approaches (yoga, breathwork) before cognitive.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">4</div><div class=\"st\"><span class=\"sh\">Resist re-traumatisation</span> — Don't press for trauma history unnecessarily. Respect autonomy. Collaborate, don't prescribe. Refer to trauma-trained therapist.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Somatic approaches first</div><div class=\"pt\">For trauma-affected patients, start with bottom-up (body → mind) approaches: gentle yoga, breathwork, grounding exercises, nature immersion. Cognitive approaches (CBT, talking therapy) are often ineffective until the nervous system is regulated. Peter Levine's Somatic Experiencing and Bessel van der Kolk's work are key references.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-trauma-trauma-informed-care-bnys-framework",
+      "title": "Trauma-Informed Care — BNYS Framework",
+      "badge": "Clinical",
+      "category": "trauma",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Trauma-Informed Care — 4 Core Principles",
+            "text": "Trauma-informed care (TIC) recognises that many patients have experienced adverse childhood experiences (ACEs) or other trauma that affects their physical and psychological health. The 4 Rs: Realise (prevalence), Recognise (signs), Respond (sensitively), Resist re-traumatisation."
+          }
+        ],
+        "tables": [],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 1,
+            "title": "ACEs & Health Outcomes",
+            "text": "ACE Study (Kaiser Permanente, n=17,000): ACEs (abuse, neglect, household dysfunction in childhood) dose-dependently increase adult risk of: heart disease (2×), cancer, stroke, COPD, diabetes, depression, suicide, substance use, early death. ACE score ≥4 vs 0: 7× increased alcoholism, 12× attempted suicide. The body keeps the score — physical illness is often the downstream expression of unresolved trauma. Ask: \"Have you experienced significant stress or trauma that you think might be affecting your health now?\""
+          },
+          {
+            "n": 2,
+            "title": "BNYS Trauma-Informed Practice Principles",
+            "text": "Safety: create a physically and emotionally safe consultation space. Control: offer choices at every step (\"Is it okay if I...?\"). Transparency: explain what you are doing and why before doing it. Collaboration: work WITH the patient, not ON them. Empowerment: identify strengths, not just deficits. Cultural sensitivity: understand how culture shapes trauma experience and expression. Avoid: rushing, unexpected touch, authoritative tone, dismissing emotional responses. Trauma-informed yoga: emphasise choice (\"you might try...\"), use invitational language, never adjust without permission."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-info\"><div class=\"a-label\">Trauma-Informed Care — 4 Core Principles</div>Trauma-informed care (TIC) recognises that many patients have experienced adverse childhood experiences (ACEs) or other trauma that affects their physical and psychological health. The 4 Rs: Realise (prevalence), Recognise (signs), Respond (sensitively), Resist re-traumatisation.</div><div class=\"steps\"><div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">1</div><div class=\"st\"><span class=\"sh\">ACEs & Health Outcomes</span>ACE Study (Kaiser Permanente, n=17,000): ACEs (abuse, neglect, household dysfunction in childhood) dose-dependently increase adult risk of: heart disease (2×), cancer, stroke, COPD, diabetes, depression, suicide, substance use, early death. ACE score ≥4 vs 0: 7× increased alcoholism, 12× attempted suicide. The body keeps the score — physical illness is often the downstream expression of unresolved trauma. Ask: \"Have you experienced significant stress or trauma that you think might be affecting your health now?\"</div></div><div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">2</div><div class=\"st\"><span class=\"sh\">BNYS Trauma-Informed Practice Principles</span>Safety: create a physically and emotionally safe consultation space. Control: offer choices at every step (\"Is it okay if I...?\"). Transparency: explain what you are doing and why before doing it. Collaboration: work WITH the patient, not ON them. Empowerment: identify strengths, not just deficits. Cultural sensitivity: understand how culture shapes trauma experience and expression. Avoid: rushing, unexpected touch, authoritative tone, dismissing emotional responses. Trauma-informed yoga: emphasise choice (\"you might try...\"), use invitational language, never adjust without permission.</div></div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-trauma-somatic-therapies-clinical-overview",
+      "title": "Somatic Therapies — Clinical Overview",
+      "badge": "Reference",
+      "category": "trauma",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Somatic Therapies — Body-Centred Processing",
+            "text": "Somatic therapies work through the body to process psychological and physiological dysregulation — particularly useful when cognitive \"talk therapy\" has limited effect. Based on the understanding that trauma and stress are stored in the body (van der Kolk: \"The Body Keeps the Score\")."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Therapy",
+              "Indication",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "Somatic Experiencing (SE)",
+                "PTSD ★★★, developmental trauma, chronic pain, panic, freeze states",
+                "★★★ RCT (Brom 2017): SE comparable to EMDR and trauma-focused CBT for PTSD"
+              ],
+              [
+                "Feldenkrais Method",
+                "Chronic pain ★★, balance/mobility in elderly ★★, MS, performing arts injuries",
+                "★★ Good evidence for chronic pain and movement disorders"
+              ],
+              [
+                "Alexander Technique",
+                "Chronic LBP ★★★ (NHS-funded in UK), performing arts, respiratory conditions",
+                "★★★ ATEAM trial (BMJ 2008): 24 lessons = 86% fewer days with back pain"
+              ],
+              [
+                "Craniosacral Therapy",
+                "Infant colic ★★, tension headache, TMJ, fibromyalgia",
+                "★ Clinical evidence mostly observational. Patient-reported outcomes positive."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 When to Refer to Somatic Therapist",
+            "text": "Refer when: (1) Patient tried CBT/counselling with limited benefit. (2) Chronic pain with significant psychological component. (3) Trauma history with persistent physical symptoms (chronic tension, hyperventilation, IBS) that began after trauma. (4) Dissociation preventing cognitive therapy engagement. (5) Complex PTSD. BNYS yoga therapy IS a somatic therapy — acknowledge this in clinical notes and integrate with referrals."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-info\"><div class=\"a-label\">Somatic Therapies — Body-Centred Processing</div>Somatic therapies work through the body to process psychological and physiological dysregulation — particularly useful when cognitive \"talk therapy\" has limited effect. Based on the understanding that trauma and stress are stored in the body (van der Kolk: \"The Body Keeps the Score\").</div><table class=\"tbl\"><thead><tr><th>Therapy</th><th>Indication</th><th>Evidence</th></tr></thead><tbody><tr><td>Somatic Experiencing (SE)</td><td>PTSD ★★★, developmental trauma, chronic pain, panic, freeze states</td><td>★★★ RCT (Brom 2017): SE comparable to EMDR and trauma-focused CBT for PTSD</td></tr><tr><td>Feldenkrais Method</td><td>Chronic pain ★★, balance/mobility in elderly ★★, MS, performing arts injuries</td><td>★★ Good evidence for chronic pain and movement disorders</td></tr><tr><td>Alexander Technique</td><td>Chronic LBP ★★★ (NHS-funded in UK), performing arts, respiratory conditions</td><td>★★★ ATEAM trial (BMJ 2008): 24 lessons = 86% fewer days with back pain</td></tr><tr><td>Craniosacral Therapy</td><td>Infant colic ★★, tension headache, TMJ, fibromyalgia</td><td>★ Clinical evidence mostly observational. Patient-reported outcomes positive.</td></tr></tbody></table><div class=\"pearl\"><div class=\"pl\">🟡 When to Refer to Somatic Therapist</div><div class=\"pt\">Refer when: (1) Patient tried CBT/counselling with limited benefit. (2) Chronic pain with significant psychological component. (3) Trauma history with persistent physical symptoms (chronic tension, hyperventilation, IBS) that began after trauma. (4) Dissociation preventing cognitive therapy engagement. (5) Complex PTSD. BNYS yoga therapy IS a somatic therapy — acknowledge this in clinical notes and integrate with referrals.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-trauma-therapeutic-breathwork-protocols-physiology",
+      "title": "Therapeutic Breathwork — Protocols & Physiology",
+      "badge": "Practice",
+      "category": "trauma",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Technique",
+              "Pattern",
+              "Physiological Effect",
+              "Indication"
+            ],
+            "rows": [
+              [
+                "Coherent breathing",
+                "5 sec in / 5 sec out (6/min)",
+                "↑ HRV ★, vagal activation, baroreceptor resonance",
+                "Anxiety, HTN, chronic stress, fatigue"
+              ],
+              [
+                "4-7-8 breathing",
+                "4 in / 7 hold / 8 out",
+                "↑ parasympathetic, ↓ cortisol, sedation",
+                "Insomnia, acute anxiety, pain"
+              ],
+              [
+                "Box breathing",
+                "4-4-4-4",
+                "ANS balance, prefrontal cortex activation",
+                "Performance anxiety, stress response"
+              ],
+              [
+                "Wim Hof method",
+                "30 deep + retention",
+                "↑ adrenaline, ↑ anti-inflammatory IL-10, alkalosis",
+                "Autoimmune, energy, cold tolerance"
+              ],
+              [
+                "Nadi Shodhana",
+                "Alternate nostril",
+                "Bilateral brain activation, ANS balance",
+                "Pre-meditation, anxiety, focus"
+              ],
+              [
+                "Bhramari (bee breath)",
+                "Humming on exhale",
+                "Vagus nerve stimulation via vibration, ↑ NO",
+                "Anxiety, hypertension, tinnitus"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Nitric oxide and nasal breathing",
+            "text": "Nasal breathing produces 15–25x more nitric oxide than mouth breathing. NO dilates airways, improves O₂ delivery, is anti-microbial, and reduces BP. Mouth-taping at night (with medical tape) significantly improves sleep quality and HRV in habitual mouth-breathers. James Nestor's \"Breath\" is the key clinical reference."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Technique</th><th>Pattern</th><th>Physiological Effect</th><th>Indication</th></tr></thead><tbody>\n      <tr><td>Coherent breathing</td><td>5 sec in / 5 sec out (6/min)</td><td>↑ HRV ★, vagal activation, baroreceptor resonance</td><td>Anxiety, HTN, chronic stress, fatigue</td></tr>\n      <tr><td>4-7-8 breathing</td><td>4 in / 7 hold / 8 out</td><td>↑ parasympathetic, ↓ cortisol, sedation</td><td>Insomnia, acute anxiety, pain</td></tr>\n      <tr><td>Box breathing</td><td>4-4-4-4</td><td>ANS balance, prefrontal cortex activation</td><td>Performance anxiety, stress response</td></tr>\n      <tr><td>Wim Hof method</td><td>30 deep + retention</td><td>↑ adrenaline, ↑ anti-inflammatory IL-10, alkalosis</td><td>Autoimmune, energy, cold tolerance</td></tr>\n      <tr><td>Nadi Shodhana</td><td>Alternate nostril</td><td>Bilateral brain activation, ANS balance</td><td>Pre-meditation, anxiety, focus</td></tr>\n      <tr><td>Bhramari (bee breath)</td><td>Humming on exhale</td><td>Vagus nerve stimulation via vibration, ↑ NO</td><td>Anxiety, hypertension, tinnitus</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Nitric oxide and nasal breathing</div><div class=\"pt\">Nasal breathing produces 15–25x more nitric oxide than mouth breathing. NO dilates airways, improves O₂ delivery, is anti-microbial, and reduces BP. Mouth-taping at night (with medical tape) significantly improves sleep quality and HRV in habitual mouth-breathers. James Nestor's \"Breath\" is the key clinical reference.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-trauma-sleep-medicine-naturopathic-assessment-cbt-i",
+      "title": "Sleep Medicine — Naturopathic Assessment & CBT-I",
+      "badge": "Clinical",
+      "category": "trauma",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "CBT-I — Cognitive Behavioural Therapy for Insomnia",
+            "text": "CBT-I is the FIRST-LINE treatment for chronic insomnia (Grade A evidence) — superior to sleep medications in the long term. Every BNYS practitioner should be able to deliver basic CBT-I."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "CBT-I Component",
+              "Technique",
+              "Rationale"
+            ],
+            "rows": [
+              [
+                "Sleep restriction",
+                "Limit time in bed to actual sleep time (e.g. 11pm–6am only) initially. Extend by 15 min/week as efficiency improves.",
+                "Builds homeostatic sleep pressure — eliminates fragmented sleep"
+              ],
+              [
+                "Stimulus control",
+                "Bed = sleep + sex only. No screens/reading/worrying in bed. Get up if awake >20 min.",
+                "Re-associates bed with sleepiness"
+              ],
+              [
+                "Sleep hygiene",
+                "Consistent wake time ★ (even weekends), no caffeine after 1pm, cool room (18–19°C), dark/quiet",
+                "Circadian entrainment"
+              ],
+              [
+                "Cognitive restructuring",
+                "Challenge catastrophic thoughts: \"I can't function on <8h\" → \"Most people function well on 6h\"",
+                "Reduces hyperarousal and sleep anxiety"
+              ],
+              [
+                "Relaxation training",
+                "Progressive muscle relaxation, 4-7-8 breathing, yoga nidra 20 min",
+                "↓ Arousal threshold before sleep"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Consistent wake time — the single most powerful intervention",
+            "text": "The morning wake time is the most potent circadian zeitgeber. Set it and do NOT deviate — even after a poor sleep night. Sleeping in (even 1 hour) delays the circadian phase the next night. The consistent anchor point is: fixed wake time + bright light within 10 minutes of waking. This alone resolves 30–40% of insomnia cases."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-blu\"><div class=\"a-label\">CBT-I — Cognitive Behavioural Therapy for Insomnia</div>CBT-I is the FIRST-LINE treatment for chronic insomnia (Grade A evidence) — superior to sleep medications in the long term. Every BNYS practitioner should be able to deliver basic CBT-I.</div>\n    <table class=\"tbl\"><thead><tr><th>CBT-I Component</th><th>Technique</th><th>Rationale</th></tr></thead><tbody>\n      <tr><td>Sleep restriction</td><td>Limit time in bed to actual sleep time (e.g. 11pm–6am only) initially. Extend by 15 min/week as efficiency improves.</td><td>Builds homeostatic sleep pressure — eliminates fragmented sleep</td></tr>\n      <tr><td>Stimulus control</td><td>Bed = sleep + sex only. No screens/reading/worrying in bed. Get up if awake &gt;20 min.</td><td>Re-associates bed with sleepiness</td></tr>\n      <tr><td>Sleep hygiene</td><td>Consistent wake time ★ (even weekends), no caffeine after 1pm, cool room (18–19°C), dark/quiet</td><td>Circadian entrainment</td></tr>\n      <tr><td>Cognitive restructuring</td><td>Challenge catastrophic thoughts: \"I can't function on &lt;8h\" → \"Most people function well on 6h\"</td><td>Reduces hyperarousal and sleep anxiety</td></tr>\n      <tr><td>Relaxation training</td><td>Progressive muscle relaxation, 4-7-8 breathing, yoga nidra 20 min</td><td>↓ Arousal threshold before sleep</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Consistent wake time — the single most powerful intervention</div><div class=\"pt\">The morning wake time is the most potent circadian zeitgeber. Set it and do NOT deviate — even after a poor sleep night. Sleeping in (even 1 hour) delays the circadian phase the next night. The consistent anchor point is: fixed wake time + bright light within 10 minutes of waking. This alone resolves 30–40% of insomnia cases.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-mind-psychoneuroimmunology-pni",
+      "title": "Psychoneuroimmunology (PNI)",
+      "badge": "Foundation",
+      "category": "mind",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "PNI — The Science Behind Mind-Body Medicine",
+            "text": "Psychoneuroimmunology studies bidirectional communication between the nervous system, endocrine system, and immune system. This provides the mechanistic explanation for why mental states profoundly influence physical health — the scientific foundation of naturopathic mind-body medicine."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Pathway",
+              "Mechanism",
+              "Clinical Significance"
+            ],
+            "rows": [
+              [
+                "HPA Axis → Immune",
+                "CRH → ACTH → Cortisol → GR on immune cells → NF-κB suppression → ↓ cytokines",
+                "Acute stress = adaptive immune activation. Chronic stress = immune suppression + paradoxical pro-inflammatory state (GR resistance). Explains: chronic stress → ↑ infection, ↑ cancer risk, ↑ autoimmunity."
+              ],
+              [
+                "SNS → Immune",
+                "Noradrenaline → β₂-adrenergic receptors on NK cells, T/B cells → cytokine modulation",
+                "Chronic SNS: ↓ NK cell cytotoxicity, ↓ antiviral responses. Social isolation = chronic SNS activation."
+              ],
+              [
+                "Vagus Nerve (cholinergic anti-inflammatory)",
+                "Vagal efferents → α7-nAChR on macrophages → ↓ TNF-α, IL-1β, IL-6",
+                "Inflammatory reflex — slow breathing, meditation, cold water activates vagus → reduces systemic inflammation. Basis for pranayama as anti-inflammatory intervention."
+              ],
+              [
+                "Telomere-Stress axis",
+                "Chronic stress → ↑ oxidative damage + ↓ telomerase → accelerated telomere shortening",
+                "Blackburn (Nobel 2009): meditation ↑ telomerase activity. Chronic stress biologically ages cells — measurable in telomere length."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Social Connection as Clinical Intervention",
+            "text": "Social isolation increases all-cause mortality equivalent to smoking 15 cigarettes/day (Holt-Lunstad meta-analysis, n=3.4 million). Mechanisms: loneliness activates same neural circuits as physical pain, increases cortisol, increases pro-inflammatory cytokines, decreases NK cell activity. Prescribe social connection — yoga group classes, singing (vagal activation), volunteering, peer support groups — all are PNI interventions with measurable immune and autonomic effects."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">PNI — The Science Behind Mind-Body Medicine</div>Psychoneuroimmunology studies bidirectional communication between the nervous system, endocrine system, and immune system. This provides the mechanistic explanation for why mental states profoundly influence physical health — the scientific foundation of naturopathic mind-body medicine.</div><table class=\"tbl\"><thead><tr><th>Pathway</th><th>Mechanism</th><th>Clinical Significance</th></tr></thead><tbody><tr><td>HPA Axis → Immune</td><td>CRH → ACTH → Cortisol → GR on immune cells → NF-κB suppression → ↓ cytokines</td><td>Acute stress = adaptive immune activation. Chronic stress = immune suppression + paradoxical pro-inflammatory state (GR resistance). Explains: chronic stress → ↑ infection, ↑ cancer risk, ↑ autoimmunity.</td></tr><tr><td>SNS → Immune</td><td>Noradrenaline → β₂-adrenergic receptors on NK cells, T/B cells → cytokine modulation</td><td>Chronic SNS: ↓ NK cell cytotoxicity, ↓ antiviral responses. Social isolation = chronic SNS activation.</td></tr><tr><td>Vagus Nerve (cholinergic anti-inflammatory)</td><td>Vagal efferents → α7-nAChR on macrophages → ↓ TNF-α, IL-1β, IL-6</td><td>Inflammatory reflex — slow breathing, meditation, cold water activates vagus → reduces systemic inflammation. Basis for pranayama as anti-inflammatory intervention.</td></tr><tr><td>Telomere-Stress axis</td><td>Chronic stress → ↑ oxidative damage + ↓ telomerase → accelerated telomere shortening</td><td>Blackburn (Nobel 2009): meditation ↑ telomerase activity. Chronic stress biologically ages cells — measurable in telomere length.</td></tr></tbody></table><div class=\"pearl\"><div class=\"pl\">🟡 Social Connection as Clinical Intervention</div><div class=\"pt\">Social isolation increases all-cause mortality equivalent to smoking 15 cigarettes/day (Holt-Lunstad meta-analysis, n=3.4 million). Mechanisms: loneliness activates same neural circuits as physical pain, increases cortisol, increases pro-inflammatory cytokines, decreases NK cell activity. Prescribe social connection — yoga group classes, singing (vagal activation), volunteering, peer support groups — all are PNI interventions with measurable immune and autonomic effects.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-mind-biofeedback-neurofeedback",
+      "title": "Biofeedback & Neurofeedback",
+      "badge": "Clinical",
+      "category": "mind",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Biofeedback — Real-Time Physiological Feedback for Self-Regulation",
+            "text": "Biofeedback provides real-time information about physiological processes to enable voluntary control. What can be measured can be influenced. HRV biofeedback is the most accessible and evidence-based tool for BNYS practitioners."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Type",
+              "Indication",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "HRV Biofeedback",
+                "Hypertension ★★★, anxiety ★★★, depression ★★★, asthma ★★, PTSD ★★, fibromyalgia ★★",
+                "★★★ Multiple meta-analyses. Protocol: 0.1Hz (6 breaths/min), 20 min sessions 3–4×/week"
+              ],
+              [
+                "EMG Biofeedback",
+                "Tension headache ★★★, TMJ, bruxism ★★, chronic LBP, post-stroke rehab ★★",
+                "★★★ Cochrane: EMG + relaxation = most effective non-pharmacological tension headache treatment"
+              ],
+              [
+                "Thermal Biofeedback",
+                "Migraine (hand warming) ★★★, Raynaud's ★★, hypertension ★★",
+                "★★★ Hand warming of 2°C = migraine abort or prevention. Menninger Foundation landmark studies."
+              ],
+              [
+                "Neurofeedback (EEG)",
+                "ADHD ★★★ (comparable to methylphenidate in some RCTs), anxiety ★★, PTSD ★★",
+                "★★★ ADHD theta/beta training — significant sustained attention improvement"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 1,
+            "title": "HRV Biofeedback — BNYS Clinic Protocol",
+            "text": "Equipment: Elite HRV + Polar H10, or Inner Balance (HeartMath), or HRV4Biofeedback. Protocol: breathe at resonance frequency (find personal peak — usually 5.5–6 breaths/min). Goal: coherence (smooth sine wave on HRV tracing) for ≥50% of session. Duration: 20 min, 3–4×/week. Home practice: daily 10-min sessions compound the benefit. Track RMSSD baseline weekly — objective biomarker of treatment response."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-info\"><div class=\"a-label\">Biofeedback — Real-Time Physiological Feedback for Self-Regulation</div>Biofeedback provides real-time information about physiological processes to enable voluntary control. What can be measured can be influenced. HRV biofeedback is the most accessible and evidence-based tool for BNYS practitioners.</div><table class=\"tbl\"><thead><tr><th>Type</th><th>Indication</th><th>Evidence</th></tr></thead><tbody><tr><td>HRV Biofeedback</td><td>Hypertension ★★★, anxiety ★★★, depression ★★★, asthma ★★, PTSD ★★, fibromyalgia ★★</td><td>★★★ Multiple meta-analyses. Protocol: 0.1Hz (6 breaths/min), 20 min sessions 3–4×/week</td></tr><tr><td>EMG Biofeedback</td><td>Tension headache ★★★, TMJ, bruxism ★★, chronic LBP, post-stroke rehab ★★</td><td>★★★ Cochrane: EMG + relaxation = most effective non-pharmacological tension headache treatment</td></tr><tr><td>Thermal Biofeedback</td><td>Migraine (hand warming) ★★★, Raynaud's ★★, hypertension ★★</td><td>★★★ Hand warming of 2°C = migraine abort or prevention. Menninger Foundation landmark studies.</td></tr><tr><td>Neurofeedback (EEG)</td><td>ADHD ★★★ (comparable to methylphenidate in some RCTs), anxiety ★★, PTSD ★★</td><td>★★★ ADHD theta/beta training — significant sustained attention improvement</td></tr></tbody></table><div class=\"steps\"><div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">1</div><div class=\"st\"><span class=\"sh\">HRV Biofeedback — BNYS Clinic Protocol</span>Equipment: Elite HRV + Polar H10, or Inner Balance (HeartMath), or HRV4Biofeedback. Protocol: breathe at resonance frequency (find personal peak — usually 5.5–6 breaths/min). Goal: coherence (smooth sine wave on HRV tracing) for ≥50% of session. Duration: 20 min, 3–4×/week. Home practice: daily 10-min sessions compound the benefit. Track RMSSD baseline weekly — objective biomarker of treatment response.</div></div></div>",
+      "_review": false
+    },
+    {
+      "id": "mindbody-mind-flow-state-positive-psychology",
+      "title": "Flow State & Positive Psychology",
+      "badge": "Wellness",
+      "category": "mind",
+      "section": "mindbody",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Positive Psychology — Beyond the Absence of Illness",
+            "text": "Positive psychology (Martin Seligman) studies the conditions that enable individuals and communities to flourish. BNYS naturopathy aligns perfectly — it is not merely about removing disease but actively cultivating health, vitality, and meaning. Positive psychology tools are clinically effective and increasingly evidence-based."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Concept",
+              "Definition",
+              "Clinical Application",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "PERMA Model (Seligman)",
+                "5 pillars of wellbeing: Positive emotions, Engagement (flow), Relationships, Meaning/Purpose, Accomplishment",
+                "Use as assessment framework: \"Which PERMA pillar is weakest for this patient?\" Target interventions to the deficit.",
+                "★★★ Foundation of positive psychology interventions. PERMA profile assessment tool available free."
+              ],
+              [
+                "Flow State (Csikszentmihalyi)",
+                "Complete absorption in an activity — challenge matches skill, intrinsic motivation, loss of self-consciousness. Associated with: ↑ dopamine, ↑ noradrenaline, ↑ endorphins.",
+                "Prescribe flow-inducing activities: music, cooking, sport, creative arts, gardening, yoga — must be challenging but achievable. Reduces rumination, depression, anxiety.",
+                "★★★ Flow is a highly researched state associated with peak performance, psychological wellbeing, and health"
+              ],
+              [
+                "Gratitude Practice",
+                "Daily intentional acknowledgement of positive aspects of life",
+                "Gratitude journal (3 things daily ★★★). Gratitude letter/visit (most powerful — deliver a letter of gratitude to someone in person). Reframes cognitive bias toward threat.",
+                "★★★ Multiple RCTs: 3-good-things exercise reduces depression 6 months post-intervention. Increases sleep quality, reduces BP, improves immunity."
+              ],
+              [
+                "Ikigai (Purpose/Reason for Being)",
+                "Japanese concept — intersection of: what you love, what you're good at, what the world needs, what you can be paid for",
+                "Longevity connection: Okinawan Blue Zone residents score highest on Ikigai. Purpose-in-life reduces all-cause mortality 20% (meta-analysis). Prescribe: clarifying life values, volunteering, mentoring, creative contribution.",
+                "★★★ Purpose in life — 20% mortality reduction (Alimujiang meta-analysis n=136,000)"
+              ],
+              [
+                "Character Strengths (VIA)",
+                "24 universal character strengths (VIA Institute). Using \"signature strengths\" in new ways daily = increased wellbeing.",
+                "VIA strengths survey (free: viacharacter.org). Prescribe: use top strength in a new way every day for 1 week. \"Strengths-based approach\" in patient consultations — focus on capabilities, not deficits.",
+                "★★★ Seligman RCT: signature strengths exercise → ↑ happiness + ↓ depression sustained at 6 months"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Positive Psychology — Beyond the Absence of Illness</div>Positive psychology (Martin Seligman) studies the conditions that enable individuals and communities to flourish. BNYS naturopathy aligns perfectly — it is not merely about removing disease but actively cultivating health, vitality, and meaning. Positive psychology tools are clinically effective and increasingly evidence-based.</div>\n    <table class=\"tbl\"><thead><tr><th>Concept</th><th>Definition</th><th>Clinical Application</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td><strong>PERMA Model (Seligman)</strong></td><td>5 pillars of wellbeing: Positive emotions, Engagement (flow), Relationships, Meaning/Purpose, Accomplishment</td><td>Use as assessment framework: \"Which PERMA pillar is weakest for this patient?\" Target interventions to the deficit.</td><td>★★★ Foundation of positive psychology interventions. PERMA profile assessment tool available free.</td></tr>\n      <tr><td><strong>Flow State (Csikszentmihalyi)</strong></td><td>Complete absorption in an activity — challenge matches skill, intrinsic motivation, loss of self-consciousness. Associated with: ↑ dopamine, ↑ noradrenaline, ↑ endorphins.</td><td>Prescribe flow-inducing activities: music, cooking, sport, creative arts, gardening, yoga — must be challenging but achievable. Reduces rumination, depression, anxiety.</td><td>★★★ Flow is a highly researched state associated with peak performance, psychological wellbeing, and health</td></tr>\n      <tr><td><strong>Gratitude Practice</strong></td><td>Daily intentional acknowledgement of positive aspects of life</td><td>Gratitude journal (3 things daily ★★★). Gratitude letter/visit (most powerful — deliver a letter of gratitude to someone in person). Reframes cognitive bias toward threat.</td><td>★★★ Multiple RCTs: 3-good-things exercise reduces depression 6 months post-intervention. Increases sleep quality, reduces BP, improves immunity.</td></tr>\n      <tr><td><strong>Ikigai (Purpose/Reason for Being)</strong></td><td>Japanese concept — intersection of: what you love, what you're good at, what the world needs, what you can be paid for</td><td>Longevity connection: Okinawan Blue Zone residents score highest on Ikigai. Purpose-in-life reduces all-cause mortality 20% (meta-analysis). Prescribe: clarifying life values, volunteering, mentoring, creative contribution.</td><td>★★★ Purpose in life — 20% mortality reduction (Alimujiang meta-analysis n=136,000)</td></tr>\n      <tr><td><strong>Character Strengths (VIA)</strong></td><td>24 universal character strengths (VIA Institute). Using \"signature strengths\" in new ways daily = increased wellbeing.</td><td>VIA strengths survey (free: viacharacter.org). Prescribe: use top strength in a new way every day for 1 week. \"Strengths-based approach\" in patient consultations — focus on capabilities, not deficits.</td><td>★★★ Seligman RCT: signature strengths exercise → ↑ happiness + ↓ depression sustained at 6 months</td></tr>\n    </tbody></table>",
+      "_review": false
+    }
+  ]
+}
