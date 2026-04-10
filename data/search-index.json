@@ -1,0 +1,4781 @@
+{
+  "generatedAt": "2026-04-10T10:54:41.305Z",
+  "cards": [
+    {
+      "id": "lab-cbc-haemoglobin",
+      "title": "Haemoglobin",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "Always follow Hb with MCV to classify. Hb <8 g/dL = consider transfusion threshold. Symptoms matter — not just the number. Haemodilution in pregnancy lowers Hb (normal ≥10.5 in 3rd trimester)."
+    },
+    {
+      "id": "lab-cbc-mcv-mean-cell-volume",
+      "title": "MCV (Mean Cell Volume)",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "Mnemonic MALT for microcytic. Normocytic = haemolysis, bleeding, renal disease, early deficiency. MCV alone is not enough — always pair with RDW and clinical context."
+    },
+    {
+      "id": "lab-cbc-mch-mean-cell-haemoglobin",
+      "title": "MCH (Mean Cell Haemoglobin)",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "MCH closely mirrors MCV. Low MCH + low MCV = classic iron deficiency hypochromic picture. MCH alone rarely changes management but confirms the MCV pattern."
+    },
+    {
+      "id": "lab-cbc-mchc-mean-cell-hb-concentration",
+      "title": "MCHC (Mean Cell Hb Concentration)",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "MCHC >36 strongly suggests hereditary spherocytosis — the only common cause. Do osmotic fragility test and blood film. Low MCHC = hypochromic = iron deficiency until proven otherwise."
+    },
+    {
+      "id": "lab-cbc-rdw-red-cell-distribution-width",
+      "title": "RDW (Red Cell Distribution Width)",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "KEY differentiator: Iron deficiency = HIGH RDW. Thalassaemia trait = NORMAL RDW with low MCV. RDW rises before MCV drops in early iron deficiency — it's the earliest CBC marker of iron deficiency. Use"
+    },
+    {
+      "id": "lab-cbc-wbc-white-blood-cells",
+      "title": "WBC (White Blood Cells)",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "WBC alone is insufficient — always request DIFFERENTIAL. Neutrophils = bacterial. Lymphocytes = viral. Eosinophils = NAACP. Monocytes = TB/fungal/chronic. Basophils = CML."
+    },
+    {
+      "id": "lab-cbc-neutrophils",
+      "title": "Neutrophils",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "<0.5 = severe neutropenia — high infection risk, reverse barrier nursing. Left shift (bands / metamyelocytes on film) = active infection. Clozapine: mandatory WBC monitoring. Agranulocytosis = stop dr"
+    },
+    {
+      "id": "lab-cbc-lymphocytes",
+      "title": "Lymphocytes",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "Atypical lymphocytes on film = EBV (mono). Smear cells = CLL. CD4 <200 = AIDS-defining illness. Lymphocytosis + B symptoms + lymphadenopathy = rule out lymphoma urgently."
+    },
+    {
+      "id": "lab-cbc-eosinophils",
+      "title": "Eosinophils",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "NAACP mnemonic. >0.5 = eosinophilia requiring investigation. >1.5 = hypereosinophilic syndrome — organ damage risk (cardiac, pulmonary, neurological). Eosinophilia + asthma + vasculitis = EGPA (Churg-"
+    },
+    {
+      "id": "lab-cbc-platelets",
+      "title": "Platelets",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "<50 = significant bleeding risk. <20 = spontaneous bleed risk. HIT: platelet drop >50% on heparin + thrombosis = STOP heparin, use alternative anticoagulant. TTP = schistocytes + thrombocytopenia + ne"
+    },
+    {
+      "id": "lab-cbc-reticulocytes",
+      "title": "Reticulocytes",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "High retics + anaemia = marrow working but losing RBCs (haemolysis/bleeding). Low retics + anaemia = marrow not responding (aplasia/deficiency). Corrected reticulocyte index <2% = inadequate response "
+    },
+    {
+      "id": "lab-cbc-esr",
+      "title": "ESR",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "ESR >100 = myeloma, malignancy, serious infection (TB, endocarditis), vasculitis until proven otherwise. Combine with CRP: both ↑ = active inflammation. ESR ↑ + CRP normal = consider myeloma (paraprot"
+    },
+    {
+      "id": "lab-cbc-crp-c-reactive-protein",
+      "title": "CRP (C-Reactive Protein)",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "CRP rises and falls FASTER than ESR — the best marker for monitoring treatment response. CRP >100 = bacterial infection or major tissue injury. CRP 5–50 = mild-moderate inflammation, non-specific. Low"
+    },
+    {
+      "id": "lab-cbc-hscrp-high-sensitivity-crp",
+      "title": "hsCRP (High-Sensitivity CRP)",
+      "badge": "CBC",
+      "section": "lab",
+      "category": "cbc",
+      "summary": "hsCRP and standard CRP measure the SAME molecule — difference is only assay SENSITIVITY. Standard CRP detects ≥5 mg/L (infection/inflammation). hsCRP detects 0.1–10 mg/L (cardiovascular risk). FOUR KE"
+    },
+    {
+      "id": "lab-lft-alt-alanine-aminotransferase",
+      "title": "ALT (Alanine Aminotransferase)",
+      "badge": "LFT",
+      "section": "lab",
+      "category": "lft",
+      "summary": "ALT is MORE liver-specific than AST. ALT > AST = viral/NAFLD. AST:ALT ≥2:1 = alcoholic hepatitis. ALT >1000 = ischaemic hepatitis, acute viral, or paracetamol toxicity. Always compare to baseline tren"
+    },
+    {
+      "id": "lab-lft-ast-aspartate-aminotransferase",
+      "title": "AST (Aspartate Aminotransferase)",
+      "badge": "LFT",
+      "section": "lab",
+      "category": "lft",
+      "summary": "AST:ALT ≥2:1 = alcoholic hepatitis (De Ritis ratio). Isolated AST rise: check CK — likely muscle source, not liver. Less liver-specific than ALT. Troponin more specific for MI than AST."
+    },
+    {
+      "id": "lab-lft-alp-alkaline-phosphatase",
+      "title": "ALP (Alkaline Phosphatase)",
+      "badge": "LFT",
+      "section": "lab",
+      "category": "lft",
+      "summary": "Isolated ALP: check GGT. GGT ↑ = liver origin. GGT normal = BONE origin (Paget's, bone mets). ALP + GGT + bilirubin ↑ = cholestatic pattern. Pregnancy ALP = placental isoenzyme — completely physiologi"
+    },
+    {
+      "id": "lab-lft-ggt-gamma-glutamyl-transferase",
+      "title": "GGT (Gamma-Glutamyl Transferase)",
+      "badge": "LFT",
+      "section": "lab",
+      "category": "lft",
+      "summary": "GGT is the ALCOHOL marker — rises with regular drinking even before liver damage. Confirms liver origin of raised ALP. Normalises 2–6 weeks after stopping alcohol. Very sensitive but non-specific — el"
+    },
+    {
+      "id": "lab-lft-bilirubin-total",
+      "title": "Bilirubin (Total)",
+      "badge": "LFT",
+      "section": "lab",
+      "category": "lft",
+      "summary": "Visible jaundice >35 µmol/L. Unconjugated ↑ = pre-hepatic (haemolysis) or Gilbert's — urine bilirubin ABSENT. Conjugated ↑ = hepatic or post-hepatic — bilirubin appears in urine (dark urine). Always c"
+    },
+    {
+      "id": "lab-lft-albumin",
+      "title": "Albumin",
+      "badge": "LFT",
+      "section": "lab",
+      "category": "lft",
+      "summary": "Half-life ~20 days — reflects CHRONIC synthetic function. Acute illness lowers albumin non-specifically (negative APP). Used in Child-Pugh score. Check urine ACR if albumin low — could be nephrotic sy"
+    },
+    {
+      "id": "lab-lft-pt-inr",
+      "title": "PT / INR",
+      "badge": "LFT",
+      "section": "lab",
+      "category": "lft",
+      "summary": "BEST acute synthetic function marker (factor VII t½ = 6 hrs — responds within hours). Prolonged PT that CORRECTS with Vit K = Vit K deficiency (fat malabsorption). Does NOT correct = liver failure. Cr"
+    },
+    {
+      "id": "lab-lft-ldh-lactate-dehydrogenase",
+      "title": "LDH (Lactate Dehydrogenase)",
+      "badge": "LFT",
+      "section": "lab",
+      "category": "lft",
+      "summary": "Non-specific but essential. Haemolysis triad: ↑LDH + ↑unconjugated bilirubin + ↓haptoglobin. Very high LDH in lymphoma = adverse prognosis (IPI score). Also elevated in PE — non-specific marker."
+    },
+    {
+      "id": "lab-lft-haptoglobin",
+      "title": "Haptoglobin",
+      "badge": "LFT",
+      "section": "lab",
+      "category": "lft",
+      "summary": "Low haptoglobin = haemolysis until proven otherwise. Consumed binding free Hb in intravascular haemolysis. Interpret with LDH + bilirubin. Absent in neonates — not useful in newborns. Normal haptoglob"
+    },
+    {
+      "id": "lab-lft-total-protein",
+      "title": "Total Protein",
+      "badge": "LFT",
+      "section": "lab",
+      "category": "lft",
+      "summary": "Total protein = albumin + globulins. High total protein + low albumin = high globulins → send SPEP/SIFE + serum free light chains (myeloma screen). Globulin gap >4 g/dL is abnormal — always investigat"
+    },
+    {
+      "id": "lab-rft-creatinine",
+      "title": "Creatinine",
+      "badge": "RFT",
+      "section": "lab",
+      "category": "rft",
+      "summary": "Does NOT rise until ~50% nephron loss. Always compare to BASELINE. Trend > single value. Muscle-dependent — a fit 25-year-old male with creatinine 115 is very different from a frail 80-year-old woman."
+    },
+    {
+      "id": "lab-rft-urea-bun",
+      "title": "Urea (BUN)",
+      "badge": "RFT",
+      "section": "lab",
+      "category": "rft",
+      "summary": "Urea:Creatinine ratio (µmol:µmol) >100:1 = pre-renal or UPPER GI BLEED. <100:1 = intrinsic or post-renal. Low urea + raised creatinine = liver failure context. In GI bleed: Urea rises disproportionate"
+    },
+    {
+      "id": "lab-rft-egfr",
+      "title": "eGFR",
+      "badge": "RFT",
+      "section": "lab",
+      "category": "rft",
+      "summary": "CKD-EPI accounts for age, sex, race, creatinine. Use for CKD STAGING. Drug dose adjustments: metformin stop at G3b; many antibiotics (gentamicin, vancomycin), anticoagulants need adjustment at G3+. eG"
+    },
+    {
+      "id": "lab-rft-sodium-na",
+      "title": "Sodium (Na⁺)",
+      "badge": "RFT",
+      "section": "lab",
+      "category": "rft",
+      "summary": "ASSESS VOLUME STATUS FIRST. Hypovolaemic = diuretics/Addison's. Euvolaemic = SIADH. Hypervolaemic = CCF/cirrhosis/nephrotic. Correct Na slowly (<10 mmol/L per 24 hrs) to avoid central pontine myelinol"
+    },
+    {
+      "id": "lab-rft-potassium-k",
+      "title": "Potassium (K⁺)",
+      "badge": "RFT",
+      "section": "lab",
+      "category": "rft",
+      "summary": "K+ >6.5 = CARDIAC EMERGENCY. ECG: peaked T → PR prolongation → wide QRS → sine wave → VF. TREAT: Calcium gluconate FIRST (membrane stabilisation, 10 mins), then insulin+dextrose, salbutamol neb, sodiu"
+    },
+    {
+      "id": "lab-rft-bicarbonate-hco",
+      "title": "Bicarbonate (HCO₃⁻)",
+      "badge": "RFT",
+      "section": "lab",
+      "category": "rft",
+      "summary": "Low HCO₃ → calculate ANION GAP: Na - (Cl + HCO₃). Normal AG = 8–12. High AG (>12) = MUDPILES. Normal AG acidosis = RTA, diarrhoea, saline excess (hyperchloraemic). Use delta-delta ratio to check if mi"
+    },
+    {
+      "id": "lab-rft-phosphate-po",
+      "title": "Phosphate (PO₄³⁻)",
+      "badge": "RFT",
+      "section": "lab",
+      "category": "rft",
+      "summary": "Refeeding syndrome: severe hypophosphataemia after refeeding a malnourished patient — can cause cardiac arrest and respiratory failure. Monitor electrolytes closely in all refeeding protocols. CKD: hi"
+    },
+    {
+      "id": "lab-rft-calcium-corrected-ca",
+      "title": "Calcium (Corrected Ca²⁺)",
+      "badge": "RFT",
+      "section": "lab",
+      "category": "rft",
+      "summary": "CORRECT for albumin: Adjusted Ca = measured Ca + 0.02 × (40 − albumin). Symptoms: Bones-Groans-Stones-Psychic moans. Ca >3.5 = crisis: rehydrate IV + bisphosphonate. Check PTH to differentiate primary"
+    },
+    {
+      "id": "lab-rft-uric-acid-urate",
+      "title": "Uric Acid (Urate)",
+      "badge": "RFT",
+      "section": "lab",
+      "category": "rft",
+      "summary": "Single raised urate does NOT diagnose gout — need clinical features or synovial fluid (negatively birefringent needle crystals under polarised light). Tumour lysis syndrome: rising K + PO₄ + urate + L"
+    },
+    {
+      "id": "lab-rft-serum-osmolality",
+      "title": "Serum Osmolality",
+      "badge": "RFT",
+      "section": "lab",
+      "category": "rft",
+      "summary": "Osmolar gap = measured − calculated [2×Na + glucose + urea]. Gap >10 = toxic alcohol (methanol, ethylene glycol, ethanol, propylene glycol). Essential in any unexplained high AG metabolic acidosis. Al"
+    },
+    {
+      "id": "lab-rft-chloride-cl",
+      "title": "Chloride (Cl⁻)",
+      "badge": "RFT",
+      "section": "lab",
+      "category": "rft",
+      "summary": "Essential for anion gap calculation. Hyperchloraemia + low HCO₃ + normal AG = hyperchloraemic metabolic acidosis → think RTA or diarrhoea or excess saline. Hypochloraemia + high HCO₃ = metabolic alkal"
+    },
+    {
+      "id": "lab-uri-protein-dipstick-acr",
+      "title": "Protein (Dipstick / ACR)",
+      "badge": "URI",
+      "section": "lab",
+      "category": "uri",
+      "summary": "ACR >3 mg/mmol = microalbuminuria (early diabetic nephropathy). ACR >30 = macroalbuminuria. Dipstick misses Bence Jones protein — send urine electrophoresis if myeloma suspected. Transient proteinuria"
+    },
+    {
+      "id": "lab-uri-blood-haematuria",
+      "title": "Blood (Haematuria)",
+      "badge": "URI",
+      "section": "lab",
+      "category": "uri",
+      "summary": "ALWAYS send for MC&S AND cytology if unexpected haematuria. RBC casts = glomerulonephritis (nephritic syndrome). Persistent unexplained haematuria in >40yrs = urology referral (2-week wait, rule out m"
+    },
+    {
+      "id": "lab-uri-leucocytes-nitrites",
+      "title": "Leucocytes & Nitrites",
+      "badge": "URI",
+      "section": "lab",
+      "category": "uri",
+      "summary": "Nitrites negative does NOT exclude UTI — Gram-positive organisms (Enterococcus, Staph) don't produce nitrites. Leucocytes alone = non-specific. Sterile pyuria = TB ★, interstitial nephritis, urethriti"
+    },
+    {
+      "id": "lab-uri-glucose-glucosuria",
+      "title": "Glucose (Glucosuria)",
+      "badge": "URI",
+      "section": "lab",
+      "category": "uri",
+      "summary": "Glucosuria = blood glucose exceeded renal threshold (normally ~10 mmol/L). Normal urine glucose DOES NOT exclude diabetes — threshold varies. Glucosuria with normal blood glucose = renal tubular defec"
+    },
+    {
+      "id": "lab-uri-ketones",
+      "title": "Ketones",
+      "badge": "URI",
+      "section": "lab",
+      "category": "uri",
+      "summary": "In suspected DKA: check urine ketones AND serum beta-hydroxybutyrate (more sensitive/specific). Urine ketones are acetoacetate — serum is BHB. Euglycaemic DKA (SGLT2 inhibitors, pregnancy): ketones el"
+    },
+    {
+      "id": "lab-uri-bilirubin-urobilinogen",
+      "title": "Bilirubin & Urobilinogen",
+      "badge": "URI",
+      "section": "lab",
+      "category": "uri",
+      "summary": "Urine bilirubin present = conjugated hyperbilirubinaemia — liver disease or obstruction. Absent bilirubin + high urobilinogen = pre-hepatic jaundice (haemolysis, Gilbert's). Absent both = complete obs"
+    },
+    {
+      "id": "lab-uri-ph-specific-gravity",
+      "title": "pH & Specific Gravity",
+      "badge": "URI",
+      "section": "lab",
+      "category": "uri",
+      "summary": "SG reflects renal concentrating ability. Fixed SG ~1.010 = isosthenuria = severely impaired concentrating ability (CKD, ATN). Inability to concentrate urine (SG <1.010 despite dehydration) = DI or tub"
+    },
+    {
+      "id": "lab-uri-acr-pcr-quantitative-proteinuria",
+      "title": "ACR & PCR (Quantitative Proteinuria)",
+      "badge": "URI",
+      "section": "lab",
+      "category": "uri",
+      "summary": "ACR preferred over 24-hr urine collection — equally accurate, far more practical. ACR >3 in diabetics = start ACE-i/ARB regardless of BP. Rising ACR in CKD = poor prognosis. Nephrotic syndrome: oedema"
+    },
+    {
+      "id": "lab-uri-urine-mcs-microscopy-culture-sensitivity",
+      "title": "Urine MC&S (Microscopy, Culture & Sensitivity)",
+      "badge": "URI",
+      "section": "lab",
+      "category": "uri",
+      "summary": "Urine casts are formed in renal tubules — always pathological except hyaline casts. RBC casts = active glomerular disease (IgA nephropathy, post-streptococcal GN, vasculitis). Contaminated MSU: >2 org"
+    },
+    {
+      "id": "lab-lip-total-cholesterol",
+      "title": "Total Cholesterol",
+      "badge": "LIP",
+      "section": "lab",
+      "category": "lip",
+      "summary": "Total cholesterol alone is insufficient — always interpret with full lipid profile. Non-HDL cholesterol (TC − HDL) is a better CV risk predictor than LDL alone. Calculate QRISK3 score to guide statin "
+    },
+    {
+      "id": "lab-lip-ldl-cholesterol",
+      "title": "LDL Cholesterol",
+      "badge": "LIP",
+      "section": "lab",
+      "category": "lip",
+      "summary": "LDL is the PRIMARY treatment target for cardiovascular risk reduction. Goal depends on risk category. ASCVD/very high risk: LDL <1.4 mmol/L. Primary prevention high risk: <1.8. For FH: genetic testing"
+    },
+    {
+      "id": "lab-lip-hdl-cholesterol",
+      "title": "HDL Cholesterol",
+      "badge": "LIP",
+      "section": "lab",
+      "category": "lip",
+      "summary": "HDL is PROTECTIVE — higher is better. Low HDL + high triglycerides = atherogenic dyslipidaemia (classic metabolic syndrome pattern). HDL <1.0 = significant cardiovascular risk. Raising HDL alone (niac"
+    },
+    {
+      "id": "lab-lip-triglycerides",
+      "title": "Triglycerides",
+      "badge": "LIP",
+      "section": "lab",
+      "category": "lip",
+      "summary": "TG >10 mmol/L = risk of acute pancreatitis — start fibrates urgently. TG >5.6 = secondary causes must be excluded (DM, hypothyroidism, alcohol, drugs). Fasting sample essential — TG rises significantl"
+    },
+    {
+      "id": "lab-lip-non-hdl-cholesterol",
+      "title": "Non-HDL Cholesterol",
+      "badge": "LIP",
+      "section": "lab",
+      "category": "lip",
+      "summary": "Non-HDL = Total cholesterol − HDL. Includes VLDL, IDL, LDL — all atherogenic particles. Better predictor of CV events than LDL alone, especially in diabetics and hypertriglyceridaemia. Now preferred t"
+    },
+    {
+      "id": "lab-lip-lipoproteina-lpa",
+      "title": "Lipoprotein(a) — Lp(a)",
+      "badge": "LIP",
+      "section": "lab",
+      "category": "lip",
+      "summary": "Lp(a) is an independent, inherited CV risk factor. Measure ONCE in lifetime (genetic — doesn't change with lifestyle). High Lp(a) >50 mg/dL = significantly elevated CV risk — consider more aggressive "
+    },
+    {
+      "id": "lab-glc-fasting-plasma-glucose",
+      "title": "Fasting Plasma Glucose",
+      "badge": "GLC",
+      "section": "lab",
+      "category": "glc",
+      "summary": "Two abnormal fasting readings = diabetes (if asymptomatic). One reading + symptoms = sufficient for diagnosis. FPG 6.1–6.9 = impaired fasting glucose (IFG) — intermediate hyperglycaemia, high risk of "
+    },
+    {
+      "id": "lab-glc-hba1c",
+      "title": "HbA1c",
+      "badge": "GLC",
+      "section": "lab",
+      "category": "glc",
+      "summary": "HbA1c reflects average glucose over past 2–3 months (RBC lifespan). UNRELIABLE in: haemoglobinopathy, haemolysis, pregnancy, CKD — use fasting glucose or 2-hr OGTT instead. Treatment targets: T1DM = 4"
+    },
+    {
+      "id": "lab-glc-2-hr-ogtt-75g-oral-glucose-tolerance-test",
+      "title": "2-hr OGTT (75g Oral Glucose Tolerance Test)",
+      "badge": "GLC",
+      "section": "lab",
+      "category": "glc",
+      "summary": "Gold standard for gestational diabetes screening (GDM). Also used to diagnose IGT when other tests borderline. Patient must eat carbohydrates for 3 days before test. In pregnancy: any GDM = strict glu"
+    },
+    {
+      "id": "lab-glc-random-plasma-glucose",
+      "title": "Random Plasma Glucose",
+      "badge": "GLC",
+      "section": "lab",
+      "category": "glc",
+      "summary": "Random glucose ≥11.1 + symptoms (polyuria, polydipsia, weight loss) = diabetes diagnosed without further testing. Random glucose ≥11.1 without symptoms = repeat test needed. Critical values: <2.2 mmol"
+    },
+    {
+      "id": "lab-glc-serum-insulin-c-peptide",
+      "title": "Serum Insulin & C-peptide",
+      "badge": "GLC",
+      "section": "lab",
+      "category": "glc",
+      "summary": "C-peptide differentiates exogenous insulin abuse (low C-peptide) from insulinoma (high C-peptide). In T1DM: C-peptide confirms beta cell failure — useful when diagnosis uncertain (LADA vs T2DM). Durin"
+    },
+    {
+      "id": "lab-glc-beta-hydroxybutyrate-bhb",
+      "title": "Beta-hydroxybutyrate (BHB)",
+      "badge": "GLC",
+      "section": "lab",
+      "category": "glc",
+      "summary": "BHB is preferred over urine ketones in DKA monitoring (more accurate, faster, bedside). DKA resolution criteria: BHB <0.6 mmol/L + glucose <14 + HCO₃ >18. Euglycaemic DKA (SGLT2i): BHB elevated but gl"
+    },
+    {
+      "id": "lab-glc-glucose-monitoring-targets",
+      "title": "Glucose Monitoring — Targets",
+      "badge": "GLC",
+      "section": "lab",
+      "category": "glc",
+      "summary": "Hypoglycaemia treatment: if conscious = 15–20g fast-acting carb (glucose gel, orange juice, Lucozade) → recheck at 15 mins → repeat if still <4. If unconscious = IV dextrose (10% preferred over 50%) o"
+    },
+    {
+      "id": "lab-bon-serum-calcium-corrected",
+      "title": "Serum Calcium (Corrected)",
+      "badge": "BON",
+      "section": "lab",
+      "category": "bon",
+      "summary": "ALWAYS correct: Adjusted Ca = measured Ca + 0.02 × (40 − albumin g/L). Symptoms: Bones (pain/fractures), Groans (nausea/constipation), Stones (renal calculi), Psychic moans (depression/confusion/coma)"
+    },
+    {
+      "id": "lab-bon-serum-phosphate",
+      "title": "Serum Phosphate",
+      "badge": "BON",
+      "section": "lab",
+      "category": "bon",
+      "summary": "Hyperphosphataemia in CKD drives secondary hyperparathyroidism and vascular calcification. Treat with dietary restriction + phosphate binders (sevelamer, calcium carbonate, lanthanum). Hypophosphataem"
+    },
+    {
+      "id": "lab-bon-pth-parathyroid-hormone",
+      "title": "PTH (Parathyroid Hormone)",
+      "badge": "BON",
+      "section": "lab",
+      "category": "bon",
+      "summary": "KEY interpretation: Ca ↑ + PTH ↑ (or inappropriately normal) = PRIMARY hyperparathyroidism. Ca ↑ + PTH ↓ = malignancy or Vit D toxicity. Ca ↓ + PTH ↑ = secondary HPT (CKD/Vit D def). Ca ↓ + PTH ↓ = hy"
+    },
+    {
+      "id": "lab-bon-vitamin-d-25-oh-vitamin-d",
+      "title": "Vitamin D (25-OH Vitamin D)",
+      "badge": "BON",
+      "section": "lab",
+      "category": "bon",
+      "summary": "25-OH Vit D is the storage form — measure this. 1,25-OH (calcitriol) is active form — measure in sarcoid/granulomatous disease (produced ectopically). Deficiency: rickets (children), osteomalacia (adu"
+    },
+    {
+      "id": "lab-bon-alp-bone-fraction",
+      "title": "ALP — Bone Fraction",
+      "badge": "BON",
+      "section": "lab",
+      "category": "bon",
+      "summary": "Paget's disease: ALP can be extremely elevated (>1000 U/L) with completely normal GGT — characteristic pattern. Treatment with bisphosphonates normalises ALP. Bone ALP (isoenzyme) can separate bone fr"
+    },
+    {
+      "id": "lab-bon-dexa-scan-t-score-bone-density",
+      "title": "DEXA Scan — T-score (Bone Density)",
+      "badge": "BON",
+      "section": "lab",
+      "category": "bon",
+      "summary": "T-score compares to young healthy adult peak bone mass. Z-score compares to age-matched peers (use in premenopausal women and men <50). FRAX tool: integrates clinical risk factors + BMD to calculate 1"
+    },
+    {
+      "id": "lab-csf-csf-opening-pressure",
+      "title": "CSF Opening Pressure",
+      "badge": "CSF",
+      "section": "lab",
+      "category": "csf",
+      "summary": "Always perform CT head before LP if: papilloedema, focal neurology, GCS <13, immunocompromised, new-onset seizures. IIH: young obese woman, headache, papilloedema, normal MRI — opening pressure >25 cm"
+    },
+    {
+      "id": "lab-csf-csf-protein",
+      "title": "CSF Protein",
+      "badge": "CSF",
+      "section": "lab",
+      "category": "csf",
+      "summary": "Protein elevated in virtually all serious CNS infections. Albumino-cytological dissociation = high protein + normal cell count = Guillain-Barré ★. Very high protein + sticky/xanthochromic CSF = TB men"
+    },
+    {
+      "id": "lab-csf-csf-glucose",
+      "title": "CSF Glucose",
+      "badge": "CSF",
+      "section": "lab",
+      "category": "csf",
+      "summary": "ALWAYS take serum glucose simultaneously. Low CSF glucose = bacteria or TB consuming glucose. Ratio <0.4 = very strong indicator of bacterial meningitis. Normal ratio with high WBC = viral meningitis."
+    },
+    {
+      "id": "lab-csf-csf-cell-count",
+      "title": "CSF Cell Count",
+      "badge": "CSF",
+      "section": "lab",
+      "category": "csf",
+      "summary": "Cell type is THE KEY distinguisher: neutrophils = bacterial (treat immediately — do NOT wait for culture). Lymphocytes = viral or TB. In bacterial meningitis: treat empirically with ceftriaxone + amox"
+    },
+    {
+      "id": "lab-csf-csf-xanthochromia-rbcs",
+      "title": "CSF Xanthochromia & RBCs",
+      "badge": "CSF",
+      "section": "lab",
+      "category": "csf",
+      "summary": "If CT head negative but clinical suspicion of SAH: MUST perform LP >2 hrs after symptom onset. Send for spectrophotometry (not just visual inspection). Xanthochromia persists up to 2 weeks. Distinguis"
+    },
+    {
+      "id": "lab-tmr-psa-prostate-specific-antigen",
+      "title": "PSA (Prostate-Specific Antigen)",
+      "badge": "TMR",
+      "section": "lab",
+      "category": "tmr",
+      "summary": "PSA is NOT a perfect screening test. Sensitivity ~70%, specificity ~60%. Many false positives (prostatitis, BPH) and false negatives. Free:total PSA ratio: <15% = more likely malignant. PSA velocity ("
+    },
+    {
+      "id": "lab-tmr-afp-alpha-fetoprotein",
+      "title": "AFP (Alpha-Fetoprotein)",
+      "badge": "TMR",
+      "section": "lab",
+      "category": "tmr",
+      "summary": "HCC surveillance: 6-monthly AFP + ultrasound in cirrhotic patients. AFP >400 = likely HCC if liver mass present. Normal AFP does NOT exclude HCC (20% of HCC don't produce AFP). In testicular cancer: A"
+    },
+    {
+      "id": "lab-tmr-cea-carcinoembryonic-antigen",
+      "title": "CEA (Carcinoembryonic Antigen)",
+      "badge": "TMR",
+      "section": "lab",
+      "category": "tmr",
+      "summary": "CEA should NOT be used for colorectal cancer screening — it has poor sensitivity for early disease. Main use: POST-RESECTION monitoring for recurrence. Rising CEA after curative resection = recurrence"
+    },
+    {
+      "id": "lab-tmr-ca-19-9",
+      "title": "CA 19-9",
+      "badge": "TMR",
+      "section": "lab",
+      "category": "tmr",
+      "summary": "CA 19-9 is elevated by BILIARY OBSTRUCTION regardless of malignancy — uninformative with jaundice until obstruction relieved. Use to monitor known pancreatic cancer response to treatment. Pre-operativ"
+    },
+    {
+      "id": "lab-tmr-ca-125",
+      "title": "CA 125",
+      "badge": "TMR",
+      "section": "lab",
+      "category": "tmr",
+      "summary": "CA 125 alone is not a screening test for ovarian cancer. Use with USS in post-menopausal women with symptoms. RMI (Risk of Malignancy Index) = CA125 × USS score × menopausal status. RMI >200 = refer t"
+    },
+    {
+      "id": "lab-tmr-beta-hcg",
+      "title": "Beta-hCG",
+      "badge": "TMR",
+      "section": "lab",
+      "category": "tmr",
+      "summary": "Testicular cancer staging uses AFP + β-hCG + LDH together (S-stage in TNM). Pure seminoma can produce β-hCG (never AFP). Choriocarcinoma: extremely high β-hCG, highly chemotherapy-responsive — do NOT "
+    },
+    {
+      "id": "lab-tmr-ca-15-3-cea-breast",
+      "title": "CA 15-3 & CEA — Breast",
+      "badge": "TMR",
+      "section": "lab",
+      "category": "tmr",
+      "summary": "CA 15-3 is used for MONITORING metastatic breast cancer, not for diagnosis or screening. Rising CA 15-3 in known breast cancer = disease progression (confirm with imaging before changing treatment). U"
+    },
+    {
+      "id": "lab-tmr-ldh-haematological-malignancy",
+      "title": "LDH — Haematological Malignancy",
+      "badge": "TMR",
+      "section": "lab",
+      "category": "tmr",
+      "summary": "In lymphoma: LDH is part of the International Prognostic Index (IPI). Elevated LDH = advanced disease, worse prognosis. Serial LDH used to monitor treatment response — falling LDH = responding. In hae"
+    },
+    {
+      "id": "lab-tmr-tumour-markers-combined-use",
+      "title": "Tumour Markers — Combined Use",
+      "badge": "TMR",
+      "section": "lab",
+      "category": "tmr",
+      "summary": "MUST measure AFP, β-hCG, and LDH BEFORE orchiectomy (staging purpose) and AFTER (half-life assessment). AFP half-life = 5–7 days. β-hCG half-life = 24–36 hrs. Markers not falling appropriately post-op"
+    },
+    {
+      "id": "lab-abg-ph",
+      "title": "pH",
+      "badge": "ABG",
+      "section": "lab",
+      "category": "abg",
+      "summary": "pH <7.35 = acidaemia. pH >7.45 = alkalaemia. Normal pH does NOT mean normal — compensation can mask mixed disorders. Always interpret pH with PaCO₂ and HCO₃ together. Step 1: Is it acidosis or alkalos"
+    },
+    {
+      "id": "lab-abg-paco",
+      "title": "PaCO₂",
+      "badge": "ABG",
+      "section": "lab",
+      "category": "abg",
+      "summary": "PaCO₂ = respiratory component. ↑ PaCO₂ + ↓ pH = respiratory acidosis. ↓ PaCO₂ + ↑ pH = respiratory alkalosis. Winter's formula for expected compensation in metabolic acidosis: PaCO₂ = (1.5 × HCO₃) + 8"
+    },
+    {
+      "id": "lab-abg-pao",
+      "title": "PaO₂",
+      "badge": "ABG",
+      "section": "lab",
+      "category": "abg",
+      "summary": "P/F ratio (PaO₂/FiO₂): >400 = normal. 200–400 = mild ARDS. 100–200 = moderate ARDS. <100 = severe ARDS. A-a gradient = PAO₂ − PaO₂. Normal A-a = Age/4 + 4 mmHg. Elevated A-a gradient = V/Q mismatch or"
+    },
+    {
+      "id": "lab-abg-hco-bicarbonate",
+      "title": "HCO₃ (Bicarbonate)",
+      "badge": "ABG",
+      "section": "lab",
+      "category": "abg",
+      "summary": "Anion gap (AG) = Na − (Cl + HCO₃). Normal = 8–12 mmol/L. High AG metabolic acidosis mnemonic MUDPILES: Methanol, Uraemia, DKA ★, Propylene glycol, Isoniazid/Iron, Lactic acidosis ★, Ethylene glycol, S"
+    },
+    {
+      "id": "lab-abg-base-excess-be-lactate",
+      "title": "Base Excess (BE) & Lactate",
+      "badge": "ABG",
+      "section": "lab",
+      "category": "abg",
+      "summary": "Base deficit <−6 in trauma = significant shock — predicts need for massive transfusion. Lactate ≥2 = hyperlactataemia (monitor, investigate cause). Lactate ≥4 = septic shock criterion → 30mL/kg IV flu"
+    },
+    {
+      "id": "lab-coag-pt-inr",
+      "title": "PT / INR",
+      "badge": "COAG",
+      "section": "lab",
+      "category": "coag",
+      "summary": "INR monitors extrinsic pathway. INR >1.5 = significant coagulopathy. Warfarin reversal: INR 3–5 (no bleed) = hold dose. INR >5 or bleeding = Vitamin K IV + PCC (4-factor) preferred over FFP. Do NOT gi"
+    },
+    {
+      "id": "lab-coag-aptt",
+      "title": "APTT",
+      "badge": "COAG",
+      "section": "lab",
+      "category": "coag",
+      "summary": "APTT monitors intrinsic pathway. Lupus anticoagulant: APTT prolonged but causes THROMBOSIS not bleeding — mixing study fails to correct (inhibitor). Confirm with DRVVT. LMWH does NOT prolong APTT — mo"
+    },
+    {
+      "id": "lab-coag-d-dimer",
+      "title": "D-Dimer",
+      "badge": "COAG",
+      "section": "lab",
+      "category": "coag",
+      "summary": "D-dimer = RULE-OUT test. Negative D-dimer + low pre-test probability (Wells score) = DVT/PE safely excluded. Age-adjusted cut-off (age × 0.01 µg/mL in >50y) reduces unnecessary CT-PA by 30%. NEVER use"
+    },
+    {
+      "id": "lab-coag-fibrinogen-tt",
+      "title": "Fibrinogen & TT",
+      "badge": "COAG",
+      "section": "lab",
+      "category": "coag",
+      "summary": "Fibrinogen <1.5 g/L = give cryoprecipitate (10 units raises fibrinogen ~1 g/L). Fibrinogen <1.0 g/L = emergency cryoprecipitate. In obstetric haemorrhage: fibrinogen <2.0 = early predictor of severity"
+    },
+    {
+      "id": "lab-coag-anti-xa-level",
+      "title": "Anti-Xa Level",
+      "badge": "COAG",
+      "section": "lab",
+      "category": "coag",
+      "summary": "Anti-Xa is the CORRECT monitoring test for LMWH (not APTT). Monitor in: extremes of weight (<45kg or >100kg), renal impairment (CrCl <30), pregnancy, neonates. Prophylactic LMWH target: 0.2–0.4 IU/mL."
+    },
+    {
+      "id": "lab-cardiac-high-sensitivity-troponin-hs-ctn",
+      "title": "High-Sensitivity Troponin (hs-cTn)",
+      "badge": "CARDIAC",
+      "section": "lab",
+      "category": "cardiac",
+      "summary": "0h/1h algorithm: if hs-cTnT <5 ng/L at 0h AND delta <3 ng/L at 1h = 99.6% NPV for NSTEMI (rule-out). Delta (absolute rise) is MORE important than single value. Peak troponin 12–24h post-MI. Renal fail"
+    },
+    {
+      "id": "lab-cardiac-bnp-nt-probnp",
+      "title": "BNP / NT-proBNP",
+      "badge": "CARDIAC",
+      "section": "lab",
+      "category": "cardiac",
+      "summary": "NT-proBNP rule-in by age: <50y = 450 pg/mL. 50–75y = 900 pg/mL. >75y = 1800 pg/mL. Negative BNP/NT-proBNP has high NPV for HF (~95% — useful to exclude in acute dyspnoea). Obese patients: lower NT-pro"
+    },
+    {
+      "id": "lab-cardiac-ck-mb-ldh",
+      "title": "CK-MB & LDH",
+      "badge": "CARDIAC",
+      "section": "lab",
+      "category": "cardiac",
+      "summary": "CK-MB still useful for: (1) Detecting re-infarction — returns to normal faster than troponin, so new CK-MB rise after normalisation = re-MI. (2) Estimating infarct size (peak correlates with area of n"
+    },
+    {
+      "id": "lab-immune-ana-antinuclear-antibody",
+      "title": "ANA (Antinuclear Antibody)",
+      "badge": "IMMUNE",
+      "section": "lab",
+      "category": "immune",
+      "summary": "ANA is a SCREENING test only. Positive ANA → ENA panel: anti-dsDNA (SLE specific ★), anti-Sm (SLE specific), anti-Ro/La (Sjögren, neonatal lupus), anti-Scl-70 (scleroderma), anti-centromere (CREST), a"
+    },
+    {
+      "id": "lab-immune-anti-dsdna-anti-sm",
+      "title": "Anti-dsDNA & Anti-Sm",
+      "badge": "IMMUNE",
+      "section": "lab",
+      "category": "immune",
+      "summary": "Anti-dsDNA is the MOST USEFUL antibody in SLE monitoring. Serial titres + C3/C4 guide flare prediction. Anti-dsDNA + ↓ complement + active urine sediment = lupus nephritis → kidney biopsy urgently. An"
+    },
+    {
+      "id": "lab-immune-anti-tpo-anti-thyroid-peroxidase",
+      "title": "Anti-TPO (Anti-Thyroid Peroxidase) ★",
+      "badge": "IMMUNE",
+      "section": "lab",
+      "category": "immune",
+      "summary": "Anti-TPO confirms AUTOIMMUNE thyroid aetiology. Positive anti-TPO in euthyroid patient = 4× increased hypothyroidism risk per decade — recheck TSH annually. In pregnancy: positive anti-TPO + TSH >2.5 "
+    },
+    {
+      "id": "lab-immune-anti-tg-trab",
+      "title": "Anti-TG & TRAb",
+      "badge": "IMMUNE",
+      "section": "lab",
+      "category": "immune",
+      "summary": "Anti-TG critical in thyroid cancer: elevated anti-TG falsely LOWERS serum thyroglobulin (Tg) — making cancer recurrence monitoring unreliable. Always check anti-TG alongside Tg post-thyroidectomy. If "
+    },
+    {
+      "id": "lab-immune-anca-canca-panca",
+      "title": "ANCA (cANCA / pANCA)",
+      "badge": "IMMUNE",
+      "section": "lab",
+      "category": "immune",
+      "summary": "ANCA-associated vasculitis (AAV) triad: small vessel vasculitis + ANCA + end-organ damage. Renal emergency: haematuria + proteinuria + crescentic GN + positive ANCA → immunosuppression immediately (ri"
+    },
+    {
+      "id": "lab-immune-rf-anti-ccp",
+      "title": "RF & Anti-CCP",
+      "badge": "IMMUNE",
+      "section": "lab",
+      "category": "immune",
+      "summary": "Anti-CCP (anti-cyclic citrullinated peptide) is the most specific test for RA (98%). Anti-CCP + inflammatory polyarthritis = RA until proven otherwise → refer rheumatology, start DMARDs early. High an"
+    },
+    {
+      "id": "lab-immune-complement-c3-c4",
+      "title": "Complement C3 & C4",
+      "badge": "IMMUNE",
+      "section": "lab",
+      "category": "immune",
+      "summary": "Complement pattern interpretation: C3↓ + C4↓ = classic pathway (SLE ★, lupus nephritis, cryoglobulinaemia). C3↓ + C4 normal = alternative pathway (MPGN II, C3 nephritic factor). C4↓ + C3 normal = C1-i"
+    },
+    {
+      "id": "lab-immune-antiphospholipid-antibodies-apla",
+      "title": "Antiphospholipid Antibodies (APLA)",
+      "badge": "IMMUNE",
+      "section": "lab",
+      "category": "immune",
+      "summary": "APS diagnosis requires: (1) Clinical: thrombosis or pregnancy morbidity (3+ miscarriages <10wk, 1+ loss >10wk, premature birth <34wk for pre-eclampsia). (2) Lab: positive on 2 occasions ≥12 weeks apar"
+    },
+    {
+      "id": "lab-hormones-cortisol-acth",
+      "title": "Cortisol & ACTH",
+      "badge": "HORMONES",
+      "section": "lab",
+      "category": "hormones",
+      "summary": "Cushing's screening: 1mg overnight dexamethasone suppression test (normal = AM cortisol <50 nmol/L). OR 24h urine free cortisol. OR late-night salivary cortisol (best test — loss of diurnal nadir). Ad"
+    },
+    {
+      "id": "lab-hormones-tsh-thyroid-stimulating-hormone",
+      "title": "TSH (Thyroid Stimulating Hormone)",
+      "badge": "HORMONES",
+      "section": "lab",
+      "category": "hormones",
+      "summary": "TSH = most sensitive thyroid test. Start with TSH alone. If abnormal → add FT4 (+ FT3 if TSH suppressed). TSH 4–10 mIU/L (subclinical hypothyroid): treat if symptomatic, anti-TPO positive, or pregnant"
+    },
+    {
+      "id": "lab-hormones-prolactin",
+      "title": "Prolactin",
+      "badge": "HORMONES",
+      "section": "lab",
+      "category": "hormones",
+      "summary": "PRL >5000 mIU/L = prolactinoma very likely. PRL 1000–5000 = could be drug-induced, hypothyroidism, or macroprolactinaemia. Always exclude: pregnancy + hypothyroidism + medications FIRST. Macroprolacti"
+    },
+    {
+      "id": "lab-hormones-lh-fsh-testosterone",
+      "title": "LH / FSH & Testosterone",
+      "badge": "HORMONES",
+      "section": "lab",
+      "category": "hormones",
+      "summary": "FSH >40 IU/L + amenorrhoea ≥12 months in <40y = POI — HRT essential (osteoporosis + cardiovascular protection). LH:FSH >2:1 in PCOS (60% of cases — not a diagnostic criterion). Morning testosterone (7"
+    },
+    {
+      "id": "lab-hormones-igf-1-growth-hormone",
+      "title": "IGF-1 & Growth Hormone",
+      "badge": "HORMONES",
+      "section": "lab",
+      "category": "hormones",
+      "summary": "IGF-1 is BEST screening test for acromegaly (stable throughout day, unlike GH which is pulsatile). Elevated IGF-1 → confirm with OGTT (GH measured at 0, 30, 60, 90, 120 min — normal = suppression to <"
+    },
+    {
+      "id": "lab-tdm-digoxin",
+      "title": "Digoxin",
+      "badge": "TDM",
+      "section": "lab",
+      "category": "tdm",
+      "summary": "ECG of digoxin effect (not toxicity): reversed tick ST depression (scooping), short QT. Toxicity ECG: bradycardia, AV block, any arrhythmia. Treatment: stop digoxin, correct K⁺ to >4.0 mmol/L, anti-di"
+    },
+    {
+      "id": "lab-tdm-lithium",
+      "title": "Lithium",
+      "badge": "TDM",
+      "section": "lab",
+      "category": "tdm",
+      "summary": "Narrowest therapeutic window of all psychiatric drugs. Monitor pre-treatment (U&E, TFTs, ECG, pregnancy test) then every 6 months. NSAIDs are the most common cause of iatrogenic lithium toxicity — edu"
+    },
+    {
+      "id": "lab-tdm-vancomycin",
+      "title": "Vancomycin",
+      "badge": "TDM",
+      "section": "lab",
+      "category": "tdm",
+      "summary": "AUC/MIC monitoring now preferred over trough-only (reduces toxicity). Target AUC 400–600 for serious MRSA. Monitor creatinine daily during therapy. In renal impairment: extend dosing interval (not red"
+    },
+    {
+      "id": "lab-tdm-phenytoin-valproate",
+      "title": "Phenytoin & Valproate",
+      "badge": "TDM",
+      "section": "lab",
+      "category": "tdm",
+      "summary": "Phenytoin: non-linear kinetics — small dose ↑ causes disproportionately large level rise. In hypoalbuminaemia: corrected phenytoin = measured ÷ [(albumin g/dL × 0.1) + 0.1]. Major interactions: induce"
+    },
+    {
+      "id": "lab-tdm-gentamicin-aminoglycosides",
+      "title": "Gentamicin & Aminoglycosides",
+      "badge": "TDM",
+      "section": "lab",
+      "category": "tdm",
+      "summary": "Once-daily gentamicin: 5–7 mg/kg/day (Hartford nomogram for renal dosing). Pre-dose trough MUST be <1 mg/L before next dose (drug-free interval prevents nephrotoxicity). Monitor creatinine DAILY. Stop"
+    },
+    {
+      "id": "lab-crit-critical-values-haematology",
+      "title": "Critical Values — Haematology",
+      "badge": "CRIT",
+      "section": "lab",
+      "category": "crit",
+      "summary": "Laboratory critical values: call ordering physician within 60 minutes. Document: who notified, time, read-back of result. Patient must be reviewed within 1 hour. Do NOT simply result and walk away. Re"
+    },
+    {
+      "id": "lab-crit-critical-values-biochemistry",
+      "title": "Critical Values — Biochemistry",
+      "badge": "CRIT",
+      "section": "lab",
+      "category": "crit",
+      "summary": "Hyperkalaemia emergency (K >6.5): Step 1 — IV calcium gluconate 10mL 10% over 10 min (membrane stabilisation, IMMEDIATE). Step 2 — IV insulin 10U + 50mL 50% dextrose (shifts K into cells, onset 20 min"
+    },
+    {
+      "id": "lab-crit-critical-values-microbiology",
+      "title": "Critical Values — Microbiology",
+      "badge": "CRIT",
+      "section": "lab",
+      "category": "crit",
+      "summary": "Blood culture Gram stain guide: Gram-positive cocci clusters = MRSA/MSSA → vancomycin (MRSA) or flucloxacillin (MSSA). Gram-positive cocci chains = Streptococcus/Enterococcus → benzylpenicillin or amo"
+    },
+    {
+      "id": "skills-mud-mud-therapy-principles-physiological-effects",
+      "title": "Mud Therapy — Principles & Physiological Effects",
+      "badge": "Foundation",
+      "section": "skills",
+      "category": "mud",
+      "summary": null
+    },
+    {
+      "id": "skills-mud-mud-pack-types-application-technique",
+      "title": "Mud Pack — Types & Application Technique",
+      "badge": "Technique",
+      "section": "skills",
+      "category": "mud",
+      "summary": null
+    },
+    {
+      "id": "skills-mud-eye-mud-pack",
+      "title": "Eye Mud Pack",
+      "badge": "Technique",
+      "section": "skills",
+      "category": "mud",
+      "summary": null
+    },
+    {
+      "id": "skills-mud-mud-therapy-contraindications-precautions",
+      "title": "Mud Therapy — Contraindications & Precautions",
+      "badge": "Safety",
+      "section": "skills",
+      "category": "mud",
+      "summary": null
+    },
+    {
+      "id": "skills-diet-naturopathic-diet-therapy-principles",
+      "title": "Naturopathic Diet Therapy — Principles",
+      "badge": "Foundation",
+      "section": "skills",
+      "category": "diet",
+      "summary": null
+    },
+    {
+      "id": "skills-diet-therapeutic-diet-types-quick-reference",
+      "title": "Therapeutic Diet Types — Quick Reference",
+      "badge": "Reference",
+      "section": "skills",
+      "category": "diet",
+      "summary": null
+    },
+    {
+      "id": "skills-diet-fasting-therapy-types-protocols",
+      "title": "Fasting Therapy — Types & Protocols",
+      "badge": "Core",
+      "section": "skills",
+      "category": "diet",
+      "summary": null
+    },
+    {
+      "id": "skills-diet-fasting-contraindications-monitoring",
+      "title": "Fasting — Contraindications & Monitoring",
+      "badge": "Safety",
+      "section": "skills",
+      "category": "diet",
+      "summary": null
+    },
+    {
+      "id": "skills-yoga-yoga-therapy-assessment-initial-evaluation",
+      "title": "Yoga Therapy Assessment — Initial Evaluation",
+      "badge": "Framework",
+      "section": "skills",
+      "category": "yoga",
+      "summary": null
+    },
+    {
+      "id": "skills-yoga-yoga-prescription-by-condition",
+      "title": "Yoga Prescription by Condition",
+      "badge": "Clinical",
+      "section": "skills",
+      "category": "yoga",
+      "summary": null
+    },
+    {
+      "id": "skills-yoga-pranayama-clinical-guide",
+      "title": "Pranayama — Clinical Guide",
+      "badge": "Core",
+      "section": "skills",
+      "category": "yoga",
+      "summary": null
+    },
+    {
+      "id": "skills-acup-acupressure-principles-theory",
+      "title": "Acupressure — Principles & Theory",
+      "badge": "Foundation",
+      "section": "skills",
+      "category": "acup",
+      "summary": null
+    },
+    {
+      "id": "skills-acup-key-acupressure-points-clinical-reference",
+      "title": "Key Acupressure Points — Clinical Reference",
+      "badge": "Reference",
+      "section": "skills",
+      "category": "acup",
+      "summary": null
+    },
+    {
+      "id": "skills-acup-foot-reflexology-zone-map-protocol",
+      "title": "Foot Reflexology — Zone Map & Protocol",
+      "badge": "Technique",
+      "section": "skills",
+      "category": "acup",
+      "summary": null
+    },
+    {
+      "id": "skills-mass-massage-therapy-in-naturopathy-principles",
+      "title": "Massage Therapy in Naturopathy — Principles",
+      "badge": "Foundation",
+      "section": "skills",
+      "category": "mass",
+      "summary": null
+    },
+    {
+      "id": "skills-mass-abhyanga-full-body-oil-massage",
+      "title": "Abhyanga — Full Body Oil Massage",
+      "badge": "Core",
+      "section": "skills",
+      "category": "mass",
+      "summary": null
+    },
+    {
+      "id": "skills-mass-massage-contraindications-precautions",
+      "title": "Massage Contraindications & Precautions",
+      "badge": "Safety",
+      "section": "skills",
+      "category": "mass",
+      "summary": null
+    },
+    {
+      "id": "skills-coun-counselling-in-naturopathy-core-principles",
+      "title": "Counselling in Naturopathy — Core Principles",
+      "badge": "Foundation",
+      "section": "skills",
+      "category": "coun",
+      "summary": null
+    },
+    {
+      "id": "skills-coun-communication-skills-the-therapeutic-consultation",
+      "title": "Communication Skills — The Therapeutic Consultation",
+      "badge": "Practice",
+      "section": "skills",
+      "category": "coun",
+      "summary": null
+    },
+    {
+      "id": "skills-coun-mental-health-screening-in-naturopathic-practice",
+      "title": "Mental Health Screening in Naturopathic Practice",
+      "badge": "Essential",
+      "section": "skills",
+      "category": "coun",
+      "summary": null
+    },
+    {
+      "id": "skills-soap-bnys-casesheet-structure-format",
+      "title": "BNYS Casesheet — Structure & Format",
+      "badge": "Template",
+      "section": "skills",
+      "category": "soap",
+      "summary": null
+    },
+    {
+      "id": "skills-soap-bnys-physical-examination-naturopathic-approach",
+      "title": "BNYS Physical Examination — Naturopathic Approach",
+      "badge": "Template",
+      "section": "skills",
+      "category": "soap",
+      "summary": null
+    },
+    {
+      "id": "skills-soap-soap-note-bnys-format",
+      "title": "SOAP Note — BNYS Format",
+      "badge": "Template",
+      "section": "skills",
+      "category": "soap",
+      "summary": null
+    },
+    {
+      "id": "skills-soap-treatment-progress-notes-discharge-summary",
+      "title": "Treatment Progress Notes & Discharge Summary",
+      "badge": "Template",
+      "section": "skills",
+      "category": "soap",
+      "summary": null
+    },
+    {
+      "id": "exam-cv-general-inspection",
+      "title": "General Inspection",
+      "badge": "",
+      "section": "exam",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "exam-cv-pulse-assessment",
+      "title": "Pulse Assessment",
+      "badge": "",
+      "section": "exam",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "exam-cv-blood-pressure",
+      "title": "Blood Pressure",
+      "badge": "",
+      "section": "exam",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "exam-cv-jvp-assessment",
+      "title": "JVP Assessment",
+      "badge": "",
+      "section": "exam",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "exam-cv-precordial-examination",
+      "title": "Precordial Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "exam-cv-cardiac-auscultation",
+      "title": "Cardiac Auscultation",
+      "badge": "",
+      "section": "exam",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "exam-cv-cardiac-murmurs-full-guide",
+      "title": "Cardiac Murmurs — Full Guide",
+      "badge": "",
+      "section": "exam",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "exam-rs-respiratory-inspection",
+      "title": "Respiratory Inspection",
+      "badge": "",
+      "section": "exam",
+      "category": "rs",
+      "summary": null
+    },
+    {
+      "id": "exam-rs-chest-expansion-percussion",
+      "title": "Chest Expansion & Percussion",
+      "badge": "",
+      "section": "exam",
+      "category": "rs",
+      "summary": null
+    },
+    {
+      "id": "exam-rs-auscultation-breath-sounds",
+      "title": "Auscultation — Breath Sounds",
+      "badge": "",
+      "section": "exam",
+      "category": "rs",
+      "summary": null
+    },
+    {
+      "id": "exam-rs-respiratory-pattern-recognition",
+      "title": "Respiratory Pattern Recognition",
+      "badge": "",
+      "section": "exam",
+      "category": "rs",
+      "summary": null
+    },
+    {
+      "id": "exam-ab-abdominal-inspection",
+      "title": "Abdominal Inspection",
+      "badge": "",
+      "section": "exam",
+      "category": "ab",
+      "summary": null
+    },
+    {
+      "id": "exam-ab-abdominal-palpation",
+      "title": "Abdominal Palpation",
+      "badge": "",
+      "section": "exam",
+      "category": "ab",
+      "summary": null
+    },
+    {
+      "id": "exam-ab-special-abdominal-signs",
+      "title": "Special Abdominal Signs",
+      "badge": "",
+      "section": "exam",
+      "category": "ab",
+      "summary": null
+    },
+    {
+      "id": "exam-ab-abdominal-percussion-auscultation",
+      "title": "Abdominal Percussion & Auscultation",
+      "badge": "",
+      "section": "exam",
+      "category": "ab",
+      "summary": null
+    },
+    {
+      "id": "exam-nr-cranial-nerve-examination",
+      "title": "Cranial Nerve Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "nr",
+      "summary": null
+    },
+    {
+      "id": "exam-nr-upper-limb-neurological-exam",
+      "title": "Upper Limb Neurological Exam",
+      "badge": "",
+      "section": "exam",
+      "category": "nr",
+      "summary": null
+    },
+    {
+      "id": "exam-nr-lower-limb-neurological-exam",
+      "title": "Lower Limb Neurological Exam",
+      "badge": "",
+      "section": "exam",
+      "category": "nr",
+      "summary": null
+    },
+    {
+      "id": "exam-nr-cerebellar-gait-examination",
+      "title": "Cerebellar & Gait Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "nr",
+      "summary": null
+    },
+    {
+      "id": "exam-nr-mini-mental-state-cognitive-testing",
+      "title": "Mini Mental State & Cognitive Testing",
+      "badge": "",
+      "section": "exam",
+      "category": "nr",
+      "summary": null
+    },
+    {
+      "id": "exam-ms-gals-screen-gait-arms-legs-spine",
+      "title": "GALS Screen (Gait, Arms, Legs, Spine)",
+      "badge": "",
+      "section": "exam",
+      "category": "ms",
+      "summary": null
+    },
+    {
+      "id": "exam-ms-hand-wrist-examination",
+      "title": "Hand & Wrist Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "ms",
+      "summary": null
+    },
+    {
+      "id": "exam-ms-knee-examination",
+      "title": "Knee Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "ms",
+      "summary": null
+    },
+    {
+      "id": "exam-ms-hip-spine-examination",
+      "title": "Hip & Spine Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "ms",
+      "summary": null
+    },
+    {
+      "id": "exam-th-thyroid-examination",
+      "title": "Thyroid Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "th",
+      "summary": null
+    },
+    {
+      "id": "exam-th-hyperthyroidism-vs-hypothyroidism-signs",
+      "title": "Hyperthyroidism vs Hypothyroidism Signs",
+      "badge": "",
+      "section": "exam",
+      "category": "th",
+      "summary": null
+    },
+    {
+      "id": "exam-th-cushings-syndrome-examination",
+      "title": "Cushing's Syndrome Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "th",
+      "summary": null
+    },
+    {
+      "id": "exam-ey-visual-acuity-visual-fields",
+      "title": "Visual Acuity & Visual Fields",
+      "badge": "",
+      "section": "exam",
+      "category": "ey",
+      "summary": null
+    },
+    {
+      "id": "exam-ey-pupil-examination",
+      "title": "Pupil Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "ey",
+      "summary": null
+    },
+    {
+      "id": "exam-ey-fundoscopy",
+      "title": "Fundoscopy",
+      "badge": "",
+      "section": "exam",
+      "category": "ey",
+      "summary": null
+    },
+    {
+      "id": "exam-er-ear-examination",
+      "title": "Ear Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "er",
+      "summary": null
+    },
+    {
+      "id": "exam-er-nose-throat-examination",
+      "title": "Nose & Throat Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "er",
+      "summary": null
+    },
+    {
+      "id": "exam-er-neck-examination-lymph-nodes",
+      "title": "Neck Examination & Lymph Nodes",
+      "badge": "",
+      "section": "exam",
+      "category": "er",
+      "summary": null
+    },
+    {
+      "id": "exam-gn-breast-examination",
+      "title": "Breast Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "gn",
+      "summary": null
+    },
+    {
+      "id": "exam-gn-per-speculum-bimanual-examination",
+      "title": "Per Speculum & Bimanual Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "gn",
+      "summary": null
+    },
+    {
+      "id": "exam-gn-male-genitourinary-examination",
+      "title": "Male Genitourinary Examination",
+      "badge": "",
+      "section": "exam",
+      "category": "gn",
+      "summary": null
+    },
+    {
+      "id": "exam-sk-skin-lesion-description",
+      "title": "Skin Lesion Description",
+      "badge": "",
+      "section": "exam",
+      "category": "sk",
+      "summary": null
+    },
+    {
+      "id": "exam-sk-common-rash-patterns",
+      "title": "Common Rash Patterns",
+      "badge": "",
+      "section": "exam",
+      "category": "sk",
+      "summary": null
+    },
+    {
+      "id": "exam-sk-skin-signs-of-systemic-disease",
+      "title": "Skin Signs of Systemic Disease",
+      "badge": "",
+      "section": "exam",
+      "category": "sk",
+      "summary": null
+    },
+    {
+      "id": "exam-gp-general-peripheral-signs-hands",
+      "title": "General Peripheral Signs — Hands",
+      "badge": "",
+      "section": "exam",
+      "category": "gp",
+      "summary": null
+    },
+    {
+      "id": "exam-gp-general-peripheral-signs-face-eyes",
+      "title": "General Peripheral Signs — Face & Eyes",
+      "badge": "",
+      "section": "exam",
+      "category": "gp",
+      "summary": null
+    },
+    {
+      "id": "exam-gp-vital-signs-normal-values-interpretation",
+      "title": "Vital Signs — Normal Values & Interpretation",
+      "badge": "",
+      "section": "exam",
+      "category": "gp",
+      "summary": null
+    },
+    {
+      "id": "exam-gp-nutritional-fluid-assessment",
+      "title": "Nutritional & Fluid Assessment",
+      "badge": "",
+      "section": "exam",
+      "category": "gp",
+      "summary": null
+    },
+    {
+      "id": "bnys-ca-bnys-history-taking-naturopathic-framework",
+      "title": "BNYS History Taking — Naturopathic Framework",
+      "badge": "",
+      "section": "bnys",
+      "category": "ca",
+      "summary": null
+    },
+    {
+      "id": "bnys-ca-vitality-assessment-the-naturopathic-lens",
+      "title": "Vitality Assessment — The Naturopathic Lens",
+      "badge": "",
+      "section": "bnys",
+      "category": "ca",
+      "summary": null
+    },
+    {
+      "id": "bnys-ca-naturopathic-clinical-examination",
+      "title": "Naturopathic Clinical Examination",
+      "badge": "",
+      "section": "bnys",
+      "category": "ca",
+      "summary": null
+    },
+    {
+      "id": "bnys-ca-bnys-treatment-planning-framework",
+      "title": "BNYS Treatment Planning Framework",
+      "badge": "",
+      "section": "bnys",
+      "category": "ca",
+      "summary": null
+    },
+    {
+      "id": "bnys-yk-yoga-asanas-therapeutic-indications",
+      "title": "Yoga Asanas — Therapeutic Indications",
+      "badge": "",
+      "section": "bnys",
+      "category": "yk",
+      "summary": null
+    },
+    {
+      "id": "bnys-yk-yoga-for-specific-conditions-protocols",
+      "title": "Yoga for Specific Conditions — Protocols",
+      "badge": "",
+      "section": "bnys",
+      "category": "yk",
+      "summary": null
+    },
+    {
+      "id": "bnys-yk-yoga-nidra-systematic-relaxation",
+      "title": "Yoga Nidra — Systematic Relaxation",
+      "badge": "",
+      "section": "bnys",
+      "category": "yk",
+      "summary": null
+    },
+    {
+      "id": "bnys-ms-massage-techniques-bnys-fundamentals",
+      "title": "Massage Techniques — BNYS Fundamentals",
+      "badge": "",
+      "section": "bnys",
+      "category": "ms",
+      "summary": null
+    },
+    {
+      "id": "bnys-ms-oil-selection-for-massage",
+      "title": "Oil Selection for Massage",
+      "badge": "",
+      "section": "bnys",
+      "category": "ms",
+      "summary": null
+    },
+    {
+      "id": "bnys-ms-contraindications-to-massage",
+      "title": "Contraindications to Massage",
+      "badge": "",
+      "section": "bnys",
+      "category": "ms",
+      "summary": null
+    },
+    {
+      "id": "bnys-ac-acupressure-key-points-applications",
+      "title": "Acupressure — Key Points & Applications",
+      "badge": "",
+      "section": "bnys",
+      "category": "ac",
+      "summary": null
+    },
+    {
+      "id": "bnys-ac-reflexology-foot-zones",
+      "title": "Reflexology — Foot Zones",
+      "badge": "",
+      "section": "bnys",
+      "category": "ac",
+      "summary": null
+    },
+    {
+      "id": "bnys-pr-pranayama-full-guide-with-therapeutic-ratios",
+      "title": "Pranayama — Full Guide with Therapeutic Ratios",
+      "badge": "",
+      "section": "bnys",
+      "category": "pr",
+      "summary": null
+    },
+    {
+      "id": "bnys-pr-diaphragmatic-breathing-foundation-technique",
+      "title": "Diaphragmatic Breathing — Foundation Technique",
+      "badge": "",
+      "section": "bnys",
+      "category": "pr",
+      "summary": null
+    },
+    {
+      "id": "bnys-dt-naturopathic-dietary-principles",
+      "title": "Naturopathic Dietary Principles",
+      "badge": "",
+      "section": "bnys",
+      "category": "dt",
+      "summary": null
+    },
+    {
+      "id": "bnys-dt-therapeutic-diets-condition-specific",
+      "title": "Therapeutic Diets — Condition-Specific",
+      "badge": "",
+      "section": "bnys",
+      "category": "dt",
+      "summary": null
+    },
+    {
+      "id": "bnys-dt-therapeutic-foods-their-actions",
+      "title": "Therapeutic Foods & Their Actions",
+      "badge": "",
+      "section": "bnys",
+      "category": "dt",
+      "summary": null
+    },
+    {
+      "id": "bnys-fa-types-of-therapeutic-fasting",
+      "title": "Types of Therapeutic Fasting",
+      "badge": "",
+      "section": "bnys",
+      "category": "fa",
+      "summary": null
+    },
+    {
+      "id": "bnys-fa-fasting-monitoring-protocol",
+      "title": "Fasting Monitoring Protocol",
+      "badge": "",
+      "section": "bnys",
+      "category": "fa",
+      "summary": null
+    },
+    {
+      "id": "bnys-fa-refeeding-protocol-after-fasting",
+      "title": "Refeeding Protocol After Fasting",
+      "badge": "",
+      "section": "bnys",
+      "category": "fa",
+      "summary": null
+    },
+    {
+      "id": "bnys-lf-type-2-diabetes-naturopathic-management",
+      "title": "Type 2 Diabetes — Naturopathic Management",
+      "badge": "",
+      "section": "bnys",
+      "category": "lf",
+      "summary": null
+    },
+    {
+      "id": "bnys-lf-hypertension-naturopathic-management",
+      "title": "Hypertension — Naturopathic Management",
+      "badge": "",
+      "section": "bnys",
+      "category": "lf",
+      "summary": null
+    },
+    {
+      "id": "bnys-lf-obesity-naturopathic-management",
+      "title": "Obesity — Naturopathic Management",
+      "badge": "",
+      "section": "bnys",
+      "category": "lf",
+      "summary": null
+    },
+    {
+      "id": "bnys-nt-chronic-constipation-protocol",
+      "title": "Chronic Constipation Protocol",
+      "badge": "",
+      "section": "bnys",
+      "category": "nt",
+      "summary": null
+    },
+    {
+      "id": "bnys-nt-chronic-back-pain-protocol",
+      "title": "Chronic Back Pain Protocol",
+      "badge": "",
+      "section": "bnys",
+      "category": "nt",
+      "summary": null
+    },
+    {
+      "id": "bnys-nt-insomnia-protocol",
+      "title": "Insomnia Protocol",
+      "badge": "",
+      "section": "bnys",
+      "category": "nt",
+      "summary": null
+    },
+    {
+      "id": "bnys-dr-yoga-exercise-interactions-with-medications",
+      "title": "Yoga & Exercise Interactions with Medications",
+      "badge": "",
+      "section": "bnys",
+      "category": "dr",
+      "summary": null
+    },
+    {
+      "id": "bnys-dr-dietary-interventions-drug-interactions",
+      "title": "Dietary Interventions & Drug Interactions",
+      "badge": "",
+      "section": "bnys",
+      "category": "dr",
+      "summary": null
+    },
+    {
+      "id": "bnys-dr-fasting-drug-interactions",
+      "title": "Fasting & Drug Interactions",
+      "badge": "",
+      "section": "bnys",
+      "category": "dr",
+      "summary": null
+    },
+    {
+      "id": "bnys-cs-motivational-interviewing-core-skills",
+      "title": "Motivational Interviewing — Core Skills",
+      "badge": "",
+      "section": "bnys",
+      "category": "cs",
+      "summary": null
+    },
+    {
+      "id": "bnys-cs-stages-of-change-transtheoretical-model",
+      "title": "Stages of Change — Transtheoretical Model",
+      "badge": "",
+      "section": "bnys",
+      "category": "cs",
+      "summary": null
+    },
+    {
+      "id": "bnys-cs-lifestyle-prescription-smart-goal-setting",
+      "title": "Lifestyle Prescription — SMART Goal Setting",
+      "badge": "",
+      "section": "bnys",
+      "category": "cs",
+      "summary": null
+    },
+    {
+      "id": "bnys-rf-absolute-contraindications-do-not-treat-naturopathically",
+      "title": "ABSOLUTE CONTRAINDICATIONS — Do NOT Treat Naturopathically",
+      "badge": "",
+      "section": "bnys",
+      "category": "rf",
+      "summary": null
+    },
+    {
+      "id": "bnys-rf-red-flag-symptoms-always-investigate-before-treatment",
+      "title": "Red Flag Symptoms — Always Investigate Before Treatment",
+      "badge": "",
+      "section": "bnys",
+      "category": "rf",
+      "summary": null
+    },
+    {
+      "id": "bnys-rf-conditions-where-naturopathy-is-complementary-not-primary",
+      "title": "Conditions Where Naturopathy is Complementary (Not Primary)",
+      "badge": "",
+      "section": "bnys",
+      "category": "rf",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-how-to-read-any-ortho-x-ray-abcs-approach",
+      "title": "How to Read Any Ortho X-Ray — ABCS Approach",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-fracture-classification-patterns",
+      "title": "Fracture Classification & Patterns",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-common-orthopaedic-x-ray-findings-upper-limb",
+      "title": "Common Orthopaedic X-Ray Findings — Upper Limb",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-common-orthopaedic-x-ray-findings-lower-limb",
+      "title": "Common Orthopaedic X-Ray Findings — Lower Limb",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-arthritis-on-x-ray-quick-comparison-all-types",
+      "title": "Arthritis on X-Ray — Quick Comparison (All Types)",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-osteoarthritis-oa-x-ray-in-detail",
+      "title": "Osteoarthritis (OA) — X-Ray in Detail",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-rheumatoid-arthritis-ra-x-ray-in-detail",
+      "title": "Rheumatoid Arthritis (RA) — X-Ray in Detail",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-ankylosing-spondylitis-as-x-ray-in-detail",
+      "title": "Ankylosing Spondylitis (AS) — X-Ray in Detail",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-gout-psoriatic-other-arthropathies-x-ray",
+      "title": "Gout, Psoriatic & Other Arthropathies — X-Ray",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-spine-x-ray-interpretation",
+      "title": "Spine X-Ray Interpretation",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-bone-density-metabolic-bone-disease",
+      "title": "Bone Density & Metabolic Bone Disease",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-knee-x-ray-detailed-assessment",
+      "title": "Knee X-Ray — Detailed Assessment",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-or-hip-x-ray-assessment-measurements",
+      "title": "Hip X-Ray — Assessment & Measurements",
+      "badge": "",
+      "section": "imaging",
+      "category": "or",
+      "summary": null
+    },
+    {
+      "id": "imaging-ec-2d-echo-standard-views-what-you-see",
+      "title": "2D Echo — Standard Views & What You See",
+      "badge": "",
+      "section": "imaging",
+      "category": "ec",
+      "summary": null
+    },
+    {
+      "id": "imaging-ec-normal-echo-values-must-know",
+      "title": "Normal Echo Values — Must Know",
+      "badge": "",
+      "section": "imaging",
+      "category": "ec",
+      "summary": null
+    },
+    {
+      "id": "imaging-ec-lv-systolic-function-assessment",
+      "title": "LV Systolic Function Assessment",
+      "badge": "",
+      "section": "imaging",
+      "category": "ec",
+      "summary": null
+    },
+    {
+      "id": "imaging-ec-diastolic-dysfunction-grading",
+      "title": "Diastolic Dysfunction — Grading",
+      "badge": "",
+      "section": "imaging",
+      "category": "ec",
+      "summary": null
+    },
+    {
+      "id": "imaging-ec-valve-assessment-on-2d-echo",
+      "title": "Valve Assessment on 2D Echo",
+      "badge": "",
+      "section": "imaging",
+      "category": "ec",
+      "summary": null
+    },
+    {
+      "id": "imaging-ec-pericardial-disease-on-echo",
+      "title": "Pericardial Disease on Echo",
+      "badge": "",
+      "section": "imaging",
+      "category": "ec",
+      "summary": null
+    },
+    {
+      "id": "imaging-ec-pulmonary-hypertension-on-echo",
+      "title": "Pulmonary Hypertension on Echo",
+      "badge": "",
+      "section": "imaging",
+      "category": "ec",
+      "summary": null
+    },
+    {
+      "id": "imaging-us-usg-abdomen-systematic-approach",
+      "title": "USG Abdomen — Systematic Approach",
+      "badge": "",
+      "section": "imaging",
+      "category": "us",
+      "summary": null
+    },
+    {
+      "id": "imaging-us-liver-normal-values-pathology",
+      "title": "Liver — Normal Values & Pathology",
+      "badge": "",
+      "section": "imaging",
+      "category": "us",
+      "summary": null
+    },
+    {
+      "id": "imaging-us-gallbladder-bile-ducts",
+      "title": "Gallbladder & Bile Ducts",
+      "badge": "",
+      "section": "imaging",
+      "category": "us",
+      "summary": null
+    },
+    {
+      "id": "imaging-us-kidneys-normal-values-pathology",
+      "title": "Kidneys — Normal Values & Pathology",
+      "badge": "",
+      "section": "imaging",
+      "category": "us",
+      "summary": null
+    },
+    {
+      "id": "imaging-us-pancreas-spleen-aorta",
+      "title": "Pancreas, Spleen & Aorta",
+      "badge": "",
+      "section": "imaging",
+      "category": "us",
+      "summary": null
+    },
+    {
+      "id": "imaging-us-free-fluid-fast-scan",
+      "title": "Free Fluid & FAST Scan",
+      "badge": "",
+      "section": "imaging",
+      "category": "us",
+      "summary": null
+    },
+    {
+      "id": "imaging-us-usg-pelvis-uterus-ovaries-bladder",
+      "title": "USG Pelvis — Uterus, Ovaries & Bladder",
+      "badge": "",
+      "section": "imaging",
+      "category": "us",
+      "summary": null
+    },
+    {
+      "id": "imaging-sp-mri-spine-reading-the-report",
+      "title": "MRI Spine — Reading the Report",
+      "badge": "",
+      "section": "imaging",
+      "category": "sp",
+      "summary": null
+    },
+    {
+      "id": "imaging-sp-mri-knee-key-findings",
+      "title": "MRI Knee — Key Findings",
+      "badge": "",
+      "section": "imaging",
+      "category": "sp",
+      "summary": null
+    },
+    {
+      "id": "imaging-sp-ct-abdomen-tissue-windows",
+      "title": "CT Abdomen — Tissue Windows",
+      "badge": "",
+      "section": "imaging",
+      "category": "sp",
+      "summary": null
+    },
+    {
+      "id": "imaging-sp-dexa-scan-bone-mineral-density",
+      "title": "DEXA Scan — Bone Mineral Density",
+      "badge": "",
+      "section": "imaging",
+      "category": "sp",
+      "summary": null
+    },
+    {
+      "id": "imaging-ecg-ecg-interpretation-systematic-8-step-approach",
+      "title": "ECG Interpretation — Systematic 8-Step Approach",
+      "badge": "Foundation",
+      "section": "imaging",
+      "category": "ecg",
+      "summary": null
+    },
+    {
+      "id": "imaging-ecg-stemi-territory-culprit-artery-localisation",
+      "title": "STEMI — Territory, Culprit Artery & Localisation",
+      "badge": "Emergency ★",
+      "section": "imaging",
+      "category": "ecg",
+      "summary": null
+    },
+    {
+      "id": "imaging-ecg-arrhythmia-recognition-quick-reference",
+      "title": "Arrhythmia Recognition — Quick Reference",
+      "badge": "Essential",
+      "section": "imaging",
+      "category": "ecg",
+      "summary": null
+    },
+    {
+      "id": "imaging-ecg-bbb-bundle-branch-block-lbbb-vs-rbbb",
+      "title": "BBB (Bundle Branch Block) — LBBB vs RBBB",
+      "badge": "Diagnosis",
+      "section": "imaging",
+      "category": "ecg",
+      "summary": null
+    },
+    {
+      "id": "imaging-ecg-ecg-in-electrolyte-abnormalities",
+      "title": "ECG in Electrolyte Abnormalities",
+      "badge": "Critical",
+      "section": "imaging",
+      "category": "ecg",
+      "summary": null
+    },
+    {
+      "id": "imaging-ecg-ecg-patterns-cardiac-conditions-quick-reference",
+      "title": "ECG Patterns — Cardiac Conditions Quick Reference",
+      "badge": "Reference",
+      "section": "imaging",
+      "category": "ecg",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-gut-microbiome-overview-key-phyla",
+      "title": "Gut Microbiome — Overview & Key Phyla",
+      "badge": "Foundation",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-leaky-gut-intestinal-permeability",
+      "title": "Leaky Gut (Intestinal Permeability)",
+      "badge": "Key Concept",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-sibo-small-intestinal-bacterial-overgrowth",
+      "title": "SIBO — Small Intestinal Bacterial Overgrowth",
+      "badge": "Common",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-dysbiosis-patterns-clinical-correlations",
+      "title": "Dysbiosis Patterns & Clinical Correlations",
+      "badge": "Clinical",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-probiotics-evidence-based-guide",
+      "title": "Probiotics — Evidence-Based Guide",
+      "badge": "Treatment",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-prebiotics-postbiotics-synbiotics",
+      "title": "Prebiotics, Postbiotics & Synbiotics",
+      "badge": "Nutrition",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-h-pylori-gerd-naturopathic-protocols",
+      "title": "H. pylori & GERD — Naturopathic Protocols",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-coeliac-disease-haemorrhoids-liver-health",
+      "title": "Coeliac Disease, Haemorrhoids & Liver Health",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-diverticular-disease-ibd-naturopathic-protocols",
+      "title": "Diverticular Disease & IBD — Naturopathic Protocols",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-h-pylori-detection-eradication-naturopathic-support",
+      "title": "H. pylori — Detection, Eradication & Naturopathic Support",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-gerd-naturopathic-assessment-protocol",
+      "title": "GERD — Naturopathic Assessment & Protocol",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-coeliac-disease-diagnosis-nutritional-management",
+      "title": "Coeliac Disease — Diagnosis & Nutritional Management",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-haemorrhoids-diverticular-disease-liver-health",
+      "title": "Haemorrhoids, Diverticular Disease & Liver Health",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-candida-fungal-overgrowth-assessment-protocol",
+      "title": "Candida & Fungal Overgrowth — Assessment & Protocol",
+      "badge": "Clinical",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-inflammatory-bowel-disease-naturopathic-adjunct",
+      "title": "Inflammatory Bowel Disease — Naturopathic Adjunct",
+      "badge": "Clinical ★",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-constipation-comprehensive-naturopathic-protocol",
+      "title": "Constipation — Comprehensive Naturopathic Protocol",
+      "badge": "Clinical ★",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-gut-brain-axis-mechanisms",
+      "title": "Gut-Brain Axis — Mechanisms",
+      "badge": "Systems",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-stool-analysis-comprehensive-interpretation",
+      "title": "Stool Analysis — Comprehensive Interpretation",
+      "badge": "Testing",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-ibs-naturopathic-assessment-treatment",
+      "title": "IBS — Naturopathic Assessment & Treatment",
+      "badge": "Common",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-fodmaps-low-fodmap-diet-protocol",
+      "title": "FODMAPs — Low-FODMAP Diet Protocol",
+      "badge": "IBS Protocol",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-intestinal-permeability-leaky-gut-evidence-4r-protocol",
+      "title": "Intestinal Permeability (Leaky Gut) — Evidence & 4R Protocol",
+      "badge": "Mechanism",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-sibo-diagnosis-types-naturopathic-treatment",
+      "title": "SIBO — Diagnosis, Types & Naturopathic Treatment",
+      "badge": "Clinical",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-liver-disease-nafld-to-cirrhosis",
+      "title": "Liver Disease — NAFLD to Cirrhosis",
+      "badge": "Clinical ★",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-functional-dyspepsia-gastroparesis",
+      "title": "Functional Dyspepsia & Gastroparesis",
+      "badge": "Clinical",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-pancreatitis-acute-chronic",
+      "title": "Pancreatitis — Acute & Chronic",
+      "badge": "Reference",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-mbi-colorectal-cancer-prevention",
+      "title": "Colorectal Cancer Prevention",
+      "badge": "Prevention ★",
+      "section": "gut",
+      "category": "mbi",
+      "summary": null
+    },
+    {
+      "id": "gut-micro-gut-microbiome-overview-key-phyla",
+      "title": "Gut Microbiome — Overview & Key Phyla",
+      "badge": "Foundation",
+      "section": "gut",
+      "category": "micro",
+      "summary": null
+    },
+    {
+      "id": "gut-micro-leaky-gut-intestinal-permeability",
+      "title": "Leaky Gut (Intestinal Permeability)",
+      "badge": "Key Concept",
+      "section": "gut",
+      "category": "micro",
+      "summary": null
+    },
+    {
+      "id": "gut-micro-dysbiosis-patterns-clinical-correlations",
+      "title": "Dysbiosis Patterns & Clinical Correlations",
+      "badge": "Clinical",
+      "section": "gut",
+      "category": "micro",
+      "summary": null
+    },
+    {
+      "id": "gut-micro-probiotics-evidence-based-guide",
+      "title": "Probiotics — Evidence-Based Guide",
+      "badge": "Treatment",
+      "section": "gut",
+      "category": "micro",
+      "summary": null
+    },
+    {
+      "id": "gut-micro-prebiotics-postbiotics-synbiotics",
+      "title": "Prebiotics, Postbiotics & Synbiotics",
+      "badge": "Nutrition",
+      "section": "gut",
+      "category": "micro",
+      "summary": null
+    },
+    {
+      "id": "gut-micro-gut-brain-axis-mechanisms",
+      "title": "Gut-Brain Axis — Mechanisms",
+      "badge": "Systems",
+      "section": "gut",
+      "category": "micro",
+      "summary": null
+    },
+    {
+      "id": "gut-micro-stool-analysis-comprehensive-interpretation",
+      "title": "Stool Analysis — Comprehensive Interpretation",
+      "badge": "Testing",
+      "section": "gut",
+      "category": "micro",
+      "summary": null
+    },
+    {
+      "id": "gut-cond-sibo-small-intestinal-bacterial-overgrowth",
+      "title": "SIBO — Small Intestinal Bacterial Overgrowth",
+      "badge": "Common",
+      "section": "gut",
+      "category": "cond",
+      "summary": null
+    },
+    {
+      "id": "gut-cond-h-pylori-detection-eradication-naturopathic-support",
+      "title": "H. pylori — Detection, Eradication & Naturopathic Support",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "cond",
+      "summary": null
+    },
+    {
+      "id": "gut-cond-gerd-naturopathic-assessment-protocol",
+      "title": "GERD — Naturopathic Assessment & Protocol",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "cond",
+      "summary": null
+    },
+    {
+      "id": "gut-cond-coeliac-disease-diagnosis-nutritional-management",
+      "title": "Coeliac Disease — Diagnosis & Nutritional Management",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "cond",
+      "summary": null
+    },
+    {
+      "id": "gut-cond-ibs-naturopathic-assessment-treatment",
+      "title": "IBS — Naturopathic Assessment & Treatment",
+      "badge": "Common",
+      "section": "gut",
+      "category": "cond",
+      "summary": null
+    },
+    {
+      "id": "gut-cond-fodmaps-low-fodmap-diet-protocol",
+      "title": "FODMAPs — Low-FODMAP Diet Protocol",
+      "badge": "IBS Protocol",
+      "section": "gut",
+      "category": "cond",
+      "summary": null
+    },
+    {
+      "id": "gut-cond-intestinal-permeability-leaky-gut-evidence-4r-protocol",
+      "title": "Intestinal Permeability (Leaky Gut) — Evidence & 4R Protocol",
+      "badge": "Mechanism",
+      "section": "gut",
+      "category": "cond",
+      "summary": null
+    },
+    {
+      "id": "gut-cond-sibo-diagnosis-types-naturopathic-treatment",
+      "title": "SIBO — Diagnosis, Types & Naturopathic Treatment",
+      "badge": "Clinical",
+      "section": "gut",
+      "category": "cond",
+      "summary": null
+    },
+    {
+      "id": "gut-ibd-h-pylori-gerd-naturopathic-protocols",
+      "title": "H. pylori & GERD — Naturopathic Protocols",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "ibd",
+      "summary": null
+    },
+    {
+      "id": "gut-ibd-coeliac-disease-haemorrhoids-liver-health",
+      "title": "Coeliac Disease, Haemorrhoids & Liver Health",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "ibd",
+      "summary": null
+    },
+    {
+      "id": "gut-ibd-diverticular-disease-ibd-naturopathic-protocols",
+      "title": "Diverticular Disease & IBD — Naturopathic Protocols",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "ibd",
+      "summary": null
+    },
+    {
+      "id": "gut-ibd-haemorrhoids-diverticular-disease-liver-health",
+      "title": "Haemorrhoids, Diverticular Disease & Liver Health",
+      "badge": "Gut Health",
+      "section": "gut",
+      "category": "ibd",
+      "summary": null
+    },
+    {
+      "id": "gut-ibd-candida-fungal-overgrowth-assessment-protocol",
+      "title": "Candida & Fungal Overgrowth — Assessment & Protocol",
+      "badge": "Clinical",
+      "section": "gut",
+      "category": "ibd",
+      "summary": null
+    },
+    {
+      "id": "gut-ibd-inflammatory-bowel-disease-naturopathic-adjunct",
+      "title": "Inflammatory Bowel Disease — Naturopathic Adjunct",
+      "badge": "Clinical ★",
+      "section": "gut",
+      "category": "ibd",
+      "summary": null
+    },
+    {
+      "id": "gut-liver-liver-disease-nafld-to-cirrhosis",
+      "title": "Liver Disease — NAFLD to Cirrhosis",
+      "badge": "Clinical ★",
+      "section": "gut",
+      "category": "liver",
+      "summary": null
+    },
+    {
+      "id": "gut-liver-functional-dyspepsia-gastroparesis",
+      "title": "Functional Dyspepsia & Gastroparesis",
+      "badge": "Clinical",
+      "section": "gut",
+      "category": "liver",
+      "summary": null
+    },
+    {
+      "id": "gut-liver-pancreatitis-acute-chronic",
+      "title": "Pancreatitis — Acute & Chronic",
+      "badge": "Reference",
+      "section": "gut",
+      "category": "liver",
+      "summary": null
+    },
+    {
+      "id": "gut-liver-colorectal-cancer-prevention",
+      "title": "Colorectal Cancer Prevention",
+      "badge": "Prevention ★",
+      "section": "gut",
+      "category": "liver",
+      "summary": null
+    },
+    {
+      "id": "onco-ioc-integrative-oncology-principles-evidence",
+      "title": "Integrative Oncology — Principles & Evidence",
+      "badge": "Foundation",
+      "section": "onco",
+      "category": "ioc",
+      "summary": null
+    },
+    {
+      "id": "onco-ioc-oncology-nutrition-evidence-based",
+      "title": "Oncology Nutrition — Evidence-Based",
+      "badge": "Nutrition",
+      "section": "onco",
+      "category": "ioc",
+      "summary": null
+    },
+    {
+      "id": "onco-ioc-herb-supplement-safety-in-cancer-treatment",
+      "title": "Herb & Supplement Safety in Cancer Treatment",
+      "badge": "Safety",
+      "section": "onco",
+      "category": "ioc",
+      "summary": null
+    },
+    {
+      "id": "onco-ioc-cancer-cachexia-naturopathic-nutritional-support",
+      "title": "Cancer Cachexia — Naturopathic Nutritional Support",
+      "badge": "Clinical",
+      "section": "onco",
+      "category": "ioc",
+      "summary": null
+    },
+    {
+      "id": "onco-ioc-cancer-sleep-managing-treatment-related-insomnia",
+      "title": "Cancer & Sleep — Managing Treatment-Related Insomnia",
+      "badge": "Supportive Care",
+      "section": "onco",
+      "category": "ioc",
+      "summary": null
+    },
+    {
+      "id": "onco-ioc-integrative-oncology-cancer-type-protocols",
+      "title": "Integrative Oncology — Cancer Type Protocols",
+      "badge": "Reference",
+      "section": "onco",
+      "category": "ioc",
+      "summary": null
+    },
+    {
+      "id": "onco-ioc-chemotherapy-side-effect-management",
+      "title": "Chemotherapy Side Effect Management",
+      "badge": "Oncology ★",
+      "section": "onco",
+      "category": "ioc",
+      "summary": null
+    },
+    {
+      "id": "onco-ioc-cancer-survivorship-long-term-naturopathic",
+      "title": "Cancer Survivorship — Long-Term Naturopathic",
+      "badge": "Supportive",
+      "section": "onco",
+      "category": "ioc",
+      "summary": null
+    },
+    {
+      "id": "onco-ioc-palliative-naturopathy-symptom-management",
+      "title": "Palliative Naturopathy — Symptom Management",
+      "badge": "Supportive",
+      "section": "onco",
+      "category": "ioc",
+      "summary": null
+    },
+    {
+      "id": "onco-found-integrative-oncology-principles-evidence",
+      "title": "Integrative Oncology — Principles & Evidence",
+      "badge": "Foundation",
+      "section": "onco",
+      "category": "found",
+      "summary": null
+    },
+    {
+      "id": "onco-found-oncology-nutrition-evidence-based",
+      "title": "Oncology Nutrition — Evidence-Based",
+      "badge": "Nutrition",
+      "section": "onco",
+      "category": "found",
+      "summary": null
+    },
+    {
+      "id": "onco-found-herb-supplement-safety-in-cancer-treatment",
+      "title": "Herb & Supplement Safety in Cancer Treatment",
+      "badge": "Safety",
+      "section": "onco",
+      "category": "found",
+      "summary": null
+    },
+    {
+      "id": "onco-found-integrative-oncology-cancer-type-protocols",
+      "title": "Integrative Oncology — Cancer Type Protocols",
+      "badge": "Reference",
+      "section": "onco",
+      "category": "found",
+      "summary": null
+    },
+    {
+      "id": "onco-supp-cancer-cachexia-naturopathic-nutritional-support",
+      "title": "Cancer Cachexia — Naturopathic Nutritional Support",
+      "badge": "Clinical",
+      "section": "onco",
+      "category": "supp",
+      "summary": null
+    },
+    {
+      "id": "onco-supp-cancer-sleep-managing-treatment-related-insomnia",
+      "title": "Cancer & Sleep — Managing Treatment-Related Insomnia",
+      "badge": "Supportive Care",
+      "section": "onco",
+      "category": "supp",
+      "summary": null
+    },
+    {
+      "id": "onco-supp-chemotherapy-side-effect-management",
+      "title": "Chemotherapy Side Effect Management",
+      "badge": "Oncology ★",
+      "section": "onco",
+      "category": "supp",
+      "summary": null
+    },
+    {
+      "id": "onco-supp-cancer-survivorship-long-term-naturopathic",
+      "title": "Cancer Survivorship — Long-Term Naturopathic",
+      "badge": "Supportive",
+      "section": "onco",
+      "category": "supp",
+      "summary": null
+    },
+    {
+      "id": "onco-supp-palliative-naturopathy-symptom-management",
+      "title": "Palliative Naturopathy — Symptom Management",
+      "badge": "Supportive",
+      "section": "onco",
+      "category": "supp",
+      "summary": null
+    },
+    {
+      "id": "dosing-sup-supplement-quick-reference-dosing-guide",
+      "title": "Supplement Quick-Reference Dosing Guide",
+      "badge": "Reference",
+      "section": "dosing",
+      "category": "sup",
+      "summary": null
+    },
+    {
+      "id": "dosing-sup-herbal-dose-quick-reference",
+      "title": "Herbal Dose Quick-Reference",
+      "badge": "Reference",
+      "section": "dosing",
+      "category": "sup",
+      "summary": null
+    },
+    {
+      "id": "dosing-sup-nutrientdrug-interactions-quick-reference",
+      "title": "Nutrient–Drug Interactions — Quick Reference",
+      "badge": "Safety",
+      "section": "dosing",
+      "category": "sup",
+      "summary": null
+    },
+    {
+      "id": "dosing-sup-paediatric-geriatric-pregnancy-dosing-guide",
+      "title": "Paediatric, Geriatric & Pregnancy Dosing Guide",
+      "badge": "Dosing Reference",
+      "section": "dosing",
+      "category": "sup",
+      "summary": null
+    },
+    {
+      "id": "dosing-sup-paediatric-supplement-dosing-guide",
+      "title": "Paediatric Supplement Dosing Guide",
+      "badge": "Dosing",
+      "section": "dosing",
+      "category": "sup",
+      "summary": null
+    },
+    {
+      "id": "dosing-sup-geriatric-pregnancy-supplement-dosing",
+      "title": "Geriatric & Pregnancy Supplement Dosing",
+      "badge": "Dosing",
+      "section": "dosing",
+      "category": "sup",
+      "summary": null
+    },
+    {
+      "id": "fmlabs-fnc-functional-medicine-lab-panel-overview",
+      "title": "Functional Medicine Lab Panel — Overview",
+      "badge": "Framework",
+      "section": "fmlabs",
+      "category": "fnc",
+      "summary": null
+    },
+    {
+      "id": "fmlabs-fnc-homa-ir-insulin-resistance-assessment",
+      "title": "HOMA-IR — Insulin Resistance Assessment",
+      "badge": "Key Marker",
+      "section": "fmlabs",
+      "category": "fnc",
+      "summary": null
+    },
+    {
+      "id": "fmlabs-fnc-organic-acids-test-oat-interpretation-guide",
+      "title": "Organic Acids Test (OAT) — Interpretation Guide",
+      "badge": "Advanced",
+      "section": "fmlabs",
+      "category": "fnc",
+      "summary": null
+    },
+    {
+      "id": "fmlabs-fnc-advanced-lipid-testing-beyond-ldl",
+      "title": "Advanced Lipid Testing — Beyond LDL",
+      "badge": "Cardio",
+      "section": "fmlabs",
+      "category": "fnc",
+      "summary": null
+    },
+    {
+      "id": "fmlabs-fnc-comprehensive-thyroid-panel-interpretation",
+      "title": "Comprehensive Thyroid Panel — Interpretation",
+      "badge": "Functional Labs",
+      "section": "fmlabs",
+      "category": "fnc",
+      "summary": null
+    },
+    {
+      "id": "fmlabs-fnc-stool-analysis-dutch-test-heavy-metal-testing",
+      "title": "Stool Analysis, DUTCH Test & Heavy Metal Testing",
+      "badge": "Functional Labs",
+      "section": "fmlabs",
+      "category": "fnc",
+      "summary": null
+    },
+    {
+      "id": "emergency-acls-adult-basic-life-support-bls-algorithm",
+      "title": "Adult Basic Life Support (BLS) — Algorithm",
+      "badge": "Critical",
+      "section": "emergency",
+      "category": "acls",
+      "summary": null
+    },
+    {
+      "id": "emergency-acls-acls-shockable-rhythms-vf-pulseless-vt",
+      "title": "ACLS Shockable Rhythms — VF / Pulseless VT",
+      "badge": "Critical",
+      "section": "emergency",
+      "category": "acls",
+      "summary": null
+    },
+    {
+      "id": "emergency-acls-acls-non-shockable-pea-asystole",
+      "title": "ACLS Non-Shockable — PEA & Asystole",
+      "badge": "Critical",
+      "section": "emergency",
+      "category": "acls",
+      "summary": null
+    },
+    {
+      "id": "emergency-acls-acls-emergency-drugs-quick-reference",
+      "title": "ACLS Emergency Drugs — Quick Reference",
+      "badge": "Drugs",
+      "section": "emergency",
+      "category": "acls",
+      "summary": null
+    },
+    {
+      "id": "emergency-acls-anaphylaxis-recognition-management",
+      "title": "Anaphylaxis — Recognition & Management",
+      "badge": "Emergency",
+      "section": "emergency",
+      "category": "acls",
+      "summary": null
+    },
+    {
+      "id": "emergency-shock-shock-classification-recognition",
+      "title": "Shock — Classification & Recognition",
+      "badge": "Critical",
+      "section": "emergency",
+      "category": "shock",
+      "summary": null
+    },
+    {
+      "id": "emergency-shock-sepsis-sepsis-3-criteria-bundles",
+      "title": "Sepsis — Sepsis-3 Criteria & Bundles",
+      "badge": "Critical",
+      "section": "emergency",
+      "category": "shock",
+      "summary": null
+    },
+    {
+      "id": "emergency-shock-respiratory-emergencies-quick-guide",
+      "title": "Respiratory Emergencies — Quick Guide",
+      "badge": "Emergency",
+      "section": "emergency",
+      "category": "shock",
+      "summary": null
+    },
+    {
+      "id": "emergency-shock-acute-coronary-syndrome-stemi-protocol",
+      "title": "Acute Coronary Syndrome — STEMI Protocol",
+      "badge": "Emergency",
+      "section": "emergency",
+      "category": "shock",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-mental-state-examination-mse-full-framework",
+      "title": "Mental State Examination (MSE) — Full Framework",
+      "badge": "Foundation",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-phq-9-depression-screening-scoring",
+      "title": "PHQ-9 — Depression Screening & Scoring",
+      "badge": "Essential Tool",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-gad-7-anxiety-screening-scoring",
+      "title": "GAD-7 — Anxiety Screening & Scoring",
+      "badge": "Essential Tool",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-depression-naturopathic-integrative-approach",
+      "title": "Depression — Naturopathic & Integrative Approach",
+      "badge": "Protocol",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-psychotic-disorders-recognition-basics",
+      "title": "Psychotic Disorders — Recognition & Basics",
+      "badge": "Reference",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-bipolar-disorder-recognition-naturopathic-adjunct",
+      "title": "Bipolar Disorder — Recognition & Naturopathic Adjunct",
+      "badge": "Psychiatry",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-adhd-assessment-naturopathic-protocol",
+      "title": "ADHD — Assessment & Naturopathic Protocol",
+      "badge": "Neurodevelopmental",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-eating-disorders-recognition-naturopathic-support",
+      "title": "Eating Disorders — Recognition & Naturopathic Support",
+      "badge": "Psychiatry ★",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-burnout-clinical-assessment-recovery-protocol",
+      "title": "Burnout — Clinical Assessment & Recovery Protocol",
+      "badge": "Occupational Health",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-ocd-ptsd-addiction-naturopathic-adjuncts",
+      "title": "OCD, PTSD & Addiction — Naturopathic Adjuncts",
+      "badge": "Psychiatry",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-ocd-recognition-naturopathic-adjunct",
+      "title": "OCD — Recognition & Naturopathic Adjunct",
+      "badge": "Psychiatry",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-ptsd-grief-naturopathic-mind-body-approach",
+      "title": "PTSD & Grief — Naturopathic Mind-Body Approach",
+      "badge": "Psychiatry",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-addiction-social-anxiety-naturopathic-support",
+      "title": "Addiction & Social Anxiety — Naturopathic Support",
+      "badge": "Psychiatry",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-suicidality-safe-assessment-referral",
+      "title": "Suicidality — Safe Assessment & Referral",
+      "badge": "Critical ★",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-autism-spectrum-disorder-asd-naturopathic",
+      "title": "Autism Spectrum Disorder (ASD) — Naturopathic",
+      "badge": "Supportive",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-personality-disorders-recognition",
+      "title": "Personality Disorders — Recognition",
+      "badge": "Clinical",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-assess-pharmacology-of-psychiatric-drugs",
+      "title": "Pharmacology of Psychiatric Drugs",
+      "badge": "Reference ★",
+      "section": "psychiatry",
+      "category": "assess",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-mood-depression-naturopathic-integrative-approach",
+      "title": "Depression — Naturopathic & Integrative Approach",
+      "badge": "Protocol",
+      "section": "psychiatry",
+      "category": "mood",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-mood-psychotic-disorders-recognition-basics",
+      "title": "Psychotic Disorders — Recognition & Basics",
+      "badge": "Reference",
+      "section": "psychiatry",
+      "category": "mood",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-mood-bipolar-disorder-recognition-naturopathic-adjunct",
+      "title": "Bipolar Disorder — Recognition & Naturopathic Adjunct",
+      "badge": "Psychiatry",
+      "section": "psychiatry",
+      "category": "mood",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-mood-adhd-assessment-naturopathic-protocol",
+      "title": "ADHD — Assessment & Naturopathic Protocol",
+      "badge": "Neurodevelopmental",
+      "section": "psychiatry",
+      "category": "mood",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-anxiety-eating-disorders-recognition-naturopathic-support",
+      "title": "Eating Disorders — Recognition & Naturopathic Support",
+      "badge": "Psychiatry ★",
+      "section": "psychiatry",
+      "category": "anxiety",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-anxiety-burnout-clinical-assessment-recovery-protocol",
+      "title": "Burnout — Clinical Assessment & Recovery Protocol",
+      "badge": "Occupational Health",
+      "section": "psychiatry",
+      "category": "anxiety",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-anxiety-ocd-ptsd-addiction-naturopathic-adjuncts",
+      "title": "OCD, PTSD & Addiction — Naturopathic Adjuncts",
+      "badge": "Psychiatry",
+      "section": "psychiatry",
+      "category": "anxiety",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-anxiety-ocd-recognition-naturopathic-adjunct",
+      "title": "OCD — Recognition & Naturopathic Adjunct",
+      "badge": "Psychiatry",
+      "section": "psychiatry",
+      "category": "anxiety",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-anxiety-ptsd-grief-naturopathic-mind-body-approach",
+      "title": "PTSD & Grief — Naturopathic Mind-Body Approach",
+      "badge": "Psychiatry",
+      "section": "psychiatry",
+      "category": "anxiety",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-anxiety-addiction-social-anxiety-naturopathic-support",
+      "title": "Addiction & Social Anxiety — Naturopathic Support",
+      "badge": "Psychiatry",
+      "section": "psychiatry",
+      "category": "anxiety",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-spec-autism-spectrum-disorder-asd-naturopathic",
+      "title": "Autism Spectrum Disorder (ASD) — Naturopathic",
+      "badge": "Supportive",
+      "section": "psychiatry",
+      "category": "spec",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-spec-personality-disorders-recognition",
+      "title": "Personality Disorders — Recognition",
+      "badge": "Clinical",
+      "section": "psychiatry",
+      "category": "spec",
+      "summary": null
+    },
+    {
+      "id": "psychiatry-spec-pharmacology-of-psychiatric-drugs",
+      "title": "Pharmacology of Psychiatric Drugs",
+      "badge": "Reference ★",
+      "section": "psychiatry",
+      "category": "spec",
+      "summary": null
+    },
+    {
+      "id": "algorithms-cv-chest-pain-diagnostic-algorithm",
+      "title": "Chest Pain — Diagnostic Algorithm",
+      "badge": "Essential",
+      "section": "algorithms",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "algorithms-cv-breathlessness-diagnostic-algorithm",
+      "title": "Breathlessness — Diagnostic Algorithm",
+      "badge": "Essential",
+      "section": "algorithms",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "algorithms-cv-jaundice-diagnostic-algorithm",
+      "title": "Jaundice — Diagnostic Algorithm",
+      "badge": "Algorithm",
+      "section": "algorithms",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "algorithms-cv-anaemia-diagnostic-algorithm",
+      "title": "Anaemia — Diagnostic Algorithm",
+      "badge": "Algorithm",
+      "section": "algorithms",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "algorithms-cv-joint-pain-diagnostic-algorithm",
+      "title": "Joint Pain — Diagnostic Algorithm",
+      "badge": "Algorithm",
+      "section": "algorithms",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "algorithms-cv-oedema-fuo-diagnostic-algorithms",
+      "title": "Oedema & FUO — Diagnostic Algorithms",
+      "badge": "Algorithm",
+      "section": "algorithms",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "algorithms-cv-back-pain-red-flags-differential",
+      "title": "Back Pain — Red Flags & Differential",
+      "badge": "Algorithm ★",
+      "section": "algorithms",
+      "category": "cv",
+      "summary": null
+    },
+    {
+      "id": "algorithms-neuro-headache-diagnostic-algorithm",
+      "title": "Headache — Diagnostic Algorithm",
+      "badge": "Essential",
+      "section": "algorithms",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "algorithms-neuro-syncope-diagnostic-algorithm",
+      "title": "Syncope — Diagnostic Algorithm",
+      "badge": "Core",
+      "section": "algorithms",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "algorithms-neuro-acute-abdomen-differential-algorithm",
+      "title": "Acute Abdomen — Differential Algorithm",
+      "badge": "Emergency",
+      "section": "algorithms",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "metabolic-met-type-2-diabetes-comprehensive-bnys-protocol",
+      "title": "Type 2 Diabetes — Comprehensive BNYS Protocol",
+      "badge": "Priority",
+      "section": "metabolic",
+      "category": "met",
+      "summary": null
+    },
+    {
+      "id": "metabolic-met-metabolic-syndrome-assessment-full-protocol",
+      "title": "Metabolic Syndrome — Assessment & Full Protocol",
+      "badge": "Core",
+      "section": "metabolic",
+      "category": "met",
+      "summary": null
+    },
+    {
+      "id": "metabolic-met-hypothyroidism-functional-assessment-protocol",
+      "title": "Hypothyroidism — Functional Assessment & Protocol",
+      "badge": "Common",
+      "section": "metabolic",
+      "category": "met",
+      "summary": null
+    },
+    {
+      "id": "metabolic-met-obesity-naturopathic-assessment-protocol",
+      "title": "Obesity — Naturopathic Assessment & Protocol",
+      "badge": "Core",
+      "section": "metabolic",
+      "category": "met",
+      "summary": null
+    },
+    {
+      "id": "chromotherapy-chro-chromotherapy-principles-scientific-basis",
+      "title": "Chromotherapy — Principles & Scientific Basis",
+      "badge": "Foundation",
+      "section": "chromotherapy",
+      "category": "chro",
+      "summary": null
+    },
+    {
+      "id": "chromotherapy-chro-chromotherapy-application-methods-duration",
+      "title": "Chromotherapy — Application Methods & Duration",
+      "badge": "Clinical",
+      "section": "chromotherapy",
+      "category": "chro",
+      "summary": null
+    },
+    {
+      "id": "chromotherapy-chro-chromotherapy-contraindications-safety",
+      "title": "Chromotherapy — Contraindications & Safety",
+      "badge": "Safety",
+      "section": "chromotherapy",
+      "category": "chro",
+      "summary": null
+    },
+    {
+      "id": "chromotherapy-chro-chromotherapy-disease-protocols-led-evidence",
+      "title": "Chromotherapy — Disease Protocols & LED Evidence",
+      "badge": "Clinical Guide",
+      "section": "chromotherapy",
+      "category": "chro",
+      "summary": null
+    },
+    {
+      "id": "magneto-mag-magnet-therapy-principles-types",
+      "title": "Magnet Therapy — Principles & Types",
+      "badge": "Foundation",
+      "section": "magneto",
+      "category": "mag",
+      "summary": null
+    },
+    {
+      "id": "magneto-mag-magnet-therapy-indications-protocols",
+      "title": "Magnet Therapy — Indications & Protocols",
+      "badge": "Clinical",
+      "section": "magneto",
+      "category": "mag",
+      "summary": null
+    },
+    {
+      "id": "magneto-mag-magnet-therapy-contraindications",
+      "title": "Magnet Therapy — Contraindications",
+      "badge": "Safety ★",
+      "section": "magneto",
+      "category": "mag",
+      "summary": null
+    },
+    {
+      "id": "magneto-mag-pemf-therapy-evidence-based-applications",
+      "title": "PEMF Therapy — Evidence-Based Applications",
+      "badge": "Evidence",
+      "section": "magneto",
+      "category": "mag",
+      "summary": null
+    },
+    {
+      "id": "clinnut-nut-therapeutic-diets-overview-selection",
+      "title": "Therapeutic Diets — Overview & Selection",
+      "badge": "Foundation",
+      "section": "clinnut",
+      "category": "nut",
+      "summary": null
+    },
+    {
+      "id": "clinnut-nut-anti-inflammatory-diet-clinical-protocol",
+      "title": "Anti-Inflammatory Diet — Clinical Protocol",
+      "badge": "Most Used",
+      "section": "clinnut",
+      "category": "nut",
+      "summary": null
+    },
+    {
+      "id": "clinnut-nut-elimination-diet-step-by-step-protocol",
+      "title": "Elimination Diet — Step-by-Step Protocol",
+      "badge": "IBS · Allergy",
+      "section": "clinnut",
+      "category": "nut",
+      "summary": null
+    },
+    {
+      "id": "clinnut-nut-low-fodmap-diet-clinical-guide",
+      "title": "Low-FODMAP Diet — Clinical Guide",
+      "badge": "IBS · SIBO",
+      "section": "clinnut",
+      "category": "nut",
+      "summary": null
+    },
+    {
+      "id": "clinnut-nut-ketogenic-plant-based-diets-clinical-protocols",
+      "title": "Ketogenic & Plant-Based Diets — Clinical Protocols",
+      "badge": "Therapeutic Diet",
+      "section": "clinnut",
+      "category": "nut",
+      "summary": null
+    },
+    {
+      "id": "clinnut-nut-renal-cardiac-diabetic-therapeutic-diets",
+      "title": "Renal, Cardiac & Diabetic Therapeutic Diets",
+      "badge": "Therapeutic Diet",
+      "section": "clinnut",
+      "category": "nut",
+      "summary": null
+    },
+    {
+      "id": "clinnut-nut-ketogenic-diet-clinical-protocol",
+      "title": "Ketogenic Diet — Clinical Protocol",
+      "badge": "Therapeutic Diet",
+      "section": "clinnut",
+      "category": "nut",
+      "summary": null
+    },
+    {
+      "id": "clinnut-nut-mediterranean-plant-based-diets-clinical-guide",
+      "title": "Mediterranean & Plant-Based Diets — Clinical Guide",
+      "badge": "Therapeutic Diet",
+      "section": "clinnut",
+      "category": "nut",
+      "summary": null
+    },
+    {
+      "id": "clinnut-nut-renal-cardiac-diabetic-diets-clinical-guide",
+      "title": "Renal, Cardiac & Diabetic Diets — Clinical Guide",
+      "badge": "Therapeutic Diet",
+      "section": "clinnut",
+      "category": "nut",
+      "summary": null
+    },
+    {
+      "id": "colon-col-colon-hydrotherapy-types-indications",
+      "title": "Colon Hydrotherapy — Types & Indications",
+      "badge": "Foundation",
+      "section": "colon",
+      "category": "col",
+      "summary": null
+    },
+    {
+      "id": "colon-col-coffee-enema-protocol-evidence",
+      "title": "Coffee Enema — Protocol & Evidence",
+      "badge": "Detox",
+      "section": "colon",
+      "category": "col",
+      "summary": null
+    },
+    {
+      "id": "colon-col-colon-hydrotherapy-contraindications",
+      "title": "Colon Hydrotherapy — Contraindications",
+      "badge": "Safety ★",
+      "section": "colon",
+      "category": "col",
+      "summary": null
+    },
+    {
+      "id": "colon-col-enema-preparation-step-by-step",
+      "title": "Enema Preparation — Step-by-Step",
+      "badge": "Practical",
+      "section": "colon",
+      "category": "col",
+      "summary": null
+    },
+    {
+      "id": "lifestyle-life-sleep-hygiene-clinical-protocol",
+      "title": "Sleep Hygiene — Clinical Protocol",
+      "badge": "Foundation",
+      "section": "lifestyle",
+      "category": "life",
+      "summary": null
+    },
+    {
+      "id": "lifestyle-life-stress-management-evidence-based-protocols",
+      "title": "Stress Management — Evidence-Based Protocols",
+      "badge": "Essential",
+      "section": "lifestyle",
+      "category": "life",
+      "summary": null
+    },
+    {
+      "id": "lifestyle-life-exercise-prescription-naturopathic-approach",
+      "title": "Exercise Prescription — Naturopathic Approach",
+      "badge": "Lifestyle",
+      "section": "lifestyle",
+      "category": "life",
+      "summary": null
+    },
+    {
+      "id": "lifestyle-life-smoking-cessation-bnys-protocol",
+      "title": "Smoking Cessation — BNYS Protocol",
+      "badge": "Priority",
+      "section": "lifestyle",
+      "category": "life",
+      "summary": null
+    },
+    {
+      "id": "lifestyle-life-alcohol-reduction-digital-wellbeing",
+      "title": "Alcohol Reduction & Digital Wellbeing",
+      "badge": "Lifestyle Medicine",
+      "section": "lifestyle",
+      "category": "life",
+      "summary": null
+    },
+    {
+      "id": "lifestyle-life-alcohol-reduction-clinical-protocol",
+      "title": "Alcohol Reduction — Clinical Protocol",
+      "badge": "Lifestyle Medicine",
+      "section": "lifestyle",
+      "category": "life",
+      "summary": null
+    },
+    {
+      "id": "lifestyle-life-nature-therapy-social-connection-evidence-guide",
+      "title": "Nature Therapy & Social Connection — Evidence Guide",
+      "badge": "Lifestyle Medicine",
+      "section": "lifestyle",
+      "category": "life",
+      "summary": null
+    },
+    {
+      "id": "detox-det-detoxification-principles-phases",
+      "title": "Detoxification — Principles & Phases",
+      "badge": "Foundation",
+      "section": "detox",
+      "category": "det",
+      "summary": null
+    },
+    {
+      "id": "detox-det-7-day-detox-programme-clinical-protocol",
+      "title": "7-Day Detox Programme — Clinical Protocol",
+      "badge": "Protocol",
+      "section": "detox",
+      "category": "det",
+      "summary": null
+    },
+    {
+      "id": "detox-det-heavy-metal-detox-naturopathic-approach",
+      "title": "Heavy Metal Detox — Naturopathic Approach",
+      "badge": "Specialist",
+      "section": "detox",
+      "category": "det",
+      "summary": null
+    },
+    {
+      "id": "detox-det-lymphatic-drainage-skin-detox-techniques",
+      "title": "Lymphatic Drainage & Skin Detox Techniques",
+      "badge": "Supporting",
+      "section": "detox",
+      "category": "det",
+      "summary": null
+    },
+    {
+      "id": "manipulation-manip-manipulative-therapy-principles-classification",
+      "title": "Manipulative Therapy — Principles & Classification",
+      "badge": "Foundation",
+      "section": "manipulation",
+      "category": "manip",
+      "summary": null
+    },
+    {
+      "id": "manipulation-manip-spinal-manipulation-regional-techniques",
+      "title": "Spinal Manipulation — Regional Techniques",
+      "badge": "Clinical",
+      "section": "manipulation",
+      "category": "manip",
+      "summary": null
+    },
+    {
+      "id": "manipulation-manip-soft-tissue-manipulation-practical-protocols",
+      "title": "Soft Tissue Manipulation — Practical Protocols",
+      "badge": "Technique",
+      "section": "manipulation",
+      "category": "manip",
+      "summary": null
+    },
+    {
+      "id": "manipulation-manip-absolute-relative-contraindications-manipulation",
+      "title": "Absolute & Relative Contraindications — Manipulation",
+      "badge": "Safety ★",
+      "section": "manipulation",
+      "category": "manip",
+      "summary": null
+    },
+    {
+      "id": "helio-helio-heliotherapy-therapeutic-use-of-sunlight",
+      "title": "Heliotherapy — Therapeutic Use of Sunlight",
+      "badge": "Foundation",
+      "section": "helio",
+      "category": "helio",
+      "summary": null
+    },
+    {
+      "id": "helio-helio-practical-heliotherapy-protocols",
+      "title": "Practical Heliotherapy Protocols",
+      "badge": "Clinical",
+      "section": "helio",
+      "category": "helio",
+      "summary": null
+    },
+    {
+      "id": "helio-helio-aerotherapy-therapeutic-use-of-air",
+      "title": "Aerotherapy — Therapeutic Use of Air",
+      "badge": "Foundation",
+      "section": "helio",
+      "category": "helio",
+      "summary": null
+    },
+    {
+      "id": "helio-helio-aerotherapy-protocols-practical-application",
+      "title": "Aerotherapy Protocols — Practical Application",
+      "badge": "Clinical",
+      "section": "helio",
+      "category": "helio",
+      "summary": null
+    },
+    {
+      "id": "helio-helio-contraindications-precautions-helio-aerotherapy",
+      "title": "Contraindications & Precautions — Helio & Aerotherapy",
+      "badge": "Safety",
+      "section": "helio",
+      "category": "helio",
+      "summary": null
+    },
+    {
+      "id": "acupthera-acupther-acupuncture-therapeutics-principles-mechanisms",
+      "title": "Acupuncture Therapeutics — Principles & Mechanisms",
+      "badge": "Foundation",
+      "section": "acupthera",
+      "category": "acupther",
+      "summary": null
+    },
+    {
+      "id": "acupthera-acupther-key-acupoints-clinical-reference",
+      "title": "Key Acupoints — Clinical Reference",
+      "badge": "Essential",
+      "section": "acupthera",
+      "category": "acupther",
+      "summary": null
+    },
+    {
+      "id": "acupthera-acupther-evidence-based-acupuncture-protocols-by-condition",
+      "title": "Evidence-Based Acupuncture Protocols by Condition",
+      "badge": "Clinical",
+      "section": "acupthera",
+      "category": "acupther",
+      "summary": null
+    },
+    {
+      "id": "acupthera-acupther-needle-technique-safety-clinical-standards",
+      "title": "Needle Technique & Safety — Clinical Standards",
+      "badge": "Safety ★",
+      "section": "acupthera",
+      "category": "acupther",
+      "summary": null
+    },
+    {
+      "id": "intpain-intpain-integrative-pain-management-framework",
+      "title": "Integrative Pain Management — Framework",
+      "badge": "Foundation",
+      "section": "intpain",
+      "category": "intpain",
+      "summary": null
+    },
+    {
+      "id": "intpain-intpain-naturopathic-pain-assessment",
+      "title": "Naturopathic Pain Assessment",
+      "badge": "Clinical",
+      "section": "intpain",
+      "category": "intpain",
+      "summary": null
+    },
+    {
+      "id": "intpain-intpain-integrative-pain-protocols-by-condition",
+      "title": "Integrative Pain Protocols by Condition",
+      "badge": "Clinical",
+      "section": "intpain",
+      "category": "intpain",
+      "summary": null
+    },
+    {
+      "id": "intpain-intpain-pain-neuroscience-education-pne-patient-communication",
+      "title": "Pain Neuroscience Education (PNE) — Patient Communication",
+      "badge": "Essential",
+      "section": "intpain",
+      "category": "intpain",
+      "summary": null
+    },
+    {
+      "id": "intpain-intpain-integrative-pain-management-supplement-protocol",
+      "title": "Integrative Pain Management — Supplement Protocol",
+      "badge": "Reference",
+      "section": "intpain",
+      "category": "intpain",
+      "summary": null
+    },
+    {
+      "id": "firstaid-firstaid-first-aid-primary-survey-abcde-approach",
+      "title": "First Aid — Primary Survey (ABCDE Approach)",
+      "badge": "Emergency ★",
+      "section": "firstaid",
+      "category": "firstaid",
+      "summary": null
+    },
+    {
+      "id": "firstaid-firstaid-basic-life-support-bls-2021-guidelines",
+      "title": "Basic Life Support (BLS) — 2021 Guidelines",
+      "badge": "Emergency ★",
+      "section": "firstaid",
+      "category": "firstaid",
+      "summary": null
+    },
+    {
+      "id": "firstaid-firstaid-common-first-aid-emergencies-quick-reference",
+      "title": "Common First Aid Emergencies — Quick Reference",
+      "badge": "Clinical",
+      "section": "firstaid",
+      "category": "firstaid",
+      "summary": null
+    },
+    {
+      "id": "firstaid-firstaid-minor-surgery-wound-management-bnys-scope",
+      "title": "Minor Surgery & Wound Management — BNYS Scope",
+      "badge": "Clinical",
+      "section": "firstaid",
+      "category": "firstaid",
+      "summary": null
+    },
+    {
+      "id": "physio-phy-electrotherapy-tens-ift",
+      "title": "Electrotherapy — TENS & IFT",
+      "badge": "Foundation",
+      "section": "physio",
+      "category": "phy",
+      "summary": null
+    },
+    {
+      "id": "physio-phy-tens-therapy-practical-protocol",
+      "title": "TENS Therapy — Practical Protocol",
+      "badge": "Pain Relief",
+      "section": "physio",
+      "category": "phy",
+      "summary": null
+    },
+    {
+      "id": "physio-phy-ultrasound-therapy-wax-bath",
+      "title": "Ultrasound Therapy & Wax Bath",
+      "badge": "Clinical",
+      "section": "physio",
+      "category": "phy",
+      "summary": null
+    },
+    {
+      "id": "physio-phy-thermal-therapy-hot-cold-applications",
+      "title": "Thermal Therapy — Hot & Cold Applications",
+      "badge": "Practical",
+      "section": "physio",
+      "category": "phy",
+      "summary": null
+    },
+    {
+      "id": "physio-phy-police-peacelove-acute-injury-management",
+      "title": "POLICE & PEACE+LOVE — Acute Injury Management",
+      "badge": "Protocol ★",
+      "section": "physio",
+      "category": "phy",
+      "summary": null
+    },
+    {
+      "id": "counselling-coun-behaviour-change-models-clinical-application",
+      "title": "Behaviour Change Models — Clinical Application",
+      "badge": "Foundation",
+      "section": "counselling",
+      "category": "coun",
+      "summary": null
+    },
+    {
+      "id": "counselling-coun-motivational-interviewing-core-techniques",
+      "title": "Motivational Interviewing — Core Techniques",
+      "badge": "Essential",
+      "section": "counselling",
+      "category": "coun",
+      "summary": null
+    },
+    {
+      "id": "counselling-coun-smart-goals-compliance-strategies",
+      "title": "SMART Goals & Compliance Strategies",
+      "badge": "Practical",
+      "section": "counselling",
+      "category": "coun",
+      "summary": null
+    },
+    {
+      "id": "counselling-coun-health-coaching-therapeutic-communication",
+      "title": "Health Coaching & Therapeutic Communication",
+      "badge": "Advanced",
+      "section": "counselling",
+      "category": "coun",
+      "summary": null
+    },
+    {
+      "id": "signseponyms-sgn-classic-clinical-signs-cardiovascular-respiratory",
+      "title": "Classic Clinical Signs — Cardiovascular & Respiratory",
+      "badge": "Essential",
+      "section": "signseponyms",
+      "category": "sgn",
+      "summary": null
+    },
+    {
+      "id": "signseponyms-sgn-classic-clinical-signs-gi-abdominal",
+      "title": "Classic Clinical Signs — GI & Abdominal",
+      "badge": "Essential",
+      "section": "signseponyms",
+      "category": "sgn",
+      "summary": null
+    },
+    {
+      "id": "signseponyms-sgn-neurological-msk-clinical-signs",
+      "title": "Neurological & MSK Clinical Signs",
+      "badge": "Essential",
+      "section": "signseponyms",
+      "category": "sgn",
+      "summary": null
+    },
+    {
+      "id": "signseponyms-sgn-naturopathic-diagnostic-signs-tongue-nail-eye",
+      "title": "Naturopathic Diagnostic Signs — Tongue, Nail & Eye",
+      "badge": "BNYS Specific",
+      "section": "signseponyms",
+      "category": "sgn",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-polyvagal-theory-clinical-application",
+      "title": "Polyvagal Theory — Clinical Application",
+      "badge": "Foundation",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-heart-rate-variability-hrv-clinical-guide",
+      "title": "Heart Rate Variability (HRV) — Clinical Guide",
+      "badge": "Assessment",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-trauma-informed-care-in-naturopathy",
+      "title": "Trauma-Informed Care in Naturopathy",
+      "badge": "Practice",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-trauma-informed-care-bnys-framework",
+      "title": "Trauma-Informed Care — BNYS Framework",
+      "badge": "Clinical",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-hrv-heart-rate-variability-clinical-measurement-meaning",
+      "title": "HRV (Heart Rate Variability) — Clinical Measurement & Meaning",
+      "badge": "Assessment",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-psychoneuroimmunology-pni",
+      "title": "Psychoneuroimmunology (PNI)",
+      "badge": "Foundation",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-biofeedback-neurofeedback",
+      "title": "Biofeedback & Neurofeedback",
+      "badge": "Clinical",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-somatic-therapies-clinical-overview",
+      "title": "Somatic Therapies — Clinical Overview",
+      "badge": "Reference",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-stress-physiology-allostatic-load",
+      "title": "Stress Physiology & Allostatic Load",
+      "badge": "Foundation",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-mindfulness-based-interventions-evidence-summary",
+      "title": "Mindfulness-Based Interventions — Evidence Summary",
+      "badge": "Evidence",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-therapeutic-breathwork-protocols-physiology",
+      "title": "Therapeutic Breathwork — Protocols & Physiology",
+      "badge": "Practice",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-sleep-medicine-naturopathic-assessment-cbt-i",
+      "title": "Sleep Medicine — Naturopathic Assessment & CBT-I",
+      "badge": "Clinical",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-pvt-flow-state-positive-psychology",
+      "title": "Flow State & Positive Psychology",
+      "badge": "Wellness",
+      "section": "mindbody",
+      "category": "pvt",
+      "summary": null
+    },
+    {
+      "id": "mindbody-neuro-polyvagal-theory-clinical-application",
+      "title": "Polyvagal Theory — Clinical Application",
+      "badge": "Foundation",
+      "section": "mindbody",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "mindbody-neuro-heart-rate-variability-hrv-clinical-guide",
+      "title": "Heart Rate Variability (HRV) — Clinical Guide",
+      "badge": "Assessment",
+      "section": "mindbody",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "mindbody-neuro-hrv-heart-rate-variability-clinical-measurement-meaning",
+      "title": "HRV (Heart Rate Variability) — Clinical Measurement & Meaning",
+      "badge": "Assessment",
+      "section": "mindbody",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "mindbody-neuro-stress-physiology-allostatic-load",
+      "title": "Stress Physiology & Allostatic Load",
+      "badge": "Foundation",
+      "section": "mindbody",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "mindbody-neuro-mindfulness-based-interventions-evidence-summary",
+      "title": "Mindfulness-Based Interventions — Evidence Summary",
+      "badge": "Evidence",
+      "section": "mindbody",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "mindbody-trauma-trauma-informed-care-in-naturopathy",
+      "title": "Trauma-Informed Care in Naturopathy",
+      "badge": "Practice",
+      "section": "mindbody",
+      "category": "trauma",
+      "summary": null
+    },
+    {
+      "id": "mindbody-trauma-trauma-informed-care-bnys-framework",
+      "title": "Trauma-Informed Care — BNYS Framework",
+      "badge": "Clinical",
+      "section": "mindbody",
+      "category": "trauma",
+      "summary": null
+    },
+    {
+      "id": "mindbody-trauma-somatic-therapies-clinical-overview",
+      "title": "Somatic Therapies — Clinical Overview",
+      "badge": "Reference",
+      "section": "mindbody",
+      "category": "trauma",
+      "summary": null
+    },
+    {
+      "id": "mindbody-trauma-therapeutic-breathwork-protocols-physiology",
+      "title": "Therapeutic Breathwork — Protocols & Physiology",
+      "badge": "Practice",
+      "section": "mindbody",
+      "category": "trauma",
+      "summary": null
+    },
+    {
+      "id": "mindbody-trauma-sleep-medicine-naturopathic-assessment-cbt-i",
+      "title": "Sleep Medicine — Naturopathic Assessment & CBT-I",
+      "badge": "Clinical",
+      "section": "mindbody",
+      "category": "trauma",
+      "summary": null
+    },
+    {
+      "id": "mindbody-mind-psychoneuroimmunology-pni",
+      "title": "Psychoneuroimmunology (PNI)",
+      "badge": "Foundation",
+      "section": "mindbody",
+      "category": "mind",
+      "summary": null
+    },
+    {
+      "id": "mindbody-mind-biofeedback-neurofeedback",
+      "title": "Biofeedback & Neurofeedback",
+      "badge": "Clinical",
+      "section": "mindbody",
+      "category": "mind",
+      "summary": null
+    },
+    {
+      "id": "mindbody-mind-flow-state-positive-psychology",
+      "title": "Flow State & Positive Psychology",
+      "badge": "Wellness",
+      "section": "mindbody",
+      "category": "mind",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-methylation-cycle-clinical-overview",
+      "title": "Methylation Cycle — Clinical Overview",
+      "badge": "Foundation",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-homocysteine-interpretation-management",
+      "title": "Homocysteine — Interpretation & Management",
+      "badge": "Key Marker",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-oxidative-stress-antioxidant-pathways",
+      "title": "Oxidative Stress & Antioxidant Pathways",
+      "badge": "Systems",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-mitochondrial-health-clinical-assessment-support",
+      "title": "Mitochondrial Health — Clinical Assessment & Support",
+      "badge": "Functional",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-magnesium-the-master-mineral",
+      "title": "Magnesium — The Master Mineral",
+      "badge": "Essential ★",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-zinc-clinical-deep-dive",
+      "title": "Zinc — Clinical Deep Dive",
+      "badge": "Essential ★",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-nutrient-deficiency-functional-biochemistry",
+      "title": "Nutrient Deficiency — Functional Biochemistry",
+      "badge": "Assessment",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-omega-3-fatty-acids-complete-clinical-guide",
+      "title": "Omega-3 Fatty Acids — Complete Clinical Guide",
+      "badge": "Nutritional Biochemistry",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-vitamin-d-the-master-hormone",
+      "title": "Vitamin D — The Master Hormone",
+      "badge": "Nutritional Biochemistry",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-iron-metabolism-clinical-guide",
+      "title": "Iron Metabolism — Clinical Guide",
+      "badge": "Nutritional Biochemistry",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-nutrient-absorption-optimising-bioavailability",
+      "title": "Nutrient Absorption — Optimising Bioavailability",
+      "badge": "Nutritional Biochemistry",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-b-vitamins-complete-clinical-guide",
+      "title": "B Vitamins — Complete Clinical Guide",
+      "badge": "Essential ★",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mth-genomic-nutrition-mthfr-variants",
+      "title": "Genomic Nutrition — MTHFR & Variants",
+      "badge": "Functional",
+      "section": "nutbio",
+      "category": "mth",
+      "summary": null
+    },
+    {
+      "id": "nutbio-path-methylation-cycle-clinical-overview",
+      "title": "Methylation Cycle — Clinical Overview",
+      "badge": "Foundation",
+      "section": "nutbio",
+      "category": "path",
+      "summary": null
+    },
+    {
+      "id": "nutbio-path-homocysteine-interpretation-management",
+      "title": "Homocysteine — Interpretation & Management",
+      "badge": "Key Marker",
+      "section": "nutbio",
+      "category": "path",
+      "summary": null
+    },
+    {
+      "id": "nutbio-path-oxidative-stress-antioxidant-pathways",
+      "title": "Oxidative Stress & Antioxidant Pathways",
+      "badge": "Systems",
+      "section": "nutbio",
+      "category": "path",
+      "summary": null
+    },
+    {
+      "id": "nutbio-path-mitochondrial-health-clinical-assessment-support",
+      "title": "Mitochondrial Health — Clinical Assessment & Support",
+      "badge": "Functional",
+      "section": "nutbio",
+      "category": "path",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mins-iron-metabolism-clinical-guide",
+      "title": "Iron Metabolism — Clinical Guide",
+      "badge": "Nutritional Biochemistry",
+      "section": "nutbio",
+      "category": "mins",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mins-nutrient-absorption-optimising-bioavailability",
+      "title": "Nutrient Absorption — Optimising Bioavailability",
+      "badge": "Nutritional Biochemistry",
+      "section": "nutbio",
+      "category": "mins",
+      "summary": null
+    },
+    {
+      "id": "nutbio-mins-magnesium-the-master-mineral",
+      "title": "Magnesium — The Master Mineral",
+      "badge": "Essential ★",
+      "section": "nutbio",
+      "category": "mins",
+      "summary": null
+    },
+    {
+      "id": "nutbio-vits-zinc-clinical-deep-dive",
+      "title": "Zinc — Clinical Deep Dive",
+      "badge": "Essential ★",
+      "section": "nutbio",
+      "category": "vits",
+      "summary": null
+    },
+    {
+      "id": "nutbio-vits-nutrient-deficiency-functional-biochemistry",
+      "title": "Nutrient Deficiency — Functional Biochemistry",
+      "badge": "Assessment",
+      "section": "nutbio",
+      "category": "vits",
+      "summary": null
+    },
+    {
+      "id": "nutbio-vits-omega-3-fatty-acids-complete-clinical-guide",
+      "title": "Omega-3 Fatty Acids — Complete Clinical Guide",
+      "badge": "Nutritional Biochemistry",
+      "section": "nutbio",
+      "category": "vits",
+      "summary": null
+    },
+    {
+      "id": "nutbio-vits-vitamin-d-the-master-hormone",
+      "title": "Vitamin D — The Master Hormone",
+      "badge": "Nutritional Biochemistry",
+      "section": "nutbio",
+      "category": "vits",
+      "summary": null
+    },
+    {
+      "id": "nutbio-vits-b-vitamins-complete-clinical-guide",
+      "title": "B Vitamins — Complete Clinical Guide",
+      "badge": "Essential ★",
+      "section": "nutbio",
+      "category": "vits",
+      "summary": null
+    },
+    {
+      "id": "nutbio-vits-genomic-nutrition-mthfr-variants",
+      "title": "Genomic Nutrition — MTHFR & Variants",
+      "badge": "Functional",
+      "section": "nutbio",
+      "category": "vits",
+      "summary": null
+    },
+    {
+      "id": "herbal-adp-adaptogens-evidence-clinical-guide",
+      "title": "Adaptogens — Evidence & Clinical Guide",
+      "badge": "Category",
+      "section": "herbal",
+      "category": "adp",
+      "summary": null
+    },
+    {
+      "id": "herbal-adp-herb-drug-interactions-critical-table",
+      "title": "Herb-Drug Interactions — Critical Table",
+      "badge": "Safety",
+      "section": "herbal",
+      "category": "adp",
+      "summary": null
+    },
+    {
+      "id": "herbal-adp-cardiovascular-anti-inflammatory-herbs",
+      "title": "Cardiovascular & Anti-inflammatory Herbs",
+      "badge": "Herbal",
+      "section": "herbal",
+      "category": "adp",
+      "summary": null
+    },
+    {
+      "id": "herbal-adp-antimicrobial-digestive-womens-health-herbs",
+      "title": "Antimicrobial, Digestive & Women's Health Herbs",
+      "badge": "Herbal",
+      "section": "herbal",
+      "category": "adp",
+      "summary": null
+    },
+    {
+      "id": "herbal-adp-respiratory-immune-adaptogenic-herbs",
+      "title": "Respiratory, Immune & Adaptogenic Herbs",
+      "badge": "Herbal",
+      "section": "herbal",
+      "category": "adp",
+      "summary": null
+    },
+    {
+      "id": "herbal-adp-cardiovascular-anti-inflammatory-herbs-2",
+      "title": "Cardiovascular & Anti-inflammatory Herbs",
+      "badge": "Herbal",
+      "section": "herbal",
+      "category": "adp",
+      "summary": null
+    },
+    {
+      "id": "herbal-adp-antimicrobial-digestive-herbs",
+      "title": "Antimicrobial & Digestive Herbs",
+      "badge": "Herbal",
+      "section": "herbal",
+      "category": "adp",
+      "summary": null
+    },
+    {
+      "id": "herbal-adp-womens-health-immune-metabolic-herbs",
+      "title": "Women's Health, Immune & Metabolic Herbs",
+      "badge": "Herbal",
+      "section": "herbal",
+      "category": "adp",
+      "summary": null
+    },
+    {
+      "id": "herbal-adp-respiratory-adaptogenic-herbs",
+      "title": "Respiratory & Adaptogenic Herbs",
+      "badge": "Herbal",
+      "section": "herbal",
+      "category": "adp",
+      "summary": null
+    },
+    {
+      "id": "herbal-hep-hepatoprotective-herbs-liver-support",
+      "title": "Hepatoprotective Herbs — Liver Support",
+      "badge": "Organ",
+      "section": "herbal",
+      "category": "hep",
+      "summary": null
+    },
+    {
+      "id": "herbal-nrv-nervines-neurological-herbs",
+      "title": "Nervines & Neurological Herbs",
+      "badge": "Category",
+      "section": "herbal",
+      "category": "nrv",
+      "summary": null
+    },
+    {
+      "id": "envmed-envmed-environmental-medicine-principles-toxic-exposures",
+      "title": "Environmental Medicine — Principles & Toxic Exposures",
+      "badge": "Foundation",
+      "section": "envmed",
+      "category": "envmed",
+      "summary": null
+    },
+    {
+      "id": "envmed-envmed-heavy-metal-assessment-detoxification",
+      "title": "Heavy Metal Assessment & Detoxification",
+      "badge": "Clinical",
+      "section": "envmed",
+      "category": "envmed",
+      "summary": null
+    },
+    {
+      "id": "envmed-envmed-endocrine-disruptors-reducing-toxic-load",
+      "title": "Endocrine Disruptors & Reducing Toxic Load",
+      "badge": "Clinical",
+      "section": "envmed",
+      "category": "envmed",
+      "summary": null
+    },
+    {
+      "id": "envmed-envmed-air-quality-emf-environmental-health",
+      "title": "Air Quality, EMF & Environmental Health",
+      "badge": "Wellness",
+      "section": "envmed",
+      "category": "envmed",
+      "summary": null
+    },
+    {
+      "id": "sportmed-sport-sports-medicine-exercise-physiology-foundations",
+      "title": "Sports Medicine — Exercise Physiology Foundations",
+      "badge": "Foundation",
+      "section": "sportmed",
+      "category": "sport",
+      "summary": null
+    },
+    {
+      "id": "sportmed-sport-sports-nutrition-naturopathic-performance-protocol",
+      "title": "Sports Nutrition — Naturopathic Performance Protocol",
+      "badge": "Clinical",
+      "section": "sportmed",
+      "category": "sport",
+      "summary": null
+    },
+    {
+      "id": "sportmed-sport-sports-injury-naturopathic-recovery-protocol",
+      "title": "Sports Injury — Naturopathic Recovery Protocol",
+      "badge": "Clinical",
+      "section": "sportmed",
+      "category": "sport",
+      "summary": null
+    },
+    {
+      "id": "sportmed-sport-mental-performance-recovery-science",
+      "title": "Mental Performance & Recovery Science",
+      "badge": "Performance",
+      "section": "sportmed",
+      "category": "sport",
+      "summary": null
+    },
+    {
+      "id": "oraldent-oral-oral-systemic-connection-overview",
+      "title": "Oral-Systemic Connection — Overview",
+      "badge": "Foundation",
+      "section": "oraldent",
+      "category": "oral",
+      "summary": null
+    },
+    {
+      "id": "oraldent-oral-naturopathic-oral-hygiene-microbiome",
+      "title": "Naturopathic Oral Hygiene & Microbiome",
+      "badge": "Clinical",
+      "section": "oraldent",
+      "category": "oral",
+      "summary": null
+    },
+    {
+      "id": "oraldent-oral-common-oral-conditions-naturopathic-management",
+      "title": "Common Oral Conditions — Naturopathic Management",
+      "badge": "Clinical",
+      "section": "oraldent",
+      "category": "oral",
+      "summary": null
+    },
+    {
+      "id": "oraldent-oral-dental-anxiety-oral-health-in-special-populations",
+      "title": "Dental Anxiety & Oral Health in Special Populations",
+      "badge": "Clinical",
+      "section": "oraldent",
+      "category": "oral",
+      "summary": null
+    },
+    {
+      "id": "pocus-poc-pocus-introduction-probe-selection",
+      "title": "POCUS — Introduction & Probe Selection",
+      "badge": "Foundation",
+      "section": "pocus",
+      "category": "poc",
+      "summary": null
+    },
+    {
+      "id": "pocus-poc-fast-exam-focused-assessment-with-sonography-in-trauma",
+      "title": "FAST Exam — Focused Assessment with Sonography in Trauma",
+      "badge": "Emergency ★",
+      "section": "pocus",
+      "category": "poc",
+      "summary": null
+    },
+    {
+      "id": "pocus-poc-lung-pocus-pneumothorax-effusion-pulmonary-oedema",
+      "title": "Lung POCUS — Pneumothorax, Effusion & Pulmonary Oedema",
+      "badge": "Clinical ★",
+      "section": "pocus",
+      "category": "poc",
+      "summary": null
+    },
+    {
+      "id": "pocus-poc-ivc-collapsibility-cardiac-pocus",
+      "title": "IVC Collapsibility & Cardiac POCUS",
+      "badge": "Clinical",
+      "section": "pocus",
+      "category": "poc",
+      "summary": null
+    },
+    {
+      "id": "clinscoring-score-clinical-scoring-systems-overview-priority-list",
+      "title": "Clinical Scoring Systems — Overview & Priority List",
+      "badge": "Foundation",
+      "section": "clinscoring",
+      "category": "score",
+      "summary": null
+    },
+    {
+      "id": "clinscoring-score-curb-65-sepsis-scores-bedside-application",
+      "title": "CURB-65 & Sepsis Scores — Bedside Application",
+      "badge": "Emergency",
+      "section": "clinscoring",
+      "category": "score",
+      "summary": null
+    },
+    {
+      "id": "clinscoring-score-heart-score-cardiac-scoring",
+      "title": "HEART Score & Cardiac Scoring",
+      "badge": "Cardiology",
+      "section": "clinscoring",
+      "category": "score",
+      "summary": null
+    },
+    {
+      "id": "clinscoring-score-liver-renal-neurological-scoring",
+      "title": "Liver, Renal & Neurological Scoring",
+      "badge": "Reference",
+      "section": "clinscoring",
+      "category": "score",
+      "summary": null
+    },
+    {
+      "id": "microguide-micro-microbiology-common-pathogens-infections",
+      "title": "Microbiology — Common Pathogens & Infections",
+      "badge": "Foundation",
+      "section": "microguide",
+      "category": "micro",
+      "summary": null
+    },
+    {
+      "id": "microguide-micro-antibiotic-guide-empirical-treatment-india-specific",
+      "title": "Antibiotic Guide — Empirical Treatment (India-Specific)",
+      "badge": "Prescribing",
+      "section": "microguide",
+      "category": "micro",
+      "summary": null
+    },
+    {
+      "id": "microguide-micro-culture-reports-how-to-interpret",
+      "title": "Culture Reports — How to Interpret",
+      "badge": "Diagnostic",
+      "section": "microguide",
+      "category": "micro",
+      "summary": null
+    },
+    {
+      "id": "yogathera-yoga-advanced-yoga-therapeutics-principles",
+      "title": "Advanced Yoga Therapeutics — Principles",
+      "badge": "Foundation",
+      "section": "yogathera",
+      "category": "yoga",
+      "summary": null
+    },
+    {
+      "id": "yogathera-yoga-disease-specific-asana-protocols",
+      "title": "Disease-Specific Asana Protocols",
+      "badge": "Clinical",
+      "section": "yogathera",
+      "category": "yoga",
+      "summary": null
+    },
+    {
+      "id": "yogathera-yoga-shatkarmas-yogic-purification-practices",
+      "title": "Shatkarmas (Yogic Purification Practices)",
+      "badge": "BNYS Essential",
+      "section": "yogathera",
+      "category": "yoga",
+      "summary": null
+    },
+    {
+      "id": "yogathera-yoga-yoga-nidra-clinical-protocol",
+      "title": "Yoga Nidra — Clinical Protocol",
+      "badge": "Therapeutic",
+      "section": "yogathera",
+      "category": "yoga",
+      "summary": null
+    },
+    {
+      "id": "panchakarma-pancha-panchakarma-principles-philosophy",
+      "title": "Panchakarma — Principles & Philosophy",
+      "badge": "Foundation",
+      "section": "panchakarma",
+      "category": "pancha",
+      "summary": null
+    },
+    {
+      "id": "panchakarma-pancha-purvakarma-preparatory-procedures",
+      "title": "Purvakarma — Preparatory Procedures",
+      "badge": "Clinical",
+      "section": "panchakarma",
+      "category": "pancha",
+      "summary": null
+    },
+    {
+      "id": "panchakarma-pancha-special-panchakarma-treatments-shirodhara-shirobasti",
+      "title": "Special Panchakarma Treatments — Shirodhara & Shirobasti",
+      "badge": "BNYS Specialty",
+      "section": "panchakarma",
+      "category": "pancha",
+      "summary": null
+    },
+    {
+      "id": "panchakarma-pancha-leech-therapy-jalaukavacharana-clinical-protocol",
+      "title": "Leech Therapy (Jalaukavacharana) — Clinical Protocol",
+      "badge": "Specialty",
+      "section": "panchakarma",
+      "category": "pancha",
+      "summary": null
+    },
+    {
+      "id": "clinicmgt-clinic-setting-up-a-bnys-clinic-registration-licensing",
+      "title": "Setting Up a BNYS Clinic — Registration & Licensing",
+      "badge": "Foundation",
+      "section": "clinicmgt",
+      "category": "clinic",
+      "summary": null
+    },
+    {
+      "id": "clinicmgt-clinic-clinic-setup-infrastructure-equipment",
+      "title": "Clinic Setup — Infrastructure & Equipment",
+      "badge": "Practical",
+      "section": "clinicmgt",
+      "category": "clinic",
+      "summary": null
+    },
+    {
+      "id": "clinicmgt-clinic-patient-retention-practice-growth",
+      "title": "Patient Retention & Practice Growth",
+      "badge": "Business",
+      "section": "clinicmgt",
+      "category": "clinic",
+      "summary": null
+    },
+    {
+      "id": "clinicmgt-clinic-medico-legal-essentials-informed-consent",
+      "title": "Medico-Legal Essentials & Informed Consent",
+      "badge": "Legal ★",
+      "section": "clinicmgt",
+      "category": "clinic",
+      "summary": null
+    },
+    {
+      "id": "bnysexam-exam-bnys-exam-prep-high-yield-topics-by-subject",
+      "title": "BNYS Exam Prep — High-Yield Topics by Subject",
+      "badge": "Exam ★",
+      "section": "bnysexam",
+      "category": "exam",
+      "summary": null
+    },
+    {
+      "id": "bnysexam-exam-bnys-viva-preparation-commonly-asked-questions",
+      "title": "BNYS Viva Preparation — Commonly Asked Questions",
+      "badge": "Exam",
+      "section": "bnysexam",
+      "category": "exam",
+      "summary": null
+    },
+    {
+      "id": "bnysexam-exam-bnys-mcq-bank-practice-questions",
+      "title": "BNYS MCQ Bank — Practice Questions",
+      "badge": "Exam Practice",
+      "section": "bnysexam",
+      "category": "exam",
+      "summary": null
+    },
+    {
+      "id": "bnysprotocols-dp1-hypertension-bnys-complete-protocol",
+      "title": "Hypertension — BNYS Complete Protocol",
+      "badge": "Priority",
+      "section": "bnysprotocols",
+      "category": "dp1",
+      "summary": null
+    },
+    {
+      "id": "bnysprotocols-dp1-asthma-bnys-protocol",
+      "title": "Asthma — BNYS Protocol",
+      "badge": "Core",
+      "section": "bnysprotocols",
+      "category": "dp1",
+      "summary": null
+    },
+    {
+      "id": "bnysprotocols-dp2-ibs-bnys-protocol",
+      "title": "IBS — BNYS Protocol",
+      "badge": "Core",
+      "section": "bnysprotocols",
+      "category": "dp2",
+      "summary": null
+    },
+    {
+      "id": "bnysprotocols-dp2-anxiety-bnys-protocol",
+      "title": "Anxiety — BNYS Protocol",
+      "badge": "Core",
+      "section": "bnysprotocols",
+      "category": "dp2",
+      "summary": null
+    },
+    {
+      "id": "bnysprotocols-dp3-t2dm-pcos-migraine-bnys-protocols",
+      "title": "T2DM, PCOS & Migraine — BNYS Protocols",
+      "badge": "BNYS Protocol",
+      "section": "bnysprotocols",
+      "category": "dp3",
+      "summary": null
+    },
+    {
+      "id": "bnysprotocols-dp3-nafld-arthritis-psoriasis-thyroid-bnys-protocols",
+      "title": "NAFLD, Arthritis, Psoriasis & Thyroid — BNYS Protocols",
+      "badge": "BNYS Protocol",
+      "section": "bnysprotocols",
+      "category": "dp3",
+      "summary": null
+    },
+    {
+      "id": "bnysprotocols-dp3-insomnia-obesity-ckd-bnys-protocols",
+      "title": "Insomnia, Obesity & CKD — BNYS Protocols",
+      "badge": "BNYS Protocol",
+      "section": "bnysprotocols",
+      "category": "dp3",
+      "summary": null
+    },
+    {
+      "id": "anatomy-cvs-cardiovascular-structural-anatomy",
+      "title": "Cardiovascular — Structural Anatomy",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "cvs",
+      "summary": null
+    },
+    {
+      "id": "anatomy-cvs-cardiac-physiology-output-cycle-frank-starling",
+      "title": "Cardiac Physiology — Output, Cycle & Frank-Starling",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "cvs",
+      "summary": null
+    },
+    {
+      "id": "anatomy-cvs-blood-pressure-regulation-vascular-physiology",
+      "title": "Blood Pressure Regulation & Vascular Physiology",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "cvs",
+      "summary": null
+    },
+    {
+      "id": "anatomy-resp-respiratory-airways-lung-anatomy",
+      "title": "Respiratory — Airways & Lung Anatomy",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "resp",
+      "summary": null
+    },
+    {
+      "id": "anatomy-resp-ventilation-perfusion-gas-exchange",
+      "title": "Ventilation, Perfusion & Gas Exchange",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "resp",
+      "summary": null
+    },
+    {
+      "id": "anatomy-resp-respiratory-control-breathing-mechanics",
+      "title": "Respiratory Control & Breathing Mechanics",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "resp",
+      "summary": null
+    },
+    {
+      "id": "anatomy-neuro-nervous-system-cns-anatomy-cerebral-lobes",
+      "title": "Nervous System — CNS Anatomy & Cerebral Lobes",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "anatomy-neuro-neurophysiology-action-potentials-synapses-ans",
+      "title": "Neurophysiology — Action Potentials, Synapses & ANS",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "anatomy-neuro-csf-meninges-blood-brain-barrier",
+      "title": "CSF, Meninges & Blood-Brain Barrier",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "anatomy-msk-musculoskeletal-bone-structure-remodelling",
+      "title": "Musculoskeletal — Bone Structure & Remodelling",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "msk",
+      "summary": null
+    },
+    {
+      "id": "anatomy-msk-muscle-joint-physiology",
+      "title": "Muscle & Joint Physiology",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "msk",
+      "summary": null
+    },
+    {
+      "id": "anatomy-gi-gi-tract-anatomy-wall-layers",
+      "title": "GI Tract — Anatomy & Wall Layers",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "gi",
+      "summary": null
+    },
+    {
+      "id": "anatomy-gi-gi-physiology-secretion-digestion-absorption",
+      "title": "GI Physiology — Secretion, Digestion & Absorption",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "gi",
+      "summary": null
+    },
+    {
+      "id": "anatomy-endo-endocrine-glands-anatomy-hormone-overview",
+      "title": "Endocrine Glands — Anatomy & Hormone Overview",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "endo",
+      "summary": null
+    },
+    {
+      "id": "anatomy-endo-hormone-physiology-mechanisms-axes-calcium",
+      "title": "Hormone Physiology — Mechanisms, Axes & Calcium",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "endo",
+      "summary": null
+    },
+    {
+      "id": "anatomy-renal-kidney-anatomy-nephron-structure",
+      "title": "Kidney — Anatomy & Nephron Structure",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "renal",
+      "summary": null
+    },
+    {
+      "id": "anatomy-renal-renal-physiology-gfr-tubular-transport-acid-base",
+      "title": "Renal Physiology — GFR, Tubular Transport & Acid-Base",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "renal",
+      "summary": null
+    },
+    {
+      "id": "anatomy-repro-reproductive-anatomy-male-female",
+      "title": "Reproductive Anatomy — Male & Female",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "repro",
+      "summary": null
+    },
+    {
+      "id": "anatomy-repro-reproductive-physiology-hpg-axis-menstrual-cycle",
+      "title": "Reproductive Physiology — HPG Axis & Menstrual Cycle",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "repro",
+      "summary": null
+    },
+    {
+      "id": "anatomy-immune-immune-system-anatomy-innate-immunity",
+      "title": "Immune System — Anatomy & Innate Immunity",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "immune",
+      "summary": null
+    },
+    {
+      "id": "anatomy-immune-adaptive-immunity-t-cells-b-cells-cytokines",
+      "title": "Adaptive Immunity — T Cells, B Cells & Cytokines",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "immune",
+      "summary": null
+    },
+    {
+      "id": "anatomy-blood-haematology-blood-cells-bone-marrow",
+      "title": "Haematology — Blood Cells & Bone Marrow",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "blood",
+      "summary": null
+    },
+    {
+      "id": "anatomy-blood-haemostasis-coagulation-cascade-haemoglobin",
+      "title": "Haemostasis, Coagulation Cascade & Haemoglobin",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "blood",
+      "summary": null
+    },
+    {
+      "id": "pearls-mud-therapy-abdominal-mud-pack",
+      "title": "Abdominal Mud Pack",
+      "badge": "Mud Therapy",
+      "section": "pearls",
+      "category": "mud-therapy",
+      "summary": "Most commonly prescribed mud application in BNYS. Indication: constipation, IBS, indigestion, hyperacidity. Apply cool mud pack from navel to pubic symphysis for 20–30 minutes, morning before breakfas"
+    },
+    {
+      "id": "pearls-yoga-sciences-breath-holding-time-bht",
+      "title": "Breath-Holding Time (BHT)",
+      "badge": "Yoga Sciences",
+      "section": "pearls",
+      "category": "yoga-sciences",
+      "summary": "Simple clinical marker of respiratory and cardiovascular health. Normal: 25–40 seconds. <20 sec = significant dysfunction (poor parasympathetic tone). >40 sec = good cardiovascular fitness. Measure: n"
+    },
+    {
+      "id": "pearls-yoga-sciences-yoga-nidra-therapeutic-goldmine",
+      "title": "Yoga Nidra — Therapeutic Goldmine",
+      "badge": "Yoga Sciences",
+      "section": "pearls",
+      "category": "yoga-sciences",
+      "summary": "30 minutes = 2–3 hours of deep sleep physiologically. Induces theta brainwave state (4–8 Hz). Evidence: ↓ cortisol, ↓ sympathetic tone, ↑ DHEA, ↓ PTSD symptoms, ↓ chronic pain scores. Prescription: 30"
+    },
+    {
+      "id": "pearls-clinical-skills-bathe-technique-5-min-psychosocial-screen",
+      "title": "BATHE Technique — 5-min Psychosocial Screen",
+      "badge": "Clinical Skills",
+      "section": "pearls",
+      "category": "clinical-skills",
+      "summary": "B — Background: 'What is going on in your life?' A — Affect: 'How do you feel?' T — Trouble: 'What troubles you most?' H — Handling: 'How are you handling it?' E — Empathy: 'That must be very difficul"
+    },
+    {
+      "id": "pearls-clinical-skills-the-90-second-rule",
+      "title": "The 90-Second Rule",
+      "badge": "Clinical Skills",
+      "section": "pearls",
+      "category": "clinical-skills",
+      "summary": "Doctors interrupt patients on average within 18 seconds. If allowed to speak uninterrupted, 80% finish in under 90 seconds — and reveal the real reason for the consultation. The first 90 seconds shoul"
+    },
+    {
+      "id": "pearls-yoga-sciences-sequence-of-yoga-practice",
+      "title": "Sequence of Yoga Practice",
+      "badge": "Yoga Sciences",
+      "section": "pearls",
+      "category": "yoga-sciences",
+      "summary": "Correct order: Asanas → Pranayama → Meditation/Yoga Nidra → Shavasana. Never reverse. Asanas prepare the body for pranayama; pranayama prepares the mind for meditation. Pranayama on an unprepared body"
+    },
+    {
+      "id": "pearls-nutrition-alkaline-vs-acid-forming-foods",
+      "title": "Alkaline vs Acid-Forming Foods",
+      "badge": "Nutrition",
+      "section": "pearls",
+      "category": "nutrition",
+      "summary": "Alkaline-forming (eat freely): all fruits (even citrus — alkaline ASH), all vegetables, sprouts, millet, seeds, nuts, coconut water. Acid-forming (limit): meat, fish, eggs, dairy, refined grains, suga"
+    },
+    {
+      "id": "pearls-fasting-therapy-healing-crisis-during-fasting",
+      "title": "Healing Crisis During Fasting",
+      "badge": "Fasting Therapy",
+      "section": "pearls",
+      "category": "fasting-therapy",
+      "summary": "Expect on days 1–2: headache, fatigue, irritability, bad breath, coated tongue, body odour — signs of active detoxification, not side effects. Dangerous symptoms: severe hypoglycaemia, cardiac palpita"
+    },
+    {
+      "id": "pearls-acupressure-deqi-sensation-in-acupressure",
+      "title": "Deqi Sensation in Acupressure",
+      "badge": "Acupressure",
+      "section": "pearls",
+      "category": "acupressure",
+      "summary": "The therapeutic sensation at a correctly stimulated acupoint: dull ache, heaviness, tingling, warmth, or electric-like sensation radiating along the meridian. Absence of Deqi = incorrect location, ins"
+    },
+    {
+      "id": "pearls-oil-therapy-self-abhyanga-prescription",
+      "title": "Self-Abhyanga Prescription",
+      "badge": "Oil Therapy",
+      "section": "pearls",
+      "category": "oil-therapy",
+      "summary": "Daily self-abhyanga is one of the most powerful preventive practices. Warm sesame oil, 10–15 min before morning shower. Start at crown, work down. Let oil absorb 5 min, then shower with warm water. Re"
+    },
+    {
+      "id": "pearls-clinical-skills-documentation-principle",
+      "title": "Documentation Principle",
+      "badge": "Clinical Skills",
+      "section": "pearls",
+      "category": "clinical-skills",
+      "summary": "'If it isn't written, it didn't happen.' Good documentation protects the patient (continuity of care), protects you (medico-legal), and improves outcomes. Write legibly in black ink. Date and sign eve"
+    },
+    {
+      "id": "pearls-clinical-examination-inspection-before-palpation",
+      "title": "Inspection Before Palpation",
+      "badge": "Clinical Examination",
+      "section": "pearls",
+      "category": "clinical-examination",
+      "summary": "Always. The end-of-bed assessment gives you the gestalt of how sick the patient is. A patient who looks well despite abnormal observations is different from one who looks unwell with normal observatio"
+    },
+    {
+      "id": "pearls-cardiovascular-jvp-window-to-the-right-atrium",
+      "title": "JVP — Window to the Right Atrium",
+      "badge": "Cardiovascular",
+      "section": "pearls",
+      "category": "cardiovascular",
+      "summary": "A raised JVP is one of the earliest signs of right heart failure. In cardiac tamponade: Beck's triad — raised JVP + hypotension + muffled heart sounds. Pulsus paradoxus also present. Always check JVP "
+    },
+    {
+      "id": "pearls-oil-therapy-therapeutic-oils-in-bnys",
+      "title": "Therapeutic Oils in BNYS",
+      "badge": "Oil Therapy",
+      "section": "pearls",
+      "category": "oil-therapy",
+      "summary": "Sesame oil: warming, anti-Vata, best for dry skin and joints. Coconut oil: cooling, anti-inflammatory, best for Pitta and skin. Mustard oil: deeply warming — cold/flu, arthritis. Neem oil: antimicrobi"
+    },
+    {
+      "id": "pearls-mud-therapy-ideal-mud-for-therapy",
+      "title": "Ideal Mud for Therapy",
+      "badge": "Mud Therapy",
+      "section": "pearls",
+      "category": "mud-therapy",
+      "summary": "Best therapeutic mud: black cotton soil or fullers earth (multani mitti) — high mineral content, fine texture. Collect from 3–4 feet depth (free of contaminants). Sun-dry, powder, sieve, store in eart"
+    }
+  ]
+}
