@@ -1,0 +1,274 @@
+{
+  "schemaVersion": "1.0",
+  "section": "envmed",
+  "generatedAt": "2026-04-10T10:50:32.810Z",
+  "cardCount": 4,
+  "cards": [
+    {
+      "id": "envmed-envmed-environmental-medicine-principles-toxic-exposures",
+      "title": "Environmental Medicine — Principles & Toxic Exposures",
+      "badge": "Foundation",
+      "category": "envmed",
+      "section": "envmed",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Environmental Medicine in Naturopathic Practice",
+            "text": "Environmental medicine assesses and addresses the impact of environmental exposures — heavy metals, persistent organic pollutants (POPs), endocrine-disrupting chemicals (EDCs), moulds, air pollution, electromagnetic fields, and other xenobiotics — on health. These exposures contribute to a growing burden of chronic disease including cancer, endocrine disorders, neurodevelopmental conditions, and autoimmunity. Naturopathic practice is uniquely positioned to identify and reduce toxic burdens."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Toxin Category",
+              "Key Examples",
+              "Routes of Exposure",
+              "Health Effects"
+            ],
+            "rows": [
+              [
+                "Heavy Metals",
+                "Lead, mercury, arsenic, cadmium, aluminium",
+                "Contaminated water, fish (mercury), old paint/pipes (lead), rice (arsenic), cigarette smoke (cadmium)",
+                "Neurotoxicity, nephrotoxicity, carcinogenicity, immunotoxicity, endocrine disruption"
+              ],
+              [
+                "Persistent Organic Pollutants (POPs)",
+                "PCBs, dioxins, DDT, PFAS (\"forever chemicals\")",
+                "Fatty animal foods, contaminated water, non-stick cookware (PFAS), food packaging",
+                "Endocrine disruption, carcinogenicity, immunosuppression, developmental toxicity"
+              ],
+              [
+                "Endocrine Disruptors (EDCs)",
+                "BPA, phthalates, parabens, pesticides (organophosphates)",
+                "Plastic containers, personal care products, conventional produce, tinned food",
+                "Hormonal disruption, reproductive toxicity, thyroid disruption, obesity, early puberty"
+              ],
+              [
+                "Moulds & Mycotoxins",
+                "Aflatoxin B1 (Aspergillus), ochratoxin (Penicillium), trichothecenes (Stachybotrys — \"black mould\")",
+                "Damp buildings, contaminated grains/nuts/dried fruit",
+                "CIRS (Chronic Inflammatory Response Syndrome), liver toxicity, immunosuppression, nephrotoxicity"
+              ],
+              [
+                "Air Pollutants",
+                "PM2.5, PM10, NO₂, ozone, VOCs",
+                "Traffic, industry, indoor air (cooking fumes, cleaning products, new furniture off-gassing)",
+                "Cardiovascular disease, lung cancer, COPD exacerbation, neuroinflammation, dementia"
+              ],
+              [
+                "Pesticide Residues",
+                "Organophosphates, glyphosate, pyrethroids",
+                "Conventional produce, treated grain, contaminated groundwater",
+                "Neurotoxicity (Parkinson's risk), gut dysbiosis (glyphosate disrupts EPSP synthase in gut bacteria), carcinogenicity"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Environmental Medicine in Naturopathic Practice</div>Environmental medicine assesses and addresses the impact of environmental exposures — heavy metals, persistent organic pollutants (POPs), endocrine-disrupting chemicals (EDCs), moulds, air pollution, electromagnetic fields, and other xenobiotics — on health. These exposures contribute to a growing burden of chronic disease including cancer, endocrine disorders, neurodevelopmental conditions, and autoimmunity. Naturopathic practice is uniquely positioned to identify and reduce toxic burdens.</div>\n    <table class=\"tbl\"><thead><tr><th>Toxin Category</th><th>Key Examples</th><th>Routes of Exposure</th><th>Health Effects</th></tr></thead><tbody>\n      <tr><td><strong>Heavy Metals</strong></td><td>Lead, mercury, arsenic, cadmium, aluminium</td><td>Contaminated water, fish (mercury), old paint/pipes (lead), rice (arsenic), cigarette smoke (cadmium)</td><td>Neurotoxicity, nephrotoxicity, carcinogenicity, immunotoxicity, endocrine disruption</td></tr>\n      <tr><td><strong>Persistent Organic Pollutants (POPs)</strong></td><td>PCBs, dioxins, DDT, PFAS (\"forever chemicals\")</td><td>Fatty animal foods, contaminated water, non-stick cookware (PFAS), food packaging</td><td>Endocrine disruption, carcinogenicity, immunosuppression, developmental toxicity</td></tr>\n      <tr><td><strong>Endocrine Disruptors (EDCs)</strong></td><td>BPA, phthalates, parabens, pesticides (organophosphates)</td><td>Plastic containers, personal care products, conventional produce, tinned food</td><td>Hormonal disruption, reproductive toxicity, thyroid disruption, obesity, early puberty</td></tr>\n      <tr><td><strong>Moulds & Mycotoxins</strong></td><td>Aflatoxin B1 (Aspergillus), ochratoxin (Penicillium), trichothecenes (Stachybotrys — \"black mould\")</td><td>Damp buildings, contaminated grains/nuts/dried fruit</td><td>CIRS (Chronic Inflammatory Response Syndrome), liver toxicity, immunosuppression, nephrotoxicity</td></tr>\n      <tr><td><strong>Air Pollutants</strong></td><td>PM2.5, PM10, NO₂, ozone, VOCs</td><td>Traffic, industry, indoor air (cooking fumes, cleaning products, new furniture off-gassing)</td><td>Cardiovascular disease, lung cancer, COPD exacerbation, neuroinflammation, dementia</td></tr>\n      <tr><td><strong>Pesticide Residues</strong></td><td>Organophosphates, glyphosate, pyrethroids</td><td>Conventional produce, treated grain, contaminated groundwater</td><td>Neurotoxicity (Parkinson's risk), gut dysbiosis (glyphosate disrupts EPSP synthase in gut bacteria), carcinogenicity</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "envmed-envmed-heavy-metal-assessment-detoxification",
+      "title": "Heavy Metal Assessment & Detoxification",
+      "badge": "Clinical",
+      "category": "envmed",
+      "section": "envmed",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Metal",
+              "Key Sources",
+              "Target Organs",
+              "Naturopathic Priority"
+            ],
+            "rows": [
+              [
+                "Mercury",
+                "Large fish, amalgam fillings, contaminated water",
+                "Brain, kidneys, thyroid",
+                "Chlorella, selenium (mercury antagonist ★★★), reduce large fish, consider amalgam removal (with biological dentist)"
+              ],
+              [
+                "Lead",
+                "Old paint, pipes, contaminated soil, some Ayurvedic preparations",
+                "Brain (IQ reduction in children), kidneys, bone (stored)",
+                "Calcium (competes with lead for absorption), pectin, NAC, reduce exposure — children are most vulnerable"
+              ],
+              [
+                "Arsenic",
+                "Groundwater (major in India), rice, treated wood",
+                "Skin, liver, bladder, lung (carcinogen)",
+                "Filter drinking water ★★★ (reverse osmosis), reduce rice consumption, selenium, NAC"
+              ],
+              [
+                "Cadmium",
+                "Cigarette smoke (#1 source), contaminated soil, shellfish",
+                "Kidneys (Itai-itai disease), lungs, bone",
+                "Smoking cessation ★★★, zinc (cadmium antagonist — competes for metallothionein), iron adequacy"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Clinical Assessment — History",
+            "text": "Occupational exposure: welders (manganese, fumes), battery workers (lead), dentists/dental patients (mercury amalgam), miners, painters, farmers (pesticides). Dietary: high fish consumption (mercury — swordfish, shark, king mackerel, tuna most contaminated). Geographic: industrial areas, near mining, high-arsenic groundwater regions (India: Bengal, Bihar, UP — arsenic in groundwater is major public health concern). Old housing: lead pipes and paint. Symptoms: cognitive decline, peripheral neuropathy, GI disturbance, fatigue, hair loss (arsenic — Mees' lines on nails), blue line on gums (Burton's line — lead)."
+          },
+          {
+            "n": 2,
+            "title": "Testing",
+            "text": "Blood mercury (acute/recent exposure — half-life 70 days). Hair mercury (chronic 3-month average — most common environmental test). Urine arsenic (24-hr: most accurate for organic + inorganic arsenic). Blood lead (current — declines rapidly; bone lead = long-term burden). Urine heavy metals panel (pre- and post-DMSA provocation — more comprehensive but requires trained prescriber for DMSA). Functional markers: red blood cell glutathione (oxidative load), urinary porphyrins (disruption of haem synthesis by metals)."
+          },
+          {
+            "n": 3,
+            "title": "Naturopathic Heavy Metal Support Protocol",
+            "text": "Dietary chelators: Chlorella 3–5g/day (binds mercury in gut — reduces reabsorption; take 30 min before fish consumption). Cilantro/coriander (mobilises metals — always use with binding agent to prevent redistribution). Garlic (allicin — mercury and cadmium chelation). Pectin (modified citrus pectin — binds lead and arsenic in gut). N-acetylcysteine 600mg BD (glutathione precursor — primary hepatic detoxification). Alpha-lipoic acid 600mg/day (crosses BBB — chelates mercury in neural tissue; take with antioxidants). Sulforaphane (broccoli sprouts — NRF2 → phase II liver detox enzymes). Note: true heavy metal chelation (DMPS, DMSA, EDTA) requires medical supervision."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#374151\">1</div><div class=\"st\"><span class=\"sh\">Clinical Assessment — History</span> Occupational exposure: welders (manganese, fumes), battery workers (lead), dentists/dental patients (mercury amalgam), miners, painters, farmers (pesticides). Dietary: high fish consumption (mercury — swordfish, shark, king mackerel, tuna most contaminated). Geographic: industrial areas, near mining, high-arsenic groundwater regions (India: Bengal, Bihar, UP — arsenic in groundwater is major public health concern). Old housing: lead pipes and paint. Symptoms: cognitive decline, peripheral neuropathy, GI disturbance, fatigue, hair loss (arsenic — Mees' lines on nails), blue line on gums (Burton's line — lead).</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#374151\">2</div><div class=\"st\"><span class=\"sh\">Testing</span> Blood mercury (acute/recent exposure — half-life 70 days). Hair mercury (chronic 3-month average — most common environmental test). Urine arsenic (24-hr: most accurate for organic + inorganic arsenic). Blood lead (current — declines rapidly; bone lead = long-term burden). Urine heavy metals panel (pre- and post-DMSA provocation — more comprehensive but requires trained prescriber for DMSA). Functional markers: red blood cell glutathione (oxidative load), urinary porphyrins (disruption of haem synthesis by metals).</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#374151\">3</div><div class=\"st\"><span class=\"sh\">Naturopathic Heavy Metal Support Protocol</span> Dietary chelators: Chlorella 3–5g/day (binds mercury in gut — reduces reabsorption; take 30 min before fish consumption). Cilantro/coriander (mobilises metals — always use with binding agent to prevent redistribution). Garlic (allicin — mercury and cadmium chelation). Pectin (modified citrus pectin — binds lead and arsenic in gut). N-acetylcysteine 600mg BD (glutathione precursor — primary hepatic detoxification). Alpha-lipoic acid 600mg/day (crosses BBB — chelates mercury in neural tissue; take with antioxidants). Sulforaphane (broccoli sprouts — NRF2 → phase II liver detox enzymes). Note: true heavy metal chelation (DMPS, DMSA, EDTA) requires medical supervision.</div></div>\n    </div>\n    <table class=\"tbl\" style=\"margin-top:12px\"><thead><tr><th>Metal</th><th>Key Sources</th><th>Target Organs</th><th>Naturopathic Priority</th></tr></thead><tbody>\n      <tr><td>Mercury</td><td>Large fish, amalgam fillings, contaminated water</td><td>Brain, kidneys, thyroid</td><td>Chlorella, selenium (mercury antagonist ★★★), reduce large fish, consider amalgam removal (with biological dentist)</td></tr>\n      <tr><td>Lead</td><td>Old paint, pipes, contaminated soil, some Ayurvedic preparations</td><td>Brain (IQ reduction in children), kidneys, bone (stored)</td><td>Calcium (competes with lead for absorption), pectin, NAC, reduce exposure — children are most vulnerable</td></tr>\n      <tr><td>Arsenic</td><td>Groundwater (major in India), rice, treated wood</td><td>Skin, liver, bladder, lung (carcinogen)</td><td>Filter drinking water ★★★ (reverse osmosis), reduce rice consumption, selenium, NAC</td></tr>\n      <tr><td>Cadmium</td><td>Cigarette smoke (#1 source), contaminated soil, shellfish</td><td>Kidneys (Itai-itai disease), lungs, bone</td><td>Smoking cessation ★★★, zinc (cadmium antagonist — competes for metallothionein), iron adequacy</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "envmed-envmed-endocrine-disruptors-reducing-toxic-load",
+      "title": "Endocrine Disruptors & Reducing Toxic Load",
+      "badge": "Clinical",
+      "category": "envmed",
+      "section": "envmed",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "EDC Principle — \"The Dose Makes the Poison\" Does NOT Apply",
+            "text": "Endocrine disruptors often show non-monotonic dose-response curves — small amounts can be more harmful than large amounts (because they mimic hormonal signalling at physiological concentrations). Threshold-based toxicology does not apply. This is why \"BPA-free\" products may still contain equally harmful alternatives (BPS, BPF). The precautionary principle applies."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "EDC",
+              "Sources",
+              "Effect",
+              "Reduction Strategy"
+            ],
+            "rows": [
+              [
+                "BPA/BPS/BPF (Bisphenols)",
+                "Hard plastics (#7), tin can linings, thermal till receipts, dental sealants",
+                "Oestrogen receptor agonist → PCOS, early puberty, male infertility (↓ testosterone), obesity",
+                "Glass/stainless steel food storage. Never heat food in plastic. Avoid handling thermal receipts. Filter tap water (removes BPA)."
+              ],
+              [
+                "Phthalates",
+                "Flexible PVC, personal care products (fragrance), food packaging, vinyl flooring",
+                "Anti-androgen → reduced testosterone, cryptorchidism, shortened anogenital distance, impaired spermatogenesis",
+                "Choose fragrance-free personal care products. Avoid air fresheners and synthetic fragrances. Glass or stainless food storage. EWG Skin Deep database for safer products."
+              ],
+              [
+                "Organophosphate Pesticides",
+                "Conventional produce — particularly: strawberries, spinach, grapes, apples (EWG Dirty Dozen)",
+                "Cholinesterase inhibitor (neurotoxic), Parkinson's risk ↑ 2×, gut dysbiosis (kills EPSP synthase bacteria)",
+                "Buy organic for Dirty Dozen. Wash all produce. Peel where possible. Consider water filter (removes chlorine which potentiates pesticide toxicity)."
+              ],
+              [
+                "Parabens",
+                "Cosmetics preservatives (check for: methylparaben, propylparaben, butylparaben on labels)",
+                "Weak oestrogen agonist. Found in breast tumour tissue. Disrupts thyroid function",
+                "Choose paraben-free cosmetics. EWG Skin Deep app for safe alternatives."
+              ],
+              [
+                "PFAS (\"Forever Chemicals\")",
+                "Non-stick cookware, waterproof clothing, food packaging (microwave popcorn, fast food wrappers), firefighting foam (contaminated water sources)",
+                "Thyroid disruption, immune suppression, elevated cholesterol, PFOA (kidney, testicular cancer)",
+                "Replace non-stick with cast iron, stainless steel, or ceramic. Filter water (activated carbon + reverse osmosis removes PFAS). Check water utility reports."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 CIRS — Chronic Inflammatory Response Syndrome",
+            "text": "CIRS (Shoemaker protocol) occurs in ~25% of population with specific HLA-DR genotypes that cannot clear biotoxins (mainly mould mycotoxins, but also cyanobacteria/Lyme). Symptoms: fatigue, cognitive impairment (\"brain fog\"), visual disturbances, multiple chemical sensitivities, unusual pain patterns. Diagnosis: Shoemaker multi-system multi-symptom criteria + visual contrast sensitivity test + specific lab panel (TGF-β1, C3a, C4a, MMP9, VIP, MSH). Naturopathic: identify and remove from mould-contaminated building first (essential step — no supplementation substitutes for removal). Then: cholestyramine (or GI binders — alternative: activated charcoal, clay), VIP nasal spray (specialist), sequential Shoemaker protocol."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-info\"><div class=\"a-label\">EDC Principle — \"The Dose Makes the Poison\" Does NOT Apply</div>Endocrine disruptors often show non-monotonic dose-response curves — small amounts can be more harmful than large amounts (because they mimic hormonal signalling at physiological concentrations). Threshold-based toxicology does not apply. This is why \"BPA-free\" products may still contain equally harmful alternatives (BPS, BPF). The precautionary principle applies.</div>\n    <table class=\"tbl\"><thead><tr><th>EDC</th><th>Sources</th><th>Effect</th><th>Reduction Strategy</th></tr></thead><tbody>\n      <tr><td>BPA/BPS/BPF (Bisphenols)</td><td>Hard plastics (#7), tin can linings, thermal till receipts, dental sealants</td><td>Oestrogen receptor agonist → PCOS, early puberty, male infertility (↓ testosterone), obesity</td><td>Glass/stainless steel food storage. Never heat food in plastic. Avoid handling thermal receipts. Filter tap water (removes BPA).</td></tr>\n      <tr><td>Phthalates</td><td>Flexible PVC, personal care products (fragrance), food packaging, vinyl flooring</td><td>Anti-androgen → reduced testosterone, cryptorchidism, shortened anogenital distance, impaired spermatogenesis</td><td>Choose fragrance-free personal care products. Avoid air fresheners and synthetic fragrances. Glass or stainless food storage. EWG Skin Deep database for safer products.</td></tr>\n      <tr><td>Organophosphate Pesticides</td><td>Conventional produce — particularly: strawberries, spinach, grapes, apples (EWG Dirty Dozen)</td><td>Cholinesterase inhibitor (neurotoxic), Parkinson's risk ↑ 2×, gut dysbiosis (kills EPSP synthase bacteria)</td><td>Buy organic for Dirty Dozen. Wash all produce. Peel where possible. Consider water filter (removes chlorine which potentiates pesticide toxicity).</td></tr>\n      <tr><td>Parabens</td><td>Cosmetics preservatives (check for: methylparaben, propylparaben, butylparaben on labels)</td><td>Weak oestrogen agonist. Found in breast tumour tissue. Disrupts thyroid function</td><td>Choose paraben-free cosmetics. EWG Skin Deep app for safe alternatives.</td></tr>\n      <tr><td>PFAS (\"Forever Chemicals\")</td><td>Non-stick cookware, waterproof clothing, food packaging (microwave popcorn, fast food wrappers), firefighting foam (contaminated water sources)</td><td>Thyroid disruption, immune suppression, elevated cholesterol, PFOA (kidney, testicular cancer)</td><td>Replace non-stick with cast iron, stainless steel, or ceramic. Filter water (activated carbon + reverse osmosis removes PFAS). Check water utility reports.</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 CIRS — Chronic Inflammatory Response Syndrome</div><div class=\"pt\">CIRS (Shoemaker protocol) occurs in ~25% of population with specific HLA-DR genotypes that cannot clear biotoxins (mainly mould mycotoxins, but also cyanobacteria/Lyme). Symptoms: fatigue, cognitive impairment (\"brain fog\"), visual disturbances, multiple chemical sensitivities, unusual pain patterns. Diagnosis: Shoemaker multi-system multi-symptom criteria + visual contrast sensitivity test + specific lab panel (TGF-β1, C3a, C4a, MMP9, VIP, MSH). Naturopathic: identify and remove from mould-contaminated building first (essential step — no supplementation substitutes for removal). Then: cholestyramine (or GI binders — alternative: activated charcoal, clay), VIP nasal spray (specialist), sequential Shoemaker protocol.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "envmed-envmed-air-quality-emf-environmental-health",
+      "title": "Air Quality, EMF & Environmental Health",
+      "badge": "Wellness",
+      "category": "envmed",
+      "section": "envmed",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Environmental Factor",
+              "Health Impact",
+              "Naturopathic Mitigation"
+            ],
+            "rows": [
+              [
+                "Indoor Air Quality",
+                "VOCs from furniture, paint, cleaning products, mould — indoor air often 5× more polluted than outdoor. TVOC exposure → headaches, cognitive impairment, cancer risk (benzene, formaldehyde)",
+                "Indoor plants (NASA study — modest benefit; snake plant, spider plant best). HEPA air purifier. Activated charcoal air purifier for VOCs. Regular ventilation (open windows 15 min 2×/day). Avoid synthetic air fresheners, candles, conventional cleaning products (use: vinegar, baking soda, plant-based). Choose low-VOC paint and furniture."
+              ],
+              [
+                "Outdoor PM2.5",
+                "Fine particulate matter — penetrates alveoli, enters bloodstream. Causes: cardiovascular disease, lung cancer, dementia, preterm birth. PM2.5 >25 µg/m³ = health impact. India has some of the highest global levels.",
+                "N95 mask on high pollution days (AQI >150). Avoid outdoor exercise during peak pollution (early morning/evening in cities — PM2.5 peaks). Diet rich in antioxidants (Vit C, Vit E, NAC) mitigates PM2.5 oxidative damage. HEPA air purifiers indoors."
+              ],
+              [
+                "Electromagnetic Fields (EMF)",
+                "Non-ionising radiation (wifi, mobile phones, power lines). Current evidence: weak for most health effects. IARC classifies mobile phone RF as \"possibly carcinogenic\" (Group 2B — weak evidence). Specific concern: children's developing brains, prolonged use, direct contact",
+                "Prudent avoidance (precautionary): speakerphone or wired headset. Keep phone away from body when not in use. No phone in bedroom. Reduce mobile data (wifi preferred — lower power). Not clinically equivalent to ionising radiation — do not cause undue anxiety. Evidence does NOT support EMF sensitivity claims as established diagnosis."
+              ],
+              [
+                "Noise Pollution",
+                "Chronic noise >65 dB → cortisol ↑, sleep disruption, cardiovascular disease (WHO: noise is 2nd largest environmental health risk in Europe). Night-time noise >40 dB = cardiovascular risk even during sleep",
+                "Earplugs/white noise machine for sleep. Noise-cancelling headphones. Advocate for quiet green spaces. Yoga and meditation for stress-noise adaptation. Naturopathic stress support protocol."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Environmental Factor</th><th>Health Impact</th><th>Naturopathic Mitigation</th></tr></thead><tbody>\n      <tr><td><strong>Indoor Air Quality</strong></td><td>VOCs from furniture, paint, cleaning products, mould — indoor air often 5× more polluted than outdoor. TVOC exposure → headaches, cognitive impairment, cancer risk (benzene, formaldehyde)</td><td>Indoor plants (NASA study — modest benefit; snake plant, spider plant best). HEPA air purifier. Activated charcoal air purifier for VOCs. Regular ventilation (open windows 15 min 2×/day). Avoid synthetic air fresheners, candles, conventional cleaning products (use: vinegar, baking soda, plant-based). Choose low-VOC paint and furniture.</td></tr>\n      <tr><td><strong>Outdoor PM2.5</strong></td><td>Fine particulate matter — penetrates alveoli, enters bloodstream. Causes: cardiovascular disease, lung cancer, dementia, preterm birth. PM2.5 &gt;25 µg/m³ = health impact. India has some of the highest global levels.</td><td>N95 mask on high pollution days (AQI &gt;150). Avoid outdoor exercise during peak pollution (early morning/evening in cities — PM2.5 peaks). Diet rich in antioxidants (Vit C, Vit E, NAC) mitigates PM2.5 oxidative damage. HEPA air purifiers indoors.</td></tr>\n      <tr><td><strong>Electromagnetic Fields (EMF)</strong></td><td>Non-ionising radiation (wifi, mobile phones, power lines). Current evidence: weak for most health effects. IARC classifies mobile phone RF as \"possibly carcinogenic\" (Group 2B — weak evidence). Specific concern: children's developing brains, prolonged use, direct contact</td><td>Prudent avoidance (precautionary): speakerphone or wired headset. Keep phone away from body when not in use. No phone in bedroom. Reduce mobile data (wifi preferred — lower power). Not clinically equivalent to ionising radiation — do not cause undue anxiety. Evidence does NOT support EMF sensitivity claims as established diagnosis.</td></tr>\n      <tr><td><strong>Noise Pollution</strong></td><td>Chronic noise &gt;65 dB → cortisol ↑, sleep disruption, cardiovascular disease (WHO: noise is 2nd largest environmental health risk in Europe). Night-time noise &gt;40 dB = cardiovascular risk even during sleep</td><td>Earplugs/white noise machine for sleep. Noise-cancelling headphones. Advocate for quiet green spaces. Yoga and meditation for stress-noise adaptation. Naturopathic stress support protocol.</td></tr>\n    </tbody></table>",
+      "_review": false
+    }
+  ]
+}
