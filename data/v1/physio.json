@@ -1,0 +1,408 @@
+{
+  "schemaVersion": "1.0",
+  "section": "physio",
+  "generatedAt": "2026-04-10T10:49:29.208Z",
+  "cardCount": 5,
+  "cards": [
+    {
+      "id": "physio-phy-electrotherapy-tens-ift",
+      "title": "Electrotherapy — TENS & IFT",
+      "badge": "Foundation",
+      "category": "phy",
+      "section": "physio",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Overview",
+            "text": "Electrotherapy uses electrical currents for pain relief, muscle stimulation, and tissue healing. Common in BNYS practice for musculoskeletal conditions and post-injury rehabilitation."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Modality",
+              "Frequency",
+              "Mechanism",
+              "Primary Use",
+              "Duration"
+            ],
+            "rows": [
+              [
+                "TENS (Transcutaneous Electrical Nerve Stimulation)",
+                "80–100Hz (conventional) / 1–4Hz (acupuncture)",
+                "Gate control theory / endorphin release",
+                "Acute & chronic pain",
+                "20–30 min"
+              ],
+              [
+                "IFT (Interferential Therapy)",
+                "4000Hz carrier, 1–150Hz beat",
+                "Deep tissue penetration, oedema reduction",
+                "Deep pain, sprains, post-surgery",
+                "15–20 min"
+              ],
+              [
+                "EMS (Electrical Muscle Stimulation)",
+                "30–50Hz",
+                "Muscle contraction, prevents atrophy",
+                "Muscle weakness, atrophy prevention",
+                "20 min"
+              ],
+              [
+                "Ultrasound (therapeutic)",
+                "1MHz (deep) / 3MHz (superficial)",
+                "Thermal + non-thermal tissue effects",
+                "Tendinopathy, scar tissue, bursitis",
+                "5–10 min"
+              ],
+              [
+                "Wax bath (paraffin)",
+                "N/A — thermal",
+                "Moist heat, vasodilation",
+                "Hand/foot arthritis, stiffness",
+                "20 min"
+              ],
+              [
+                "Shortwave diathermy (SWD)",
+                "27.12MHz",
+                "Deep heat generation",
+                "Deep muscle/joint conditions",
+                "15–20 min"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Overview</div>Electrotherapy uses electrical currents for pain relief, muscle stimulation, and tissue healing. Common in BNYS practice for musculoskeletal conditions and post-injury rehabilitation.</div>\n    <table class=\"tbl\"><thead><tr><th>Modality</th><th>Frequency</th><th>Mechanism</th><th>Primary Use</th><th>Duration</th></tr></thead><tbody>\n      <tr><td>TENS (Transcutaneous Electrical Nerve Stimulation)</td><td>80–100Hz (conventional) / 1–4Hz (acupuncture)</td><td>Gate control theory / endorphin release</td><td>Acute & chronic pain</td><td>20–30 min</td></tr>\n      <tr><td>IFT (Interferential Therapy)</td><td>4000Hz carrier, 1–150Hz beat</td><td>Deep tissue penetration, oedema reduction</td><td>Deep pain, sprains, post-surgery</td><td>15–20 min</td></tr>\n      <tr><td>EMS (Electrical Muscle Stimulation)</td><td>30–50Hz</td><td>Muscle contraction, prevents atrophy</td><td>Muscle weakness, atrophy prevention</td><td>20 min</td></tr>\n      <tr><td>Ultrasound (therapeutic)</td><td>1MHz (deep) / 3MHz (superficial)</td><td>Thermal + non-thermal tissue effects</td><td>Tendinopathy, scar tissue, bursitis</td><td>5–10 min</td></tr>\n      <tr><td>Wax bath (paraffin)</td><td>N/A — thermal</td><td>Moist heat, vasodilation</td><td>Hand/foot arthritis, stiffness</td><td>20 min</td></tr>\n      <tr><td>Shortwave diathermy (SWD)</td><td>27.12MHz</td><td>Deep heat generation</td><td>Deep muscle/joint conditions</td><td>15–20 min</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "physio-phy-tens-therapy-practical-protocol",
+      "title": "TENS Therapy — Practical Protocol",
+      "badge": "Pain Relief",
+      "category": "phy",
+      "section": "physio",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Contraindication",
+              "Reason"
+            ],
+            "rows": [
+              [
+                "Pacemaker ★",
+                "Electrical interference — absolute contraindication"
+              ],
+              [
+                "Pregnancy (abdomen/low back)",
+                "Risk to fetus — avoid first trimester completely"
+              ],
+              [
+                "Epilepsy (head/neck electrodes)",
+                "May trigger seizure"
+              ],
+              [
+                "Active thrombosis/DVT",
+                "May dislodge clot"
+              ],
+              [
+                "Malignancy at site",
+                "May stimulate tumour growth"
+              ],
+              [
+                "Skin anesthesia at site",
+                "Cannot detect burning — risk of burn"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Electrode Placement",
+            "text": "Over or adjacent to painful area (not over: spine, heart, carotid, open wounds, metal implants). Para-spinal placement for back pain. Surround joint for arthritis. Dermatomal placement for nerve pain. Ensure good skin contact — clean skin, use conductive gel."
+          },
+          {
+            "n": 2,
+            "title": "Conventional TENS (High frequency 80–100Hz)",
+            "text": "For acute pain. Produces comfortable tingling. Patient feels no muscle contraction. Mechanism: gate control — closes pain gate in dorsal horn. Onset: 10–15 min. Duration of relief: during stimulation + 30 min."
+          },
+          {
+            "n": 3,
+            "title": "Acupuncture TENS (Low frequency 1–4Hz)",
+            "text": "For chronic pain and deeper analgesia. Visible muscle twitching. Stimulates endorphin release. Onset: 20–30 min. Duration of relief: hours to days. More effective long-term than conventional TENS."
+          },
+          {
+            "n": 4,
+            "title": "Intensity",
+            "text": "Increase until patient reports comfortable strong tingling (conventional) or visible muscle twitch (acupuncture mode). Never painful. Tolerance develops — increase intensity as needed over course of treatment."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0e7490\">1</div><div class=\"st\"><span class=\"sh\">Electrode Placement</span> Over or adjacent to painful area (not over: spine, heart, carotid, open wounds, metal implants). Para-spinal placement for back pain. Surround joint for arthritis. Dermatomal placement for nerve pain. Ensure good skin contact — clean skin, use conductive gel.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0e7490\">2</div><div class=\"st\"><span class=\"sh\">Conventional TENS (High frequency 80–100Hz)</span> For acute pain. Produces comfortable tingling. Patient feels no muscle contraction. Mechanism: gate control — closes pain gate in dorsal horn. Onset: 10–15 min. Duration of relief: during stimulation + 30 min.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0e7490\">3</div><div class=\"st\"><span class=\"sh\">Acupuncture TENS (Low frequency 1–4Hz)</span> For chronic pain and deeper analgesia. Visible muscle twitching. Stimulates endorphin release. Onset: 20–30 min. Duration of relief: hours to days. More effective long-term than conventional TENS.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0e7490\">4</div><div class=\"st\"><span class=\"sh\">Intensity</span> Increase until patient reports comfortable strong tingling (conventional) or visible muscle twitch (acupuncture mode). Never painful. Tolerance develops — increase intensity as needed over course of treatment.</div></div>\n    </div>\n    <table class=\"tbl\"><thead><tr><th>Contraindication</th><th>Reason</th></tr></thead><tbody>\n      <tr><td>Pacemaker ★</td><td>Electrical interference — absolute contraindication</td></tr>\n      <tr><td>Pregnancy (abdomen/low back)</td><td>Risk to fetus — avoid first trimester completely</td></tr>\n      <tr><td>Epilepsy (head/neck electrodes)</td><td>May trigger seizure</td></tr>\n      <tr><td>Active thrombosis/DVT</td><td>May dislodge clot</td></tr>\n      <tr><td>Malignancy at site</td><td>May stimulate tumour growth</td></tr>\n      <tr><td>Skin anesthesia at site</td><td>Cannot detect burning — risk of burn</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "physio-phy-ultrasound-therapy-wax-bath",
+      "title": "Ultrasound Therapy & Wax Bath",
+      "badge": "Clinical",
+      "category": "phy",
+      "section": "physio",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Parameter",
+              "Ultrasound 1MHz",
+              "Ultrasound 3MHz"
+            ],
+            "rows": [
+              [
+                "Depth of penetration",
+                "Up to 5cm",
+                "Up to 2cm"
+              ],
+              [
+                "Best for",
+                "Deep muscles, joints, hip, shoulder",
+                "Superficial tendons, face, hand"
+              ],
+              [
+                "Intensity (acute)",
+                "0.5–1.0 W/cm² pulsed 1:4",
+                "0.3–0.5 W/cm² pulsed"
+              ],
+              [
+                "Intensity (chronic)",
+                "1.0–2.0 W/cm² continuous",
+                "0.5–1.0 W/cm² continuous"
+              ],
+              [
+                "Duration",
+                "5–10 min per area",
+                "3–5 min per area"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Contraindications — Wax Bath",
+            "text": "Open wounds, skin infections, peripheral vascular disease (impaired sensation/circulation), active RA flare (heat worsens acute synovitis), diabetes with neuropathy (cannot detect burns), DVT, oedema."
+          }
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "title": "",
+            "text": "Check wax temperature: 42–44°C (never above 44°C — burn risk). Test on therapist's forearm first."
+          },
+          {
+            "n": 2,
+            "title": "",
+            "text": "Patient dips hand/foot 8–10 times, allowing each layer to solidify. Creates wax glove of 4–6 layers."
+          },
+          {
+            "n": 3,
+            "title": "",
+            "text": "Wrap in plastic bag and towel. Leave 20 min. Remove and discard wax. Follow with ROM exercises immediately after — tissue most pliable when warm."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Parameter</th><th>Ultrasound 1MHz</th><th>Ultrasound 3MHz</th></tr></thead><tbody>\n      <tr><td>Depth of penetration</td><td>Up to 5cm</td><td>Up to 2cm</td></tr>\n      <tr><td>Best for</td><td>Deep muscles, joints, hip, shoulder</td><td>Superficial tendons, face, hand</td></tr>\n      <tr><td>Intensity (acute)</td><td>0.5–1.0 W/cm² pulsed 1:4</td><td>0.3–0.5 W/cm² pulsed</td></tr>\n      <tr><td>Intensity (chronic)</td><td>1.0–2.0 W/cm² continuous</td><td>0.5–1.0 W/cm² continuous</td></tr>\n      <tr><td>Duration</td><td>5–10 min per area</td><td>3–5 min per area</td></tr>\n    </tbody></table>\n    <div style=\"margin-top:12px;font-weight:700;font-size:13px;color:var(--em-dk)\">Wax Bath Protocol</div>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">1</div><div class=\"st\">Check wax temperature: 42–44°C (never above 44°C — burn risk). Test on therapist's forearm first.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">2</div><div class=\"st\">Patient dips hand/foot 8–10 times, allowing each layer to solidify. Creates wax glove of 4–6 layers.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">3</div><div class=\"st\">Wrap in plastic bag and towel. Leave 20 min. Remove and discard wax. Follow with ROM exercises immediately after — tissue most pliable when warm.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Contraindications — Wax Bath</div><div class=\"pt\">Open wounds, skin infections, peripheral vascular disease (impaired sensation/circulation), active RA flare (heat worsens acute synovitis), diabetes with neuropathy (cannot detect burns), DVT, oedema.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "physio-phy-thermal-therapy-hot-cold-applications",
+      "title": "Thermal Therapy — Hot & Cold Applications",
+      "badge": "Practical",
+      "category": "phy",
+      "section": "physio",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Application",
+              "Temperature",
+              "Duration",
+              "Effect",
+              "Indication",
+              "Contraindication"
+            ],
+            "rows": [
+              [
+                "Hot pack",
+                "65–70°C wrapped → 40–42°C skin",
+                "15–20 min",
+                "Vasodilation, muscle relaxation, extensibility up",
+                "Chronic pain, muscle spasm, pre-exercise",
+                "Acute injury, impaired sensation, PVD"
+              ],
+              [
+                "Cold pack / ice",
+                "0–5°C",
+                "10–15 min",
+                "Vasoconstriction, oedema down, analgesia",
+                "Acute injury (RICE), inflammation, spasticity",
+                "Raynaud's, cold urticaria, impaired sensation"
+              ],
+              [
+                "Contrast bath",
+                "Hot 38–44°C / Cold 10–18°C",
+                "3 min hot : 1 min cold × 4–5 cycles",
+                "Vascular pumping, oedema down, circulation up",
+                "Subacute oedema, CRPS, ankle sprains",
+                "PVD, Raynaud's, DVT"
+              ],
+              [
+                "Wax bath",
+                "42–44°C paraffin",
+                "20 min",
+                "Moist heat, vasodilation, stiffness relief",
+                "Hand/foot arthritis, stiffness, scleroderma",
+                "Open wounds, PVD, DM neuropathy, DVT"
+              ],
+              [
+                "Whirlpool",
+                "36–40°C warm / 13–18°C cold",
+                "20 min",
+                "Debridement, circulation up, wound healing",
+                "Wound care, burns, joint stiffness",
+                "Maceration risk, severe cardiac disease"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 POLICE Protocol — Acute Injury",
+            "text": "Modern acute injury management: POLICE = Protection (relative rest, not complete immobilisation) + Optimal Loading (early gentle movement) + Ice (10–15 min/hr for 48–72hrs) + Compression + Elevation. Early controlled loading stimulates tissue healing and prevents muscle atrophy better than complete rest. Ice is analgesic — evidence for actually reducing inflammation is weaker than previously thought. Never apply ice directly to skin — wrap in damp towel. Never >20 min (ice burn risk). Avoid heat in first 48–72hrs after acute injury (increases bleeding and oedema)."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Application</th><th>Temperature</th><th>Duration</th><th>Effect</th><th>Indication</th><th>Contraindication</th></tr></thead><tbody>\n      <tr><td>Hot pack</td><td>65–70°C wrapped → 40–42°C skin</td><td>15–20 min</td><td>Vasodilation, muscle relaxation, extensibility up</td><td>Chronic pain, muscle spasm, pre-exercise</td><td>Acute injury, impaired sensation, PVD</td></tr>\n      <tr><td>Cold pack / ice</td><td>0–5°C</td><td>10–15 min</td><td>Vasoconstriction, oedema down, analgesia</td><td>Acute injury (RICE), inflammation, spasticity</td><td>Raynaud's, cold urticaria, impaired sensation</td></tr>\n      <tr><td>Contrast bath</td><td>Hot 38–44°C / Cold 10–18°C</td><td>3 min hot : 1 min cold × 4–5 cycles</td><td>Vascular pumping, oedema down, circulation up</td><td>Subacute oedema, CRPS, ankle sprains</td><td>PVD, Raynaud's, DVT</td></tr>\n      <tr><td>Wax bath</td><td>42–44°C paraffin</td><td>20 min</td><td>Moist heat, vasodilation, stiffness relief</td><td>Hand/foot arthritis, stiffness, scleroderma</td><td>Open wounds, PVD, DM neuropathy, DVT</td></tr>\n      <tr><td>Whirlpool</td><td>36–40°C warm / 13–18°C cold</td><td>20 min</td><td>Debridement, circulation up, wound healing</td><td>Wound care, burns, joint stiffness</td><td>Maceration risk, severe cardiac disease</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 POLICE Protocol — Acute Injury</div><div class=\"pt\">Modern acute injury management: POLICE = Protection (relative rest, not complete immobilisation) + Optimal Loading (early gentle movement) + Ice (10–15 min/hr for 48–72hrs) + Compression + Elevation. Early controlled loading stimulates tissue healing and prevents muscle atrophy better than complete rest. Ice is analgesic — evidence for actually reducing inflammation is weaker than previously thought. Never apply ice directly to skin — wrap in damp towel. Never &gt;20 min (ice burn risk). Avoid heat in first 48–72hrs after acute injury (increases bleeding and oedema).</div></div>",
+      "_review": false
+    },
+    {
+      "id": "physio-phy-police-peacelove-acute-injury-management",
+      "title": "POLICE & PEACE+LOVE — Acute Injury Management",
+      "badge": "Protocol ★",
+      "category": "phy",
+      "section": "physio",
+      "version": 1,
+      "lastUpdated": "2026-04-10",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "danger",
+            "label": "Evolution of Acute Injury Protocols",
+            "text": "RICE (1978) → PRICE (1990s) → POLICE (2012) → PEACE+LOVE (2019). Each generation has moved away from rest and ice toward early controlled movement and load."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Stage",
+              "Timeline",
+              "Goals",
+              "Interventions"
+            ],
+            "rows": [
+              [
+                "Acute (POLICE)",
+                "0–72 hours",
+                "Pain and oedema control, protection",
+                "POLICE, cryotherapy, compression, gentle ROM"
+              ],
+              [
+                "Subacute",
+                "72hrs–3 weeks",
+                "Restore ROM, begin strengthening",
+                "Heat/contrast, progressive loading, physiotherapy"
+              ],
+              [
+                "Rehabilitation",
+                "3–6 weeks",
+                "Strength, proprioception, function",
+                "Progressive resistance, balance, sport-specific drills"
+              ],
+              [
+                "Return to activity",
+                "6+ weeks",
+                "Full function, prevent reinjury",
+                "Functional testing, graduated return, protective taping"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 PEACE+LOVE (2019 Update)",
+            "text": "PEACE+LOVE further updates POLICE: PEACE (acute) = Protection + Elevation + Avoid anti-inflammatory modalities + Compression + Education. LOVE (subacute/rehab) = Load + Optimism + Vascularisation + Exercise. Key new element: AVOID anti-inflammatory modalities in acute phase — NSAIDs, ice, and corticosteroids all inhibit the inflammatory cascade needed for optimal tissue healing. Inflammation is not the enemy — it is the first phase of healing. Short-term pain control is acceptable; suppressing the biological repair process is not."
+          }
+        ],
+        "steps": [
+          {
+            "n": 0,
+            "title": "Protection",
+            "text": "Relative rest — not complete immobilisation. Unload the injured tissue for 1–3 days only. Prolonged immobilisation causes muscle atrophy (3–8% loss per day), joint stiffness, cartilage degeneration, and impaired proprioception. Use brace, tape, or crutches to unload while maintaining some movement."
+          },
+          {
+            "n": 0,
+            "title": "Optimal Loading ★",
+            "text": "The most important change from RICE. Early controlled loading stimulates collagen synthesis, tissue remodelling, and neural adaptation. Begin gentle range-of-motion exercises within 24–48hrs. Progress from: pain-free ROM → isometric → isotonic → functional loading. Pain is the guide — stay below 4/10 VAS."
+          },
+          {
+            "n": 0,
+            "title": "Ice (Cryotherapy)",
+            "text": "Apply for 10–15 min every 1–2 hrs for first 48–72hrs. NEVER directly on skin — wrap in damp towel. NEVER over 20 min (ice burn, nerve damage). Primary benefit is analgesia — evidence for reducing inflammation or improving outcomes is weaker than historically believed. Avoid in: Raynaud's, cold urticaria, impaired sensation, PVD."
+          },
+          {
+            "n": 0,
+            "title": "Compression",
+            "text": "Apply elastic bandage from distal to proximal (figure-of-8 for ankle). Firm but not tight — check capillary refill and sensation distally. Reduces oedema formation. Compression stockings or taping can maintain compression during activity. Intermittent pneumatic compression (IPC) devices have strong evidence for post-surgical oedema."
+          },
+          {
+            "n": 0,
+            "title": "Elevation",
+            "text": "Elevate injured limb above heart level for first 48–72hrs. Gravity-assisted venous and lymphatic drainage reduces oedema accumulation. Combine with ankle pumps and active toe movements to enhance lymphatic pumping. Avoid dependent position (limb hanging down) which dramatically increases swelling."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">Evolution of Acute Injury Protocols</div>RICE (1978) → PRICE (1990s) → POLICE (2012) → PEACE+LOVE (2019). Each generation has moved away from rest and ice toward early controlled movement and load.</div>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">P</div><div class=\"st\"><span class=\"sh\">Protection</span> Relative rest — not complete immobilisation. Unload the injured tissue for 1–3 days only. Prolonged immobilisation causes muscle atrophy (3–8% loss per day), joint stiffness, cartilage degeneration, and impaired proprioception. Use brace, tape, or crutches to unload while maintaining some movement.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">O</div><div class=\"st\"><span class=\"sh\">Optimal Loading ★</span> The most important change from RICE. Early controlled loading stimulates collagen synthesis, tissue remodelling, and neural adaptation. Begin gentle range-of-motion exercises within 24–48hrs. Progress from: pain-free ROM → isometric → isotonic → functional loading. Pain is the guide — stay below 4/10 VAS.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">I</div><div class=\"st\"><span class=\"sh\">Ice (Cryotherapy)</span> Apply for 10–15 min every 1–2 hrs for first 48–72hrs. NEVER directly on skin — wrap in damp towel. NEVER over 20 min (ice burn, nerve damage). Primary benefit is analgesia — evidence for reducing inflammation or improving outcomes is weaker than historically believed. Avoid in: Raynaud's, cold urticaria, impaired sensation, PVD.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">C</div><div class=\"st\"><span class=\"sh\">Compression</span> Apply elastic bandage from distal to proximal (figure-of-8 for ankle). Firm but not tight — check capillary refill and sensation distally. Reduces oedema formation. Compression stockings or taping can maintain compression during activity. Intermittent pneumatic compression (IPC) devices have strong evidence for post-surgical oedema.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">E</div><div class=\"st\"><span class=\"sh\">Elevation</span> Elevate injured limb above heart level for first 48–72hrs. Gravity-assisted venous and lymphatic drainage reduces oedema accumulation. Combine with ankle pumps and active toe movements to enhance lymphatic pumping. Avoid dependent position (limb hanging down) which dramatically increases swelling.</div></div>\n    </div>\n    <table class=\"tbl\" style=\"margin-top:12px\"><thead><tr><th>Stage</th><th>Timeline</th><th>Goals</th><th>Interventions</th></tr></thead><tbody>\n      <tr><td>Acute (POLICE)</td><td>0–72 hours</td><td>Pain and oedema control, protection</td><td>POLICE, cryotherapy, compression, gentle ROM</td></tr>\n      <tr><td>Subacute</td><td>72hrs–3 weeks</td><td>Restore ROM, begin strengthening</td><td>Heat/contrast, progressive loading, physiotherapy</td></tr>\n      <tr><td>Rehabilitation</td><td>3–6 weeks</td><td>Strength, proprioception, function</td><td>Progressive resistance, balance, sport-specific drills</td></tr>\n      <tr><td>Return to activity</td><td>6+ weeks</td><td>Full function, prevent reinjury</td><td>Functional testing, graduated return, protective taping</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 PEACE+LOVE (2019 Update)</div><div class=\"pt\">PEACE+LOVE further updates POLICE: PEACE (acute) = Protection + Elevation + Avoid anti-inflammatory modalities + Compression + Education. LOVE (subacute/rehab) = Load + Optimism + Vascularisation + Exercise. Key new element: AVOID anti-inflammatory modalities in acute phase — NSAIDs, ice, and corticosteroids all inhibit the inflammatory cascade needed for optimal tissue healing. Inflammation is not the enemy — it is the first phase of healing. Short-term pain control is acceptable; suppressing the biological repair process is not.</div></div>",
+      "_review": false
+    }
+  ]
+}
