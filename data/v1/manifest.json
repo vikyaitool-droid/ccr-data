@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "7.3.2",
-  "generatedAt": "2026-04-11T05:13:12.915Z",
+  "generatedAt": "2026-04-11T06:32:16.455Z",
   "sections": [
     {
-      "id": "herb_drug_interactions",
-      "file": "herb_drug_interactions.json",
+      "id": "ayurveda_siddha",
+      "file": "ayurveda_siddha.json",
       "cardCount": 0,
-      "sizeKb": 122,
+      "sizeKb": 112,
       "priority": "lazy",
       "lastUpdated": "2026-04-11",
-      "etag": "3b8492e2f287"
+      "etag": "2c5cd45fdea0"
     }
   ]
 }
