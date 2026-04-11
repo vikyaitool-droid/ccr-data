@@ -1,0 +1,2745 @@
+{
+  "prakriti": {
+    "doshas": [
+      {
+        "name": "Vata",
+        "sanskritName": "Vāta",
+        "elements": [
+          "Akasha (Space)",
+          "Vayu (Air)"
+        ],
+        "qualities": [
+          "Ruksha (Dry)",
+          "Laghu (Light)",
+          "Sheeta (Cold)",
+          "Khara (Rough)",
+          "Sukshma (Subtle)",
+          "Chala (Mobile)"
+        ],
+        "physicalTraits": [
+          "Thin, lean body frame with prominent joints and tendons",
+          "Dry, rough, cracked skin prone to early wrinkling",
+          "Dark or dusky complexion with cool skin temperature",
+          "Thin, dark, dry, coarse hair prone to split ends",
+          "Small, dark, dry eyes with thin eyelashes",
+          "Irregular appetite and variable digestion",
+          "Tendency to constipation and gas",
+          "Low stamina but quick energy bursts",
+          "Light, interrupted sleep; tendency to insomnia",
+          "Prominent veins and tendons",
+          "Small, thin teeth with tendency toward dental sensitivity",
+          "Irregular menstrual cycles with scanty flow (in women)"
+        ],
+        "mentalTraits": [
+          "Quick to learn but forgets easily",
+          "Creative, imaginative, and artistic",
+          "Enthusiastic, vivacious, and talkative",
+          "Tends toward anxiety, worry, and fear when imbalanced",
+          "Difficulty with decision-making; scattered thinking",
+          "Adaptable to change but can feel overwhelmed",
+          "Light sleeper with vivid, active dreams",
+          "Short-term memory is sharp; long-term memory weaker",
+          "Multi-tasking tendency; difficulty staying focused"
+        ],
+        "balancingFoods": [
+          "Warm, cooked, oily, and moist foods",
+          "Sweet, sour, and salty tastes (Madhura, Amla, Lavana)",
+          "Warm milk with ghee and honey",
+          "Root vegetables: sweet potato, carrot, beet",
+          "Cooked grains: rice, oatmeal, wheat",
+          "Ripe, sweet fruits: banana, mango, avocado, fig",
+          "Warming spices: ginger, cumin, cardamom, cinnamon",
+          "Sesame oil, ghee, olive oil",
+          "Nuts and seeds in moderation: almonds, sesame, walnut",
+          "Warm soups and stews"
+        ],
+        "aggravatingFoods": [
+          "Cold, dry, and raw foods",
+          "Bitter, pungent, and astringent tastes in excess",
+          "Carbonated and caffeinated beverages",
+          "Dry crackers, rice cakes, popcorn",
+          "Beans and legumes (cause gas)",
+          "Raw salads and cold smoothies",
+          "Frozen foods and ice cream",
+          "Nightshades in excess (tomato, potato, eggplant)",
+          "Excessive fasting or irregular meal timing"
+        ],
+        "seasonalVulnerability": "Late autumn and winter (Hemanta and Shishira ritu); dry, cold, windy weather aggravates Vata",
+        "commonDisorders": [
+          "Anxiety and panic disorders",
+          "Insomnia and sleep disorders",
+          "Constipation, bloating, IBS",
+          "Arthritis and joint pain (Vata-type)",
+          "Sciatica and lower back pain",
+          "Dry skin, eczema, and psoriasis",
+          "Neurological disorders, tremors",
+          "Irregular menstruation",
+          "Osteoporosis",
+          "Tinnitus and dry eye syndrome"
+        ],
+        "balancingHerbs": [
+          "Ashwagandha (Withania somnifera) — nervine tonic",
+          "Shatavari (Asparagus racemosus) — nourishing, grounding",
+          "Bala (Sida cordifolia) — strengthening",
+          "Dashamula — ten-root formulation for Vata",
+          "Haritaki (Terminalia chebula) — bowel regulation",
+          "Vidari (Pueraria tuberosa) — anabolic, grounding",
+          "Kapikacchu (Mucuna pruriens) — neurological support",
+          "Nirgundi (Vitex negundo) — pain relief"
+        ],
+        "lifestyleGuidelines": [
+          "Maintain consistent daily routine (Dinacharya)",
+          "Abhyanga (oil massage) daily with warm sesame oil",
+          "Gentle yoga: Yin yoga, slow Hatha, grounding postures",
+          "Avoid excessive travel and overstimulation",
+          "Early bedtime before 10 PM",
+          "Warm baths and steam therapy",
+          "Pranayama: Nadi Shodhana, Bhramari",
+          "Meditation: grounding, body scan techniques",
+          "Avoid cold environments and excessive wind exposure",
+          "Regular, warm, unhurried meals at fixed times"
+        ]
+      },
+      {
+        "name": "Pitta",
+        "sanskritName": "Pitta",
+        "elements": [
+          "Tejas (Fire)",
+          "Jala (Water)"
+        ],
+        "qualities": [
+          "Ushna (Hot)",
+          "Tikshna (Sharp)",
+          "Laghu (Light)",
+          "Drava (Liquid)",
+          "Snigdha (Oily)",
+          "Visra (Spreading)"
+        ],
+        "physicalTraits": [
+          "Medium build with good muscular development",
+          "Warm, soft, slightly oily skin prone to rashes and acne",
+          "Fair, reddish, or yellowish complexion with freckles or moles",
+          "Fine, soft hair; tendency toward premature greying or balding",
+          "Sharp, penetrating eyes; grey, green, or hazel coloured",
+          "Strong, regular appetite; intolerance to skipping meals",
+          "Loose stools; tendency toward diarrhea and hyperacidity",
+          "Strong metabolism and good digestion",
+          "Moderate sleep of medium duration; intense dreams",
+          "Prone to inflammation, fever, and infection",
+          "Excessive sweating with strong body odour",
+          "Regular, moderate menstrual flow with possible cramping"
+        ],
+        "mentalTraits": [
+          "Sharp intellect, analytical and organised",
+          "Strong leadership qualities and competitive drive",
+          "Articulate, persuasive, and focused communicator",
+          "Tendency toward anger, irritability, and criticism when imbalanced",
+          "Perfectionist with high standards",
+          "Good memory and concentration",
+          "Goal-oriented and ambitious",
+          "Courageous but can become domineering"
+        ],
+        "balancingFoods": [
+          "Cool, slightly dry, and moderately heavy foods",
+          "Sweet, bitter, and astringent tastes (Madhura, Tikta, Kashaya)",
+          "Cooling vegetables: cucumber, zucchini, leafy greens, asparagus",
+          "Sweet fruits: coconut, pomegranate, sweet mango, pear",
+          "Milk, ghee, and coconut oil",
+          "Cooked grains: basmati rice, barley, oats",
+          "Cooling herbs: coriander, fennel, mint, cardamom",
+          "Coconut water and herbal teas (rose, chamomile, licorice)",
+          "Sweet dairy: fresh yogurt diluted with water, buttermilk"
+        ],
+        "aggravatingFoods": [
+          "Hot, spicy, and pungent foods",
+          "Sour and fermented foods in excess",
+          "Salty and heavily seasoned food",
+          "Alcohol and caffeinated beverages",
+          "Fried and oily foods",
+          "Red meat and eggs",
+          "Vinegar, pickles, and tamarind",
+          "Chilies, garlic, onion in excess",
+          "Skipping meals or excessive fasting"
+        ],
+        "seasonalVulnerability": "Late spring and summer (Grishma ritu); hot, humid weather aggravates Pitta",
+        "commonDisorders": [
+          "Acid reflux, gastritis, and peptic ulcers",
+          "Inflammatory skin conditions: acne, rosacea, urticaria",
+          "Hypertension and cardiovascular disorders",
+          "Liver and gallbladder disorders",
+          "Migraine and tension headaches",
+          "Hyperthyroidism",
+          "Inflammatory bowel disease",
+          "Eye disorders: conjunctivitis, photophobia",
+          "Anger management issues and burnout",
+          "Fever, infections, and inflammatory conditions"
+        ],
+        "balancingHerbs": [
+          "Amalaki (Emblica officinalis) — cooling Pitta pacifier",
+          "Shatavari (Asparagus racemosus) — cooling and nourishing",
+          "Brahmi (Bacopa monnieri) — mental cooling",
+          "Guduchi (Tinospora cordifolia) — immune modulator, anti-inflammatory",
+          "Licorice / Yashtimadhu (Glycyrrhiza glabra) — stomach cooling",
+          "Manjishtha (Rubia cordifolia) — blood purifier",
+          "Neem (Azadirachta indica) — cooling and detoxifying",
+          "Chandana (Santalum album) — cooling nervine"
+        ],
+        "lifestyleGuidelines": [
+          "Avoid direct sun exposure; work in cool environments",
+          "Cooling Abhyanga with coconut or sunflower oil",
+          "Moderate, competitive sports avoided; prefer swimming and walking",
+          "Cooling yoga: forward bends, moon salutation, Sitali pranayama",
+          "Meditation: compassion-based, visualization techniques",
+          "Adequate rest; avoid excessive overwork",
+          "Moonlight walks and time in nature",
+          "Avoid arguments and high-pressure deadlines",
+          "Regular meal timings; never skip lunch",
+          "Wear cool, light-coloured cotton clothing"
+        ]
+      },
+      {
+        "name": "Kapha",
+        "sanskritName": "Kapha",
+        "elements": [
+          "Prithvi (Earth)",
+          "Jala (Water)"
+        ],
+        "qualities": [
+          "Guru (Heavy)",
+          "Manda (Slow)",
+          "Sheeta (Cold)",
+          "Snigdha (Oily)",
+          "Shlakshna (Smooth)",
+          "Sthira (Stable)",
+          "Sandra (Dense)"
+        ],
+        "physicalTraits": [
+          "Large, sturdy, well-built frame with tendency to gain weight",
+          "Thick, soft, oily, smooth, and lustrous skin",
+          "Fair or pale complexion with cold skin to touch",
+          "Thick, wavy, lustrous, oily hair",
+          "Large, attractive, calm eyes; often dark or blue",
+          "Slow but steady appetite; can skip meals easily",
+          "Slow but regular digestion; formed stools",
+          "Great stamina and endurance",
+          "Heavy, deep sleep; difficulty waking up",
+          "Strong immune system",
+          "Large, white, strong teeth",
+          "Regular, moderate to heavy menstrual flow"
+        ],
+        "mentalTraits": [
+          "Calm, steady, patient, and compassionate",
+          "Excellent long-term memory; slower to learn but retains well",
+          "Loyal, affectionate, and nurturing by nature",
+          "Tendency toward attachment, possessiveness, and stubbornness when imbalanced",
+          "Methodical and reliable worker",
+          "Slow to anger but holds grudges",
+          "Content and satisfied; may resist change",
+          "Emotionally stable and grounding for others"
+        ],
+        "balancingFoods": [
+          "Light, dry, warm, and spicy foods",
+          "Pungent, bitter, and astringent tastes (Katu, Tikta, Kashaya)",
+          "Light vegetables: cabbage, cauliflower, Brussels sprouts, spinach",
+          "Astringent fruits: pomegranate, cranberry, apple, pear",
+          "Barley, millet, corn, buckwheat",
+          "Warming spices: black pepper, ginger, turmeric, mustard",
+          "Honey (unheated) in small amounts",
+          "Legumes: split red lentils (masoor), mung dal",
+          "Herbal teas: ginger, tulsi, cinnamon"
+        ],
+        "aggravatingFoods": [
+          "Heavy, oily, cold, and sweet foods",
+          "Sweet, sour, and salty tastes in excess",
+          "Dairy products: cheese, yogurt, cream, ice cream",
+          "Wheat, white rice, and refined carbohydrates",
+          "Red meat and fried foods",
+          "Sweet fruits: banana, mango, avocado, dates",
+          "Cold beverages and chilled water",
+          "Overeating and eating out of schedule",
+          "Alcohol and sugar"
+        ],
+        "seasonalVulnerability": "Late winter and spring (Shishira and Vasanta ritu); cold, damp, cloudy weather aggravates Kapha",
+        "commonDisorders": [
+          "Obesity and metabolic syndrome",
+          "Type 2 diabetes mellitus",
+          "Hypothyroidism",
+          "Chronic sinusitis and allergic rhinitis",
+          "Asthma and bronchitis",
+          "Atherosclerosis and high cholesterol",
+          "Depression and sluggishness",
+          "Edema and lymphatic congestion",
+          "Polycystic ovarian syndrome (PCOS)",
+          "Chronic fatigue syndrome"
+        ],
+        "balancingHerbs": [
+          "Trikatu (Pippali + Shunti + Maricha) — metabolic stimulant",
+          "Guggulu (Commiphora mukul) — lipid-lowering, anti-inflammatory",
+          "Punarnava (Boerhavia diffusa) — diuretic, anti-edema",
+          "Tulsi (Ocimum sanctum) — respiratory clearing",
+          "Bibhitaki (Terminalia bellirica) — Kapha reducing",
+          "Chitrak (Plumbago zeylanica) — digestive stimulant",
+          "Vacha (Acorus calamus) — mental and respiratory clarity",
+          "Shilajatu — metabolic tonic and adaptogen"
+        ],
+        "lifestyleGuidelines": [
+          "Regular vigorous exercise: jogging, cycling, aerobics",
+          "Dry powder massage (Udvartana) instead of oil massage",
+          "Early rising before 6 AM; avoid daytime sleep",
+          "Dynamic yoga: Sun salutation, Vinyasa, Kapalabhati pranayama",
+          "Stimulating meditation: breath awareness, mantra",
+          "Reduce attachment to possessions and relationships",
+          "Embrace new experiences and change",
+          "Avoid cold, damp environments",
+          "Intermittent fasting and light meals",
+          "Social engagement to counteract sluggishness"
+        ]
+      }
+    ],
+    "assessment": {
+      "instructions": "Answer each question based on your lifelong tendencies, not temporary or seasonal changes. Choose the option that most accurately describes you overall.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What best describes your body frame and build?",
+          "options": {
+            "vata": "Thin, lean; difficulty gaining weight even with good appetite",
+            "pitta": "Medium, proportionate; can gain or lose weight with moderate effort",
+            "kapha": "Large, broad, stocky; gain weight easily, lose weight with difficulty"
+          }
+        },
+        {
+          "id": 2,
+          "question": "How would you describe your skin texture and tendency?",
+          "options": {
+            "vata": "Dry, rough, thin; prone to chapping, cracking, and flaking",
+            "pitta": "Warm, soft, slightly oily; prone to rashes, acne, and redness",
+            "kapha": "Thick, smooth, oily, cool; prone to large pores and paleness"
+          }
+        },
+        {
+          "id": 3,
+          "question": "What is your typical hair quality?",
+          "options": {
+            "vata": "Dry, thin, brittle, coarse; prone to split ends and breakage",
+            "pitta": "Fine, soft, oily; tends toward early greying or premature thinning",
+            "kapha": "Thick, oily, wavy, lustrous; slow to grey, minimal hair fall"
+          }
+        },
+        {
+          "id": 4,
+          "question": "How is your appetite and hunger pattern?",
+          "options": {
+            "vata": "Irregular, variable; sometimes very hungry, sometimes forgets to eat",
+            "pitta": "Strong, regular; irritable and impatient if meals are delayed",
+            "kapha": "Low, steady; can comfortably skip meals without discomfort"
+          }
+        },
+        {
+          "id": 5,
+          "question": "How would you describe your usual bowel habit?",
+          "options": {
+            "vata": "Irregular, tendency to constipation, hard dry stools, gas and bloating",
+            "pitta": "Regular, often loose or soft; tendency toward diarrhea under stress",
+            "kapha": "Regular, slow, well-formed, heavy stools; rarely constipated"
+          }
+        },
+        {
+          "id": 6,
+          "question": "How is your sleep pattern?",
+          "options": {
+            "vata": "Light, interrupted, difficult to fall asleep; vivid or anxious dreams",
+            "pitta": "Moderate, deep for a few hours; may wake hot or with intense dreams",
+            "kapha": "Heavy, prolonged, deep; difficulty waking; feels groggy in the morning"
+          }
+        },
+        {
+          "id": 7,
+          "question": "How do you typically respond to stress or difficulty?",
+          "options": {
+            "vata": "Become anxious, fearful, or overwhelmed; mind races and jumps",
+            "pitta": "Become irritable, angry, and critical; want to control the situation",
+            "kapha": "Withdraw, become stubborn or emotionally shut down; comfort eating"
+          }
+        },
+        {
+          "id": 8,
+          "question": "How would you describe your memory and learning style?",
+          "options": {
+            "vata": "Quick to grasp new concepts but forgets quickly; scattered attention",
+            "pitta": "Learns quickly, retains well; analytical and detail-oriented",
+            "kapha": "Slow to learn but retains information for very long periods"
+          }
+        },
+        {
+          "id": 9,
+          "question": "How do you handle cold weather?",
+          "options": {
+            "vata": "Very sensitive; feels cold easily; needs extra layers",
+            "pitta": "Tolerates cold well; prefers cool weather over heat",
+            "kapha": "Can tolerate cold but damp cold makes them feel sluggish and congested"
+          }
+        },
+        {
+          "id": 10,
+          "question": "What best describes your energy level through the day?",
+          "options": {
+            "vata": "Variable, bursts of energy followed by sudden fatigue; unpredictable",
+            "pitta": "Moderate to high; focused and purposeful; tires if goal is unclear",
+            "kapha": "Steady, slow to start but sustained once going; low motivation in morning"
+          }
+        },
+        {
+          "id": 11,
+          "question": "How do you characteristically speak and communicate?",
+          "options": {
+            "vata": "Fast, talkative, enthusiastic; topics jump around; may trail off",
+            "pitta": "Clear, precise, direct, sometimes sharp or cutting",
+            "kapha": "Slow, melodic, deliberate; chooses words carefully; rarely raises voice"
+          }
+        },
+        {
+          "id": 12,
+          "question": "How do you typically sweat?",
+          "options": {
+            "vata": "Minimal sweating; skin often dry even after exertion",
+            "pitta": "Profuse sweating with strong odour; even in moderate heat",
+            "kapha": "Moderate, cool sweating; consistent without much variation"
+          }
+        },
+        {
+          "id": 13,
+          "question": "How would you describe your natural body temperature tendency?",
+          "options": {
+            "vata": "Cold hands and feet; temperature fluctuates; dislikes cold",
+            "pitta": "Warm or hot; feels hot easily; fan or cool air preferred",
+            "kapha": "Cool, stable temperature; neither very hot nor very cold"
+          }
+        },
+        {
+          "id": 14,
+          "question": "How would you characterise your physical activity preference?",
+          "options": {
+            "vata": "Light, quick movement; enjoys dance, walking, yoga; easily overstimulated",
+            "pitta": "Competitive, intense; enjoys sports, challenges, measurable outcomes",
+            "kapha": "Steady, endurance-based; prefers leisurely walks or swimming"
+          }
+        },
+        {
+          "id": 15,
+          "question": "What best describes your eyes?",
+          "options": {
+            "vata": "Small, dark, darting, dry; tends to blink frequently",
+            "pitta": "Medium, sharp, penetrating; grey, green or hazel; light sensitive",
+            "kapha": "Large, calm, attractive, white sclera; watery or slightly moist"
+          }
+        },
+        {
+          "id": 16,
+          "question": "How do you typically make decisions?",
+          "options": {
+            "vata": "Impulsive or indecisive; changes mind frequently; difficulty committing",
+            "pitta": "Decisive, quick, goal-oriented; confident; can be rigid",
+            "kapha": "Slow and deliberate; needs time; once decided, rarely changes mind"
+          }
+        },
+        {
+          "id": 17,
+          "question": "How do you respond to change in routine or environment?",
+          "options": {
+            "vata": "Excited but unsettled; adapts quickly but may feel destabilised",
+            "pitta": "Accepts change if it makes logical sense; resistant if not convinced",
+            "kapha": "Dislikes change; prefers routine and familiarity; adapts slowly"
+          }
+        },
+        {
+          "id": 18,
+          "question": "What is your financial tendency?",
+          "options": {
+            "vata": "Spends impulsively; difficulty saving; money comes and goes quickly",
+            "pitta": "Planned, organised; spends on quality and goals; moderate savings",
+            "kapha": "Conservative, saves well; reluctant to spend; attached to security"
+          }
+        },
+        {
+          "id": 19,
+          "question": "How do you relate to others emotionally?",
+          "options": {
+            "vata": "Enthusiastic, friendly, flighty; many acquaintances, few deep bonds",
+            "pitta": "Selective; loyal to those who meet standards; can be critical",
+            "kapha": "Deeply loving, nurturing, loyal; forms strong lasting attachments"
+          }
+        },
+        {
+          "id": 20,
+          "question": "What best describes your joints and flexibility?",
+          "options": {
+            "vata": "Thin joints, prominent knuckles; hypermobile; cracking sounds common",
+            "pitta": "Medium joints; moderate flexibility; tenderness with inflammation",
+            "kapha": "Large, well-padded joints; less flexible but stable and strong"
+          }
+        }
+      ]
+    }
+  },
+  "agni": {
+    "types": [
+      "sama",
+      "vishama",
+      "tikshna",
+      "manda"
+    ],
+    "profiles": [
+      {
+        "name": "Sama Agni",
+        "sanskritName": "Sama Agni",
+        "translation": "Balanced Digestive Fire",
+        "associatedDosha": "Balanced tridosha",
+        "description": "Ideal digestive state; food is digested at the right pace, producing Ojas (vital essence). No undue discomfort before, during, or after meals.",
+        "symptoms": [
+          "Regular hunger at appropriate meal times",
+          "Complete, comfortable digestion without bloating or gas",
+          "Well-formed stools passed once or twice daily",
+          "Stable energy after meals without drowsiness",
+          "Clear tongue with thin coating",
+          "Pleasant breath",
+          "Absence of food cravings or aversions",
+          "Consistent body weight",
+          "Positive mood and mental clarity",
+          "Strong immunity and radiant appearance"
+        ],
+        "diet": [
+          "Maintain regular meal timings; three meals per day",
+          "Eat in a calm, seated environment without distraction",
+          "Include all six tastes in meals: Madhura, Amla, Lavana, Katu, Tikta, Kashaya",
+          "Avoid overeating; fill stomach two-thirds capacity",
+          "Warm or room-temperature cooked foods preferred",
+          "Fresh seasonal and locally grown produce",
+          "Minimal processed, preserved, or canned foods",
+          "Gentle spicing with cumin, coriander, turmeric, and ginger"
+        ],
+        "herbs": [
+          "Trikatu in small doses for maintenance",
+          "Triphala at bedtime for gentle cleansing",
+          "Amalaki as Rasayana",
+          "Tulsi tea for daily maintenance"
+        ],
+        "lifestyle": [
+          "Maintain Dinacharya (daily routine)",
+          "10-minute walk after meals (Shatapavali)",
+          "Avoid sleeping immediately after meals",
+          "Light fasting once weekly to rest digestion",
+          "Seasonal Panchakarma for maintenance"
+        ]
+      },
+      {
+        "name": "Vishama Agni",
+        "sanskritName": "Vishama Agni",
+        "translation": "Irregular or Variable Digestive Fire",
+        "associatedDosha": "Vata",
+        "description": "Erratic digestion; sometimes strong, sometimes weak; related to Vata imbalance affecting digestive function with unpredictable results.",
+        "symptoms": [
+          "Irregular hunger; sometimes very hungry, sometimes no appetite",
+          "Alternating constipation and diarrhea",
+          "Abdominal bloating and flatulence",
+          "Intestinal gurgling (borborygmi)",
+          "Variable energy after meals",
+          "Erratic food cravings",
+          "Dry mouth and variable thirst",
+          "Abdominal cramping especially in lower abdomen",
+          "Incomplete digestion of food (ama formation)",
+          "IBS-pattern symptoms"
+        ],
+        "diet": [
+          "Regular, fixed meal timings are essential",
+          "Warm, cooked, easily digestible foods",
+          "Mono-diet or simple two-ingredient meals temporarily",
+          "Warm water or cumin-fennel tea with meals",
+          "Avoid raw foods, cold meals, and carbonated drinks",
+          "Khichdi (rice and mung dal) as digestive reset meal",
+          "Small frequent meals rather than large ones",
+          "Ginger, cumin, ajwain (carom seeds) in cooking",
+          "Avoid beans, cruciferous vegetables temporarily"
+        ],
+        "herbs": [
+          "Hingwastak Churna — carminative, Vata-pacifying",
+          "Trikatu with ghee before meals",
+          "Dashamularishta — tonic for Vata and digestion",
+          "Ajwain (Trachyspermum ammi) decoction",
+          "Triphala at night for bowel regulation",
+          "Ashwagandha to calm the nervous system"
+        ],
+        "lifestyle": [
+          "Strict daily routine including meal times",
+          "Avoid multitasking while eating",
+          "Regular sleep schedule to stabilise Vata",
+          "Warm sesame oil Abhyanga",
+          "Yoga Nidra and relaxation practices",
+          "Avoid excessive travel, screen time, and overstimulation"
+        ]
+      },
+      {
+        "name": "Tikshna Agni",
+        "sanskritName": "Tikshna Agni",
+        "translation": "Sharp or Hyperactive Digestive Fire",
+        "associatedDosha": "Pitta",
+        "description": "Overactive digestion; food digested too quickly; can burn through food and begin digesting the gut lining. Associated with Pitta imbalance.",
+        "symptoms": [
+          "Excessive hunger; unable to tolerate hunger without irritability",
+          "Burning sensations in stomach and esophagus",
+          "Acid reflux and heartburn (Amlapitta)",
+          "Loose, frequent, burning stools",
+          "Excessive thirst",
+          "Inflammatory skin conditions",
+          "Sharp, burning abdominal pain",
+          "Tendency to hyperacidity and peptic ulcer",
+          "Foul-smelling, acidic perspiration",
+          "Inflammatory bowel tendency"
+        ],
+        "diet": [
+          "Sweet, cooling, and mildly oily foods",
+          "Bitter gourd, leafy greens, and cooling vegetables",
+          "Coconut milk, ghee, and cold-pressed oils",
+          "Room-temperature or slightly warm foods; avoid very hot meals",
+          "Milk with cardamom and saffron",
+          "Pomegranate, sweet lime, coconut water",
+          "Avoid spicy, fermented, sour, and fried foods",
+          "Barley water and fennel tea between meals",
+          "Avoid alcohol, coffee, and acidic foods"
+        ],
+        "herbs": [
+          "Avipattikar Churna — classical Pitta pacifier for hyperacidity",
+          "Shatavari — cooling and protective to gastric mucosa",
+          "Yashtimadhu (Glycyrrhiza glabra) — mucosal protectant",
+          "Amalaki — cooling Pitta reducer",
+          "Praval Pishti — calcium compound, reduces acidity",
+          "Guduchi satva — anti-inflammatory, antipyretic",
+          "Chandanasava — cooling liver and stomach tonic"
+        ],
+        "lifestyle": [
+          "Avoid skipping meals; eat at regular times",
+          "Cool, relaxed meals in calm environment",
+          "Avoid high-intensity competitive exercise; prefer swimming",
+          "Cooling Sheetali and Shitkari pranayama",
+          "Spend time in nature, near water or in green spaces",
+          "Avoid direct afternoon sun exposure",
+          "Reduce workload and emotional conflicts",
+          "Virechana (therapeutic purgation) when recommended"
+        ]
+      },
+      {
+        "name": "Manda Agni",
+        "sanskritName": "Manda Agni",
+        "translation": "Slow or Sluggish Digestive Fire",
+        "associatedDosha": "Kapha",
+        "description": "Underactive digestion; food takes too long to digest, leading to accumulation of Ama (toxins). Associated with Kapha imbalance and metabolic sluggishness.",
+        "symptoms": [
+          "Low appetite; lack of interest in food even when hungry",
+          "Heaviness and fullness after small meals",
+          "Nausea, especially in the morning",
+          "Thick white coating on tongue",
+          "Sluggish, slow bowel movements",
+          "Mucus in stools",
+          "Weight gain tendency despite moderate eating",
+          "Fatigue and drowsiness after meals",
+          "Respiratory congestion, excess mucus",
+          "Water retention and edema",
+          "Feeling of undigested food even hours after eating"
+        ],
+        "diet": [
+          "Light, warm, dry, and easily digestible foods",
+          "Small meal portions; avoid overeating completely",
+          "Intermittent fasting beneficial (one meal delay)",
+          "Warm water with ginger, black pepper, and honey",
+          "Mung dal khichdi with warming spices",
+          "Avoid heavy dairy, wheat, refined sugar",
+          "Bitter greens, radish, mustard greens to stimulate digestion",
+          "Use black pepper, dry ginger, pippali, and mustard seeds liberally",
+          "Avoid cold foods, refrigerated leftovers, and raw foods"
+        ],
+        "herbs": [
+          "Trikatu Churna — most important digestive stimulant for Manda Agni",
+          "Chitrakadi Vati — deepana (appetiser) formulation",
+          "Punarnavarishta — diuretic and metabolic stimulant",
+          "Guggulu formulations — lipid metabolism",
+          "Medohar Guggulu — anti-obesity",
+          "Varanadi Kashayam — abdominal fat and sluggish metabolism",
+          "Lashunadi Vati — garlic-based digestive stimulant"
+        ],
+        "lifestyle": [
+          "Vigorous exercise daily: jogging, cycling, swimming",
+          "Udvartana (dry powder massage) to stimulate metabolism",
+          "Avoid daytime sleep completely",
+          "Wake early before 6 AM; avoid sleeping beyond sunrise",
+          "Kapalabhati and Bhastrika pranayama daily",
+          "Hot or warm baths to stimulate circulation",
+          "Vamana (therapeutic emesis) therapy if indicated",
+          "Reduce attachment and emotional eating patterns"
+        ]
+      }
+    ]
+  },
+  "panchakarma": {
+    "overview": "Panchakarma (Pañcakarma) is the five-fold Ayurvedic bio-purification therapy. It involves Purvakarma (preparatory procedures: Snehana and Svedana) followed by the five main cleansing procedures.",
+    "procedures": [
+      {
+        "name": "Vamana",
+        "sanskritName": "Vamana",
+        "translation": "Therapeutic Emesis (Induced Vomiting)",
+        "targetDosha": "Kapha",
+        "targetLocation": "Stomach and upper respiratory system",
+        "indication": [
+          "Bronchial asthma (Tamaka Shvasa)",
+          "Chronic sinusitis (Pratishyaya)",
+          "Allergic rhinitis",
+          "Skin diseases: psoriasis, eczema, vitiligo",
+          "Hypothyroidism",
+          "Obesity (Sthaulya)",
+          "Diabetes mellitus (Madhumeha)",
+          "Chronic nausea and vomiting disorders",
+          "Mental disorders with Kapha predominance",
+          "Post-febrile convalescence"
+        ],
+        "contraindication": [
+          "Pregnancy",
+          "Children below 7 years and elderly above 80 years",
+          "Severe cardiac disease",
+          "Hypertension (uncontrolled)",
+          "Emaciation and extreme weakness",
+          "Hiatal hernia and esophageal varices",
+          "Epilepsy",
+          "Post-surgical states",
+          "Active bleeding disorders",
+          "Severe anxiety disorders"
+        ],
+        "preparatoryDiet": "3–7 days of Snehana (internal oleation with medicated ghee starting 10–60 ml/day) and Svedana (steam therapy). Patient eats Kapha-promoting foods: milk, sugarcane, sesame. Avoid dry, cold, and raw foods.",
+        "procedure": "On the day of Vamana: the patient is given a light meal the previous night. In the morning, after Svedana, they consume Vamana dravyas (emetics): typically Madanaphala (Randia dumetorum) paste with Licorice decoction, rock salt, and honey. Approximately 500–1000 ml is consumed. Vomiting is induced by stimulating the throat with fingers. 4–8 bouts (Vegas) are ideal (Pravara). Vamana is graded as Pravara (best), Madhyama (moderate), or Avara (mild).",
+        "postCare": "Samsarjana Krama (post-detox diet): Progressive re-feeding starting with warm rice water (Peya), then thick rice gruel (Vilepi), mung dal soup, soft rice with ghee, gradually returning to normal diet over 7 days. Rest, avoid cold exposure, wind, and exertion.",
+        "durationDays": 10
+      },
+      {
+        "name": "Virechana",
+        "sanskritName": "Virechana",
+        "translation": "Therapeutic Purgation",
+        "targetDosha": "Pitta",
+        "targetLocation": "Small intestine, liver, and blood",
+        "indication": [
+          "Hyperacidity and peptic ulcers (Amlapitta)",
+          "Hepatitis and liver disorders (Kamala)",
+          "Inflammatory skin diseases: psoriasis, dermatitis",
+          "Jaundice (Pandu)",
+          "Gout and hyperuricemia (Vatarakta)",
+          "Chronic fever (Jwara)",
+          "Menstrual disorders with Pitta predominance",
+          "Eye disorders: conjunctivitis, iritis",
+          "Migraine and headaches",
+          "Diabetes mellitus (Pitta type)"
+        ],
+        "contraindication": [
+          "Pregnancy",
+          "Extreme weakness and emaciation",
+          "Acute diarrhea and dysentery",
+          "Rectal prolapse or anal fissure",
+          "Dehydration",
+          "Children below 7 years",
+          "Post-operative states",
+          "Ulcerative colitis (active flare)",
+          "Severe anemia",
+          "Ascites"
+        ],
+        "preparatoryDiet": "7-day Snehana with Tikta Ghrita (bitter medicated ghee) in graduated doses (10–80 ml). Daily Svedana with herbal steam. Meals should be light, warm, and easily digestible. Avoid spicy, sour, and fermented foods.",
+        "procedure": "After completion of Snehana and Svedana, Virechana dravya (purgative) is administered on an empty stomach. Commonly used: Trivrit Lehya (Operculina turpethum preparation), Castor oil in milk, Eranda Taila, or Ichhabhedi Rasa. Patient should remain rested. Adequate purgation (Pravara) is 30+ bouts. Graded as Pravara, Madhyama, and Avara according to frequency.",
+        "postCare": "Samsarjana Krama as with Vamana. Rest, avoidance of heat, sun, exertion, cold, and emotional stress. Medicated buttermilk (Takra) often used in post-care. Diet progression over 7 days from Peya to normal.",
+        "durationDays": 14
+      },
+      {
+        "name": "Basti",
+        "sanskritName": "Basti",
+        "translation": "Therapeutic Enema (Medicated Rectal Administration)",
+        "targetDosha": "Vata",
+        "targetLocation": "Colon, pelvic region, bones, and nervous system",
+        "indication": [
+          "All Vata disorders (Sarva Vata Vyadhi)",
+          "Osteoarthritis and joint disorders",
+          "Neurological conditions: paraplegia, hemiplegia",
+          "Constipation and bowel disorders",
+          "Low back pain and sciatica",
+          "Infertility in women (Vandyatva)",
+          "Irregular menstruation",
+          "Osteoporosis",
+          "Parkinson's disease",
+          "Chronic fatigue and debility"
+        ],
+        "contraindication": [
+          "Diarrhea and dysentery (active)",
+          "Rectal bleeding",
+          "Inflammatory bowel disease (acute)",
+          "Pregnancy (Anuvasana Basti only under expert guidance)",
+          "Ascites",
+          "Piles with active bleeding",
+          "Severe anemia",
+          "Immediately post-Vamana or Virechana",
+          "Fever (acute)",
+          "Intestinal perforation or obstruction"
+        ],
+        "preparatoryDiet": "Light, warm, easily digestible food. Snehana and Svedana for 3–5 days. Meals should be vata-pacifying: warm, oily, well-cooked with ghee.",
+        "procedure": "Two main types: (1) Niruha Basti (Asthapana): herbal decoction-based enema with honey, rock salt, oil, herbal paste, and decoction. Retained for 48 minutes ideally then expelled. (2) Anuvasana Basti: medicated oil enema (Sesame or medicated oil, 60–120 ml) retained overnight. Matra Basti is a simplified daily Anuvasana. Karma Basti is a full course of 30 bastis (Niruha + Anuvasana in sequence).",
+        "postCare": "Rest after procedure. Warm liquids and light diet. Warm oil application to lower abdomen. Avoid cold, wind, and exertion on day of Basti.",
+        "durationDays": 16
+      },
+      {
+        "name": "Nasya",
+        "sanskritName": "Nasya",
+        "translation": "Nasal Administration of Medicated Substances",
+        "targetDosha": "Kapha and Vata (head and neck region)",
+        "targetLocation": "Head, neck, sinuses, brain, and sense organs",
+        "indication": [
+          "Chronic sinusitis (Pinasa)",
+          "Allergic rhinitis and hay fever",
+          "Migraine and chronic headaches",
+          "Facial palsy (Ardita)",
+          "Cervical spondylosis",
+          "Eye, ear, and throat disorders",
+          "Mental disorders: anxiety, depression, insomnia",
+          "Hair loss and premature greying",
+          "Hypothyroidism",
+          "Epilepsy (adjunctive)"
+        ],
+        "contraindication": [
+          "Pregnancy",
+          "Immediately after meals or on full stomach",
+          "During menstruation",
+          "Immediately after Snehana or Svedana",
+          "Acute fever",
+          "Severe nasal congestion with epistaxis",
+          "Immediately post-bath or during cloudy weather",
+          "Hyperemesis",
+          "Children below 7 years for Shodhana Nasya"
+        ],
+        "preparatoryDiet": "Light meal 2–3 hours before Nasya. Local Snehana (oil massage) of head, face, and neck. Local Svedana (steam inhalation or hot towel to face).",
+        "procedure": "Patient lies supine with head tilted back over the edge of table. Medicated oil (e.g., Anu Taila, Shadbindu Taila, Panchendriya Vardhan Taila) warmed to body temperature is instilled: 2–8 drops per nostril. Patient remains supine for 2–3 minutes. Expectoration encouraged. Mild gargling with warm water follows. Types: Navana (oily), Avapida (pressed juice), Dhmapana (powder insufflation), Dhuma (smoke inhalation).",
+        "postCare": "Avoid cold, wind, and dust after procedure. No exposure to cold water or cold food. Rest for 30 minutes. Avoid speech and exertion immediately after.",
+        "durationDays": 7
+      },
+      {
+        "name": "Raktamokshana",
+        "sanskritName": "Raktamokshana",
+        "translation": "Therapeutic Bloodletting",
+        "targetDosha": "Pitta (Rakta dhatu — blood tissue)",
+        "targetLocation": "Blood and skin",
+        "indication": [
+          "Skin diseases: psoriasis, chronic eczema, vitiligo",
+          "Gout and hyperuricemia (Vatarakta)",
+          "Abscess and boils",
+          "Varicose veins",
+          "Splenomegaly and hepatomegaly",
+          "Inflammatory eye conditions",
+          "Hypertension (adjunctive)",
+          "Filariasis and lymphedema",
+          "Blood-borne toxins from bites or poisons",
+          "Tumours and swellings"
+        ],
+        "contraindication": [
+          "Anemia and bleeding disorders",
+          "Pregnancy",
+          "Children and elderly",
+          "Emaciated and weak patients",
+          "Edema (generalised)",
+          "Active inflammatory infections",
+          "Anticoagulant therapy",
+          "Liver failure",
+          "Severe cardiac disease",
+          "Jaundice (active)"
+        ],
+        "preparatoryDiet": "Pitta-pacifying diet for 3–5 days: avoid spicy, sour, fermented foods. Include cooling foods, coconut water, pomegranate.",
+        "procedure": "Methods: (1) Shastra Visravana — surgical instruments (venesection, scarification). (2) Anushastra Visravana — non-surgical. Includes Jalaukavacharana (leech therapy — most common in modern practice): medicinal leeches (Hirudo medicinalis or Hirudinaria) applied to affected skin, allowed to feed 30–45 minutes, removed with salt. (3) Shringa (horn), Alabu (gourd), and Ghati Yantra (cupping). Modern leech therapy most practised.",
+        "postCare": "Wound care after leech removal: turmeric paste application. Pitta-pacifying diet. Rest for 24 hours. Monitor for infection. Avoid hot and spicy food.",
+        "durationDays": 3
+      }
+    ]
+  },
+  "rasayana": {
+    "overview": "Rasayana therapy aims at rejuvenation, longevity, and enhancement of immunity (Ojas). These herbs and formulations nourish the Dhatus (tissues) progressively and restore youthful function.",
+    "herbs": [
+      {
+        "commonName": "Indian Gooseberry / Amla",
+        "sanskritName": "Amalaki",
+        "tamilName": "Nelli / நெல்லி",
+        "botanicalName": "Emblica officinalis (Phyllanthus emblica)",
+        "rasa": [
+          "Madhura (Sweet)",
+          "Amla (Sour)",
+          "Tikta (Bitter)",
+          "Katu (Pungent)",
+          "Kashaya (Astringent)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Ruksha (Dry)",
+          "Sheeta (Cold)"
+        ],
+        "virya": "Sheeta (Cold potency)",
+        "vipaka": "Madhura (Sweet post-digestive effect)",
+        "prabhava": "Rasayana — powerful rejuvenator; balances all three Doshas",
+        "indication": [
+          "Hyperacidity",
+          "Anemia",
+          "Diabetes",
+          "Liver disorders",
+          "Eye diseases",
+          "Skin diseases",
+          "Immunity weakness",
+          "Premature ageing"
+        ],
+        "dose": "3–6 g powder or 10–20 ml fresh juice daily",
+        "anupana": "Honey or warm water",
+        "contraindication": [
+          "Acute diarrhea",
+          "Hyperkalemia (large doses)"
+        ],
+        "modernEvidence": "Rich in Vitamin C (Ascorbic acid), gallic acid, ellagic acid; strong antioxidant, hepatoprotective, immunomodulatory, anti-diabetic, and anti-atherogenic effects confirmed in multiple RCTs.",
+        "evidenceGrade": "A"
+      },
+      {
+        "commonName": "Ashwagandha / Winter Cherry",
+        "sanskritName": "Ashwagandha",
+        "tamilName": "Amukkara / அமுக்கரா",
+        "botanicalName": "Withania somnifera",
+        "rasa": [
+          "Tikta (Bitter)",
+          "Kashaya (Astringent)",
+          "Madhura (Sweet)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Snigdha (Oily)"
+        ],
+        "virya": "Ushna (Hot potency)",
+        "vipaka": "Madhura (Sweet post-digestive effect)",
+        "prabhava": "Balya (strength-promoting) and Vajikarana (aphrodisiac)",
+        "indication": [
+          "Anxiety and stress",
+          "Insomnia",
+          "Male infertility",
+          "Arthritis",
+          "Adrenal fatigue",
+          "Hypothyroidism",
+          "Chronic fatigue",
+          "Muscle wasting"
+        ],
+        "dose": "3–6 g root powder or 300–600 mg standardised extract",
+        "anupana": "Warm milk with honey or ghee",
+        "contraindication": [
+          "Hyperthyroidism",
+          "Pregnancy (large doses)",
+          "Autoimmune conditions (caution)"
+        ],
+        "modernEvidence": "Withanolides proven to reduce cortisol, improve VO2 max, testosterone, muscle mass, sperm parameters, thyroid function (TSH), and anxiety scores. Multiple double-blind RCTs available.",
+        "evidenceGrade": "A"
+      },
+      {
+        "commonName": "Shatavari / Wild Asparagus",
+        "sanskritName": "Shatavari",
+        "tamilName": "Thanneervittan kizhangu / தண்ணீர்விட்டான் கிழங்கு",
+        "botanicalName": "Asparagus racemosus",
+        "rasa": [
+          "Madhura (Sweet)",
+          "Tikta (Bitter)"
+        ],
+        "guna": [
+          "Guru (Heavy)",
+          "Snigdha (Oily)"
+        ],
+        "virya": "Sheeta (Cold potency)",
+        "vipaka": "Madhura (Sweet post-digestive effect)",
+        "prabhava": "Stanya (galactagogue), Garbhasthapana (uterine tonic), Vrishya",
+        "indication": [
+          "Female infertility",
+          "PCOS",
+          "Menopause symptoms",
+          "Low breast milk",
+          "Gastric ulcers",
+          "Hyperacidity",
+          "IBD",
+          "Immunity"
+        ],
+        "dose": "3–6 g powder or 5–10 ml liquid extract",
+        "anupana": "Warm milk or water",
+        "contraindication": [
+          "Estrogen-sensitive conditions (caution)",
+          "Edema (heavy and cold nature)"
+        ],
+        "modernEvidence": "Steroidal saponins (Shatavarins) shown to improve fertility markers, oestrogen levels, and galactagogue effect. Adaptogenic and immunomodulatory properties confirmed.",
+        "evidenceGrade": "B+"
+      },
+      {
+        "commonName": "Brahmi / Bacopa",
+        "sanskritName": "Brahmi",
+        "tamilName": "Nirbrahmi / Brahmi / பிரம்மி",
+        "botanicalName": "Bacopa monnieri",
+        "rasa": [
+          "Tikta (Bitter)",
+          "Kashaya (Astringent)",
+          "Madhura (Sweet)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Snigdha (Oily)"
+        ],
+        "virya": "Sheeta (Cold potency)",
+        "vipaka": "Madhura",
+        "prabhava": "Medhya Rasayana (brain tonic); improves memory and cognitive function",
+        "indication": [
+          "Memory disorders",
+          "ADHD",
+          "Anxiety",
+          "Epilepsy",
+          "Insomnia",
+          "Hypothyroidism",
+          "Skin diseases",
+          "Hair fall"
+        ],
+        "dose": "300–600 mg standardised extract or 3 g powder",
+        "anupana": "Warm milk or ghee",
+        "contraindication": [
+          "Bradycardia",
+          "Pregnancy (avoid high doses)",
+          "Hypotension"
+        ],
+        "modernEvidence": "Bacosides A and B improve acetylcholine synthesis, reduce beta-amyloid in animal models. Multiple RCTs confirm memory, attention, and anxiety improvement. CDRI-08 extract extensively studied.",
+        "evidenceGrade": "A"
+      },
+      {
+        "commonName": "Guduchi / Giloy / Tinospora",
+        "sanskritName": "Guduchi / Amrita",
+        "tamilName": "Seenthil kodi / சீந்தில் கொடி",
+        "botanicalName": "Tinospora cordifolia",
+        "rasa": [
+          "Tikta (Bitter)",
+          "Kashaya (Astringent)"
+        ],
+        "guna": [
+          "Guru (Heavy)",
+          "Snigdha (Oily)"
+        ],
+        "virya": "Ushna (Hot potency)",
+        "vipaka": "Madhura",
+        "prabhava": "Tridosha Shamaka (pacifies all three doshas), Rasayana, Deepana",
+        "indication": [
+          "Chronic fever",
+          "Diabetes",
+          "Jaundice",
+          "Gout",
+          "Rheumatoid arthritis",
+          "Autoimmune disorders",
+          "Immunodeficiency",
+          "Liver disease"
+        ],
+        "dose": "1–3 g powder or 10–20 ml fresh stem decoction",
+        "anupana": "Water or honey",
+        "contraindication": [
+          "Autoimmune hepatitis (caution)",
+          "Pregnancy (avoid concentrated extracts)"
+        ],
+        "modernEvidence": "Tinosporine, berberine, tinocordiside shown to be immunomodulatory, anti-hyperglycemic, hepatoprotective, anti-inflammatory. Used clinically in dengue and COVID adjunct protocols.",
+        "evidenceGrade": "A"
+      },
+      {
+        "commonName": "Haritaki / Chebulic Myrobalan",
+        "sanskritName": "Haritaki",
+        "tamilName": "Kadukkai / கடுக்காய்",
+        "botanicalName": "Terminalia chebula",
+        "rasa": [
+          "All six rasas present; Madhura, Amla, Katu, Tikta, Kashaya dominant"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Ruksha (Dry)"
+        ],
+        "virya": "Ushna (Hot potency)",
+        "vipaka": "Madhura",
+        "prabhava": "Rasayana; considered the King of Medicines in Ayurveda",
+        "indication": [
+          "Constipation",
+          "Digestive disorders",
+          "Respiratory diseases",
+          "Eye diseases",
+          "Skin disorders",
+          "Parasitic infections",
+          "Wound healing",
+          "Diabetes"
+        ],
+        "dose": "1–3 g powder at bedtime with warm water",
+        "anupana": "Warm water; or with ghee, honey, or rock salt depending on indication",
+        "contraindication": [
+          "Pregnancy",
+          "Excessive Vata debility",
+          "Severe emaciation"
+        ],
+        "modernEvidence": "Chebulinic acid, chebulagic acid, and gallic acid demonstrate strong antimicrobial, antioxidant, anti-inflammatory, and anti-diabetic activity. Inhibits HIV reverse transcriptase in vitro.",
+        "evidenceGrade": "A"
+      },
+      {
+        "commonName": "Bibhitaki / Beleric Myrobalan",
+        "sanskritName": "Bibhitaki",
+        "tamilName": "Thandrikai / Thandrikkai / தான்றிக்காய்",
+        "botanicalName": "Terminalia bellirica",
+        "rasa": [
+          "Kashaya (Astringent)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Ruksha (Dry)"
+        ],
+        "virya": "Ushna (Hot potency)",
+        "vipaka": "Madhura",
+        "prabhava": "Kapha Shamaka; expectorant, anti-asthmatic",
+        "indication": [
+          "Asthma and bronchitis",
+          "Kapha disorders",
+          "Eye diseases",
+          "Obesity",
+          "Liver disorders",
+          "Diabetes",
+          "Worm infestation"
+        ],
+        "dose": "1–3 g powder",
+        "anupana": "Honey for respiratory conditions; warm water otherwise",
+        "contraindication": [
+          "Vata predominance",
+          "Constipation tendency"
+        ],
+        "modernEvidence": "Ellagic acid, gallic acid demonstrate antioxidant activity. Gallic acid from Bibhitaki is anti-lipidemic and hepatoprotective. Studies show anti-fungal and anti-bacterial properties.",
+        "evidenceGrade": "B+"
+      },
+      {
+        "commonName": "Shankhpushpi / Morning Glory",
+        "sanskritName": "Shankhapushpi",
+        "tamilName": "Vishnukranthi / விஷ்ணுக்காந்தி",
+        "botanicalName": "Convolvulus prostratus (syn. C. pluricaulis)",
+        "rasa": [
+          "Tikta (Bitter)",
+          "Kashaya (Astringent)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Snigdha (Oily)"
+        ],
+        "virya": "Sheeta (Cold potency)",
+        "vipaka": "Madhura",
+        "prabhava": "Medhya Rasayana; anti-epileptic, anti-stress",
+        "indication": [
+          "Anxiety and stress",
+          "Memory enhancement",
+          "Epilepsy",
+          "Hypertension",
+          "Insomnia",
+          "Hyperthyroidism"
+        ],
+        "dose": "2–4 g powder or 10–15 ml fresh juice",
+        "anupana": "Milk or water",
+        "contraindication": [
+          "Caution with phenytoin (reduces drug absorption)",
+          "Hypothyroidism"
+        ],
+        "modernEvidence": "Scopoletin and flavonoids shown to have anxiolytic, anti-epileptic, anti-hypertensive, and thyroid-suppressant effects. May reduce phenytoin bioavailability.",
+        "evidenceGrade": "B"
+      },
+      {
+        "commonName": "Mandukaparni / Gotu Kola",
+        "sanskritName": "Mandukaparni",
+        "tamilName": "Vallaarai / வல்லாரை",
+        "botanicalName": "Centella asiatica",
+        "rasa": [
+          "Tikta (Bitter)",
+          "Kashaya (Astringent)",
+          "Madhura (Sweet)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Snigdha (Oily)"
+        ],
+        "virya": "Sheeta (Cold potency)",
+        "vipaka": "Madhura",
+        "prabhava": "Medhya Rasayana; wound healer, collagen stimulator",
+        "indication": [
+          "Cognitive decline",
+          "Venous insufficiency",
+          "Wound healing",
+          "Skin diseases",
+          "Anxiety",
+          "Leprosy",
+          "Psoriasis",
+          "Filariasis"
+        ],
+        "dose": "1–3 g powder or 10–20 ml fresh leaf juice",
+        "anupana": "Warm water or milk",
+        "contraindication": [
+          "Pregnancy (large doses)",
+          "Hepatotoxicity at very high doses (rare)"
+        ],
+        "modernEvidence": "Asiaticoside, madecassoside, asiatic acid stimulate collagen synthesis, improve chronic venous insufficiency, enhance memory consolidation. Strong evidence base from multiple RCTs.",
+        "evidenceGrade": "A"
+      },
+      {
+        "commonName": "Turmeric",
+        "sanskritName": "Haridra",
+        "tamilName": "Manjal / மஞ்சள்",
+        "botanicalName": "Curcuma longa",
+        "rasa": [
+          "Katu (Pungent)",
+          "Tikta (Bitter)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Ruksha (Dry)"
+        ],
+        "virya": "Ushna (Hot potency)",
+        "vipaka": "Katu (Pungent post-digestive)",
+        "prabhava": "Varnya (complexion enhancer), Vishaghna (anti-toxic), Krimighna (antiparasitic)",
+        "indication": [
+          "Inflammation",
+          "Diabetes",
+          "Liver diseases",
+          "Skin disorders",
+          "Arthritis",
+          "Cancer prevention",
+          "Alzheimer's",
+          "Wound healing"
+        ],
+        "dose": "1–3 g powder; 500–1500 mg standardised curcumin extract",
+        "anupana": "Warm milk with black pepper (enhances bioavailability 20×); ghee",
+        "contraindication": [
+          "Gallstones (caution — promotes bile flow)",
+          "Blood thinners (caution)",
+          "Bile duct obstruction"
+        ],
+        "modernEvidence": "Curcumin modulates NF-kB, COX-2, and inflammatory cytokines. Bioavailability is poor but improved with piperine. Studies positive for osteoarthritis, IBD, depression (comparable to fluoxetine), and metabolic syndrome.",
+        "evidenceGrade": "A"
+      },
+      {
+        "commonName": "Neem",
+        "sanskritName": "Nimba",
+        "tamilName": "Veppam / வேப்பம்",
+        "botanicalName": "Azadirachta indica",
+        "rasa": [
+          "Tikta (Bitter)",
+          "Kashaya (Astringent)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Ruksha (Dry)"
+        ],
+        "virya": "Sheeta (Cold potency)",
+        "vipaka": "Katu",
+        "prabhava": "Krimighna (antiparasitic), Kushthaghna (anti-skin disease), Jwarahara (anti-fever)",
+        "indication": [
+          "Skin infections and diseases",
+          "Diabetes",
+          "Dental infections",
+          "Malaria",
+          "Worm infestations",
+          "Leprosy",
+          "Liver diseases"
+        ],
+        "dose": "1–2 g leaf powder; 5–10 ml leaf juice",
+        "anupana": "Water or honey",
+        "contraindication": [
+          "Pregnancy and breastfeeding",
+          "Children under 1 year",
+          "Liver disease (excessive doses)",
+          "Hypoglycemic medications (potentiates effect)"
+        ],
+        "modernEvidence": "Azadirachtin, nimbin, nimbidin show antiparasitic, antifungal, antibacterial, anti-hyperglycemic, and anti-inflammatory activity. Used in natural pesticides and oral hygiene.",
+        "evidenceGrade": "B+"
+      },
+      {
+        "commonName": "Bhumyamalaki / Stonebreaker",
+        "sanskritName": "Bhumyamalaki",
+        "tamilName": "Keezhanelli / கீழாநெல்லி",
+        "botanicalName": "Phyllanthus niruri / P. amarus",
+        "rasa": [
+          "Tikta (Bitter)",
+          "Kashaya (Astringent)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Ruksha (Dry)"
+        ],
+        "virya": "Sheeta (Cold potency)",
+        "vipaka": "Madhura",
+        "prabhava": "Bhedana (stone-breaking), Yakritottejaka (liver tonic)",
+        "indication": [
+          "Viral hepatitis B and C",
+          "Kidney and urinary stones",
+          "Jaundice",
+          "Liver cirrhosis",
+          "UTI",
+          "Diabetic nephropathy",
+          "Hypertension"
+        ],
+        "dose": "3–5 g whole plant powder or 10–20 ml decoction",
+        "anupana": "Water",
+        "contraindication": [
+          "Pregnancy",
+          "Anticoagulant therapy"
+        ],
+        "modernEvidence": "Phyllanthin, hypophyllanthin show potent hepatoprotective and anti-HBV activity. Inhibits HBsAg and HBeAg expression. Anti-urolithic activity confirmed in clinical trials. WHO traditional medicine database positive evidence.",
+        "evidenceGrade": "A"
+      },
+      {
+        "commonName": "Licorice / Mulethi",
+        "sanskritName": "Yashtimadhu",
+        "tamilName": "Atimadhuram / அதிமதுரம்",
+        "botanicalName": "Glycyrrhiza glabra",
+        "rasa": [
+          "Madhura (Sweet)"
+        ],
+        "guna": [
+          "Guru (Heavy)",
+          "Snigdha (Oily)"
+        ],
+        "virya": "Sheeta (Cold potency)",
+        "vipaka": "Madhura",
+        "prabhava": "Varnya (complexion), Chaksushya (beneficial for eyes), Rasayana",
+        "indication": [
+          "Peptic ulcer",
+          "Gastritis",
+          "Hyperacidity",
+          "Adrenal insufficiency",
+          "Respiratory infections",
+          "Sore throat",
+          "Eczema",
+          "Liver diseases"
+        ],
+        "dose": "1–3 g root powder; 400 mg DGL (deglycyrrhizinated licorice) extract",
+        "anupana": "Milk, warm water, or honey",
+        "contraindication": [
+          "Hypertension",
+          "Hypokalemia",
+          "Edema",
+          "Kidney failure",
+          "Pregnancy (large doses)",
+          "Congestive heart failure"
+        ],
+        "modernEvidence": "Glycyrrhizin (anti-inflammatory, antiviral), glycyrrhetinic acid (anti-ulcer). DGL equivalent to H2 blockers for peptic ulcer. Potent anti-SARS-CoV activity reported. Anti-hepatitis properties studied.",
+        "evidenceGrade": "A"
+      },
+      {
+        "commonName": "Guggulu / Indian Bdellium",
+        "sanskritName": "Guggulu",
+        "tamilName": "Maishakshi / Guggul / குக்கில்",
+        "botanicalName": "Commiphora wightii (C. mukul)",
+        "rasa": [
+          "Tikta (Bitter)",
+          "Katu (Pungent)",
+          "Kashaya (Astringent)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Ruksha (Dry)",
+          "Vishada (Clear)",
+          "Sukshma (Subtle)"
+        ],
+        "virya": "Ushna (Hot potency)",
+        "vipaka": "Katu",
+        "prabhava": "Lekhaniya (scraping/fat-reducing), Shothahara (anti-inflammatory)",
+        "indication": [
+          "Hyperlipidemia",
+          "Obesity",
+          "Hypothyroidism",
+          "Arthritis",
+          "Atherosclerosis",
+          "Inflammatory disorders",
+          "Bone fractures (healing)"
+        ],
+        "dose": "250–500 mg guggulsterone-standardised extract twice daily",
+        "anupana": "Warm water; or with Triphala for obesity",
+        "contraindication": [
+          "Pregnancy",
+          "Hyperthyroidism",
+          "Anticoagulant drugs (caution)",
+          "Thyroid hormone medications"
+        ],
+        "modernEvidence": "Guggulsterones E and Z inhibit bile acid receptor FXR, reduce LDL. Phase II/III trials showed lipid-lowering effect, though results are mixed for LDL. Anti-inflammatory and thyroid-stimulating effects confirmed.",
+        "evidenceGrade": "B+"
+      },
+      {
+        "commonName": "Punarnava / Spreading Hogweed",
+        "sanskritName": "Punarnava",
+        "tamilName": "Mukaratte kirai / முக்கரட்டை கீரை",
+        "botanicalName": "Boerhavia diffusa",
+        "rasa": [
+          "Madhura (Sweet)",
+          "Tikta (Bitter)",
+          "Kashaya (Astringent)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Ruksha (Dry)"
+        ],
+        "virya": "Ushna (Hot potency)",
+        "vipaka": "Madhura",
+        "prabhava": "Shothahara (anti-edema), Mutrala (diuretic)",
+        "indication": [
+          "Edema and ascites",
+          "Chronic kidney disease",
+          "Nephrotic syndrome",
+          "UTI",
+          "Liver disease",
+          "Heart failure-related edema",
+          "Anemia"
+        ],
+        "dose": "3–5 g root powder or 10–30 ml root decoction",
+        "anupana": "Warm water",
+        "contraindication": [
+          "Dehydration",
+          "Potassium-sparing diuretics (caution)"
+        ],
+        "modernEvidence": "Punarnavine, liriodendrin shown to be diuretic, anti-inflammatory, anti-fibrotic (liver), and nephroprotective. Inhibits calcium oxalate crystal formation.",
+        "evidenceGrade": "B+"
+      },
+      {
+        "commonName": "Trikatu",
+        "sanskritName": "Trikatu",
+        "tamilName": "Mukkadu podi / முக்கடு பொடி",
+        "botanicalName": "Combination: Piper longum + Zingiber officinale + Piper nigrum",
+        "rasa": [
+          "Katu (Pungent)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Ruksha (Dry)",
+          "Tikshna (Sharp)"
+        ],
+        "virya": "Ushna (Hot potency)",
+        "vipaka": "Katu",
+        "prabhava": "Deepana-Pachana (appetiser-digestive), Kapha-Vata shamaka",
+        "indication": [
+          "Indigestion",
+          "Cold and cough",
+          "Asthma",
+          "Obesity",
+          "Hypothyroidism",
+          "Malabsorption",
+          "Ama conditions"
+        ],
+        "dose": "250–500 mg with warm water before meals",
+        "anupana": "Honey or warm water",
+        "contraindication": [
+          "Hyperacidity",
+          "Peptic ulcer",
+          "Pitta disorders",
+          "Pregnancy"
+        ],
+        "modernEvidence": "Piperine (bioperine) from Piper nigrum enhances bioavailability of multiple drugs and nutrients by 20–200%. Shogaols and gingerols from Zingiber are anti-nausea and anti-inflammatory. Well-studied individually.",
+        "evidenceGrade": "A"
+      },
+      {
+        "commonName": "Tulsi / Holy Basil",
+        "sanskritName": "Tulsi / Surasa",
+        "tamilName": "Thulasi / துளசி",
+        "botanicalName": "Ocimum tenuiflorum (O. sanctum)",
+        "rasa": [
+          "Katu (Pungent)",
+          "Tikta (Bitter)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Ruksha (Dry)",
+          "Tikshna (Sharp)"
+        ],
+        "virya": "Ushna (Hot potency)",
+        "vipaka": "Katu",
+        "prabhava": "Tridoshahara (balances all doshas in proper use), Krimighna, Vishaghna",
+        "indication": [
+          "Respiratory infections",
+          "Asthma",
+          "Stress",
+          "Diabetes",
+          "Fever",
+          "Malaria",
+          "Skin infections",
+          "Anxiety"
+        ],
+        "dose": "2–3 g dried leaf powder or 10–15 ml fresh leaf juice twice daily",
+        "anupana": "Warm water or honey",
+        "contraindication": [
+          "Pregnancy (emmenagogue property)",
+          "Anticoagulant therapy (mild interaction)",
+          "Hypoglycemic medications"
+        ],
+        "modernEvidence": "Eugenol, rosmarinic acid, ursolic acid provide anti-stress, anti-inflammatory, anti-hyperglycemic, antimicrobial, and immunomodulatory effects. Adaptogenic properties comparable to Ashwagandha.",
+        "evidenceGrade": "A"
+      },
+      {
+        "commonName": "Kapikacchu / Velvet Bean",
+        "sanskritName": "Kapikacchu / Atmagupta",
+        "tamilName": "Poonaikali / பூனைக்காலி",
+        "botanicalName": "Mucuna pruriens",
+        "rasa": [
+          "Madhura (Sweet)",
+          "Tikta (Bitter)"
+        ],
+        "guna": [
+          "Guru (Heavy)",
+          "Snigdha (Oily)"
+        ],
+        "virya": "Ushna (Hot potency)",
+        "vipaka": "Madhura",
+        "prabhava": "Vajikarana (aphrodisiac), Vata Shamaka, Medhya",
+        "indication": [
+          "Male infertility",
+          "Parkinson's disease",
+          "Low libido",
+          "Anxiety and depression",
+          "Diabetes",
+          "Anemia",
+          "Snake bite (antidote property)"
+        ],
+        "dose": "3–5 g seed powder; 500 mg standardised L-DOPA extract",
+        "anupana": "Warm milk or water",
+        "contraindication": [
+          "Schizophrenia",
+          "Psychosis",
+          "Pregnancy",
+          "Concurrent L-DOPA medications"
+        ],
+        "modernEvidence": "Contains 4–6% L-DOPA naturally. Clinical trials show improved Parkinson's motor symptoms. Improves testosterone, sperm count, and motility. Anti-diabetic and antioxidant effects confirmed.",
+        "evidenceGrade": "A"
+      },
+      {
+        "commonName": "Bala / Country Mallow",
+        "sanskritName": "Bala",
+        "tamilName": "Vataguchhi / Siddha Marundu / வாட பூண்டு",
+        "botanicalName": "Sida cordifolia",
+        "rasa": [
+          "Madhura (Sweet)"
+        ],
+        "guna": [
+          "Guru (Heavy)",
+          "Snigdha (Oily)"
+        ],
+        "virya": "Sheeta (Cold potency)",
+        "vipaka": "Madhura",
+        "prabhava": "Brimhana (anabolic), Balya (strengthening), Vata Shamaka",
+        "indication": [
+          "Neurological weakness",
+          "Paralysis",
+          "Emaciation",
+          "Fatigue",
+          "Rheumatoid arthritis",
+          "Urinary disorders",
+          "Cardiac tonic"
+        ],
+        "dose": "3–5 g root powder or 20–30 ml root decoction",
+        "anupana": "Warm milk or Bala taila for Abhyanga",
+        "contraindication": [
+          "Kapha disorders",
+          "Obesity",
+          "Congestion and mucus"
+        ],
+        "modernEvidence": "Ephedrine alkaloids (vasicine), mucilage, flavonoids provide bronchodilatory, anti-inflammatory, and anabolic properties. Stem bark extract studied for cardiac protective effect.",
+        "evidenceGrade": "B"
+      },
+      {
+        "commonName": "Triphala",
+        "sanskritName": "Triphala",
+        "tamilName": "Mukkani chooranam / முக்கனி சூரணம்",
+        "botanicalName": "Combination: Terminalia chebula + T. bellirica + Phyllanthus emblica",
+        "rasa": [
+          "Five of the six tastes present; lacks Lavana (salt)"
+        ],
+        "guna": [
+          "Laghu (Light)",
+          "Ruksha (Dry)"
+        ],
+        "virya": "Sheeta (Cold potency)",
+        "vipaka": "Madhura",
+        "prabhava": "Tridosha Shamaka, Rasayana, Chakshushya (eye tonic)",
+        "indication": [
+          "Constipation",
+          "Detoxification",
+          "Eye diseases",
+          "Diabetes",
+          "Obesity",
+          "Skin disorders",
+          "Immunomodulation"
+        ],
+        "dose": "3–5 g powder at bedtime with warm water",
+        "anupana": "Warm water; honey for Kapha; ghee for Vata; sugar for Pitta",
+        "contraindication": [
+          "Diarrhea",
+          "Pregnancy (caution)",
+          "Dehydration"
+        ],
+        "modernEvidence": "Most researched Ayurvedic poly-herbal formulation. Antioxidant, anti-diabetic, anti-obesity, anti-carcinogenic, hepatoprotective effects confirmed. Multiple clinical trials for constipation, IBS, and colitis.",
+        "evidenceGrade": "A"
+      }
+    ]
+  },
+  "siddha": {
+    "overview": "Siddha medicine is one of the oldest traditional systems, developed by the Tamil Siddhas. It operates on the three humors — Vatham, Pitham, Kapham — and five elements (Pancha Bootham). Diagnosis includes Naadi Pariksha (pulse diagnosis), Naa Pariksha (tongue), and Kann Pariksha (eye).",
+    "mukkuttram": {
+      "vatham": {
+        "tamilName": "வாதம்",
+        "elements": [
+          "Vayu (Air)",
+          "Akash (Space)"
+        ],
+        "subtypes": [
+          {
+            "name": "Pranan",
+            "location": "Heart, Brain",
+            "function": "Inhalation, cognition, heart action"
+          },
+          {
+            "name": "Abanan",
+            "location": "Anus, Lower abdomen",
+            "function": "Expulsion of waste, downward movement"
+          },
+          {
+            "name": "Viyanan",
+            "location": "Whole body",
+            "function": "Distribution of nutrients, circulation"
+          },
+          {
+            "name": "Udhanan",
+            "location": "Throat, Speech",
+            "function": "Upward movement, speech, swallowing"
+          },
+          {
+            "name": "Samanan",
+            "location": "Stomach, Intestines",
+            "function": "Digestion, normalizes Pranan and Abanan"
+          },
+          {
+            "name": "Nagan",
+            "location": "Eyes, Eyelids",
+            "function": "Opening and closing of eyes"
+          },
+          {
+            "name": "Koorman",
+            "location": "Chest, Eyes",
+            "function": "Yawning, blinking, sight"
+          },
+          {
+            "name": "Kirukaran",
+            "location": "Nose, Throat",
+            "function": "Sneezing, salivation"
+          },
+          {
+            "name": "Devadattan",
+            "location": "Whole body",
+            "function": "Yawning, sleeping"
+          },
+          {
+            "name": "Dhananjayan",
+            "location": "Whole body",
+            "function": "Present in body even after death; decomposition"
+          }
+        ],
+        "qualitiesWhenBalanced": "Normal movement, cognition, elimination, breathing, and circulation",
+        "qualitiesWhenImbalanced": "Pain, spasm, paralysis, constipation, dryness, anxiety, tremors"
+      },
+      "pitham": {
+        "tamilName": "பித்தம்",
+        "elements": [
+          "Agni (Fire)",
+          "Jala (Water — minor component)"
+        ],
+        "subtypes": [
+          {
+            "name": "Anar Pitham",
+            "location": "Stomach",
+            "function": "Digestion and metabolism (Pachagam)"
+          },
+          {
+            "name": "Ranjaga Pitham",
+            "location": "Liver, Spleen",
+            "function": "Formation of blood (Ranjagam)"
+          },
+          {
+            "name": "Sadaga Pitham",
+            "location": "Heart, Brain",
+            "function": "Intelligence, memory, emotions"
+          },
+          {
+            "name": "Alochaga Pitham",
+            "location": "Eyes",
+            "function": "Vision and perception"
+          },
+          {
+            "name": "Bharajaga Pitham",
+            "location": "Skin",
+            "function": "Complexion, skin lustre, temperature regulation"
+          }
+        ],
+        "qualitiesWhenBalanced": "Good digestion, fair complexion, normal body heat, clarity of vision and intellect",
+        "qualitiesWhenImbalanced": "Fever, acidity, jaundice, bleeding disorders, skin inflammation, anger, excessive hunger"
+      },
+      "kapham": {
+        "tamilName": "கபம்",
+        "elements": [
+          "Prithvi (Earth)",
+          "Jala (Water)"
+        ],
+        "subtypes": [
+          {
+            "name": "Avalambagam",
+            "location": "Chest, Heart",
+            "function": "Nourishes all other Kaphams; supports heart"
+          },
+          {
+            "name": "Kiledagam",
+            "location": "Stomach",
+            "function": "Moistens food, aids digestion"
+          },
+          {
+            "name": "Pozhipam",
+            "location": "Tongue, Throat",
+            "function": "Taste perception, swallowing"
+          },
+          {
+            "name": "Tharpagam",
+            "location": "Head, Brain",
+            "function": "Nourishes sense organs, memory, sleep"
+          },
+          {
+            "name": "Santhiganam",
+            "location": "Joints",
+            "function": "Lubrication of joints, smooth movement"
+          }
+        ],
+        "qualitiesWhenBalanced": "Good immunity, stability, lubrication, strength, compassion",
+        "qualitiesWhenImbalanced": "Edema, obesity, mucus congestion, sluggishness, depression, diabetes"
+      }
+    },
+    "formulations": [
+      {
+        "tamilName": "Trikadugu Chooranam / திரிகடுகு சூரணம்",
+        "type": "churnam",
+        "ingredients": [
+          "Sukku (Dry ginger / Zingiber officinale)",
+          "Milagu (Black pepper / Piper nigrum)",
+          "Thippili (Long pepper / Piper longum)"
+        ],
+        "indication": [
+          "Indigestion",
+          "Cold and cough",
+          "Asthma",
+          "Obesity",
+          "Kapha disorders",
+          "Loss of appetite",
+          "Manda Agni"
+        ],
+        "dose": "1–2 g twice daily before food",
+        "anupana": "Honey or warm water",
+        "caution": "Avoid in Pitta disorders, peptic ulcer, pregnancy"
+      },
+      {
+        "tamilName": "Nilavembu Kudineer / நிலவேம்பு குடிநீர்",
+        "type": "kashayam",
+        "ingredients": [
+          "Nilavembu (Andrographis paniculata)",
+          "Vetiver (Vetiveria zizanioides)",
+          "Korai kizhangu",
+          "Sundaikkai vathal",
+          "Vilamichai ver (Plectranthus zeylanicus)",
+          "Milagu (Black pepper)",
+          "Patha (Cyclea peltata)",
+          "Santhanam (Sandalwood)",
+          "Nannari (Hemidesmus indicus)"
+        ],
+        "indication": [
+          "Dengue fever",
+          "Malaria",
+          "Chikungunya",
+          "Viral fevers",
+          "Hepatitis",
+          "Urinary infections"
+        ],
+        "dose": "60 ml twice daily after food",
+        "anupana": "Room temperature water",
+        "caution": "Avoid during pregnancy; monitor liver function in prolonged use"
+      },
+      {
+        "tamilName": "Chandanam Tailam / சந்தனம் தைலம்",
+        "type": "tailam",
+        "ingredients": [
+          "Sandal wood oil (Santalum album)",
+          "Sesame oil base",
+          "Rose water",
+          "Vetiver extract"
+        ],
+        "indication": [
+          "Skin inflammation",
+          "Burning sensation",
+          "Fever",
+          "Pitta disorders",
+          "Headache"
+        ],
+        "dose": "External application; 5–10 ml for topical use",
+        "anupana": "Applied with gentle massage",
+        "caution": "Avoid in cold, Vata conditions"
+      },
+      {
+        "tamilName": "Amukkara Chooranam / அமுக்கரா சூரணம்",
+        "type": "churnam",
+        "ingredients": [
+          "Amukkara kizhangu (Ashwagandha / Withania somnifera)",
+          "Thaen (Honey)",
+          "Paal (Cow's milk) as anupana"
+        ],
+        "indication": [
+          "Nervous weakness",
+          "Insomnia",
+          "Male infertility",
+          "Emaciation",
+          "Stress",
+          "Arthritis"
+        ],
+        "dose": "3–5 g powder twice daily",
+        "anupana": "Warm milk with honey",
+        "caution": "Avoid in hyperthyroidism; reduce dose in Pitta disorders"
+      },
+      {
+        "tamilName": "Chandrakala Chendooram / சந்திரகலா செந்தூரம்",
+        "type": "chendooram",
+        "ingredients": [
+          "Purified mercury (Parada)",
+          "Purified sulphur (Gandhakam)",
+          "Copper bhasma",
+          "Silver bhasma",
+          "Camphor",
+          "Sandalwood"
+        ],
+        "indication": [
+          "Fever",
+          "Pitta disorders",
+          "Burning micturition",
+          "Inflammatory conditions",
+          "Skin diseases"
+        ],
+        "dose": "65–130 mg (1–2 ratti) with honey or butter",
+        "anupana": "Rose water, butter",
+        "caution": "Must be prepared under strict Siddha pharmacy protocols; heavy metal content — use under qualified practitioner supervision only"
+      },
+      {
+        "tamilName": "Karpooradi Tailam / கற்பூரடி தைலம்",
+        "type": "tailam",
+        "ingredients": [
+          "Karpoori (Camphor / Cinnamomum camphora)",
+          "Elai ennai (Cardamom oil)",
+          "Omam ennai (Carom seed oil)",
+          "Sesame oil",
+          "Eucalyptus oil"
+        ],
+        "indication": [
+          "Muscle pain",
+          "Arthritis",
+          "Respiratory congestion (external)",
+          "Cold and sinusitis (inhalation)",
+          "Neuralgia"
+        ],
+        "dose": "External application to affected area; 2–5 ml",
+        "anupana": "Topical with gentle massage",
+        "caution": "Do not apply on open wounds; do not ingest"
+      },
+      {
+        "tamilName": "Triphala Chooranam / திரிபலா சூரணம்",
+        "type": "churnam",
+        "ingredients": [
+          "Kadukkai (Haritaki / Terminalia chebula)",
+          "Thandrikkai (Bibhitaki / Terminalia bellirica)",
+          "Nelli (Amalaki / Phyllanthus emblica)"
+        ],
+        "indication": [
+          "Constipation",
+          "Eye diseases",
+          "Skin diseases",
+          "Diabetes",
+          "Obesity",
+          "General detoxification"
+        ],
+        "dose": "3–5 g at bedtime",
+        "anupana": "Warm water; honey for eye diseases",
+        "caution": "Reduce dose in diarrhea; avoid excess in pregnancy"
+      },
+      {
+        "tamilName": "Murunga Ennai / முருங்கை எண்ணெய்",
+        "type": "tailam",
+        "ingredients": [
+          "Moringa seed oil (Moringa oleifera)",
+          "Sesame base oil",
+          "Camphor (small quantity)"
+        ],
+        "indication": [
+          "Joint pain",
+          "Rheumatism",
+          "Skin infections",
+          "Hair growth",
+          "Edema"
+        ],
+        "dose": "10–20 ml external application",
+        "anupana": "Topical",
+        "caution": "Avoid on sensitive or inflamed skin"
+      },
+      {
+        "tamilName": "Brahmi Lehyam / பிரம்மி லேகியம்",
+        "type": "lehyam",
+        "ingredients": [
+          "Brahmi (Bacopa monnieri)",
+          "Vallaarai (Centella asiatica)",
+          "Dry ginger",
+          "Long pepper",
+          "Honey",
+          "Ghee",
+          "Jaggery"
+        ],
+        "indication": [
+          "Memory disorders",
+          "ADHD",
+          "Cognitive decline",
+          "Anxiety",
+          "Insomnia",
+          "Epilepsy"
+        ],
+        "dose": "5–10 g twice daily",
+        "anupana": "Warm milk",
+        "caution": "Use cautiously in bradycardia"
+      },
+      {
+        "tamilName": "Kasthuri Manjal Lepam / கஸ்தூரி மஞ்சள் லேபம்",
+        "type": "lehyam",
+        "ingredients": [
+          "Kasthuri manjal (Curcuma aromatica)",
+          "White sandalwood powder",
+          "Rose water",
+          "Neem leaf extract",
+          "Coconut oil"
+        ],
+        "indication": [
+          "Acne and pimples",
+          "Hyperpigmentation",
+          "Skin inflammation",
+          "Fungal skin infections"
+        ],
+        "dose": "External application; thin paste on face for 15–20 minutes",
+        "anupana": "Topical",
+        "caution": "Patch test before use; avoid sensitive skin"
+      },
+      {
+        "tamilName": "Sathavaree Gulam / சதாவரி குளம்",
+        "type": "lehyam",
+        "ingredients": [
+          "Thandavari (Shatavari / Asparagus racemosus)",
+          "Palm sugar",
+          "Ghee",
+          "Honey",
+          "Cardamom",
+          "Pepper"
+        ],
+        "indication": [
+          "Female reproductive disorders",
+          "PCOS",
+          "Low breast milk",
+          "Menopause",
+          "Uterine weakness",
+          "Dysmenorrhea"
+        ],
+        "dose": "5–10 g twice daily",
+        "anupana": "Warm milk",
+        "caution": "Avoid in estrogen-dependent conditions"
+      },
+      {
+        "tamilName": "Annabethi Chendooram / அன்னபேதி செந்தூரம்",
+        "type": "chendooram",
+        "ingredients": [
+          "Purified iron bhasma (Loha bhasma)",
+          "Lemon juice",
+          "Rose water",
+          "Haritaki decoction"
+        ],
+        "indication": [
+          "Anemia (Iron deficiency)",
+          "Liver diseases",
+          "Splenomegaly",
+          "Jaundice",
+          "General debility"
+        ],
+        "dose": "130–260 mg (2–4 ratti) twice daily",
+        "anupana": "Honey or butter with Triphala decoction",
+        "caution": "Use under qualified Siddha practitioner; avoid in hemochromatosis"
+      },
+      {
+        "tamilName": "Vasamba Chooranam / வசம்பு சூரணம்",
+        "type": "churnam",
+        "ingredients": [
+          "Vasamba (Acorus calamus / Vacha)",
+          "Omam (Trachyspermum ammi)",
+          "Sukku (Dry ginger)",
+          "Milagu (Black pepper)"
+        ],
+        "indication": [
+          "Colic in infants",
+          "Digestive disorders",
+          "Flatulence",
+          "Respiratory congestion",
+          "CNS stimulation",
+          "Epilepsy (adjunct)"
+        ],
+        "dose": "Infants: 50–100 mg with mother's milk; Adults: 1–2 g",
+        "anupana": "Honey or mother's milk for infants",
+        "caution": "Use with caution in seizure disorder; external application on abdomen for infant colic"
+      },
+      {
+        "tamilName": "Nannari Sharbath / நன்னாரி சர்பத்",
+        "type": "kashayam",
+        "ingredients": [
+          "Nannari root (Hemidesmus indicus / Indian Sarsaparilla)",
+          "Sugar or jaggery",
+          "Rose water",
+          "Cardamom"
+        ],
+        "indication": [
+          "Urinary burning",
+          "Excessive heat",
+          "Skin diseases",
+          "Pitta disorders",
+          "Fever (cooling)",
+          "Leprosy"
+        ],
+        "dose": "30–60 ml diluted in cold water",
+        "anupana": "Cold water",
+        "caution": "Monitor blood sugar in diabetics due to sugar content"
+      },
+      {
+        "tamilName": "Thalisadi Chooranam / தாளிசாதி சூரணம்",
+        "type": "churnam",
+        "ingredients": [
+          "Thalisapathiri (Abies spectabilis)",
+          "Milagu",
+          "Thippili",
+          "Sukku",
+          "Cardamom",
+          "Sugar candy"
+        ],
+        "indication": [
+          "Cough and cold",
+          "Asthma",
+          "Bronchitis",
+          "Kapha-related respiratory conditions",
+          "Loss of appetite"
+        ],
+        "dose": "1–2 g twice daily with honey",
+        "anupana": "Honey or warm water",
+        "caution": "Avoid in dry, Vata-type cough without mucus"
+      },
+      {
+        "tamilName": "Keezhanelli Chooranam / கீழாநெல்லி சூரணம்",
+        "type": "churnam",
+        "ingredients": [
+          "Keezhanelli (Phyllanthus niruri / amarus)",
+          "Nelli (Amla)",
+          "Neem leaf powder"
+        ],
+        "indication": [
+          "Hepatitis B and C",
+          "Jaundice",
+          "Liver cirrhosis",
+          "Kidney stones",
+          "UTI",
+          "Diabetes"
+        ],
+        "dose": "3–5 g twice daily",
+        "anupana": "Warm water",
+        "caution": "Avoid with anticoagulants"
+      },
+      {
+        "tamilName": "Seenthil Sathu / சீந்தில் சத்து",
+        "type": "churnam",
+        "ingredients": [
+          "Seenthil kodi (Tinospora cordifolia starch)",
+          "Sugar candy",
+          "Cardamom"
+        ],
+        "indication": [
+          "Chronic fever",
+          "Debility post-fever",
+          "Diabetes",
+          "Liver disorders",
+          "Immunity building",
+          "General tonic"
+        ],
+        "dose": "3–5 g in milk or water twice daily",
+        "anupana": "Warm milk or water",
+        "caution": "Monitor blood sugar; safe in most conditions"
+      },
+      {
+        "tamilName": "Piper Longum Lehyam / Thippili Rasayanam / திப்பிலி ரசாயனம்",
+        "type": "lehyam",
+        "ingredients": [
+          "Thippili (Piper longum)",
+          "Honey",
+          "Ghee",
+          "Dry ginger",
+          "Long pepper root",
+          "Cardamom",
+          "Cinnamon"
+        ],
+        "indication": [
+          "Asthma",
+          "Chronic cough",
+          "Respiratory infections",
+          "Immunity",
+          "Digestive weakness"
+        ],
+        "dose": "5–10 g twice daily",
+        "anupana": "Warm water or milk",
+        "caution": "Avoid in Pitta excess, hyperacidity"
+      },
+      {
+        "tamilName": "Pinda Tailam / பிண்ட தைலம்",
+        "type": "tailam",
+        "ingredients": [
+          "Sesame oil base",
+          "Beeswax",
+          "Neem bark",
+          "Turmeric",
+          "Mahua (Madhuca indica)",
+          "Sarala (Pinus roxburghii)"
+        ],
+        "indication": [
+          "Wounds",
+          "Burns",
+          "Eczema",
+          "Psoriasis",
+          "Chronic skin ulcers",
+          "Post-surgical wound care"
+        ],
+        "dose": "External application twice daily on cleaned wound",
+        "anupana": "Topical",
+        "caution": "Do not apply on infected wounds without debridement"
+      },
+      {
+        "tamilName": "Arumuga Chendooram / அறுமுக செந்தூரம்",
+        "type": "chendooram",
+        "ingredients": [
+          "Purified mercury",
+          "Purified arsenic",
+          "Sulphur",
+          "Copper",
+          "Gold bhasma (Swarna bhasma)",
+          "Saffron"
+        ],
+        "indication": [
+          "Diabetes mellitus",
+          "Skin diseases",
+          "Leprosy",
+          "Liver disorders",
+          "Anemia"
+        ],
+        "dose": "65 mg (1 ratti) twice daily",
+        "anupana": "Honey, butter, or gingelly oil",
+        "caution": "Strictly under qualified Siddha physician; contains heavy metals — shodhana purification mandatory"
+      },
+      {
+        "tamilName": "Nilavembu Kashayam / நிலவேம்பு கஷாயம்",
+        "type": "kashayam",
+        "ingredients": [
+          "Nilavembu (Andrographis paniculata)",
+          "Dry ginger",
+          "Pepper",
+          "Coriander",
+          "Sandalwood"
+        ],
+        "indication": [
+          "Viral fever",
+          "Dengue",
+          "Chikungunya",
+          "Malaria",
+          "Typhoid",
+          "Liver disorders"
+        ],
+        "dose": "60–90 ml twice daily after food",
+        "anupana": "Warm water",
+        "caution": "Avoid in pregnancy; prolonged use may affect liver enzymes"
+      },
+      {
+        "tamilName": "Maharasnadi Kashayam / மகாரஸ்னாதி கஷாயம்",
+        "type": "kashayam",
+        "ingredients": [
+          "Rasna (Pluchea lanceolata)",
+          "Ashwagandha",
+          "Punarnava",
+          "Gokshura",
+          "Devadaru",
+          "Bala",
+          "Dry ginger",
+          "Castor root",
+          "Dashamula ingredients"
+        ],
+        "indication": [
+          "Vata disorders",
+          "Rheumatoid arthritis",
+          "Sciatica",
+          "Paralysis",
+          "Back pain",
+          "Neurological weakness"
+        ],
+        "dose": "15–30 ml diluted in equal water twice daily",
+        "anupana": "Warm water",
+        "caution": "Reduce dose in hyperacidity; long-term use needs monitoring"
+      },
+      {
+        "tamilName": "Asthi Poshak Churna / அஸ்தி போஷக சூரணம்",
+        "type": "churnam",
+        "ingredients": [
+          "Shankha bhasma (Conch shell bhasma)",
+          "Praval bhasma (Coral bhasma)",
+          "Haritaki",
+          "Ashwagandha",
+          "Sesame seed powder"
+        ],
+        "indication": [
+          "Osteoporosis",
+          "Bone fractures",
+          "Calcium deficiency",
+          "Osteoarthritis",
+          "Tooth weakness"
+        ],
+        "dose": "2–3 g twice daily",
+        "anupana": "Warm milk",
+        "caution": "Avoid in hypercalcemia; use under guidance"
+      },
+      {
+        "tamilName": "Elathi Chooranam / ஏலாதி சூரணம்",
+        "type": "churnam",
+        "ingredients": [
+          "Elam (Cardamom / Elettaria cardamomum)",
+          "Cinnamon bark",
+          "Nagakesar (Mesua ferrea)",
+          "Patra (Cinnamomum tamala)",
+          "Maricha"
+        ],
+        "indication": [
+          "Nausea and vomiting",
+          "Hiccough",
+          "Bad breath",
+          "Indigestion",
+          "Kapha-type respiratory disorders"
+        ],
+        "dose": "1–2 g after food",
+        "anupana": "Honey or warm water",
+        "caution": "Generally safe; avoid excessive use in Pitta disorders"
+      },
+      {
+        "tamilName": "Gokshuradi Guggulu / கோக்ஷூராதி குக்கில்",
+        "type": "churnam",
+        "ingredients": [
+          "Gokshura (Tribulus terrestris)",
+          "Guggulu (Commiphora wightii)",
+          "Triphala",
+          "Trikatu",
+          "Musta"
+        ],
+        "indication": [
+          "Urinary disorders",
+          "BPH (prostate enlargement)",
+          "Kidney stones",
+          "UTI",
+          "Gout",
+          "Obesity"
+        ],
+        "dose": "1–2 tablets or 2–4 g twice daily",
+        "anupana": "Warm water",
+        "caution": "Avoid in pregnancy; caution with anticoagulants"
+      },
+      {
+        "tamilName": "Kanchanara Guggulu / காஞ்சனார குக்கில்",
+        "type": "churnam",
+        "ingredients": [
+          "Kanchanar bark (Bauhinia variegata)",
+          "Triphala",
+          "Trikatu",
+          "Varuna (Crataeva nurvala)",
+          "Cardamom",
+          "Guggulu"
+        ],
+        "indication": [
+          "Thyroid nodules",
+          "Lymph node enlargement",
+          "PCOS",
+          "Fibroids",
+          "Tumours",
+          "Lipoma"
+        ],
+        "dose": "2–4 tablets or 2–4 g twice daily",
+        "anupana": "Warm water",
+        "caution": "Avoid in hyperthyroidism; contraindicated in pregnancy"
+      },
+      {
+        "tamilName": "Punarnavadi Kashayam / புனர்நவாதி கஷாயம்",
+        "type": "kashayam",
+        "ingredients": [
+          "Punarnava (Boerhavia diffusa)",
+          "Gokshura",
+          "Devadaru",
+          "Shunti",
+          "Musta",
+          "Haritaki"
+        ],
+        "indication": [
+          "Edema and ascites",
+          "Chronic kidney disease",
+          "Nephrotic syndrome",
+          "Anemia",
+          "Congestive heart failure edema"
+        ],
+        "dose": "30–60 ml twice daily",
+        "anupana": "Warm water",
+        "caution": "Monitor electrolytes in prolonged use; avoid with potassium-sparing diuretics"
+      },
+      {
+        "tamilName": "Swarna Makshika Bhasma / ஸ்வர்ண மாக்ஷிக பஸ்மம்",
+        "type": "chendooram",
+        "ingredients": [
+          "Copper iron pyrite (Chalcopyrite)",
+          "Lemon juice for shodhana (purification)",
+          "Sulphur for marana (incineration)"
+        ],
+        "indication": [
+          "Anemia",
+          "Liver diseases",
+          "Skin disorders",
+          "Diabetes",
+          "Depression",
+          "Eye diseases"
+        ],
+        "dose": "125–250 mg twice daily",
+        "anupana": "Honey, cow's ghee, or butter",
+        "caution": "Strictly shodhita (purified) preparations only; use under qualified physician"
+      },
+      {
+        "tamilName": "Siddha Makarathvaja Chendooram / சித்த மகரத்துவஜ செந்தூரம்",
+        "type": "chendooram",
+        "ingredients": [
+          "Parada (purified mercury)",
+          "Swarna bhasma (Gold ash)",
+          "Sulphur (Gandhakam)",
+          "Processed under strict shodhana"
+        ],
+        "indication": [
+          "Severe debility",
+          "Chronic diseases",
+          "Infertility",
+          "Neurological disorders",
+          "Premature ageing",
+          "Cardiac weakness"
+        ],
+        "dose": "30–65 mg (1/2–1 ratti) once daily",
+        "anupana": "Honey or butter",
+        "caution": "Most potent Siddha Rasayana; strictly qualified practitioner only; not for self-medication; regulatory compliance required"
+      },
+      {
+        "tamilName": "Vilva Lehyam / வில்வ லேகியம்",
+        "type": "lehyam",
+        "ingredients": [
+          "Vilva pazham (Bael fruit / Aegle marmelos)",
+          "Dry ginger",
+          "Long pepper",
+          "Black pepper",
+          "Jaggery",
+          "Ghee",
+          "Honey"
+        ],
+        "indication": [
+          "Diarrhea and dysentery",
+          "IBS diarrhea-predominant",
+          "Malabsorption",
+          "Chronic colitis",
+          "Digestive weakness",
+          "Sprue"
+        ],
+        "dose": "5-10 g twice daily before food",
+        "anupana": "Warm water",
+        "caution": "Avoid in constipation; reduce dose if stools become too firm"
+      }
+    ],
+    "nadiPariksha": {
+      "instructions": "Naadi Pariksha (நாடி பரிட்சை) is performed on the radial artery at the wrist. The patient should be in a relaxed seated position. Examination is done in the morning on an empty stomach, after bodily hygiene, and not after exercise, meals, or emotional disturbance. The index, middle, and ring fingers of the physician are placed on the radial pulse approximately 1 cm proximal to the wrist crease, with gentle but firm pressure.",
+      "fingerPositions": [
+        {
+          "finger": "Tarjani (Index finger)",
+          "position": "Proximal (closest to thumb of patient)",
+          "dosha": "Vatham",
+          "depth": "Superficial"
+        },
+        {
+          "finger": "Madhyama (Middle finger)",
+          "position": "Middle",
+          "dosha": "Pitham",
+          "depth": "Medium"
+        },
+        {
+          "finger": "Anamika (Ring finger)",
+          "position": "Distal",
+          "dosha": "Kapham",
+          "depth": "Deep"
+        }
+      ],
+      "patterns": [
+        {
+          "pattern": "Cobra (Pambu nadi / பாம்பு நாடி)",
+          "dosha": "Vatham dominant",
+          "movement": "Slithering, irregular, zigzag movement like a cobra",
+          "clinicalCorrelation": "Neurological disorders, anxiety, constipation, joint disorders, Vata diseases"
+        },
+        {
+          "pattern": "Frog (Thavalai nadi / தவளை நாடி)",
+          "dosha": "Pitham dominant",
+          "movement": "Jumping, skipping, active, forceful beats with irregular rhythm",
+          "clinicalCorrelation": "Fever, inflammatory conditions, liver disorders, hyperacidity, skin diseases"
+        },
+        {
+          "pattern": "Cock / Rooster (Kozhi nadi / கோழி நாடி)",
+          "dosha": "Kapham dominant",
+          "movement": "Slow, deep, steady, pecking-like movements",
+          "clinicalCorrelation": "Obesity, diabetes, respiratory congestion, sluggish digestion, edema"
+        },
+        {
+          "pattern": "Swan (Annam nadi / அன்னம் நாடி)",
+          "dosha": "Balanced (Sama Naadi)",
+          "movement": "Graceful, flowing, regular, swan-like glide",
+          "clinicalCorrelation": "Healthy individual; balanced tridosha state; found in advanced Siddhas"
+        },
+        {
+          "pattern": "Leech (Attai nadi / அட்டை நாடி)",
+          "dosha": "Vata-Pitta combined",
+          "movement": "Sucking, drawing-in movement with variable depth",
+          "clinicalCorrelation": "Blood disorders, inflammatory neurological conditions, bleeding tendencies"
+        },
+        {
+          "pattern": "Sparrow (Kuruvi nadi / குருவி நாடி)",
+          "dosha": "Pitta-Kapha combined",
+          "movement": "Quick, pecking, sharp then slow beats",
+          "clinicalCorrelation": "Respiratory-digestive combined disorders, bronchial asthma with digestive weakness"
+        },
+        {
+          "pattern": "Rat (Eli nadi / எலி நாடி)",
+          "dosha": "Vata-Kapha combined",
+          "movement": "Scurrying, uneven, alternately quick and sluggish",
+          "clinicalCorrelation": "Mucus-related neurological disorders, hypothyroid with anxiety, chronic sinusitis"
+        }
+      ]
+    }
+  },
+  "ahara": {
+    "overview": "Ahara (Aahaaram / ஆகாரம்) — Food as Medicine. According to both Ayurveda and Siddha, the quality of food not only affects the body (Sthula Sharira) but also the mind (Sukshma Sharira) and consciousness. Food is classified by Guna (quality) and Virya (potency).",
+    "satvicFoods": [
+      "Fresh fruits: mango, pomegranate, fig, grapes, banana",
+      "Leafy greens: spinach, methi (fenugreek), moringa, curry leaves",
+      "Cooked vegetables: pumpkin, sweet potato, zucchini, bottle gourd",
+      "Whole grains: brown rice, oats, barley, millet",
+      "Legumes: mung dal, toor dal, chana dal (well-cooked)",
+      "Dairy: fresh cow's milk, ghee, fresh curd (in moderation)",
+      "Nuts and seeds: soaked almonds, sesame, flaxseed, walnuts",
+      "Natural sweeteners: raw honey, jaggery (in moderation)",
+      "Herbs and spices: turmeric, cumin, coriander, fennel, saffron",
+      "Water: pure spring or filtered water at room temperature"
+    ],
+    "rajasicFoods": [
+      "Spicy, pungent, and heavily seasoned food",
+      "Onion and garlic (in excess)",
+      "Coffee, tea, and caffeinated beverages",
+      "Non-vegetarian food (meat, fish, eggs)",
+      "Processed and packaged snacks",
+      "Fermented foods: alcohol, vinegar, aged cheese",
+      "Salty and fried foods",
+      "Excessive sugar and sweets",
+      "Fast food and restaurant food cooked in refined oils",
+      "Energy drinks and carbonated beverages"
+    ],
+    "tamasicFoods": [
+      "Stale, leftover, and reheated food",
+      "Heavily processed and refined food products",
+      "Red meat (especially pork and beef)",
+      "Overripe, decomposing, or fermented foods",
+      "Alcohol and intoxicants",
+      "Frozen food and deep-frozen meals",
+      "Canned and preservative-laden foods",
+      "Tobacco and other intoxicants",
+      "Microwaved food (considered diminished in Prana)",
+      "Artificially coloured and flavoured foods"
+    ],
+    "therapeuticDiets": [
+      {
+        "condition": "Type 2 Diabetes Mellitus (Madhumeha / Neerizhi / நீரிழிவு)",
+        "foods": [
+          "Bitter gourd (Karavellai) — 50 ml juice on empty stomach",
+          "Fenugreek seeds (Venthayam) — 1 tsp soaked overnight, taken on empty stomach",
+          "Neem leaves (Veppam) — 5–7 leaves on empty stomach",
+          "Turmeric milk (Manjal paal) — at bedtime",
+          "Barley water and whole barley",
+          "Green leafy vegetables: spinach, drumstick leaves, curry leaves",
+          "Low glycemic fruits: Jamun (Naval pazham), pomegranate, papaya",
+          "Brown rice or millets: kambu, cholam, ragi, thinai",
+          "Cinnamon water — 1/2 tsp cinnamon boiled in water",
+          "Amla (Nelli) — fresh juice 20 ml daily"
+        ],
+        "avoid": [
+          "Refined white rice, white bread, maida products",
+          "Sugar, jaggery, honey in excess",
+          "Potatoes, sweet potato, yam",
+          "Sweet fruits: mango, banana, dates, grapes in excess",
+          "Fruit juices (high sugar)",
+          "Fried foods and fast food",
+          "Alcohol"
+        ],
+        "timing": "Three measured meals at fixed times. No snacking. Dinner before 7 PM. Walk 30 minutes after meals.",
+        "notes": "Emphasise low glycemic index millets as staple. Include 30 minutes of Yoga (Sarvangasana, Ardha Matsyendrasana, Pranayama) daily. Monitor fasting and post-prandial blood glucose weekly."
+      },
+      {
+        "condition": "Hypertension / Udhiravadha Noi (உதிரவாத நோய்)",
+        "foods": [
+          "Garlic: 2–3 raw cloves daily on empty stomach",
+          "Celery juice: 100 ml daily",
+          "Watermelon: regular intake (citrulline content)",
+          "Flaxseed: 1 tbsp ground daily in food",
+          "Beetroot juice: 100–150 ml daily",
+          "Potassium-rich foods: banana, avocado, coconut water, spinach",
+          "Magnesium-rich foods: pumpkin seeds, dark leafy greens",
+          "Dark chocolate (>70%): small amounts",
+          "Hibiscus tea (Sembaruthi tea): twice daily",
+          "Pomegranate juice: 100 ml daily"
+        ],
+        "avoid": [
+          "Excess salt (NaCl > 2.3 g/day)",
+          "Processed and packaged foods (high sodium)",
+          "Red meat and saturated fats",
+          "Alcohol and smoking",
+          "Caffeine in excess",
+          "Pickles, papad, and canned foods",
+          "Refined sugars and high-sugar desserts"
+        ],
+        "timing": "DASH-aligned dietary pattern. Small meals 4–5 times daily. Avoid heavy dinner. No meals 2 hours before sleep.",
+        "notes": "DASH diet principles apply. Emphasise low-salt cooking using lemon, herbs, and spices for flavour. Yoga: Shavasan, Anulom Vilom, slow walking. Regular blood pressure monitoring."
+      },
+      {
+        "condition": "Obesity and Metabolic Syndrome (Sthaulya / Kobesity / உடல் பருமன்)",
+        "foods": [
+          "Warm lemon water with honey on empty stomach (morning)",
+          "Millets as staple: ragi, kambu, varagu, thinai",
+          "High-fibre vegetables: cabbage, cauliflower, broccoli, spinach",
+          "Moringa (Murungai) — leaves, pods daily",
+          "Apple cider vinegar: 1 tsp in warm water before meals",
+          "Green tea or tulsi tea between meals",
+          "Coconut: in moderate amounts (MCT benefit)",
+          "Protein at every meal: dal, sprouts, buttermilk, eggs",
+          "Triphala at bedtime",
+          "Trikatu Churna before meals"
+        ],
+        "avoid": [
+          "Refined carbohydrates: white rice, white flour, bread, pasta",
+          "Sugar and sweetened beverages",
+          "Processed snacks, biscuits, chips",
+          "Fried foods and fast food",
+          "Alcohol",
+          "Fruit juices and sweetened dairy",
+          "Late-night eating"
+        ],
+        "timing": "Intermittent fasting pattern: 16:8 or 12:12. Largest meal at lunch. Light dinner before 7 PM. No eating after sunset. Warm water throughout day.",
+        "notes": "Udwartana (dry herbal massage) weekly. Daily vigorous exercise. Avoid daytime sleep. Panchakarma: Lekhana Basti for stubborn obesity. Weekly 1-day fruit or mung dal mono-diet fast."
+      },
+      {
+        "condition": "Acid Reflux and Gastritis (Amlapitta / Vayitru Eri / வயிற்றெரிச்சல்)",
+        "foods": [
+          "Coconut water: 200 ml twice daily (most effective soothing agent)",
+          "Cold milk (plain, non-flavoured): 100 ml for acute symptoms",
+          "Banana: ripe, easy on stomach lining",
+          "Bottle gourd (Suraikkai): cooked and soup",
+          "Sabja seeds (Falooda seeds / Ocimum basilicum) in water",
+          "Aloe vera juice: 20–30 ml on empty stomach",
+          "Licorice root tea: twice daily",
+          "Fennel seeds (Sombu): chewed after meals or as tea",
+          "Amalaki (Nelli) juice: 20 ml in morning",
+          "Lukewarm (not hot) food and beverages"
+        ],
+        "avoid": [
+          "Spicy, sour, and pungent foods",
+          "Tea, coffee, carbonated drinks",
+          "Citrus fruits: orange, lemon, grapefruit",
+          "Tomatoes, vinegar, pickles",
+          "Fried and fatty foods",
+          "Alcohol and smoking",
+          "Eating too fast or too much",
+          "Lying down within 2 hours of meals"
+        ],
+        "timing": "Five small meals rather than three large ones. Eat slowly and chew well. Do not skip meals. Elevate head of bed if nighttime symptoms present.",
+        "notes": "Yashtimadhu (DGL licorice) 400 mg before meals. Avipattikar Churna 3 g in cold water at bedtime. Avoid NSAIDs. Vajrasana posture for 15 minutes post-meals."
+      },
+      {
+        "condition": "Irritable Bowel Syndrome (IBS) (Grahani / Kuthal Noi / குதல் நோய்)",
+        "foods": [
+          "Khichdi (rice + mung dal with ghee): digestive rest food",
+          "Well-cooked vegetables: carrot, zucchini, bottle gourd, pumpkin",
+          "Banana and cooked apple (astringent for diarrhea type)",
+          "Warm fennel and cumin tea after meals",
+          "Psyllium husk (Isabgol): 1–2 tsp in warm water at bedtime",
+          "Buttermilk with roasted cumin and ginger (Takram)",
+          "Pomegranate: anti-diarrheal, anti-inflammatory",
+          "Ginger tea: anti-spasmodic and carminative",
+          "Rice water (Kanji): during flares",
+          "Probiotic yogurt (fresh): 100 ml at room temperature"
+        ],
+        "avoid": [
+          "Raw salads and cold foods",
+          "Beans and legumes (except split mung dal)",
+          "Gluten (wheat, barley) — trial elimination",
+          "Dairy (lactose) — trial elimination",
+          "Caffeinated beverages",
+          "Carbonated drinks",
+          "Fatty and fried foods",
+          "Spicy foods",
+          "Artificial sweeteners (sorbitol, mannitol)"
+        ],
+        "timing": "Regular, fixed meal times. Small portions 4–5 times daily. Avoid rushing meals. 15-minute rest after meals. Avoid meals under stress.",
+        "notes": "FODMAP elimination trial beneficial. Hingwashtak Churna before meals for Vata-IBS. Kutajarishta 15 ml after meals for diarrhea-predominant. Triphala for constipation-predominant. Yoga: Pawanmuktasana, Ardha Matsyendrasana."
+      },
+      {
+        "condition": "Rheumatoid Arthritis (Amavata / Keel Vayu / கீல் வாயு)",
+        "foods": [
+          "Castor oil: 5–10 ml at bedtime 2–3 times weekly (Vata pacifying)",
+          "Anti-inflammatory spices: turmeric, ginger, garlic, fenugreek",
+          "Omega-3 rich foods: flaxseeds, chia, walnuts, fatty fish (if non-veg)",
+          "Moringa (Murungai) daily — anti-inflammatory",
+          "Pomegranate juice and berries (antioxidant)",
+          "Warm soups and stews",
+          "Ginger tea multiple times daily",
+          "Sesame seeds: anti-arthritic Vata-pacifying",
+          "Bitter gourd: purifies blood",
+          "Green moong dal: light, anti-ama (anti-toxic)"
+        ],
+        "avoid": [
+          "Cold, raw foods and cold beverages",
+          "Nightshades: tomato, potato, brinjal (eggplant), bell pepper",
+          "Excessive dairy: curd, cheese (causes Ama)",
+          "Refined sugar and sweets",
+          "Fermented foods",
+          "Beans and legumes other than mung dal",
+          "Processed and packaged foods",
+          "Alcohol",
+          "Heavy, greasy, and hard-to-digest foods"
+        ],
+        "timing": "Warm, cooked meals at fixed times. Avoid cold, refrigerated food. Light dinner. Fasting (Langhan) during flares on warm liquids only.",
+        "notes": "Ama Pachana (toxin digestion) using Trikatu and Pippali is primary approach. Dashamularishta 15 ml post meals. Panchakarma: Virechana + Basti. Yoga: gentle joint mobility exercises, swimming. Avoid excessive cold."
+      },
+      {
+        "condition": "Polycystic Ovarian Syndrome / PCOS (Kaphodbhava Artava Kshaya / பெண் நீர்க்கட்டி)",
+        "foods": [
+          "Methi seeds (Fenugreek): 1 tsp soaked overnight, eat in morning",
+          "Cinnamon: 1/2 tsp in warm water daily (improves insulin sensitivity)",
+          "Flaxseeds: 1 tbsp ground daily (lignans balance estrogen)",
+          "Spearmint tea: twice daily (anti-androgenic effect — reduces testosterone)",
+          "Berries: anti-inflammatory, low glycemic",
+          "Millets as staple (low GI)",
+          "Amla (Nelli): 20 ml juice daily",
+          "Shatavari: Rasayana for female reproductive system",
+          "Turmeric milk: reduces insulin resistance",
+          "Moringa leaves: iron, calcium, hormonal balance"
+        ],
+        "avoid": [
+          "Refined carbohydrates and sugar",
+          "Dairy especially milk and cheese (IGF-1 connection)",
+          "Red meat",
+          "Trans fats and processed foods",
+          "Alcohol",
+          "Soy products in excess (phytoestrogen excess)",
+          "Caffeine in excess"
+        ],
+        "timing": "Low glycemic diet throughout. Intermittent fasting beneficial (consult physician). Regular meal timings. No late-night eating.",
+        "notes": "Kanchanara Guggulu and Shatavari as primary herbal support. Exercise: 150 min/week vigorous. Yoga: Baddha Konasana, Navasana. Weight management crucial — even 5% reduction improves menstrual regularity."
+      },
+      {
+        "condition": "Hypothyroidism (Manda Agni + Kapha Vridhi / Thayiroid Kuzhandru / தைராய்டு குழந்து)",
+        "foods": [
+          "Seaweed and iodine-rich foods: seafood, iodised salt",
+          "Selenium-rich foods: Brazil nuts (2/day), sunflower seeds",
+          "Ashwagandha (Amukkara): adaptogen, improves TSH",
+          "Guggulu: thyroid-stimulating effect",
+          "Ginger: metabolic stimulant",
+          "Coconut oil: MCT stimulates metabolism",
+          "Zinc-rich foods: pumpkin seeds, sesame, dark chocolate",
+          "Vitamin D: egg yolk, mushrooms, sunlight",
+          "Iron-rich foods: moringa, pomegranate, ragi",
+          "Fermented foods in moderation: idli, dosa (for gut health)"
+        ],
+        "avoid": [
+          "Raw cruciferous vegetables: raw cabbage, broccoli, cauliflower (goitrogenic when raw — cooked is fine)",
+          "Soy in excess (inhibits thyroid function)",
+          "Gluten (if Hashimoto's — autoimmune component)",
+          "Refined flour and sugar",
+          "Fluoride excess (inhibits iodine uptake)",
+          "Processed foods",
+          "Alcohol"
+        ],
+        "timing": "Three regular warm meals. Thyroid medication (if prescribed) to be taken 30–60 minutes before breakfast, away from calcium and iron supplements.",
+        "notes": "Kanchanara Guggulu — primary Ayurvedic thyroid support. Vigorous morning exercise. Avoid daytime sleep. Manda Agni diet principles apply. Yoga: Sarvangasana (shoulder stand), Halasana, Matsyasana."
+      },
+      {
+        "condition": "Chronic Kidney Disease (CKD) (Mutra Vaha Srotas Vikara / சிறுநீரக நோய்)",
+        "foods": [
+          "Punarnava (Mukaratte): primary diuretic herb — 30 ml decoction",
+          "Keezhanelli (Phyllanthus niruri): nephroprotective",
+          "Barley water: soothing and diuretic",
+          "Cucumber and ridge gourd: alkalising and gentle diuretic",
+          "Rice water (Kanji): easy-to-digest staple",
+          "Coconut water (in early stages when K+ is normal)",
+          "Drumstick soup (Murungai): anti-inflammatory",
+          "Cranberry juice: prevents UTI-related progression",
+          "Bottle gourd: hydrating and anti-inflammatory",
+          "Red rice or white rice in preference to millets (lower potassium)"
+        ],
+        "avoid": [
+          "High potassium foods in advanced CKD: banana, potato, tomato, orange, dried fruits",
+          "High phosphorus foods: dairy, nuts, seeds, colas",
+          "Excess protein (limit to 0.6–0.8 g/kg/day in CKD 3–5)",
+          "Excess salt",
+          "NSAIDs and nephrotoxic herbs: excess Punarnava, aristolochic acid plants",
+          "Alcohol",
+          "Processed and canned foods (high sodium and phosphate)",
+          "Raw sprouts and uncooked legumes"
+        ],
+        "timing": "Low protein diet; spread protein across 3 meals. Fluid restriction per nephrologist advice. No fasting without medical supervision in CKD 3+.",
+        "notes": "Must be integrated with nephrological care. Regular renal function tests, potassium, phosphorus monitoring. Chandraprabha Vati, Gokshuradi Guggulu under physician guidance. Avoid aggressive Panchakarma in advanced CKD."
+      },
+      {
+        "condition": "Insomnia and Sleep Disorders (Anidra / Thookkamillai / தூக்கமில்லை)",
+        "foods": [
+          "Warm milk with nutmeg (Jaiphal) and cardamom 1 hour before sleep",
+          "Ashwagandha milk: 5 g Ashwagandha in warm milk at bedtime",
+          "Banana: tryptophan and magnesium content",
+          "Tart cherry juice: melatonin-rich",
+          "Walnuts: melatonin and omega-3",
+          "Chamomile tea: 1 cup 30 minutes before bed",
+          "Brahmi tea: nervine tonic",
+          "Magnesium-rich foods: pumpkin seeds, dark chocolate, spinach",
+          "Light, easy-to-digest dinner: khichdi, vegetable soup",
+          "Warm sesame oil foot massage before sleep"
+        ],
+        "avoid": [
+          "Caffeine after 2 PM (coffee, tea, cola, energy drinks)",
+          "Heavy dinner especially protein and fat-heavy meals",
+          "Alcohol (disrupts sleep architecture)",
+          "Spicy food at dinner",
+          "Excess sugar and refined carbohydrates",
+          "Stimulating screen exposure 1 hour before bedtime",
+          "Irregular meal and sleep timings"
+        ],
+        "timing": "Dinner by 7 PM minimum. Fixed sleep time; wake time regardless of sleep duration. Avoid meals within 2 hours of sleep. Establish Dinacharya (fixed daily routine).",
+        "notes": "Abhyanga with Bala taila or Brahmi taila for head massage. Shankhapushpi + Ashwagandha combination for anxiety-related insomnia. Jatamansi (Nardostachys jatamansi) 1 g at bedtime. Yoga Nidra 20–30 minutes at bedtime. Avoid naps during day."
+      }
+    ]
+  }
+}
