@@ -1,0 +1,89 @@
+[
+  {
+    "tam": "திரிகடுகம்",
+    "eng": "Trikadugam",
+    "cat": "form",
+    "ing": [
+      {"tam": "சுக்கு", "bot": "Zingiber officinale (dry ginger)"},
+      {"tam": "மிளகு", "bot": "Piper nigrum (black pepper)"},
+      {"tam": "திப்பிலி", "bot": "Piper longum (long pepper)"}
+    ],
+    "dose": "1–3 g with honey or warm water",
+    "ind": "Digestive disorders, respiratory congestion, fever, obesity, kapha disorders",
+    "ref": "Agastiyar Gunavagadam"
+  },
+  {
+    "tam": "நவபாஷாணம்",
+    "eng": "Navabashanam (Nine mineral compound)",
+    "cat": "form",
+    "ing": [
+      {"tam": "காந்த இரும்பு", "bot": "Magnetic iron"},
+      {"tam": "வெள்ளீயம்", "bot": "Tin"},
+      {"tam": "துத்தநாகம்", "bot": "Zinc"},
+      {"tam": "இரசம்", "bot": "Purified mercury (Rasa)"},
+      {"tam": "கந்தகம்", "bot": "Sulphur"},
+      {"tam": "தாமிரம்", "bot": "Copper"}
+    ],
+    "dose": "65–130 mg with appropriate anupana",
+    "ind": "Tuberculosis, chronic fever, diabetes, neurological disorders",
+    "ref": "Therayar Vagadam — requires licensed Siddha practitioner"
+  },
+  {
+    "tam": "மகா திரிபலாதி சூரணம்",
+    "eng": "Maha Tripaladi Chooranam",
+    "cat": "form",
+    "ing": [
+      {"tam": "கடுக்காய்", "bot": "Terminalia chebula (Haritaki)"},
+      {"tam": "தான்றிக்காய்", "bot": "Terminalia bellirica (Bibhitaki)"},
+      {"tam": "நெல்லிக்காய்", "bot": "Phyllanthus emblica (Amalaki)"},
+      {"tam": "கடல் உப்பு", "bot": "Rock salt"}
+    ],
+    "dose": "3–6 g with warm water or honey",
+    "ind": "Constipation, liver disorders, skin diseases, eye diseases",
+    "ref": "Agastiyar Paripooranam 400"
+  },
+  {
+    "tam": "குங்குமப்பூ லேகியம்",
+    "eng": "Kungumappoo Lehiyam (Saffron jam)",
+    "cat": "form",
+    "ing": [
+      {"tam": "குங்குமப்பூ", "bot": "Crocus sativus (saffron)"},
+      {"tam": "வெண்ணெய்", "bot": "Cow butter"},
+      {"tam": "கற்கண்டு", "bot": "Rock candy"},
+      {"tam": "முன்றிய நெல்லி", "bot": "Phyllanthus emblica"}
+    ],
+    "dose": "5–10 g BD with warm milk",
+    "ind": "Anaemia, uterine disorders, infertility, chronic fatigue, nervous debility",
+    "ref": "Agastiyar Gunavagadam"
+  },
+  {
+    "tam": "வர்ம மருத்துவம் — கூர்ச்சி வர்மம்",
+    "eng": "Varma Maruthuvam — Koorchi Varmam",
+    "cat": "varma",
+    "location": "Base of skull (occiput-C1 junction)",
+    "fingers": "Index + middle fingers of both hands, placed bilaterally 2 cm lateral to midline",
+    "pressure": "Gentle clockwise circular pressure, 7 circles, 3 times",
+    "ind": "Headache, cervical pain, nasal congestion, eye strain, insomnia",
+    "contra": "Acute cervical injury, hypertension crisis"
+  },
+  {
+    "tam": "தொக்கணம் — ஓட்டு தைலம்",
+    "eng": "Thokkanam Massage with Ottu Tailam",
+    "cat": "varma",
+    "location": "Whole body — specific marmam (vital energy points)",
+    "technique": "Thokkanam is Siddha deep tissue manipulation. Ottu tailam (sesame + 32 herbs) applied warm.",
+    "ind": "Paralysis, arthritis, joint stiffness, post-stroke rehabilitation, sports injuries",
+    "contra": "Active inflammation, fever, open wounds, cancer"
+  },
+  {
+    "tam": "நாடி பரிட்சை",
+    "eng": "Nadi Pariksha (Pulse Diagnosis)",
+    "cat": "nadi",
+    "fingers": "Index = Vata, Middle = Pitta, Ring = Kapha",
+    "patterns": [
+      {"dosha": "Vata", "tamil": "வாத நாடி", "movement": "Serpentine / cobra (Sarpa gathi)", "rate": "80-100/min", "quality": "Thin, irregular, cold, light, rough"},
+      {"dosha": "Pitta", "tamil": "பித்த நாடி", "movement": "Frog movement (Manduka gathi)", "rate": "70-80/min", "quality": "Moderate, warm, forceful, jumpy"},
+      {"dosha": "Kapha", "tamil": "கப நாடி", "movement": "Swan / elephant (Hamsa/Gaja gathi)", "rate": "60-70/min", "quality": "Broad, slow, cold, soft, heavy"}
+    ]
+  }
+]
