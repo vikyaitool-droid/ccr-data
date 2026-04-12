@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "magneto",
-  "generatedAt": "2026-04-10T10:48:15.623Z",
+  "generatedAt": "2026-04-12T17:22:06.972Z",
   "cardCount": 4,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "mag",
       "section": "magneto",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -93,7 +93,7 @@
       "category": "mag",
       "section": "magneto",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -186,7 +186,7 @@
       "category": "mag",
       "section": "magneto",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -247,7 +247,7 @@
       "category": "mag",
       "section": "magneto",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
