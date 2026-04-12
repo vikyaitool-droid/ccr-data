@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "clinscoring",
-  "generatedAt": "2026-04-10T10:54:17.491Z",
+  "generatedAt": "2026-04-12T17:24:12.250Z",
   "cardCount": 4,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "score",
       "section": "clinscoring",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -132,7 +132,7 @@
       "category": "score",
       "section": "clinscoring",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -167,7 +167,7 @@
       "category": "score",
       "section": "clinscoring",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -269,7 +269,7 @@
       "category": "score",
       "section": "clinscoring",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
