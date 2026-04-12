@@ -1,6 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "algorithms",
+  "generatedAt": "2026-04-12T17:21:54.894Z",
   "cardCount": 10,
   "cards": [
     {
@@ -10,7 +11,7 @@
       "category": "cv",
       "section": "algorithms",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -103,7 +104,7 @@
       "category": "cv",
       "section": "algorithms",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -179,7 +180,7 @@
       "category": "cv",
       "section": "algorithms",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -259,7 +260,7 @@
       "category": "cv",
       "section": "algorithms",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -304,7 +305,7 @@
       "category": "cv",
       "section": "algorithms",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -349,7 +350,7 @@
       "category": "cv",
       "section": "algorithms",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -464,7 +465,7 @@
       "category": "cv",
       "section": "algorithms",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -540,7 +541,7 @@
       "category": "neuro",
       "section": "algorithms",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -622,7 +623,7 @@
       "category": "neuro",
       "section": "algorithms",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -662,7 +663,7 @@
       "category": "neuro",
       "section": "algorithms",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
