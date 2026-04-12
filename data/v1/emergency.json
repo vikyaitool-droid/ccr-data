@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "emergency",
-  "generatedAt": "2026-04-10T10:48:03.352Z",
+  "generatedAt": "2026-04-12T17:21:42.266Z",
   "cardCount": 9,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "acls",
       "section": "emergency",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -67,7 +67,7 @@
       "category": "acls",
       "section": "emergency",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -133,7 +133,7 @@
       "category": "acls",
       "section": "emergency",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -184,7 +184,7 @@
       "category": "acls",
       "section": "emergency",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -265,7 +265,7 @@
       "category": "acls",
       "section": "emergency",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -326,7 +326,7 @@
       "category": "shock",
       "section": "emergency",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -405,7 +405,7 @@
       "category": "shock",
       "section": "emergency",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -435,7 +435,7 @@
       "category": "shock",
       "section": "emergency",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -485,7 +485,7 @@
       "category": "shock",
       "section": "emergency",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
