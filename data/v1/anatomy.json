@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "anatomy",
-  "generatedAt": "2026-04-10T10:54:32.830Z",
+  "generatedAt": "2026-04-12T17:24:50.400Z",
   "cardCount": 23,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "cvs",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -71,7 +71,7 @@
       "category": "cvs",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -142,7 +142,7 @@
       "category": "cvs",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -197,7 +197,7 @@
       "category": "resp",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -252,7 +252,7 @@
       "category": "resp",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -360,7 +360,7 @@
       "category": "resp",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -409,7 +409,7 @@
       "category": "neuro",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -464,7 +464,7 @@
       "category": "neuro",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -518,7 +518,7 @@
       "category": "neuro",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -567,7 +567,7 @@
       "category": "msk",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -617,7 +617,7 @@
       "category": "msk",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -666,7 +666,7 @@
       "category": "gi",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -741,7 +741,7 @@
       "category": "gi",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -795,7 +795,7 @@
       "category": "endo",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -855,7 +855,7 @@
       "category": "endo",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -904,7 +904,7 @@
       "category": "renal",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -959,7 +959,7 @@
       "category": "renal",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1020,7 +1020,7 @@
       "category": "repro",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -1079,7 +1079,7 @@
       "category": "repro",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1145,7 +1145,7 @@
       "category": "immune",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -1195,7 +1195,7 @@
       "category": "immune",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -1245,7 +1245,7 @@
       "category": "blood",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1306,7 +1306,7 @@
       "category": "blood",
       "section": "anatomy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
