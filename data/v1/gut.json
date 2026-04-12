@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "gut",
-  "generatedAt": "2026-04-10T10:46:43.755Z",
+  "generatedAt": "2026-04-12T17:21:21.699Z",
   "cardCount": 51,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -83,7 +83,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -134,7 +134,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -194,7 +194,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -264,7 +264,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -340,7 +340,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -400,7 +400,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -501,7 +501,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -572,7 +572,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -663,7 +663,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -759,7 +759,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -805,7 +805,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -872,7 +872,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -953,7 +953,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1015,7 +1015,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1081,7 +1081,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1148,7 +1148,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1220,7 +1220,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -1298,7 +1298,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1375,7 +1375,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1466,7 +1466,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -1531,7 +1531,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -1585,7 +1585,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1656,7 +1656,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1728,7 +1728,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1785,7 +1785,7 @@
       "category": "mbi",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1869,7 +1869,7 @@
       "category": "micro",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1941,7 +1941,7 @@
       "category": "micro",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1992,7 +1992,7 @@
       "category": "micro",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -2062,7 +2062,7 @@
       "category": "micro",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -2138,7 +2138,7 @@
       "category": "micro",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -2198,7 +2198,7 @@
       "category": "micro",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -2270,7 +2270,7 @@
       "category": "micro",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -2348,7 +2348,7 @@
       "category": "cond",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -2408,7 +2408,7 @@
       "category": "cond",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -2504,7 +2504,7 @@
       "category": "cond",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -2550,7 +2550,7 @@
       "category": "cond",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -2617,7 +2617,7 @@
       "category": "cond",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -2694,7 +2694,7 @@
       "category": "cond",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -2785,7 +2785,7 @@
       "category": "cond",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -2850,7 +2850,7 @@
       "category": "cond",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -2904,7 +2904,7 @@
       "category": "ibd",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -3005,7 +3005,7 @@
       "category": "ibd",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -3076,7 +3076,7 @@
       "category": "ibd",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -3167,7 +3167,7 @@
       "category": "ibd",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -3248,7 +3248,7 @@
       "category": "ibd",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -3310,7 +3310,7 @@
       "category": "ibd",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -3376,7 +3376,7 @@
       "category": "liver",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -3447,7 +3447,7 @@
       "category": "liver",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -3519,7 +3519,7 @@
       "category": "liver",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -3576,7 +3576,7 @@
       "category": "liver",
       "section": "gut",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
