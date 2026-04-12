@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "lab",
-  "generatedAt": "2026-04-10T10:46:29.288Z",
+  "generatedAt": "2026-04-12T17:20:02.583Z",
   "cardCount": 111,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Always follow Hb with MCV to classify. Hb <8 g/dL = consider transfusion threshold. Symptoms matter — not just the number. Haemodilution in pregnancy lowers Hb (normal ≥10.5 in 3rd trimester).",
         "alerts": [
@@ -91,7 +91,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Mnemonic MALT for microcytic. Normocytic = haemolysis, bleeding, renal disease, early deficiency. MCV alone is not enough — always pair with RDW and clinical context.",
         "alerts": [
@@ -167,7 +167,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "MCH closely mirrors MCV. Low MCH + low MCV = classic iron deficiency hypochromic picture. MCH alone rarely changes management but confirms the MCV pattern.",
         "alerts": [
@@ -227,7 +227,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "MCHC >36 strongly suggests hereditary spherocytosis — the only common cause. Do osmotic fragility test and blood film. Low MCHC = hypochromic = iron deficiency until proven otherwise.",
         "alerts": [
@@ -291,7 +291,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "KEY differentiator: Iron deficiency = HIGH RDW. Thalassaemia trait = NORMAL RDW with low MCV. RDW rises before MCV drops in early iron deficiency — it's the earliest CBC marker of iron deficiency. Use it!",
         "alerts": [
@@ -355,7 +355,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "WBC alone is insufficient — always request DIFFERENTIAL. Neutrophils = bacterial. Lymphocytes = viral. Eosinophils = NAACP. Monocytes = TB/fungal/chronic. Basophils = CML.",
         "alerts": [
@@ -439,7 +439,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "<0.5 = severe neutropenia — high infection risk, reverse barrier nursing. Left shift (bands / metamyelocytes on film) = active infection. Clozapine: mandatory WBC monitoring. Agranulocytosis = stop drug immediately.",
         "alerts": [
@@ -519,7 +519,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Atypical lymphocytes on film = EBV (mono). Smear cells = CLL. CD4 <200 = AIDS-defining illness. Lymphocytosis + B symptoms + lymphadenopathy = rule out lymphoma urgently.",
         "alerts": [
@@ -603,7 +603,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "NAACP mnemonic. >0.5 = eosinophilia requiring investigation. >1.5 = hypereosinophilic syndrome — organ damage risk (cardiac, pulmonary, neurological). Eosinophilia + asthma + vasculitis = EGPA (Churg-Strauss).",
         "alerts": [
@@ -675,7 +675,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "<50 = significant bleeding risk. <20 = spontaneous bleed risk. HIT: platelet drop >50% on heparin + thrombosis = STOP heparin, use alternative anticoagulant. TTP = schistocytes + thrombocytopenia + neurological + renal failure + fever.",
         "alerts": [
@@ -755,7 +755,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "High retics + anaemia = marrow working but losing RBCs (haemolysis/bleeding). Low retics + anaemia = marrow not responding (aplasia/deficiency). Corrected reticulocyte index <2% = inadequate response = bone marrow problem.",
         "alerts": [
@@ -823,7 +823,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "ESR >100 = myeloma, malignancy, serious infection (TB, endocarditis), vasculitis until proven otherwise. Combine with CRP: both ↑ = active inflammation. ESR ↑ + CRP normal = consider myeloma (paraprotein levels, SPEP).",
         "alerts": [
@@ -899,7 +899,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "CRP rises and falls FASTER than ESR — the best marker for monitoring treatment response. CRP >100 = bacterial infection or major tissue injury. CRP 5–50 = mild-moderate inflammation, non-specific. Low CRP in suspected SLE flare actually SUPPORTS the diagnosis (SLE doesn't raise CRP unless serositis or secondary infection). Serial CRP every 24–48 hrs is more useful than a single value.",
         "alerts": [
@@ -967,7 +967,7 @@
       "category": "cbc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "hsCRP and standard CRP measure the SAME molecule — difference is only assay SENSITIVITY. Standard CRP detects ≥5 mg/L (infection/inflammation). hsCRP detects 0.1–10 mg/L (cardiovascular risk). FOUR KEY RULES: (1) Use hsCRP for 10-year CVD risk stratification alongside lipids and BP — not for diagnosing infection. (2) If hsCRP >10 mg/L: acute infection/inflammation is present — CANNOT interpret for CV risk, repeat in 2–3 weeks after recovery. (3) JUPITER trial (Ridker 2008): rosuvastatin in patients with LDL <3.4 mmol/L BUT hsCRP >2 mg/L reduced MI/stroke by 44% — established hsCRP as statin therapy target even with normal LDL. (4) hsCRP reflects chronic low-grade inflammation driven by diet, stress, obesity, and physical inactivity — rises years before clinical cardiovascular events. Reynolds Risk Score includes hsCRP for women's CVD risk. Always order on a healthy, infection-free day for CV risk assessment.",
         "alerts": [
@@ -1051,7 +1051,7 @@
       "category": "lft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "ALT is MORE liver-specific than AST. ALT > AST = viral/NAFLD. AST:ALT ≥2:1 = alcoholic hepatitis. ALT >1000 = ischaemic hepatitis, acute viral, or paracetamol toxicity. Always compare to baseline trend.",
         "alerts": [
@@ -1111,7 +1111,7 @@
       "category": "lft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "AST:ALT ≥2:1 = alcoholic hepatitis (De Ritis ratio). Isolated AST rise: check CK — likely muscle source, not liver. Less liver-specific than ALT. Troponin more specific for MI than AST.",
         "alerts": [
@@ -1167,7 +1167,7 @@
       "category": "lft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Isolated ALP: check GGT. GGT ↑ = liver origin. GGT normal = BONE origin (Paget's, bone mets). ALP + GGT + bilirubin ↑ = cholestatic pattern. Pregnancy ALP = placental isoenzyme — completely physiological, don't investigate.",
         "alerts": [
@@ -1239,7 +1239,7 @@
       "category": "lft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "GGT is the ALCOHOL marker — rises with regular drinking even before liver damage. Confirms liver origin of raised ALP. Normalises 2–6 weeks after stopping alcohol. Very sensitive but non-specific — elevated in many liver conditions.",
         "alerts": [
@@ -1295,7 +1295,7 @@
       "category": "lft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Visible jaundice >35 µmol/L. Unconjugated ↑ = pre-hepatic (haemolysis) or Gilbert's — urine bilirubin ABSENT. Conjugated ↑ = hepatic or post-hepatic — bilirubin appears in urine (dark urine). Always check direct/indirect split.",
         "alerts": [
@@ -1347,7 +1347,7 @@
       "category": "lft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Half-life ~20 days — reflects CHRONIC synthetic function. Acute illness lowers albumin non-specifically (negative APP). Used in Child-Pugh score. Check urine ACR if albumin low — could be nephrotic syndrome.",
         "alerts": [
@@ -1411,7 +1411,7 @@
       "category": "lft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "BEST acute synthetic function marker (factor VII t½ = 6 hrs — responds within hours). Prolonged PT that CORRECTS with Vit K = Vit K deficiency (fat malabsorption). Does NOT correct = liver failure. Critical in acute liver failure — drives transplant listing (King's College Criteria).",
         "alerts": [
@@ -1467,7 +1467,7 @@
       "category": "lft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Non-specific but essential. Haemolysis triad: ↑LDH + ↑unconjugated bilirubin + ↓haptoglobin. Very high LDH in lymphoma = adverse prognosis (IPI score). Also elevated in PE — non-specific marker.",
         "alerts": [
@@ -1535,7 +1535,7 @@
       "category": "lft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Low haptoglobin = haemolysis until proven otherwise. Consumed binding free Hb in intravascular haemolysis. Interpret with LDH + bilirubin. Absent in neonates — not useful in newborns. Normal haptoglobin does NOT exclude extravascular haemolysis.",
         "alerts": [
@@ -1603,7 +1603,7 @@
       "category": "lft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Total protein = albumin + globulins. High total protein + low albumin = high globulins → send SPEP/SIFE + serum free light chains (myeloma screen). Globulin gap >4 g/dL is abnormal — always investigate.",
         "alerts": [
@@ -1667,7 +1667,7 @@
       "category": "rft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Does NOT rise until ~50% nephron loss. Always compare to BASELINE. Trend > single value. Muscle-dependent — a fit 25-year-old male with creatinine 115 is very different from a frail 80-year-old woman. Always check eGFR.",
         "alerts": [
@@ -1739,7 +1739,7 @@
       "category": "rft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Urea:Creatinine ratio (µmol:µmol) >100:1 = pre-renal or UPPER GI BLEED. <100:1 = intrinsic or post-renal. Low urea + raised creatinine = liver failure context. In GI bleed: Urea rises disproportionately to creatinine.",
         "alerts": [
@@ -1811,7 +1811,7 @@
       "category": "rft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "CKD-EPI accounts for age, sex, race, creatinine. Use for CKD STAGING. Drug dose adjustments: metformin stop at G3b; many antibiotics (gentamicin, vancomycin), anticoagulants need adjustment at G3+. eGFR unreliable in AKI — use creatinine trend instead.",
         "alerts": [
@@ -1863,7 +1863,7 @@
       "category": "rft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "ASSESS VOLUME STATUS FIRST. Hypovolaemic = diuretics/Addison's. Euvolaemic = SIADH. Hypervolaemic = CCF/cirrhosis/nephrotic. Correct Na slowly (<10 mmol/L per 24 hrs) to avoid central pontine myelinolysis (osmotic demyelination).",
         "alerts": [
@@ -1943,7 +1943,7 @@
       "category": "rft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "K+ >6.5 = CARDIAC EMERGENCY. ECG: peaked T → PR prolongation → wide QRS → sine wave → VF. TREAT: Calcium gluconate FIRST (membrane stabilisation, 10 mins), then insulin+dextrose, salbutamol neb, sodium bicarbonate if acidotic. Dialysis if severe or persistent.",
         "alerts": [
@@ -2031,7 +2031,7 @@
       "category": "rft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Low HCO₃ → calculate ANION GAP: Na - (Cl + HCO₃). Normal AG = 8–12. High AG (>12) = MUDPILES. Normal AG acidosis = RTA, diarrhoea, saline excess (hyperchloraemic). Use delta-delta ratio to check if mixed disorder.",
         "alerts": [
@@ -2111,7 +2111,7 @@
       "category": "rft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Refeeding syndrome: severe hypophosphataemia after refeeding a malnourished patient — can cause cardiac arrest and respiratory failure. Monitor electrolytes closely in all refeeding protocols. CKD: high phosphate = vascular calcification risk → dietary restriction + binders.",
         "alerts": [
@@ -2191,7 +2191,7 @@
       "category": "rft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "CORRECT for albumin: Adjusted Ca = measured Ca + 0.02 × (40 − albumin). Symptoms: Bones-Groans-Stones-Psychic moans. Ca >3.5 = crisis: rehydrate IV + bisphosphonate. Check PTH to differentiate primary HPT from malignancy (PTH suppressed in malignancy).",
         "alerts": [
@@ -2275,7 +2275,7 @@
       "category": "rft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Single raised urate does NOT diagnose gout — need clinical features or synovial fluid (negatively birefringent needle crystals under polarised light). Tumour lysis syndrome: rising K + PO₄ + urate + LDH + falling Ca = emergency — rasburicase + aggressive hydration.",
         "alerts": [
@@ -2355,7 +2355,7 @@
       "category": "rft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Osmolar gap = measured − calculated [2×Na + glucose + urea]. Gap >10 = toxic alcohol (methanol, ethylene glycol, ethanol, propylene glycol). Essential in any unexplained high AG metabolic acidosis. Also calculate to confirm hyperglycaemia as cause of hyperosmolality.",
         "alerts": [
@@ -2427,7 +2427,7 @@
       "category": "rft",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Essential for anion gap calculation. Hyperchloraemia + low HCO₃ + normal AG = hyperchloraemic metabolic acidosis → think RTA or diarrhoea or excess saline. Hypochloraemia + high HCO₃ = metabolic alkalosis — think vomiting or diuretics.",
         "alerts": [
@@ -2495,7 +2495,7 @@
       "category": "uri",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "ACR >3 mg/mmol = microalbuminuria (early diabetic nephropathy). ACR >30 = macroalbuminuria. Dipstick misses Bence Jones protein — send urine electrophoresis if myeloma suspected. Transient proteinuria: fever, exercise, CCF. Repeat if unexpected positive.",
         "alerts": [
@@ -2559,7 +2559,7 @@
       "category": "uri",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "ALWAYS send for MC&S AND cytology if unexpected haematuria. RBC casts = glomerulonephritis (nephritic syndrome). Persistent unexplained haematuria in >40yrs = urology referral (2-week wait, rule out malignancy). Dipstick detects haemoglobin, myoglobin, and free Hb — microscopy needed to confirm RBCs.",
         "alerts": [
@@ -2623,7 +2623,7 @@
       "category": "uri",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Nitrites negative does NOT exclude UTI — Gram-positive organisms (Enterococcus, Staph) don't produce nitrites. Leucocytes alone = non-specific. Sterile pyuria = TB ★, interstitial nephritis, urethritis (chlamydia). Both positive + symptoms = treat as UTI without waiting for culture.",
         "alerts": [
@@ -2667,7 +2667,7 @@
       "category": "uri",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Glucosuria = blood glucose exceeded renal threshold (normally ~10 mmol/L). Normal urine glucose DOES NOT exclude diabetes — threshold varies. Glucosuria with normal blood glucose = renal tubular defect (Fanconi syndrome — also aminoaciduria, phosphaturia).",
         "alerts": [
@@ -2723,7 +2723,7 @@
       "category": "uri",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "In suspected DKA: check urine ketones AND serum beta-hydroxybutyrate (more sensitive/specific). Urine ketones are acetoacetate — serum is BHB. Euglycaemic DKA (SGLT2 inhibitors, pregnancy): ketones elevated with near-normal glucose — easy to miss!",
         "alerts": [
@@ -2779,7 +2779,7 @@
       "category": "uri",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Urine bilirubin present = conjugated hyperbilirubinaemia — liver disease or obstruction. Absent bilirubin + high urobilinogen = pre-hepatic jaundice (haemolysis, Gilbert's). Absent both = complete obstruction. Use in conjunction with serum bilirubin fractions.",
         "alerts": [
@@ -2827,7 +2827,7 @@
       "category": "uri",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "SG reflects renal concentrating ability. Fixed SG ~1.010 = isosthenuria = severely impaired concentrating ability (CKD, ATN). Inability to concentrate urine (SG <1.010 despite dehydration) = DI or tubular disease. Urine pH >7 in acidosis = RTA (kidney can't acidify).",
         "alerts": [
@@ -2879,7 +2879,7 @@
       "category": "uri",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "ACR preferred over 24-hr urine collection — equally accurate, far more practical. ACR >3 in diabetics = start ACE-i/ARB regardless of BP. Rising ACR in CKD = poor prognosis. Nephrotic syndrome: oedema + hypoalbuminaemia + hyperlipidaemia + massive proteinuria (>3.5g/24hr).",
         "alerts": [
@@ -2927,7 +2927,7 @@
       "category": "uri",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Urine casts are formed in renal tubules — always pathological except hyaline casts. RBC casts = active glomerular disease (IgA nephropathy, post-streptococcal GN, vasculitis). Contaminated MSU: >2 organisms, squamous cells on microscopy. Always collect midstream clean-catch sample.",
         "alerts": [
@@ -2983,7 +2983,7 @@
       "category": "lip",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Total cholesterol alone is insufficient — always interpret with full lipid profile. Non-HDL cholesterol (TC − HDL) is a better CV risk predictor than LDL alone. Calculate QRISK3 score to guide statin therapy decision.",
         "alerts": [
@@ -3063,7 +3063,7 @@
       "category": "lip",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "LDL is the PRIMARY treatment target for cardiovascular risk reduction. Goal depends on risk category. ASCVD/very high risk: LDL <1.4 mmol/L. Primary prevention high risk: <1.8. For FH: genetic testing referral, cascade screening family members.",
         "alerts": [
@@ -3147,7 +3147,7 @@
       "category": "lip",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "HDL is PROTECTIVE — higher is better. Low HDL + high triglycerides = atherogenic dyslipidaemia (classic metabolic syndrome pattern). HDL <1.0 = significant cardiovascular risk. Raising HDL alone (niacin) did not reduce CV events in trials — focus on lowering LDL and treating modifiable risk factors.",
         "alerts": [
@@ -3223,7 +3223,7 @@
       "category": "lip",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "TG >10 mmol/L = risk of acute pancreatitis — start fibrates urgently. TG >5.6 = secondary causes must be excluded (DM, hypothyroidism, alcohol, drugs). Fasting sample essential — TG rises significantly after a meal. In metabolic syndrome: high TG + low HDL + central obesity + insulin resistance.",
         "alerts": [
@@ -3307,7 +3307,7 @@
       "category": "lip",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Non-HDL = Total cholesterol − HDL. Includes VLDL, IDL, LDL — all atherogenic particles. Better predictor of CV events than LDL alone, especially in diabetics and hypertriglyceridaemia. Now preferred treatment target in ESC/EAS guidelines.",
         "alerts": [
@@ -3351,7 +3351,7 @@
       "category": "lip",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Lp(a) is an independent, inherited CV risk factor. Measure ONCE in lifetime (genetic — doesn't change with lifestyle). High Lp(a) >50 mg/dL = significantly elevated CV risk — consider more aggressive LDL lowering. Statins may slightly increase Lp(a) — important in FH patients.",
         "alerts": [
@@ -3419,7 +3419,7 @@
       "category": "glc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Two abnormal fasting readings = diabetes (if asymptomatic). One reading + symptoms = sufficient for diagnosis. FPG 6.1–6.9 = impaired fasting glucose (IFG) — intermediate hyperglycaemia, high risk of progression to T2DM. Lifestyle intervention reduces progression by 58%.",
         "alerts": [
@@ -3515,7 +3515,7 @@
       "category": "glc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "HbA1c reflects average glucose over past 2–3 months (RBC lifespan). UNRELIABLE in: haemoglobinopathy, haemolysis, pregnancy, CKD — use fasting glucose or 2-hr OGTT instead. Treatment targets: T1DM = 48–53 mmol/mol. T2DM = 48–58 mmol/mol (individualise — tighter if young, looser if elderly/frail).",
         "alerts": [
@@ -3587,7 +3587,7 @@
       "category": "glc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Gold standard for gestational diabetes screening (GDM). Also used to diagnose IGT when other tests borderline. Patient must eat carbohydrates for 3 days before test. In pregnancy: any GDM = strict glucose targets to prevent macrosomia and complications.",
         "alerts": [
@@ -3639,7 +3639,7 @@
       "category": "glc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Random glucose ≥11.1 + symptoms (polyuria, polydipsia, weight loss) = diabetes diagnosed without further testing. Random glucose ≥11.1 without symptoms = repeat test needed. Critical values: <2.2 mmol/L = neuroglycopenic symptoms likely; treat urgently.",
         "alerts": [
@@ -3703,7 +3703,7 @@
       "category": "glc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "C-peptide differentiates exogenous insulin abuse (low C-peptide) from insulinoma (high C-peptide). In T1DM: C-peptide confirms beta cell failure — useful when diagnosis uncertain (LADA vs T2DM). During hypoglycaemia: collect serum insulin + C-peptide + glucose simultaneously (Whipple's triad).",
         "alerts": [
@@ -3763,7 +3763,7 @@
       "category": "glc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "BHB is preferred over urine ketones in DKA monitoring (more accurate, faster, bedside). DKA resolution criteria: BHB <0.6 mmol/L + glucose <14 + HCO₃ >18. Euglycaemic DKA (SGLT2i): BHB elevated but glucose near-normal — easy to miss, high index of suspicion needed.",
         "alerts": [
@@ -3819,7 +3819,7 @@
       "category": "glc",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Hypoglycaemia treatment: if conscious = 15–20g fast-acting carb (glucose gel, orange juice, Lucozade) → recheck at 15 mins → repeat if still <4. If unconscious = IV dextrose (10% preferred over 50%) or glucagon IM. In hospital: always identify and treat the CAUSE.",
         "alerts": [
@@ -3863,7 +3863,7 @@
       "category": "bon",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "ALWAYS correct: Adjusted Ca = measured Ca + 0.02 × (40 − albumin g/L). Symptoms: Bones (pain/fractures), Groans (nausea/constipation), Stones (renal calculi), Psychic moans (depression/confusion/coma). Ca >3.5 = hypercalcaemic crisis: aggressive IV rehydration + IV zoledronic acid. Check PTH to differentiate cause.",
         "alerts": [
@@ -3951,7 +3951,7 @@
       "category": "bon",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Hyperphosphataemia in CKD drives secondary hyperparathyroidism and vascular calcification. Treat with dietary restriction + phosphate binders (sevelamer, calcium carbonate, lanthanum). Hypophosphataemia <0.3 mmol/L = severe — cardiac and respiratory muscle weakness risk.",
         "alerts": [
@@ -4035,7 +4035,7 @@
       "category": "bon",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "KEY interpretation: Ca ↑ + PTH ↑ (or inappropriately normal) = PRIMARY hyperparathyroidism. Ca ↑ + PTH ↓ = malignancy or Vit D toxicity. Ca ↓ + PTH ↑ = secondary HPT (CKD/Vit D def). Ca ↓ + PTH ↓ = hypoparathyroidism. PTH independent of Ca = autonomous (tertiary HPT).",
         "alerts": [
@@ -4099,7 +4099,7 @@
       "category": "bon",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "25-OH Vit D is the storage form — measure this. 1,25-OH (calcitriol) is active form — measure in sarcoid/granulomatous disease (produced ectopically). Deficiency: rickets (children), osteomalacia (adults), proximal myopathy, fatigue, low mood. Replace with colecalciferol (D3). Target 75–100 nmol/L.",
         "alerts": [
@@ -4171,7 +4171,7 @@
       "category": "bon",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Paget's disease: ALP can be extremely elevated (>1000 U/L) with completely normal GGT — characteristic pattern. Treatment with bisphosphonates normalises ALP. Bone ALP (isoenzyme) can separate bone from liver source if needed. In osteomalacia: ALP ↑ + Vit D ↓ + low phosphate.",
         "alerts": [
@@ -4243,7 +4243,7 @@
       "category": "bon",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "T-score compares to young healthy adult peak bone mass. Z-score compares to age-matched peers (use in premenopausal women and men <50). FRAX tool: integrates clinical risk factors + BMD to calculate 10-year fracture risk. Treat if FRAX 10-yr hip fracture risk ≥3% or major osteoporotic fracture ≥20%.",
         "alerts": [
@@ -4291,7 +4291,7 @@
       "category": "csf",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Always perform CT head before LP if: papilloedema, focal neurology, GCS <13, immunocompromised, new-onset seizures. IIH: young obese woman, headache, papilloedema, normal MRI — opening pressure >25 cmH₂O diagnostic. Measure in LATERAL DECUBITUS position.",
         "alerts": [
@@ -4363,7 +4363,7 @@
       "category": "csf",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Protein elevated in virtually all serious CNS infections. Albumino-cytological dissociation = high protein + normal cell count = Guillain-Barré ★. Very high protein + sticky/xanthochromic CSF = TB meningitis until proven otherwise. Always pair with cell count and glucose.",
         "alerts": [
@@ -4435,7 +4435,7 @@
       "category": "csf",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "ALWAYS take serum glucose simultaneously. Low CSF glucose = bacteria or TB consuming glucose. Ratio <0.4 = very strong indicator of bacterial meningitis. Normal ratio with high WBC = viral meningitis. Low glucose + high protein + lymphocytes = TB until proven otherwise.",
         "alerts": [
@@ -4499,7 +4499,7 @@
       "category": "csf",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Cell type is THE KEY distinguisher: neutrophils = bacterial (treat immediately — do NOT wait for culture). Lymphocytes = viral or TB. In bacterial meningitis: treat empirically with ceftriaxone + amoxicillin (listeria cover >60yrs, pregnant, immunocompromised) + dexamethasone.",
         "alerts": [
@@ -4551,7 +4551,7 @@
       "category": "csf",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "If CT head negative but clinical suspicion of SAH: MUST perform LP >2 hrs after symptom onset. Send for spectrophotometry (not just visual inspection). Xanthochromia persists up to 2 weeks. Distinguishing SAH from traumatic tap: SAH = uniformly bloody all tubes, xanthochromia; Traumatic tap = blood clears between tube 1 and tube 4.",
         "alerts": [
@@ -4603,7 +4603,7 @@
       "category": "tmr",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "PSA is NOT a perfect screening test. Sensitivity ~70%, specificity ~60%. Many false positives (prostatitis, BPH) and false negatives. Free:total PSA ratio: <15% = more likely malignant. PSA velocity (rate of rise) and PSA density (PSA/prostate volume) add discriminatory value. Always confirm with MRI and biopsy before treatment decisions.",
         "alerts": [
@@ -4663,7 +4663,7 @@
       "category": "tmr",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "HCC surveillance: 6-monthly AFP + ultrasound in cirrhotic patients. AFP >400 = likely HCC if liver mass present. Normal AFP does NOT exclude HCC (20% of HCC don't produce AFP). In testicular cancer: AFP never elevated in PURE seminoma — if AFP raised, treat as non-seminomatous. AFP is also tumour marker for gestational trophoblastic disease.",
         "alerts": [
@@ -4723,7 +4723,7 @@
       "category": "tmr",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "CEA should NOT be used for colorectal cancer screening — it has poor sensitivity for early disease. Main use: POST-RESECTION monitoring for recurrence. Rising CEA after curative resection = recurrence until proven otherwise — CT staging. CEA >10 ng/mL = likely metastatic disease. Normalises after curative surgery.",
         "alerts": [
@@ -4791,7 +4791,7 @@
       "category": "tmr",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "CA 19-9 is elevated by BILIARY OBSTRUCTION regardless of malignancy — uninformative with jaundice until obstruction relieved. Use to monitor known pancreatic cancer response to treatment. Pre-operatively: CA 19-9 >200 suggests unresectability. Cannot diagnose pancreatic cancer in isolation.",
         "alerts": [
@@ -4855,7 +4855,7 @@
       "category": "tmr",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "CA 125 alone is not a screening test for ovarian cancer. Use with USS in post-menopausal women with symptoms. RMI (Risk of Malignancy Index) = CA125 × USS score × menopausal status. RMI >200 = refer to gynaecological oncology. CA125 very useful for MONITORING ovarian cancer treatment response and detecting recurrence.",
         "alerts": [
@@ -4919,7 +4919,7 @@
       "category": "tmr",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Testicular cancer staging uses AFP + β-hCG + LDH together (S-stage in TNM). Pure seminoma can produce β-hCG (never AFP). Choriocarcinoma: extremely high β-hCG, highly chemotherapy-responsive — do NOT miss. Serial β-hCG is gold standard for monitoring gestational trophoblastic disease treatment response.",
         "alerts": [
@@ -4975,7 +4975,7 @@
       "category": "tmr",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "CA 15-3 is used for MONITORING metastatic breast cancer, not for diagnosis or screening. Rising CA 15-3 in known breast cancer = disease progression (confirm with imaging before changing treatment). Up to 25% of breast cancers are CA 15-3 negative. CEA also useful adjunct in breast cancer monitoring.",
         "alerts": [
@@ -5031,7 +5031,7 @@
       "category": "tmr",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "In lymphoma: LDH is part of the International Prognostic Index (IPI). Elevated LDH = advanced disease, worse prognosis. Serial LDH used to monitor treatment response — falling LDH = responding. In haematology: LDH >2× ULN = high-risk disease marker. Also critical in tumour lysis syndrome monitoring.",
         "alerts": [
@@ -5095,7 +5095,7 @@
       "category": "tmr",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "MUST measure AFP, β-hCG, and LDH BEFORE orchiectomy (staging purpose) and AFTER (half-life assessment). AFP half-life = 5–7 days. β-hCG half-life = 24–36 hrs. Markers not falling appropriately post-op = residual/metastatic disease. Rising markers after completion of chemo = relapse.",
         "alerts": [
@@ -5147,7 +5147,7 @@
       "category": "abg",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "pH <7.35 = acidaemia. pH >7.45 = alkalaemia. Normal pH does NOT mean normal — compensation can mask mixed disorders. Always interpret pH with PaCO₂ and HCO₃ together. Step 1: Is it acidosis or alkalosis? Step 2: Primary respiratory or metabolic? Step 3: Is compensation adequate?",
         "alerts": [
@@ -5207,7 +5207,7 @@
       "category": "abg",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "PaCO₂ = respiratory component. ↑ PaCO₂ + ↓ pH = respiratory acidosis. ↓ PaCO₂ + ↑ pH = respiratory alkalosis. Winter's formula for expected compensation in metabolic acidosis: PaCO₂ = (1.5 × HCO₃) + 8 ± 2. If actual PaCO₂ higher than expected = also has respiratory acidosis.",
         "alerts": [
@@ -5259,7 +5259,7 @@
       "category": "abg",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "P/F ratio (PaO₂/FiO₂): >400 = normal. 200–400 = mild ARDS. 100–200 = moderate ARDS. <100 = severe ARDS. A-a gradient = PAO₂ − PaO₂. Normal A-a = Age/4 + 4 mmHg. Elevated A-a gradient = V/Q mismatch or shunt (not pure hypoventilation). Type 1 RF target SpO₂ 94–98%. Type 2 RF (COPD): target 88–92% (hypoxic drive).",
         "alerts": [
@@ -5311,7 +5311,7 @@
       "category": "abg",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Anion gap (AG) = Na − (Cl + HCO₃). Normal = 8–12 mmol/L. High AG metabolic acidosis mnemonic MUDPILES: Methanol, Uraemia, DKA ★, Propylene glycol, Isoniazid/Iron, Lactic acidosis ★, Ethylene glycol, Salicylates. Normal AG (hyperchloraemic) acidosis: diarrhoea ★, RTA, saline overload, acetazolamide.",
         "alerts": [
@@ -5363,7 +5363,7 @@
       "category": "abg",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Base deficit <−6 in trauma = significant shock — predicts need for massive transfusion. Lactate ≥2 = hyperlactataemia (monitor, investigate cause). Lactate ≥4 = septic shock criterion → 30mL/kg IV fluid + antibiotics within 1 hour (Surviving Sepsis Campaign). Serial lactate clearance (≥10% decrease/2h) guides resuscitation. Persistent high lactate despite fluids = vasopressors + ICU.",
         "alerts": [
@@ -5415,7 +5415,7 @@
       "category": "coag",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "INR monitors extrinsic pathway. INR >1.5 = significant coagulopathy. Warfarin reversal: INR 3–5 (no bleed) = hold dose. INR >5 or bleeding = Vitamin K IV + PCC (4-factor) preferred over FFP. Do NOT give FFP routinely for elevated INR — only if active bleeding or pre-procedure. DOAC patients: INR is UNRELIABLE — do not monitor warfarin with DOAC.",
         "alerts": [
@@ -5475,7 +5475,7 @@
       "category": "coag",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "APTT monitors intrinsic pathway. Lupus anticoagulant: APTT prolonged but causes THROMBOSIS not bleeding — mixing study fails to correct (inhibitor). Confirm with DRVVT. LMWH does NOT prolong APTT — monitor with anti-Xa. Haemophilia: isolated prolonged APTT + normal PT + normal bleeding time → factor assay (VIII or IX).",
         "alerts": [
@@ -5539,7 +5539,7 @@
       "category": "coag",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "D-dimer = RULE-OUT test. Negative D-dimer + low pre-test probability (Wells score) = DVT/PE safely excluded. Age-adjusted cut-off (age × 0.01 µg/mL in >50y) reduces unnecessary CT-PA by 30%. NEVER use D-dimer to diagnose PE — it cannot. Markedly elevated D-dimer (>5) with clinical features = DIC screen: fibrinogen, platelets, PT, APTT, blood film.",
         "alerts": [
@@ -5591,7 +5591,7 @@
       "category": "coag",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Fibrinogen <1.5 g/L = give cryoprecipitate (10 units raises fibrinogen ~1 g/L). Fibrinogen <1.0 g/L = emergency cryoprecipitate. In obstetric haemorrhage: fibrinogen <2.0 = early predictor of severity. DIC diagnosis: ↓ fibrinogen + ↑ D-dimer + ↑ PT + ↑ APTT + ↓ platelets. TT used to detect: heparin contamination, fibrinogen abnormality, dabigatran effect.",
         "alerts": [
@@ -5643,7 +5643,7 @@
       "category": "coag",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Anti-Xa is the CORRECT monitoring test for LMWH (not APTT). Monitor in: extremes of weight (<45kg or >100kg), renal impairment (CrCl <30), pregnancy, neonates. Prophylactic LMWH target: 0.2–0.4 IU/mL. Treatment: 0.6–1.0 IU/mL at 4h post-dose. For UFH infusions: target anti-Xa 0.3–0.7 IU/mL OR APTT ratio 1.5–2.5.",
         "alerts": [
@@ -5691,7 +5691,7 @@
       "category": "cardiac",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "0h/1h algorithm: if hs-cTnT <5 ng/L at 0h AND delta <3 ng/L at 1h = 99.6% NPV for NSTEMI (rule-out). Delta (absolute rise) is MORE important than single value. Peak troponin 12–24h post-MI. Renal failure: use relative delta >20% rather than absolute. Troponin elevation without ACS = 'non-ischaemic myocardial injury' — requires clinical context + ECG + echo.",
         "alerts": [
@@ -5763,7 +5763,7 @@
       "category": "cardiac",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "NT-proBNP rule-in by age: <50y = 450 pg/mL. 50–75y = 900 pg/mL. >75y = 1800 pg/mL. Negative BNP/NT-proBNP has high NPV for HF (~95% — useful to exclude in acute dyspnoea). Obese patients: lower NT-proBNP despite significant HF. Trend is more useful than single value for monitoring treatment response. Persistently elevated despite treatment = poor 12-month prognosis.",
         "alerts": [
@@ -5823,7 +5823,7 @@
       "category": "cardiac",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "CK-MB still useful for: (1) Detecting re-infarction — returns to normal faster than troponin, so new CK-MB rise after normalisation = re-MI. (2) Estimating infarct size (peak correlates with area of necrosis). LDH1 > LDH2 (flipped pattern) = cardiac or haemolytic source. Very high LDH (>1000 U/L) in haematological malignancy correlates with tumour burden. LDH >500 in PCP pneumonia is characteristic.",
         "alerts": [
@@ -5871,7 +5871,7 @@
       "category": "immune",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "ANA is a SCREENING test only. Positive ANA → ENA panel: anti-dsDNA (SLE specific ★), anti-Sm (SLE specific), anti-Ro/La (Sjögren, neonatal lupus), anti-Scl-70 (scleroderma), anti-centromere (CREST), anti-Jo-1 (myositis/ILD). ANA pattern: homogeneous = dsDNA/histone. Speckled = Sm/RNP/Ro/La. Centromere = CREST syndrome.",
         "alerts": [
@@ -5927,7 +5927,7 @@
       "category": "immune",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Anti-dsDNA is the MOST USEFUL antibody in SLE monitoring. Serial titres + C3/C4 guide flare prediction. Anti-dsDNA + ↓ complement + active urine sediment = lupus nephritis → kidney biopsy urgently. Anti-Sm is highly specific for SLE (99%) but insensitive — if positive, diagnoses SLE even without meeting full criteria.",
         "alerts": [
@@ -5975,7 +5975,7 @@
       "category": "immune",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Anti-TPO confirms AUTOIMMUNE thyroid aetiology. Positive anti-TPO in euthyroid patient = 4× increased hypothyroidism risk per decade — recheck TSH annually. In pregnancy: positive anti-TPO + TSH >2.5 in T1 = treat with levothyroxine (reduces miscarriage and postpartum thyroiditis risk). Anti-TPO does NOT correlate with severity — it confirms the diagnosis. All patients with hypothyroidism should have anti-TPO checked at diagnosis.",
         "alerts": [
@@ -6035,7 +6035,7 @@
       "category": "immune",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Anti-TG critical in thyroid cancer: elevated anti-TG falsely LOWERS serum thyroglobulin (Tg) — making cancer recurrence monitoring unreliable. Always check anti-TG alongside Tg post-thyroidectomy. If anti-TG positive → Tg is unreliable → use imaging (neck USS + whole body scan) instead. TRAb in pregnancy: check at 32–34 weeks in Graves — high TRAb predicts neonatal thyrotoxicosis (plan paediatric review at delivery).",
         "alerts": [
@@ -6083,7 +6083,7 @@
       "category": "immune",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "ANCA-associated vasculitis (AAV) triad: small vessel vasculitis + ANCA + end-organ damage. Renal emergency: haematuria + proteinuria + crescentic GN + positive ANCA → immunosuppression immediately (rituximab or cyclophosphamide + IV methylprednisolone). Pulmonary-renal syndrome (haemoptysis + GN) = ANCA, anti-GBM, or SLE. Request anti-GBM (Goodpasture) alongside ANCA in pulmonary-renal presentations.",
         "alerts": [
@@ -6135,7 +6135,7 @@
       "category": "immune",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Anti-CCP (anti-cyclic citrullinated peptide) is the most specific test for RA (98%). Anti-CCP + inflammatory polyarthritis = RA until proven otherwise → refer rheumatology, start DMARDs early. High anti-CCP predicts erosive, severe RA — justifies aggressive treatment. RF is non-specific — always pair with anti-CCP. Combined RF + anti-CCP positive = highest specificity for RA (>99%).",
         "alerts": [
@@ -6187,7 +6187,7 @@
       "category": "immune",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Complement pattern interpretation: C3↓ + C4↓ = classic pathway (SLE ★, lupus nephritis, cryoglobulinaemia). C3↓ + C4 normal = alternative pathway (MPGN II, C3 nephritic factor). C4↓ + C3 normal = C1-inhibitor deficiency (hereditary angioedema) or isolated C4 deficiency. Serial C3/C4 useful in SLE monitoring: rising = remission, falling = flare.",
         "alerts": [
@@ -6247,7 +6247,7 @@
       "category": "immune",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "APS diagnosis requires: (1) Clinical: thrombosis or pregnancy morbidity (3+ miscarriages <10wk, 1+ loss >10wk, premature birth <34wk for pre-eclampsia). (2) Lab: positive on 2 occasions ≥12 weeks apart — lupus anticoagulant (LA), anti-cardiolipin IgG/IgM, anti-β₂GP1 IgG/IgM. Triple positivity = highest thrombosis risk. Treatment: warfarin (target INR 2–3) — DOACs INFERIOR to warfarin in APS (rivaroxaban non-inferior for venous only, but NOT for arterial — avoid in arterial APS).",
         "alerts": [
@@ -6299,7 +6299,7 @@
       "category": "hormones",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Cushing's screening: 1mg overnight dexamethasone suppression test (normal = AM cortisol <50 nmol/L). OR 24h urine free cortisol. OR late-night salivary cortisol (best test — loss of diurnal nadir). Adrenal insufficiency: AM cortisol <100 nmol/L = likely. 100–500 = inconclusive → Synacthen test (SST): cortisol should rise to >550 nmol/L at 30 min. ACTH localisation: ↑ ACTH = ACTH-dependent (pituitary or ectopic). ↓ ACTH = ACTH-independent (adrenal).",
         "alerts": [
@@ -6351,7 +6351,7 @@
       "category": "hormones",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "TSH = most sensitive thyroid test. Start with TSH alone. If abnormal → add FT4 (+ FT3 if TSH suppressed). TSH 4–10 mIU/L (subclinical hypothyroid): treat if symptomatic, anti-TPO positive, or pregnant. TSH >10 = treat regardless. Amiodarone: causes hypothyroidism (most common) OR hyperthyroidism — monitor TFTs every 6 months. In pregnancy: TSH >2.5 in T1 → start levothyroxine 25–50 µg/day.",
         "alerts": [
@@ -6419,7 +6419,7 @@
       "category": "hormones",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "PRL >5000 mIU/L = prolactinoma very likely. PRL 1000–5000 = could be drug-induced, hypothyroidism, or macroprolactinaemia. Always exclude: pregnancy + hypothyroidism + medications FIRST. Macroprolactinaemia: PEG precipitation test — >60% precipitates = macroprolactin (clinically insignificant — avoid treatment). Symptomatic prolactinoma: cabergoline 0.5mg twice weekly → highly effective (>90% normalise PRL).",
         "alerts": [
@@ -6483,7 +6483,7 @@
       "category": "hormones",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "FSH >40 IU/L + amenorrhoea ≥12 months in <40y = POI — HRT essential (osteoporosis + cardiovascular protection). LH:FSH >2:1 in PCOS (60% of cases — not a diagnostic criterion). Morning testosterone (7–10 AM) essential — diurnal variation. Free testosterone (calculated) more relevant in obese (↓ SHBG → falsely low total T). Female total T >5 nmol/L → investigate virilising cause.",
         "alerts": [
@@ -6535,7 +6535,7 @@
       "category": "hormones",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "IGF-1 is BEST screening test for acromegaly (stable throughout day, unlike GH which is pulsatile). Elevated IGF-1 → confirm with OGTT (GH measured at 0, 30, 60, 90, 120 min — normal = suppression to <1 µg/L at 2h). Acromegaly features: enlarged hands/feet, macroglossia, prognathism, carpal tunnel, sleep apnoea, HTN, T2DM, colonic polyps (3× colorectal cancer risk), organomegaly. Treatment: transsphenoidal surgery (first line) → somatostatin analogues (octreotide) if incomplete.",
         "alerts": [
@@ -6583,7 +6583,7 @@
       "category": "tdm",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "ECG of digoxin effect (not toxicity): reversed tick ST depression (scooping), short QT. Toxicity ECG: bradycardia, AV block, any arrhythmia. Treatment: stop digoxin, correct K⁺ to >4.0 mmol/L, anti-digoxin Fab (DigiFab/Digibind) for life-threatening toxicity. Narrow therapeutic index — always check K⁺ with every digoxin level. Absolutely avoid in WPW.",
         "alerts": [
@@ -6631,7 +6631,7 @@
       "category": "tdm",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Narrowest therapeutic window of all psychiatric drugs. Monitor pre-treatment (U&E, TFTs, ECG, pregnancy test) then every 6 months. NSAIDs are the most common cause of iatrogenic lithium toxicity — educate every patient. Dehydration (diarrhoea, vomiting, hot weather, ramadan fasting) → dangerously elevated levels. Dialysis for level >3.5 or severe neurological toxicity. Never stop lithium abruptly — taper over 4 weeks (rebound mania risk).",
         "alerts": [
@@ -6683,7 +6683,7 @@
       "category": "tdm",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "AUC/MIC monitoring now preferred over trough-only (reduces toxicity). Target AUC 400–600 for serious MRSA. Monitor creatinine daily during therapy. In renal impairment: extend dosing interval (not reduce dose). High-risk nephrotoxicity: combination with pip-tazo ★ — avoid where possible or closely monitor. Check level after 3rd dose in stable renal function. Load with 25–30 mg/kg for serious infections.",
         "alerts": [
@@ -6735,7 +6735,7 @@
       "category": "tdm",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Phenytoin: non-linear kinetics — small dose ↑ causes disproportionately large level rise. In hypoalbuminaemia: corrected phenytoin = measured ÷ [(albumin g/dL × 0.1) + 0.1]. Major interactions: induces CYP450 → reduces warfarin, OCP, statins. Valproate: ABSOLUTELY contraindicated in women of childbearing potential (teratogenicity — neural tube defects + neurodevelopmental harm). MHRA: annual PPP review required for all women on valproate. Valproate-induced encephalopathy: measure ammonia — may be elevated with normal LFTs.",
         "alerts": [
@@ -6783,7 +6783,7 @@
       "category": "tdm",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Once-daily gentamicin: 5–7 mg/kg/day (Hartford nomogram for renal dosing). Pre-dose trough MUST be <1 mg/L before next dose (drug-free interval prevents nephrotoxicity). Monitor creatinine DAILY. Stop if creatinine rises >30% from baseline. Max duration: 5–7 days where possible. Combination nephrotoxicity with: vancomycin, NSAIDs, amphotericin, furosemide — avoid or monitor closely. Endocarditis (synergistic low-dose): trough <0.5 mg/L, peak 3–5 mg/L.",
         "alerts": [
@@ -6835,7 +6835,7 @@
       "category": "crit",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Laboratory critical values: call ordering physician within 60 minutes. Document: who notified, time, read-back of result. Patient must be reviewed within 1 hour. Do NOT simply result and walk away. Repeat sample if clinically discordant — haemolysis or sample error is common cause of spurious hyperkalaemia or thrombocytopenia.",
         "alerts": [
@@ -6907,7 +6907,7 @@
       "category": "crit",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Hyperkalaemia emergency (K >6.5): Step 1 — IV calcium gluconate 10mL 10% over 10 min (membrane stabilisation, IMMEDIATE). Step 2 — IV insulin 10U + 50mL 50% dextrose (shifts K into cells, onset 20 min). Step 3 — Salbutamol 10mg nebulised (onset 30 min). Step 4 — Resonium/patiromer (removes K, hours). Step 5 — Dialysis if refractory. ECG monitoring throughout. Identify and treat cause.",
         "alerts": [
@@ -6995,7 +6995,7 @@
       "category": "crit",
       "section": "lab",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": "Blood culture Gram stain guide: Gram-positive cocci clusters = MRSA/MSSA → vancomycin (MRSA) or flucloxacillin (MSSA). Gram-positive cocci chains = Streptococcus/Enterococcus → benzylpenicillin or amoxicillin. Gram-negative rods = Enterobacteriaceae or Pseudomonas → pip-tazo or cefuroxime. Yeast = Candida → echinocandin (ICU). Staph. aureus bacteraemia: ALWAYS requires echocardiogram and minimum 14 days IV antibiotics (28 days if deep focus).",
         "alerts": [
