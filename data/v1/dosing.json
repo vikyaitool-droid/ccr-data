@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "dosing",
-  "generatedAt": "2026-04-10T10:46:49.145Z",
+  "generatedAt": "2026-04-12T17:21:35.120Z",
   "cardCount": 6,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "sup",
       "section": "dosing",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -113,7 +113,7 @@
       "category": "sup",
       "section": "dosing",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -227,7 +227,7 @@
       "category": "sup",
       "section": "dosing",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -318,7 +318,7 @@
       "category": "sup",
       "section": "dosing",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -481,7 +481,7 @@
       "category": "sup",
       "section": "dosing",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -573,7 +573,7 @@
       "category": "sup",
       "section": "dosing",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
