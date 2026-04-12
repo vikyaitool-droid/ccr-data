@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "7.3.2",
-  "generatedAt": "2026-04-12T17:20:02.573Z",
+  "generatedAt": "2026-04-12T17:41:45.188Z",
   "sections": [
     {
       "id": "lab",
@@ -12,7 +12,7 @@
       "sizeKb": 206,
       "priority": "eager",
       "lastUpdated": "2026-04-12",
-      "etag": "5f64bb59b22d"
+      "etag": "259d97abe533"
     },
     {
       "id": "skills",
@@ -23,7 +23,7 @@
       "sizeKb": 114,
       "priority": "eager",
       "lastUpdated": "2026-04-12",
-      "etag": "16ae4d52e4ef"
+      "etag": "09f63c8163e2"
     },
     {
       "id": "exam",
@@ -34,7 +34,7 @@
       "sizeKb": 191,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "443699b9f68d"
+      "etag": "4088f32d903d"
     },
     {
       "id": "bnys",
@@ -45,7 +45,7 @@
       "sizeKb": 176,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "ee62502bc23f"
+      "etag": "c4613e2b57a4"
     },
     {
       "id": "imaging",
@@ -56,18 +56,7 @@
       "sizeKb": 185,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "74a95956df60"
-    },
-    {
-      "id": "gut",
-      "file": "gut.json",
-      "cardCount": 51,
-      "cleanCount": 51,
-      "reviewCount": 0,
-      "sizeKb": 258,
-      "priority": "lazy",
-      "lastUpdated": "2026-04-12",
-      "etag": "09dea7e96df0"
+      "etag": "4578038eae9c"
     },
     {
       "id": "onco",
@@ -78,7 +67,7 @@
       "sizeKb": 87,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "66617033d289"
+      "etag": "c0a02fb445d7"
     },
     {
       "id": "dosing",
@@ -89,7 +78,7 @@
       "sizeKb": 38,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "2cd9de54a011"
+      "etag": "719aad5b9eb5"
     },
     {
       "id": "fmlabs",
@@ -100,7 +89,7 @@
       "sizeKb": 33,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "2fa4400a2378"
+      "etag": "5bbd0e6fb42e"
     },
     {
       "id": "emergency",
@@ -111,7 +100,7 @@
       "sizeKb": 35,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "e384e72fdcbc"
+      "etag": "d5838c090fc2"
     },
     {
       "id": "psychiatry",
@@ -122,7 +111,7 @@
       "sizeKb": 198,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "44a0af17d981"
+      "etag": "5944def86720"
     },
     {
       "id": "algorithms",
@@ -133,7 +122,7 @@
       "sizeKb": 46,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "b44311ba8190"
+      "etag": "8c310f07d53f"
     },
     {
       "id": "metabolic",
@@ -144,7 +133,7 @@
       "sizeKb": 17,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "5316617ff99a"
+      "etag": "4a349ac7db42"
     },
     {
       "id": "chromotherapy",
@@ -155,7 +144,7 @@
       "sizeKb": 19,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "08d37109e37c"
+      "etag": "deef1a5828dc"
     },
     {
       "id": "magneto",
@@ -166,7 +155,7 @@
       "sizeKb": 17,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "11098687259a"
+      "etag": "0fbc95006fdc"
     },
     {
       "id": "clinnut",
@@ -177,7 +166,7 @@
       "sizeKb": 44,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "449d8e067f6c"
+      "etag": "23b0381c628d"
     },
     {
       "id": "colon",
@@ -188,7 +177,7 @@
       "sizeKb": 18,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "d2d6f7c15d82"
+      "etag": "73ddfb5a29f5"
     },
     {
       "id": "lifestyle",
@@ -199,7 +188,7 @@
       "sizeKb": 37,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "a343164ccba4"
+      "etag": "53bb41b90747"
     },
     {
       "id": "detox",
@@ -210,7 +199,7 @@
       "sizeKb": 20,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "05ac7998385c"
+      "etag": "1f21c8880252"
     },
     {
       "id": "manipulation",
@@ -221,7 +210,7 @@
       "sizeKb": 25,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "ee7e3d1e2563"
+      "etag": "ce134b2213e6"
     },
     {
       "id": "helio",
@@ -232,7 +221,7 @@
       "sizeKb": 29,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "fd1be9b045cd"
+      "etag": "6cd7a0b3325a"
     },
     {
       "id": "acupthera",
@@ -243,7 +232,7 @@
       "sizeKb": 27,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "ad0d03f9e974"
+      "etag": "0fe37b550555"
     },
     {
       "id": "intpain",
@@ -254,7 +243,7 @@
       "sizeKb": 26,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "343ef4016441"
+      "etag": "6699ff327fd9"
     },
     {
       "id": "firstaid",
@@ -265,7 +254,7 @@
       "sizeKb": 32,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "90b4db7d0d39"
+      "etag": "9e6c94bdf5de"
     },
     {
       "id": "physio",
@@ -276,7 +265,7 @@
       "sizeKb": 27,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "a60141d3d1ca"
+      "etag": "f9bc1f9c2719"
     },
     {
       "id": "counselling",
@@ -287,7 +276,7 @@
       "sizeKb": 20,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "8d17e6005ed7"
+      "etag": "0f22f9f619c9"
     },
     {
       "id": "signseponyms",
@@ -298,7 +287,7 @@
       "sizeKb": 20,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "9cb75f105baa"
+      "etag": "fd0222ba699d"
     },
     {
       "id": "mindbody",
@@ -309,7 +298,7 @@
       "sizeKb": 117,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "b14439ff5c83"
+      "etag": "8d07980f30de"
     },
     {
       "id": "nutbio",
@@ -320,7 +309,7 @@
       "sizeKb": 176,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "b754bbe0c52a"
+      "etag": "59eb022c5f50"
     },
     {
       "id": "herbal",
@@ -331,7 +320,7 @@
       "sizeKb": 60,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "4563d92ff74b"
+      "etag": "2d32fce08eb6"
     },
     {
       "id": "envmed",
@@ -342,7 +331,7 @@
       "sizeKb": 27,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "7816d5ce6a8c"
+      "etag": "11d0c0ddb1e2"
     },
     {
       "id": "sportmed",
@@ -353,7 +342,7 @@
       "sizeKb": 24,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "63a7ea8ad279"
+      "etag": "7cfa4e046467"
     },
     {
       "id": "oraldent",
@@ -364,7 +353,7 @@
       "sizeKb": 25,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "b6ab99e746e3"
+      "etag": "671d454e27db"
     },
     {
       "id": "pocus",
@@ -375,7 +364,7 @@
       "sizeKb": 25,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "1e6fdfeca012"
+      "etag": "e65a253c5ba6"
     },
     {
       "id": "clinscoring",
@@ -386,7 +375,7 @@
       "sizeKb": 22,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "1fc01fd90625"
+      "etag": "ccad3256f6c9"
     },
     {
       "id": "microguide",
@@ -397,7 +386,7 @@
       "sizeKb": 20,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "64896ef7dbb4"
+      "etag": "abc647808cff"
     },
     {
       "id": "yogathera",
@@ -408,7 +397,7 @@
       "sizeKb": 28,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "f34ce5408bac"
+      "etag": "251dd73f5369"
     },
     {
       "id": "panchakarma",
@@ -419,7 +408,7 @@
       "sizeKb": 22,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "87cf14c14e68"
+      "etag": "d7589ee362d8"
     },
     {
       "id": "clinicmgt",
@@ -430,7 +419,7 @@
       "sizeKb": 25,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "d0a3334ddd7d"
+      "etag": "a66a071ae491"
     },
     {
       "id": "bnysexam",
@@ -441,7 +430,7 @@
       "sizeKb": 20,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "9aa43001e673"
+      "etag": "d4ad49e6624c"
     },
     {
       "id": "bnysprotocols",
@@ -452,29 +441,7 @@
       "sizeKb": 33,
       "priority": "lazy",
       "lastUpdated": "2026-04-12",
-      "etag": "3724ea3c717c"
-    },
-    {
-      "id": "anatomy",
-      "file": "anatomy.json",
-      "cardCount": 23,
-      "cleanCount": 23,
-      "reviewCount": 0,
-      "sizeKb": 132,
-      "priority": "lazy",
-      "lastUpdated": "2026-04-12",
-      "etag": "384ee3b26308"
-    },
-    {
-      "id": "pearls",
-      "file": "pearls.json",
-      "cardCount": 15,
-      "cleanCount": 15,
-      "reviewCount": 0,
-      "sizeKb": 11,
-      "priority": "lazy",
-      "lastUpdated": "2026-04-12",
-      "etag": "6be9761d9499"
+      "etag": "0267b637d4aa"
     }
   ]
 }
