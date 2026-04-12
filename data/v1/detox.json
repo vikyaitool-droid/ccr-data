@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "detox",
-  "generatedAt": "2026-04-10T10:48:24.636Z",
+  "generatedAt": "2026-04-12T17:22:33.336Z",
   "cardCount": 4,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "det",
       "section": "detox",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -75,7 +75,7 @@
       "category": "det",
       "section": "detox",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -158,7 +158,7 @@
       "category": "det",
       "section": "detox",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -230,7 +230,7 @@
       "category": "det",
       "section": "detox",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
