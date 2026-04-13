@@ -1,0 +1,1222 @@
+{
+  "schemaVersion": "1.0",
+  "section": "onco",
+  "generatedAt": "2026-04-13T11:55:22.157Z",
+  "cardCount": 18,
+  "cards": [
+    {
+      "id": "onco-ioc-integrative-oncology-principles-evidence",
+      "title": "Integrative Oncology — Principles & Evidence",
+      "badge": "Foundation",
+      "category": "ioc",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Definition (SIO)",
+            "text": "Integrative oncology combines evidence-based complementary approaches with conventional cancer treatment to improve quality of life, reduce side effects, and optimise outcomes. It does NOT replace conventional treatment."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Intervention",
+              "Evidence Level",
+              "Application",
+              "Mechanism"
+            ],
+            "rows": [
+              [
+                "Acupuncture",
+                "Grade A",
+                "Chemotherapy-induced nausea ★, cancer pain, hot flushes",
+                "Endorphin release, autonomic modulation"
+              ],
+              [
+                "Mind-body (yoga, MBSR)",
+                "Grade A",
+                "Fatigue ★, anxiety, sleep, QoL",
+                "HPA axis, immune modulation, cortisol ↓"
+              ],
+              [
+                "Exercise",
+                "Grade A",
+                "Cancer-related fatigue ★, recurrence risk ↓, survival ↑",
+                "IGF-1 ↓, inflammation ↓, NK cell ↑"
+              ],
+              [
+                "Melatonin",
+                "Grade B",
+                "Chemo side effects ↓, sleep, possible survival benefit",
+                "Antioxidant, anti-proliferative, immune"
+              ],
+              [
+                "Mistletoe (Iscador)",
+                "Grade B",
+                "QoL ↑, fatigue ↓, immune modulation",
+                "NK cell activation, apoptosis induction"
+              ],
+              [
+                "Vitamin D (if deficient)",
+                "Grade B",
+                "Survival association in colorectal, breast, prostate Ca",
+                "Anti-proliferative, immune modulation"
+              ],
+              [
+                "Ginger",
+                "Grade B",
+                "CINV (chemotherapy-induced nausea/vomiting)",
+                "5-HT3 antagonism, gastrokinetic"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Exercise in cancer — the evidence",
+            "text": "Exercise reduces breast cancer recurrence by 40% and colorectal cancer recurrence by 50% in RCT/cohort data. 150 min moderate or 75 min vigorous/week is the threshold. Mechanism: ↓ IGF-1, ↓ oestrogen, ↓ insulin, ↑ NK cells, ↑ tumour perfusion (improves chemo delivery). Cancer-related fatigue: exercise is more effective than any pharmacological intervention. Prescribe it."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-blu\"><div class=\"a-label\">Definition (SIO)</div>Integrative oncology combines evidence-based complementary approaches with conventional cancer treatment to improve quality of life, reduce side effects, and optimise outcomes. It does NOT replace conventional treatment.</div>\n    <table class=\"tbl\"><thead><tr><th>Intervention</th><th>Evidence Level</th><th>Application</th><th>Mechanism</th></tr></thead><tbody>\n      <tr><td>Acupuncture</td><td>Grade A</td><td>Chemotherapy-induced nausea ★, cancer pain, hot flushes</td><td>Endorphin release, autonomic modulation</td></tr>\n      <tr><td>Mind-body (yoga, MBSR)</td><td>Grade A</td><td>Fatigue ★, anxiety, sleep, QoL</td><td>HPA axis, immune modulation, cortisol ↓</td></tr>\n      <tr><td>Exercise</td><td>Grade A</td><td>Cancer-related fatigue ★, recurrence risk ↓, survival ↑</td><td>IGF-1 ↓, inflammation ↓, NK cell ↑</td></tr>\n      <tr><td>Melatonin</td><td>Grade B</td><td>Chemo side effects ↓, sleep, possible survival benefit</td><td>Antioxidant, anti-proliferative, immune</td></tr>\n      <tr><td>Mistletoe (Iscador)</td><td>Grade B</td><td>QoL ↑, fatigue ↓, immune modulation</td><td>NK cell activation, apoptosis induction</td></tr>\n      <tr><td>Vitamin D (if deficient)</td><td>Grade B</td><td>Survival association in colorectal, breast, prostate Ca</td><td>Anti-proliferative, immune modulation</td></tr>\n      <tr><td>Ginger</td><td>Grade B</td><td>CINV (chemotherapy-induced nausea/vomiting)</td><td>5-HT3 antagonism, gastrokinetic</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Exercise in cancer — the evidence</div><div class=\"pt\">Exercise reduces breast cancer recurrence by 40% and colorectal cancer recurrence by 50% in RCT/cohort data. 150 min moderate or 75 min vigorous/week is the threshold. Mechanism: ↓ IGF-1, ↓ oestrogen, ↓ insulin, ↑ NK cells, ↑ tumour perfusion (improves chemo delivery). Cancer-related fatigue: exercise is more effective than any pharmacological intervention. Prescribe it.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "onco-ioc-oncology-nutrition-evidence-based",
+      "title": "Oncology Nutrition — Evidence-Based",
+      "badge": "Nutrition",
+      "category": "ioc",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Dietary pattern",
+              "Cancer evidence",
+              "Mechanism"
+            ],
+            "rows": [
+              [
+                "Mediterranean diet",
+                "↓ Overall cancer incidence ★; strongest for colorectal, breast, endometrial",
+                "Anti-inflammatory, antioxidant, gut microbiome, IGF-1 ↓"
+              ],
+              [
+                "Plant-rich diet",
+                "↓ Colorectal cancer (fibre), ↓ processed meat association",
+                "Butyrate, phytochemicals, transit time ↓"
+              ],
+              [
+                "Cruciferous vegetables",
+                "↓ Lung, colon, breast cancer; indole-3-carbinol modulates oestrogen",
+                "Sulforaphane (Nrf2), I3C → DIM (oestrogen metabolism)"
+              ],
+              [
+                "Soy (isoflavones)",
+                "Protective in breast Ca (population data) — controversial in BRCA+",
+                "SERM-like activity — context dependent"
+              ],
+              [
+                "Turmeric/curcumin",
+                "Pre-clinical strong, clinical trials ongoing; safe adjunct",
+                "NF-κB, apoptosis, anti-angiogenic"
+              ],
+              [
+                "Caloric restriction / fasting",
+                "Fasting 24–72h before chemo ↓ side effects, ↑ efficacy (pilot data)",
+                "IGF-1 ↓, differential stress response (normal vs cancer cells)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 What to avoid in oncology",
+            "text": "High-dose antioxidants (Vit C, Vit E, beta-carotene) during chemotherapy — may protect cancer cells from oxidative damage of chemo/RT. St John's Wort with any chemotherapy — CYP3A4 induction reduces drug levels. High-dose green tea extract with bortezomib (direct antagonism — clinical trial stopped). Always check herb-chemo interactions at oncologydatabaseinteraction.com or Memorial Sloan Kettering's About Herbs database."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Dietary pattern</th><th>Cancer evidence</th><th>Mechanism</th></tr></thead><tbody>\n      <tr><td>Mediterranean diet</td><td>↓ Overall cancer incidence ★; strongest for colorectal, breast, endometrial</td><td>Anti-inflammatory, antioxidant, gut microbiome, IGF-1 ↓</td></tr>\n      <tr><td>Plant-rich diet</td><td>↓ Colorectal cancer (fibre), ↓ processed meat association</td><td>Butyrate, phytochemicals, transit time ↓</td></tr>\n      <tr><td>Cruciferous vegetables</td><td>↓ Lung, colon, breast cancer; indole-3-carbinol modulates oestrogen</td><td>Sulforaphane (Nrf2), I3C → DIM (oestrogen metabolism)</td></tr>\n      <tr><td>Soy (isoflavones)</td><td>Protective in breast Ca (population data) — controversial in BRCA+</td><td>SERM-like activity — context dependent</td></tr>\n      <tr><td>Turmeric/curcumin</td><td>Pre-clinical strong, clinical trials ongoing; safe adjunct</td><td>NF-κB, apoptosis, anti-angiogenic</td></tr>\n      <tr><td>Caloric restriction / fasting</td><td>Fasting 24–72h before chemo ↓ side effects, ↑ efficacy (pilot data)</td><td>IGF-1 ↓, differential stress response (normal vs cancer cells)</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 What to avoid in oncology</div><div class=\"pt\">High-dose antioxidants (Vit C, Vit E, beta-carotene) during chemotherapy — may protect cancer cells from oxidative damage of chemo/RT. St John's Wort with any chemotherapy — CYP3A4 induction reduces drug levels. High-dose green tea extract with bortezomib (direct antagonism — clinical trial stopped). Always check herb-chemo interactions at oncologydatabaseinteraction.com or Memorial Sloan Kettering's About Herbs database.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "onco-ioc-herb-supplement-safety-in-cancer-treatment",
+      "title": "Herb & Supplement Safety in Cancer Treatment",
+      "badge": "Safety",
+      "category": "ioc",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "danger",
+            "label": "Critical rule",
+            "text": "ALL high-dose antioxidant supplements should be paused 48 hours before and during chemotherapy/radiotherapy unless specifically approved by the oncologist. This is the single most important safety rule in integrative oncology."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Supplement",
+              "Concern with chemotherapy",
+              "Evidence level"
+            ],
+            "rows": [
+              [
+                "Vitamin C (high-dose IV/oral)",
+                "May antagonise oxidative mechanism of some chemo drugs. Also possibly synergistic — highly context-dependent. Do NOT recommend without oncologist consent.",
+                "Conflicting"
+              ],
+              [
+                "St John's Wort",
+                "CYP3A4 induction → ↓ irinotecan, imatinib, tamoxifen, taxol levels by 30–50%",
+                "Contraindicated ★"
+              ],
+              [
+                "Green tea extract (EGCG)",
+                "Antagonises bortezomib (boronic acid-EGCG binding). Moderate doses of green tea as beverage: safe.",
+                "Avoid with bortezomib"
+              ],
+              [
+                "Soy isoflavones",
+                "Theoretical oestrogenic effect in hormone-sensitive breast/endo cancer — avoid supplements; dietary soy appears safe",
+                "Dietary safe, supplements avoid"
+              ],
+              [
+                "Melatonin",
+                "Generally safe, potentially synergistic (radiosensitiser) — check with oncologist",
+                "Likely safe"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">Critical rule</div>ALL high-dose antioxidant supplements should be paused 48 hours before and during chemotherapy/radiotherapy unless specifically approved by the oncologist. This is the single most important safety rule in integrative oncology.</div>\n    <table class=\"tbl\"><thead><tr><th>Supplement</th><th>Concern with chemotherapy</th><th>Evidence level</th></tr></thead><tbody>\n      <tr><td>Vitamin C (high-dose IV/oral)</td><td>May antagonise oxidative mechanism of some chemo drugs. Also possibly synergistic — highly context-dependent. Do NOT recommend without oncologist consent.</td><td>Conflicting</td></tr>\n      <tr><td>St John's Wort</td><td>CYP3A4 induction → ↓ irinotecan, imatinib, tamoxifen, taxol levels by 30–50%</td><td>Contraindicated ★</td></tr>\n      <tr><td>Green tea extract (EGCG)</td><td>Antagonises bortezomib (boronic acid-EGCG binding). Moderate doses of green tea as beverage: safe.</td><td>Avoid with bortezomib</td></tr>\n      <tr><td>Soy isoflavones</td><td>Theoretical oestrogenic effect in hormone-sensitive breast/endo cancer — avoid supplements; dietary soy appears safe</td><td>Dietary safe, supplements avoid</td></tr>\n      <tr><td>Melatonin</td><td>Generally safe, potentially synergistic (radiosensitiser) — check with oncologist</td><td>Likely safe</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "onco-ioc-cancer-cachexia-naturopathic-nutritional-support",
+      "title": "Cancer Cachexia — Naturopathic Nutritional Support",
+      "badge": "Clinical",
+      "category": "ioc",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "danger",
+            "label": "Definition",
+            "text": "Cancer cachexia = metabolic syndrome of muscle wasting (sarcopenia), anorexia, inflammation and fat loss driven by tumour-host interactions. Present in 80% of advanced cancer. Accounts for 20–30% of cancer deaths directly."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Stage",
+              "Features",
+              "Intervention window"
+            ],
+            "rows": [
+              [
+                "Pre-cachexia",
+                "Weight loss <5%, anorexia, metabolic changes",
+                "Best intervention window — preventive"
+              ],
+              [
+                "Cachexia",
+                "Weight loss >5% (or BMI <20 + >2% loss, or sarcopenia + >2% loss)",
+                "Multimodal — nutrition + exercise + pharmacology"
+              ],
+              [
+                "Refractory cachexia",
+                "Performance status 3–4, progressive disease, life expectancy <3 months",
+                "Comfort and dignity focus"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Nutritional intervention",
+              "Evidence",
+              "Protocol"
+            ],
+            "rows": [
+              [
+                "Protein ★",
+                "Grade A — 1.5–2.0g/kg/day to preserve lean mass",
+                "Leucine-rich sources (whey protein, legumes, fish). Small frequent meals."
+              ],
+              [
+                "Omega-3 (EPA) ★",
+                "Grade A — EPA 2g/day attenuates muscle wasting",
+                "Fish oil supplement. EPA preferentially over DHA. Liquid form for poor appetite."
+              ],
+              [
+                "Oral nutritional supplements",
+                "Grade B — improves intake and QoL",
+                "High-calorie, high-protein. Fortisip, Ensure Plus. Small volume, high density."
+              ],
+              [
+                "Resistance exercise",
+                "Grade B — anabolic stimulus, preserves muscle",
+                "2–3x/week even low intensity. Supervised initially."
+              ],
+              [
+                "Megestrol acetate",
+                "Improves appetite — conventional option",
+                "DVT/PE risk. Short-term. Consult oncologist."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 EPA — the anti-cachectic omega-3",
+            "text": "Eicosapentaenoic acid (EPA), not DHA, is the key anti-cachectic omega-3. Mechanism: ↓ PIF (proteolysis-inducing factor), ↓ NF-κB, ↓ muscle ubiquitin-proteasome pathway. Dose: 2g EPA/day from fish oil. Clinical trials show stabilisation of weight and lean mass in pancreatic and lung cancer cachexia. Liquid fish oil is better tolerated when appetite is poor."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">Definition</div>Cancer cachexia = metabolic syndrome of muscle wasting (sarcopenia), anorexia, inflammation and fat loss driven by tumour-host interactions. Present in 80% of advanced cancer. Accounts for 20–30% of cancer deaths directly.</div>\n    <table class=\"tbl\"><thead><tr><th>Stage</th><th>Features</th><th>Intervention window</th></tr></thead><tbody>\n      <tr><td>Pre-cachexia</td><td>Weight loss &lt;5%, anorexia, metabolic changes</td><td>Best intervention window — preventive</td></tr>\n      <tr><td>Cachexia</td><td>Weight loss &gt;5% (or BMI &lt;20 + &gt;2% loss, or sarcopenia + &gt;2% loss)</td><td>Multimodal — nutrition + exercise + pharmacology</td></tr>\n      <tr><td>Refractory cachexia</td><td>Performance status 3–4, progressive disease, life expectancy &lt;3 months</td><td>Comfort and dignity focus</td></tr>\n    </tbody></table>\n    <table class=\"tbl\"><thead><tr><th>Nutritional intervention</th><th>Evidence</th><th>Protocol</th></tr></thead><tbody>\n      <tr><td>Protein ★</td><td>Grade A — 1.5–2.0g/kg/day to preserve lean mass</td><td>Leucine-rich sources (whey protein, legumes, fish). Small frequent meals.</td></tr>\n      <tr><td>Omega-3 (EPA) ★</td><td>Grade A — EPA 2g/day attenuates muscle wasting</td><td>Fish oil supplement. EPA preferentially over DHA. Liquid form for poor appetite.</td></tr>\n      <tr><td>Oral nutritional supplements</td><td>Grade B — improves intake and QoL</td><td>High-calorie, high-protein. Fortisip, Ensure Plus. Small volume, high density.</td></tr>\n      <tr><td>Resistance exercise</td><td>Grade B — anabolic stimulus, preserves muscle</td><td>2–3x/week even low intensity. Supervised initially.</td></tr>\n      <tr><td>Megestrol acetate</td><td>Improves appetite — conventional option</td><td>DVT/PE risk. Short-term. Consult oncologist.</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 EPA — the anti-cachectic omega-3</div><div class=\"pt\">Eicosapentaenoic acid (EPA), not DHA, is the key anti-cachectic omega-3. Mechanism: ↓ PIF (proteolysis-inducing factor), ↓ NF-κB, ↓ muscle ubiquitin-proteasome pathway. Dose: 2g EPA/day from fish oil. Clinical trials show stabilisation of weight and lean mass in pancreatic and lung cancer cachexia. Liquid fish oil is better tolerated when appetite is poor.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "onco-ioc-cancer-sleep-managing-treatment-related-insomnia",
+      "title": "Cancer & Sleep — Managing Treatment-Related Insomnia",
+      "badge": "Supportive Care",
+      "category": "ioc",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Cause of insomnia in cancer",
+              "Naturopathic approach"
+            ],
+            "rows": [
+              [
+                "Corticosteroids (dexamethasone) — very common",
+                "Take steroids before 12pm if possible. Tart cherry juice (melatonin precursor). L-theanine 200mg."
+              ],
+              [
+                "Hot flushes (hormone therapy)",
+                "Acupuncture ★ (Grade A), black cohosh, venlafaxine (conventional). Cool bedroom."
+              ],
+              [
+                "Pain-related waking",
+                "Optimise analgesia timing. Melatonin 3–10mg for pain modulation (acts on pain pathways). Yoga nidra."
+              ],
+              [
+                "Anxiety and fear",
+                "CBT-I + mindfulness. MBSR (Grade A for cancer anxiety). Ashwagandha 600mg (if not on anticoagulants)."
+              ],
+              [
+                "Chemo fatigue paradox (exhausted but can't sleep)",
+                "Moderate aerobic exercise ★ (Grade A) — most evidence. Restrict caffeine to before 12pm."
+              ],
+              [
+                "Nausea (overnight)",
+                "Ginger tea before bed, acupressure P6 point. Small dry crackers at bedside. Ondansetron if prescribed."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Melatonin in cancer — dual role",
+            "text": "Melatonin serves dual roles: (1) sleep regulation — 3–10mg 30 min before bed, (2) oncostatic — radiosensitiser, anti-proliferative, antioxidant, immune-modulatory at 20–40mg doses. Grade B evidence for QoL improvement. Safe with most regimens — check with oncologist for hormone-sensitive cancers. Always start with 3mg and titrate up over 2–4 weeks."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Cause of insomnia in cancer</th><th>Naturopathic approach</th></tr></thead><tbody>\n      <tr><td>Corticosteroids (dexamethasone) — very common</td><td>Take steroids before 12pm if possible. Tart cherry juice (melatonin precursor). L-theanine 200mg.</td></tr>\n      <tr><td>Hot flushes (hormone therapy)</td><td>Acupuncture ★ (Grade A), black cohosh, venlafaxine (conventional). Cool bedroom.</td></tr>\n      <tr><td>Pain-related waking</td><td>Optimise analgesia timing. Melatonin 3–10mg for pain modulation (acts on pain pathways). Yoga nidra.</td></tr>\n      <tr><td>Anxiety and fear</td><td>CBT-I + mindfulness. MBSR (Grade A for cancer anxiety). Ashwagandha 600mg (if not on anticoagulants).</td></tr>\n      <tr><td>Chemo fatigue paradox (exhausted but can't sleep)</td><td>Moderate aerobic exercise ★ (Grade A) — most evidence. Restrict caffeine to before 12pm.</td></tr>\n      <tr><td>Nausea (overnight)</td><td>Ginger tea before bed, acupressure P6 point. Small dry crackers at bedside. Ondansetron if prescribed.</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Melatonin in cancer — dual role</div><div class=\"pt\">Melatonin serves dual roles: (1) sleep regulation — 3–10mg 30 min before bed, (2) oncostatic — radiosensitiser, anti-proliferative, antioxidant, immune-modulatory at 20–40mg doses. Grade B evidence for QoL improvement. Safe with most regimens — check with oncologist for hormone-sensitive cancers. Always start with 3mg and titrate up over 2–4 weeks.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "onco-ioc-integrative-oncology-cancer-type-protocols",
+      "title": "Integrative Oncology — Cancer Type Protocols",
+      "badge": "Reference",
+      "category": "ioc",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Cancer type",
+              "Best-evidenced integrative interventions",
+              "Avoid"
+            ],
+            "rows": [
+              [
+                "Breast cancer ★",
+                "Exercise (↓ recurrence 40%), vitamin D (if deficient), MBSR, acupuncture (hot flushes, CINV), soy food (safe — not supplements)",
+                "High-dose phytoestrogens, high-dose antioxidants during chemo, red clover supplements"
+              ],
+              [
+                "Colorectal cancer",
+                "Exercise ★ (↓ recurrence 50%), Mediterranean diet, fibre, turmeric/curcumin (adjunct), probiotics during chemo",
+                "High-dose folic acid (may promote cell division), NSAIDs chronically without supervision"
+              ],
+              [
+                "Prostate cancer",
+                "Exercise, lycopene (tomato-rich diet), pomegranate juice (PSA kinetics), soy food, selenium, vitamin D",
+                "High-dose zinc >100mg (may promote prostate cancer)"
+              ],
+              [
+                "Lung cancer",
+                "Exercise, vitamin D (if deficient), ginger (CINV), acupuncture (dyspnoea, pain), omega-3 (cachexia prevention)",
+                "High-dose beta-carotene ★ (Caret trial — 28% ↑ lung cancer risk in smokers)"
+              ],
+              [
+                "Haematological",
+                "Exercise (gentle, HRV-guided), probiotics (if on antibiotics), ginger (CINV), vitamin D",
+                "High-dose vitamin C IV (without oncologist consent), any immunostimulant herbs with stem cell transplant"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Cancer type</th><th>Best-evidenced integrative interventions</th><th>Avoid</th></tr></thead><tbody>\n      <tr><td>Breast cancer ★</td><td>Exercise (↓ recurrence 40%), vitamin D (if deficient), MBSR, acupuncture (hot flushes, CINV), soy food (safe — not supplements)</td><td>High-dose phytoestrogens, high-dose antioxidants during chemo, red clover supplements</td></tr>\n      <tr><td>Colorectal cancer</td><td>Exercise ★ (↓ recurrence 50%), Mediterranean diet, fibre, turmeric/curcumin (adjunct), probiotics during chemo</td><td>High-dose folic acid (may promote cell division), NSAIDs chronically without supervision</td></tr>\n      <tr><td>Prostate cancer</td><td>Exercise, lycopene (tomato-rich diet), pomegranate juice (PSA kinetics), soy food, selenium, vitamin D</td><td>High-dose zinc &gt;100mg (may promote prostate cancer)</td></tr>\n      <tr><td>Lung cancer</td><td>Exercise, vitamin D (if deficient), ginger (CINV), acupuncture (dyspnoea, pain), omega-3 (cachexia prevention)</td><td>High-dose beta-carotene ★ (Caret trial — 28% ↑ lung cancer risk in smokers)</td></tr>\n      <tr><td>Haematological</td><td>Exercise (gentle, HRV-guided), probiotics (if on antibiotics), ginger (CINV), vitamin D</td><td>High-dose vitamin C IV (without oncologist consent), any immunostimulant herbs with stem cell transplant</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "onco-ioc-chemotherapy-side-effect-management",
+      "title": "Chemotherapy Side Effect Management",
+      "badge": "Oncology ★",
+      "category": "ioc",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "danger",
+            "label": "⚠️ All naturopathic support during chemotherapy requires oncologist approval",
+            "text": "Some supplements interact with chemotherapy — either reducing efficacy (antioxidants during certain regimens) or increasing toxicity. Always disclose to the oncology team. General principle: focus on non-supplement naturopathic interventions first (exercise, diet, mind-body), then discuss supplement support with the team."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Side Effect",
+              "Naturopathic Intervention",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "Nausea/vomiting (CINV)",
+                "Acupuncture PC6 ★★★ (endorsed by ASCO and SIO), ginger 250mg QID ★★★ (comparable to metoclopramide for mild CINV), P6 acupressure bands (Sea-Bands)",
+                "★★★ PC6 acupuncture — Cochrane Grade A"
+              ],
+              [
+                "Mucositis (oral)",
+                "Glutamine oral rinse 1–2g in water 4×/day ★★★, manuka honey UMF10+ coating ★★★, cryotherapy (ice chips during infusion for 5-FU) ★★★, gentle saline rinses, avoid spicy/acid foods",
+                "★★★ Glutamine RCT (grade 2 mucositis prevention)"
+              ],
+              [
+                "Cancer-related fatigue",
+                "Exercise ★★★ (most evidence-based intervention — walking 30 min/day), yoga ★★★, acupuncture ★★, cognitive adaptation techniques, pacing strategy",
+                "★★★ Exercise meta-analysis: 27% fatigue reduction"
+              ],
+              [
+                "Chemotherapy-induced peripheral neuropathy (CIPN)",
+                "Alpha-lipoic acid 600mg IV/oral ★★★, B12 methylcobalamin 1000mcg ★★★, acetyl-L-carnitine 2g ★★, omega-3 3g ★★, glovestocking exercises, heat therapy",
+                "★★★ ALA for CIPN — multiple RCTs"
+              ],
+              [
+                "Bone marrow suppression (neutropenia)",
+                "Mushroom beta-glucans (reishi, turkey tail — PSK ★★★ Japanese oncology standard), astragalus ★★ (stimulates G-CSF), Vit D ★★, probiotics for GI immunity (LGG, Saccharomyces). Avoid: Echinacea (may interfere with immunosuppressive chemo)",
+                "★★★ PSK (turkey tail) — Japanese oncology adjunct for 30+ years"
+              ],
+              [
+                "Hot flushes (hormonal therapy)",
+                "Acupuncture ★★★ (Grade A — SIO endorsed), venlafaxine equivalent (conventional), black cohosh controversial in ER+ (discuss with oncologist), mindfulness ★★",
+                "★★★ Acupuncture for hot flushes in breast cancer"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">⚠️ All naturopathic support during chemotherapy requires oncologist approval</div>Some supplements interact with chemotherapy — either reducing efficacy (antioxidants during certain regimens) or increasing toxicity. Always disclose to the oncology team. General principle: focus on non-supplement naturopathic interventions first (exercise, diet, mind-body), then discuss supplement support with the team.</div>\n    <table class=\"tbl\"><thead><tr><th>Side Effect</th><th>Naturopathic Intervention</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td>Nausea/vomiting (CINV)</td><td>Acupuncture PC6 ★★★ (endorsed by ASCO and SIO), ginger 250mg QID ★★★ (comparable to metoclopramide for mild CINV), P6 acupressure bands (Sea-Bands)</td><td>★★★ PC6 acupuncture — Cochrane Grade A</td></tr>\n      <tr><td>Mucositis (oral)</td><td>Glutamine oral rinse 1–2g in water 4×/day ★★★, manuka honey UMF10+ coating ★★★, cryotherapy (ice chips during infusion for 5-FU) ★★★, gentle saline rinses, avoid spicy/acid foods</td><td>★★★ Glutamine RCT (grade 2 mucositis prevention)</td></tr>\n      <tr><td>Cancer-related fatigue</td><td>Exercise ★★★ (most evidence-based intervention — walking 30 min/day), yoga ★★★, acupuncture ★★, cognitive adaptation techniques, pacing strategy</td><td>★★★ Exercise meta-analysis: 27% fatigue reduction</td></tr>\n      <tr><td>Chemotherapy-induced peripheral neuropathy (CIPN)</td><td>Alpha-lipoic acid 600mg IV/oral ★★★, B12 methylcobalamin 1000mcg ★★★, acetyl-L-carnitine 2g ★★, omega-3 3g ★★, glovestocking exercises, heat therapy</td><td>★★★ ALA for CIPN — multiple RCTs</td></tr>\n      <tr><td>Bone marrow suppression (neutropenia)</td><td>Mushroom beta-glucans (reishi, turkey tail — PSK ★★★ Japanese oncology standard), astragalus ★★ (stimulates G-CSF), Vit D ★★, probiotics for GI immunity (LGG, Saccharomyces). Avoid: Echinacea (may interfere with immunosuppressive chemo)</td><td>★★★ PSK (turkey tail) — Japanese oncology adjunct for 30+ years</td></tr>\n      <tr><td>Hot flushes (hormonal therapy)</td><td>Acupuncture ★★★ (Grade A — SIO endorsed), venlafaxine equivalent (conventional), black cohosh controversial in ER+ (discuss with oncologist), mindfulness ★★</td><td>★★★ Acupuncture for hot flushes in breast cancer</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "onco-ioc-cancer-survivorship-long-term-naturopathic",
+      "title": "Cancer Survivorship — Long-Term Naturopathic",
+      "badge": "Supportive",
+      "category": "ioc",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Cancer Survivorship — A New Naturopathic Frontier",
+            "text": "With cancer survival rates improving (5-year survival now 68% overall), there are more cancer survivors than ever. Survivorship care addresses: long-term treatment side effects, psychological adaptation, secondary prevention, and health promotion. BNYS practitioners are ideally positioned for the prevention-focused, holistic survivorship care model."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Issue",
+              "Naturopathic Approach",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "Post-treatment fatigue syndrome",
+                "Graded exercise ★★★ (must be gradual), Vit D correction, B12, thyroid screening (radiation-induced hypothyroidism), CoQ10, sleep optimisation, MBSR ★★★",
+                "★★★ Exercise most effective — reduces long-term cancer fatigue"
+              ],
+              [
+                "Cognitive impairment (chemo brain)",
+                "Exercise ★★★ (BDNF), omega-3 DHA 2g ★★, lion's mane ★★, cognitive training, sleep priority, manage depression, estrogen normalisation (if hormone-related)",
+                "★★ Emerging evidence for omega-3 + exercise combination"
+              ],
+              [
+                "Bone health (aromatase inhibitors)",
+                "Ca 1000mg + D3 4000IU + K2 MK-7 180mcg ★★★ (mandatory with AI therapy), resistance training, denosumab if significant bone loss (conventional)",
+                "★★★ Ca+D3 protocol in AI-treated breast cancer"
+              ],
+              [
+                "Weight management (breast cancer)",
+                "Mediterranean diet ★★★ (reduces breast cancer recurrence in PREDIMED-Plus). Caloric deficit if overweight. Exercise 150 min/week ★★★. Avoid: obesity increases oestrogen and cancer recurrence risk.",
+                "★★★ Multiple RCTs linking exercise + Mediterranean diet to recurrence reduction"
+              ],
+              [
+                "Psychological adjustment",
+                "MBSR 8-week ★★★ (reduces cancer distress, fatigue, improves QoL), yoga ★★★, ACT (acceptance and commitment therapy), fear of recurrence management (specific CBT protocol), support groups",
+                "★★★ MBSR in cancer survivorship — landmark Carlson RCTs"
+              ],
+              [
+                "Secondary prevention (recurrence)",
+                "Maintain healthy weight ★★★, exercise 150+ min/week ★★★, Mediterranean diet, adequate sleep, avoid alcohol, eliminate smoking. For hormone-sensitive cancers: phytoestrogen caution — discuss with oncologist (soy safe, high-dose isoflavone supplements — discuss)",
+                "★★★ Lifestyle factors reduce recurrence 30–50% across cancer types"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Cancer Survivorship — A New Naturopathic Frontier</div>With cancer survival rates improving (5-year survival now 68% overall), there are more cancer survivors than ever. Survivorship care addresses: long-term treatment side effects, psychological adaptation, secondary prevention, and health promotion. BNYS practitioners are ideally positioned for the prevention-focused, holistic survivorship care model.</div>\n    <table class=\"tbl\"><thead><tr><th>Issue</th><th>Naturopathic Approach</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td>Post-treatment fatigue syndrome</td><td>Graded exercise ★★★ (must be gradual), Vit D correction, B12, thyroid screening (radiation-induced hypothyroidism), CoQ10, sleep optimisation, MBSR ★★★</td><td>★★★ Exercise most effective — reduces long-term cancer fatigue</td></tr>\n      <tr><td>Cognitive impairment (chemo brain)</td><td>Exercise ★★★ (BDNF), omega-3 DHA 2g ★★, lion's mane ★★, cognitive training, sleep priority, manage depression, estrogen normalisation (if hormone-related)</td><td>★★ Emerging evidence for omega-3 + exercise combination</td></tr>\n      <tr><td>Bone health (aromatase inhibitors)</td><td>Ca 1000mg + D3 4000IU + K2 MK-7 180mcg ★★★ (mandatory with AI therapy), resistance training, denosumab if significant bone loss (conventional)</td><td>★★★ Ca+D3 protocol in AI-treated breast cancer</td></tr>\n      <tr><td>Weight management (breast cancer)</td><td>Mediterranean diet ★★★ (reduces breast cancer recurrence in PREDIMED-Plus). Caloric deficit if overweight. Exercise 150 min/week ★★★. Avoid: obesity increases oestrogen and cancer recurrence risk.</td><td>★★★ Multiple RCTs linking exercise + Mediterranean diet to recurrence reduction</td></tr>\n      <tr><td>Psychological adjustment</td><td>MBSR 8-week ★★★ (reduces cancer distress, fatigue, improves QoL), yoga ★★★, ACT (acceptance and commitment therapy), fear of recurrence management (specific CBT protocol), support groups</td><td>★★★ MBSR in cancer survivorship — landmark Carlson RCTs</td></tr>\n      <tr><td>Secondary prevention (recurrence)</td><td>Maintain healthy weight ★★★, exercise 150+ min/week ★★★, Mediterranean diet, adequate sleep, avoid alcohol, eliminate smoking. For hormone-sensitive cancers: phytoestrogen caution — discuss with oncologist (soy safe, high-dose isoflavone supplements — discuss)</td><td>★★★ Lifestyle factors reduce recurrence 30–50% across cancer types</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "onco-ioc-palliative-naturopathy-symptom-management",
+      "title": "Palliative Naturopathy — Symptom Management",
+      "badge": "Supportive",
+      "category": "ioc",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Palliative Naturopathy — Dignity and Comfort at Every Stage",
+            "text": "Palliative care is not about giving up — it is about maximising quality of life, dignity, and comfort at every stage of serious illness. BNYS practitioners can contribute meaningfully to palliative care through: symptom management, family support, spiritual support, and ensuring the patient retains agency and naturopathic identity through illness."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Symptom",
+              "Naturopathic Approach",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "Pain",
+                "Acupuncture ★★★ (analgesic — reduce opioid requirement), massage ★★ (comfort, connective touch), TENS ★★, topical arnica/capsaicin, heat therapy. Hydrotherapy: warm baths for bone metastasis pain.",
+                "Work within palliative care team. Never withhold opioids when needed. Acupuncture reduces opioid requirements by 30% in cancer pain (meta-analysis)"
+              ],
+              [
+                "Breathlessness",
+                "Handheld fan to face ★★★ (vagal reflex reduces dyspnoea sensation even without SpO2 change), Pranayama (slow 4-count exhale), positioning (sitting forward, supported arms). Oxygen only if SpO2 <90%.",
+                "Fan therapy is remarkably effective and evidence-based for dyspnoea at end of life. Ensure family knows this technique."
+              ],
+              [
+                "Anorexia/Cachexia",
+                "Small, frequent, favourite foods. High-calorie density (avocado, nuts, healthy oils, protein powder). Ginger for nausea ★★★. Megestrol (medical). Cannabis (antiemetic, appetite stimulation — where legal). Social meals.",
+                "Do not force food near end of life — it is natural for appetite to diminish. Focus on pleasure and social connection of eating, not caloric targets."
+              ],
+              [
+                "Constipation (opioid-induced)",
+                "Senna (stimulant laxative — first choice for opioid constipation ★★★). Osmotic laxatives (lactulose, PEG). Probiotics. Abdominal massage ★★. Adequate hydration (if able). Positioning (squat-like). Macrogol for prophylaxis when starting opioids.",
+                "Opioid-induced constipation does not respond to fibre alone — needs stimulant laxative. Start laxative with EVERY opioid prescription."
+              ],
+              [
+                "Existential distress / Spiritual pain",
+                "Yoga Nidra ★★★ (reduces existential distress in RCT at end of life — Samueli Institute). Dignity therapy (recording life narrative). Meaning-centred therapy. Chaplaincy/spiritual care. Mindfulness — focusing on present experience. Art therapy, music therapy.",
+                "Spiritual care is legitimate medicine — ask about meaning, fear, unfinished business, legacy. \"What matters most to you now?\" is the most important end-of-life question."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Palliative Naturopathy — Dignity and Comfort at Every Stage</div>Palliative care is not about giving up — it is about maximising quality of life, dignity, and comfort at every stage of serious illness. BNYS practitioners can contribute meaningfully to palliative care through: symptom management, family support, spiritual support, and ensuring the patient retains agency and naturopathic identity through illness.</div>\n    <table class=\"tbl\"><thead><tr><th>Symptom</th><th>Naturopathic Approach</th><th>Notes</th></tr></thead><tbody>\n      <tr><td><strong>Pain</strong></td><td>Acupuncture ★★★ (analgesic — reduce opioid requirement), massage ★★ (comfort, connective touch), TENS ★★, topical arnica/capsaicin, heat therapy. Hydrotherapy: warm baths for bone metastasis pain.</td><td>Work within palliative care team. Never withhold opioids when needed. Acupuncture reduces opioid requirements by 30% in cancer pain (meta-analysis)</td></tr>\n      <tr><td><strong>Breathlessness</strong></td><td>Handheld fan to face ★★★ (vagal reflex reduces dyspnoea sensation even without SpO2 change), Pranayama (slow 4-count exhale), positioning (sitting forward, supported arms). Oxygen only if SpO2 &lt;90%.</td><td>Fan therapy is remarkably effective and evidence-based for dyspnoea at end of life. Ensure family knows this technique.</td></tr>\n      <tr><td><strong>Anorexia/Cachexia</strong></td><td>Small, frequent, favourite foods. High-calorie density (avocado, nuts, healthy oils, protein powder). Ginger for nausea ★★★. Megestrol (medical). Cannabis (antiemetic, appetite stimulation — where legal). Social meals.</td><td>Do not force food near end of life — it is natural for appetite to diminish. Focus on pleasure and social connection of eating, not caloric targets.</td></tr>\n      <tr><td><strong>Constipation (opioid-induced)</strong></td><td>Senna (stimulant laxative — first choice for opioid constipation ★★★). Osmotic laxatives (lactulose, PEG). Probiotics. Abdominal massage ★★. Adequate hydration (if able). Positioning (squat-like). Macrogol for prophylaxis when starting opioids.</td><td>Opioid-induced constipation does not respond to fibre alone — needs stimulant laxative. Start laxative with EVERY opioid prescription.</td></tr>\n      <tr><td><strong>Existential distress / Spiritual pain</strong></td><td>Yoga Nidra ★★★ (reduces existential distress in RCT at end of life — Samueli Institute). Dignity therapy (recording life narrative). Meaning-centred therapy. Chaplaincy/spiritual care. Mindfulness — focusing on present experience. Art therapy, music therapy.</td><td>Spiritual care is legitimate medicine — ask about meaning, fear, unfinished business, legacy. \"What matters most to you now?\" is the most important end-of-life question.</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "onco-found-integrative-oncology-principles-evidence",
+      "title": "Integrative Oncology — Principles & Evidence",
+      "badge": "Foundation",
+      "category": "found",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Definition (SIO)",
+            "text": "Integrative oncology combines evidence-based complementary approaches with conventional cancer treatment to improve quality of life, reduce side effects, and optimise outcomes. It does NOT replace conventional treatment."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Intervention",
+              "Evidence Level",
+              "Application",
+              "Mechanism"
+            ],
+            "rows": [
+              [
+                "Acupuncture",
+                "Grade A",
+                "Chemotherapy-induced nausea ★, cancer pain, hot flushes",
+                "Endorphin release, autonomic modulation"
+              ],
+              [
+                "Mind-body (yoga, MBSR)",
+                "Grade A",
+                "Fatigue ★, anxiety, sleep, QoL",
+                "HPA axis, immune modulation, cortisol ↓"
+              ],
+              [
+                "Exercise",
+                "Grade A",
+                "Cancer-related fatigue ★, recurrence risk ↓, survival ↑",
+                "IGF-1 ↓, inflammation ↓, NK cell ↑"
+              ],
+              [
+                "Melatonin",
+                "Grade B",
+                "Chemo side effects ↓, sleep, possible survival benefit",
+                "Antioxidant, anti-proliferative, immune"
+              ],
+              [
+                "Mistletoe (Iscador)",
+                "Grade B",
+                "QoL ↑, fatigue ↓, immune modulation",
+                "NK cell activation, apoptosis induction"
+              ],
+              [
+                "Vitamin D (if deficient)",
+                "Grade B",
+                "Survival association in colorectal, breast, prostate Ca",
+                "Anti-proliferative, immune modulation"
+              ],
+              [
+                "Ginger",
+                "Grade B",
+                "CINV (chemotherapy-induced nausea/vomiting)",
+                "5-HT3 antagonism, gastrokinetic"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Exercise in cancer — the evidence",
+            "text": "Exercise reduces breast cancer recurrence by 40% and colorectal cancer recurrence by 50% in RCT/cohort data. 150 min moderate or 75 min vigorous/week is the threshold. Mechanism: ↓ IGF-1, ↓ oestrogen, ↓ insulin, ↑ NK cells, ↑ tumour perfusion (improves chemo delivery). Cancer-related fatigue: exercise is more effective than any pharmacological intervention. Prescribe it."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-blu\"><div class=\"a-label\">Definition (SIO)</div>Integrative oncology combines evidence-based complementary approaches with conventional cancer treatment to improve quality of life, reduce side effects, and optimise outcomes. It does NOT replace conventional treatment.</div>\n    <table class=\"tbl\"><thead><tr><th>Intervention</th><th>Evidence Level</th><th>Application</th><th>Mechanism</th></tr></thead><tbody>\n      <tr><td>Acupuncture</td><td>Grade A</td><td>Chemotherapy-induced nausea ★, cancer pain, hot flushes</td><td>Endorphin release, autonomic modulation</td></tr>\n      <tr><td>Mind-body (yoga, MBSR)</td><td>Grade A</td><td>Fatigue ★, anxiety, sleep, QoL</td><td>HPA axis, immune modulation, cortisol ↓</td></tr>\n      <tr><td>Exercise</td><td>Grade A</td><td>Cancer-related fatigue ★, recurrence risk ↓, survival ↑</td><td>IGF-1 ↓, inflammation ↓, NK cell ↑</td></tr>\n      <tr><td>Melatonin</td><td>Grade B</td><td>Chemo side effects ↓, sleep, possible survival benefit</td><td>Antioxidant, anti-proliferative, immune</td></tr>\n      <tr><td>Mistletoe (Iscador)</td><td>Grade B</td><td>QoL ↑, fatigue ↓, immune modulation</td><td>NK cell activation, apoptosis induction</td></tr>\n      <tr><td>Vitamin D (if deficient)</td><td>Grade B</td><td>Survival association in colorectal, breast, prostate Ca</td><td>Anti-proliferative, immune modulation</td></tr>\n      <tr><td>Ginger</td><td>Grade B</td><td>CINV (chemotherapy-induced nausea/vomiting)</td><td>5-HT3 antagonism, gastrokinetic</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Exercise in cancer — the evidence</div><div class=\"pt\">Exercise reduces breast cancer recurrence by 40% and colorectal cancer recurrence by 50% in RCT/cohort data. 150 min moderate or 75 min vigorous/week is the threshold. Mechanism: ↓ IGF-1, ↓ oestrogen, ↓ insulin, ↑ NK cells, ↑ tumour perfusion (improves chemo delivery). Cancer-related fatigue: exercise is more effective than any pharmacological intervention. Prescribe it.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "onco-found-oncology-nutrition-evidence-based",
+      "title": "Oncology Nutrition — Evidence-Based",
+      "badge": "Nutrition",
+      "category": "found",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Dietary pattern",
+              "Cancer evidence",
+              "Mechanism"
+            ],
+            "rows": [
+              [
+                "Mediterranean diet",
+                "↓ Overall cancer incidence ★; strongest for colorectal, breast, endometrial",
+                "Anti-inflammatory, antioxidant, gut microbiome, IGF-1 ↓"
+              ],
+              [
+                "Plant-rich diet",
+                "↓ Colorectal cancer (fibre), ↓ processed meat association",
+                "Butyrate, phytochemicals, transit time ↓"
+              ],
+              [
+                "Cruciferous vegetables",
+                "↓ Lung, colon, breast cancer; indole-3-carbinol modulates oestrogen",
+                "Sulforaphane (Nrf2), I3C → DIM (oestrogen metabolism)"
+              ],
+              [
+                "Soy (isoflavones)",
+                "Protective in breast Ca (population data) — controversial in BRCA+",
+                "SERM-like activity — context dependent"
+              ],
+              [
+                "Turmeric/curcumin",
+                "Pre-clinical strong, clinical trials ongoing; safe adjunct",
+                "NF-κB, apoptosis, anti-angiogenic"
+              ],
+              [
+                "Caloric restriction / fasting",
+                "Fasting 24–72h before chemo ↓ side effects, ↑ efficacy (pilot data)",
+                "IGF-1 ↓, differential stress response (normal vs cancer cells)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 What to avoid in oncology",
+            "text": "High-dose antioxidants (Vit C, Vit E, beta-carotene) during chemotherapy — may protect cancer cells from oxidative damage of chemo/RT. St John's Wort with any chemotherapy — CYP3A4 induction reduces drug levels. High-dose green tea extract with bortezomib (direct antagonism — clinical trial stopped). Always check herb-chemo interactions at oncologydatabaseinteraction.com or Memorial Sloan Kettering's About Herbs database."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Dietary pattern</th><th>Cancer evidence</th><th>Mechanism</th></tr></thead><tbody>\n      <tr><td>Mediterranean diet</td><td>↓ Overall cancer incidence ★; strongest for colorectal, breast, endometrial</td><td>Anti-inflammatory, antioxidant, gut microbiome, IGF-1 ↓</td></tr>\n      <tr><td>Plant-rich diet</td><td>↓ Colorectal cancer (fibre), ↓ processed meat association</td><td>Butyrate, phytochemicals, transit time ↓</td></tr>\n      <tr><td>Cruciferous vegetables</td><td>↓ Lung, colon, breast cancer; indole-3-carbinol modulates oestrogen</td><td>Sulforaphane (Nrf2), I3C → DIM (oestrogen metabolism)</td></tr>\n      <tr><td>Soy (isoflavones)</td><td>Protective in breast Ca (population data) — controversial in BRCA+</td><td>SERM-like activity — context dependent</td></tr>\n      <tr><td>Turmeric/curcumin</td><td>Pre-clinical strong, clinical trials ongoing; safe adjunct</td><td>NF-κB, apoptosis, anti-angiogenic</td></tr>\n      <tr><td>Caloric restriction / fasting</td><td>Fasting 24–72h before chemo ↓ side effects, ↑ efficacy (pilot data)</td><td>IGF-1 ↓, differential stress response (normal vs cancer cells)</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 What to avoid in oncology</div><div class=\"pt\">High-dose antioxidants (Vit C, Vit E, beta-carotene) during chemotherapy — may protect cancer cells from oxidative damage of chemo/RT. St John's Wort with any chemotherapy — CYP3A4 induction reduces drug levels. High-dose green tea extract with bortezomib (direct antagonism — clinical trial stopped). Always check herb-chemo interactions at oncologydatabaseinteraction.com or Memorial Sloan Kettering's About Herbs database.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "onco-found-herb-supplement-safety-in-cancer-treatment",
+      "title": "Herb & Supplement Safety in Cancer Treatment",
+      "badge": "Safety",
+      "category": "found",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "danger",
+            "label": "Critical rule",
+            "text": "ALL high-dose antioxidant supplements should be paused 48 hours before and during chemotherapy/radiotherapy unless specifically approved by the oncologist. This is the single most important safety rule in integrative oncology."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Supplement",
+              "Concern with chemotherapy",
+              "Evidence level"
+            ],
+            "rows": [
+              [
+                "Vitamin C (high-dose IV/oral)",
+                "May antagonise oxidative mechanism of some chemo drugs. Also possibly synergistic — highly context-dependent. Do NOT recommend without oncologist consent.",
+                "Conflicting"
+              ],
+              [
+                "St John's Wort",
+                "CYP3A4 induction → ↓ irinotecan, imatinib, tamoxifen, taxol levels by 30–50%",
+                "Contraindicated ★"
+              ],
+              [
+                "Green tea extract (EGCG)",
+                "Antagonises bortezomib (boronic acid-EGCG binding). Moderate doses of green tea as beverage: safe.",
+                "Avoid with bortezomib"
+              ],
+              [
+                "Soy isoflavones",
+                "Theoretical oestrogenic effect in hormone-sensitive breast/endo cancer — avoid supplements; dietary soy appears safe",
+                "Dietary safe, supplements avoid"
+              ],
+              [
+                "Melatonin",
+                "Generally safe, potentially synergistic (radiosensitiser) — check with oncologist",
+                "Likely safe"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">Critical rule</div>ALL high-dose antioxidant supplements should be paused 48 hours before and during chemotherapy/radiotherapy unless specifically approved by the oncologist. This is the single most important safety rule in integrative oncology.</div>\n    <table class=\"tbl\"><thead><tr><th>Supplement</th><th>Concern with chemotherapy</th><th>Evidence level</th></tr></thead><tbody>\n      <tr><td>Vitamin C (high-dose IV/oral)</td><td>May antagonise oxidative mechanism of some chemo drugs. Also possibly synergistic — highly context-dependent. Do NOT recommend without oncologist consent.</td><td>Conflicting</td></tr>\n      <tr><td>St John's Wort</td><td>CYP3A4 induction → ↓ irinotecan, imatinib, tamoxifen, taxol levels by 30–50%</td><td>Contraindicated ★</td></tr>\n      <tr><td>Green tea extract (EGCG)</td><td>Antagonises bortezomib (boronic acid-EGCG binding). Moderate doses of green tea as beverage: safe.</td><td>Avoid with bortezomib</td></tr>\n      <tr><td>Soy isoflavones</td><td>Theoretical oestrogenic effect in hormone-sensitive breast/endo cancer — avoid supplements; dietary soy appears safe</td><td>Dietary safe, supplements avoid</td></tr>\n      <tr><td>Melatonin</td><td>Generally safe, potentially synergistic (radiosensitiser) — check with oncologist</td><td>Likely safe</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "onco-found-integrative-oncology-cancer-type-protocols",
+      "title": "Integrative Oncology — Cancer Type Protocols",
+      "badge": "Reference",
+      "category": "found",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Cancer type",
+              "Best-evidenced integrative interventions",
+              "Avoid"
+            ],
+            "rows": [
+              [
+                "Breast cancer ★",
+                "Exercise (↓ recurrence 40%), vitamin D (if deficient), MBSR, acupuncture (hot flushes, CINV), soy food (safe — not supplements)",
+                "High-dose phytoestrogens, high-dose antioxidants during chemo, red clover supplements"
+              ],
+              [
+                "Colorectal cancer",
+                "Exercise ★ (↓ recurrence 50%), Mediterranean diet, fibre, turmeric/curcumin (adjunct), probiotics during chemo",
+                "High-dose folic acid (may promote cell division), NSAIDs chronically without supervision"
+              ],
+              [
+                "Prostate cancer",
+                "Exercise, lycopene (tomato-rich diet), pomegranate juice (PSA kinetics), soy food, selenium, vitamin D",
+                "High-dose zinc >100mg (may promote prostate cancer)"
+              ],
+              [
+                "Lung cancer",
+                "Exercise, vitamin D (if deficient), ginger (CINV), acupuncture (dyspnoea, pain), omega-3 (cachexia prevention)",
+                "High-dose beta-carotene ★ (Caret trial — 28% ↑ lung cancer risk in smokers)"
+              ],
+              [
+                "Haematological",
+                "Exercise (gentle, HRV-guided), probiotics (if on antibiotics), ginger (CINV), vitamin D",
+                "High-dose vitamin C IV (without oncologist consent), any immunostimulant herbs with stem cell transplant"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Cancer type</th><th>Best-evidenced integrative interventions</th><th>Avoid</th></tr></thead><tbody>\n      <tr><td>Breast cancer ★</td><td>Exercise (↓ recurrence 40%), vitamin D (if deficient), MBSR, acupuncture (hot flushes, CINV), soy food (safe — not supplements)</td><td>High-dose phytoestrogens, high-dose antioxidants during chemo, red clover supplements</td></tr>\n      <tr><td>Colorectal cancer</td><td>Exercise ★ (↓ recurrence 50%), Mediterranean diet, fibre, turmeric/curcumin (adjunct), probiotics during chemo</td><td>High-dose folic acid (may promote cell division), NSAIDs chronically without supervision</td></tr>\n      <tr><td>Prostate cancer</td><td>Exercise, lycopene (tomato-rich diet), pomegranate juice (PSA kinetics), soy food, selenium, vitamin D</td><td>High-dose zinc &gt;100mg (may promote prostate cancer)</td></tr>\n      <tr><td>Lung cancer</td><td>Exercise, vitamin D (if deficient), ginger (CINV), acupuncture (dyspnoea, pain), omega-3 (cachexia prevention)</td><td>High-dose beta-carotene ★ (Caret trial — 28% ↑ lung cancer risk in smokers)</td></tr>\n      <tr><td>Haematological</td><td>Exercise (gentle, HRV-guided), probiotics (if on antibiotics), ginger (CINV), vitamin D</td><td>High-dose vitamin C IV (without oncologist consent), any immunostimulant herbs with stem cell transplant</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "onco-supp-cancer-cachexia-naturopathic-nutritional-support",
+      "title": "Cancer Cachexia — Naturopathic Nutritional Support",
+      "badge": "Clinical",
+      "category": "supp",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "danger",
+            "label": "Definition",
+            "text": "Cancer cachexia = metabolic syndrome of muscle wasting (sarcopenia), anorexia, inflammation and fat loss driven by tumour-host interactions. Present in 80% of advanced cancer. Accounts for 20–30% of cancer deaths directly."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Stage",
+              "Features",
+              "Intervention window"
+            ],
+            "rows": [
+              [
+                "Pre-cachexia",
+                "Weight loss <5%, anorexia, metabolic changes",
+                "Best intervention window — preventive"
+              ],
+              [
+                "Cachexia",
+                "Weight loss >5% (or BMI <20 + >2% loss, or sarcopenia + >2% loss)",
+                "Multimodal — nutrition + exercise + pharmacology"
+              ],
+              [
+                "Refractory cachexia",
+                "Performance status 3–4, progressive disease, life expectancy <3 months",
+                "Comfort and dignity focus"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Nutritional intervention",
+              "Evidence",
+              "Protocol"
+            ],
+            "rows": [
+              [
+                "Protein ★",
+                "Grade A — 1.5–2.0g/kg/day to preserve lean mass",
+                "Leucine-rich sources (whey protein, legumes, fish). Small frequent meals."
+              ],
+              [
+                "Omega-3 (EPA) ★",
+                "Grade A — EPA 2g/day attenuates muscle wasting",
+                "Fish oil supplement. EPA preferentially over DHA. Liquid form for poor appetite."
+              ],
+              [
+                "Oral nutritional supplements",
+                "Grade B — improves intake and QoL",
+                "High-calorie, high-protein. Fortisip, Ensure Plus. Small volume, high density."
+              ],
+              [
+                "Resistance exercise",
+                "Grade B — anabolic stimulus, preserves muscle",
+                "2–3x/week even low intensity. Supervised initially."
+              ],
+              [
+                "Megestrol acetate",
+                "Improves appetite — conventional option",
+                "DVT/PE risk. Short-term. Consult oncologist."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 EPA — the anti-cachectic omega-3",
+            "text": "Eicosapentaenoic acid (EPA), not DHA, is the key anti-cachectic omega-3. Mechanism: ↓ PIF (proteolysis-inducing factor), ↓ NF-κB, ↓ muscle ubiquitin-proteasome pathway. Dose: 2g EPA/day from fish oil. Clinical trials show stabilisation of weight and lean mass in pancreatic and lung cancer cachexia. Liquid fish oil is better tolerated when appetite is poor."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">Definition</div>Cancer cachexia = metabolic syndrome of muscle wasting (sarcopenia), anorexia, inflammation and fat loss driven by tumour-host interactions. Present in 80% of advanced cancer. Accounts for 20–30% of cancer deaths directly.</div>\n    <table class=\"tbl\"><thead><tr><th>Stage</th><th>Features</th><th>Intervention window</th></tr></thead><tbody>\n      <tr><td>Pre-cachexia</td><td>Weight loss &lt;5%, anorexia, metabolic changes</td><td>Best intervention window — preventive</td></tr>\n      <tr><td>Cachexia</td><td>Weight loss &gt;5% (or BMI &lt;20 + &gt;2% loss, or sarcopenia + &gt;2% loss)</td><td>Multimodal — nutrition + exercise + pharmacology</td></tr>\n      <tr><td>Refractory cachexia</td><td>Performance status 3–4, progressive disease, life expectancy &lt;3 months</td><td>Comfort and dignity focus</td></tr>\n    </tbody></table>\n    <table class=\"tbl\"><thead><tr><th>Nutritional intervention</th><th>Evidence</th><th>Protocol</th></tr></thead><tbody>\n      <tr><td>Protein ★</td><td>Grade A — 1.5–2.0g/kg/day to preserve lean mass</td><td>Leucine-rich sources (whey protein, legumes, fish). Small frequent meals.</td></tr>\n      <tr><td>Omega-3 (EPA) ★</td><td>Grade A — EPA 2g/day attenuates muscle wasting</td><td>Fish oil supplement. EPA preferentially over DHA. Liquid form for poor appetite.</td></tr>\n      <tr><td>Oral nutritional supplements</td><td>Grade B — improves intake and QoL</td><td>High-calorie, high-protein. Fortisip, Ensure Plus. Small volume, high density.</td></tr>\n      <tr><td>Resistance exercise</td><td>Grade B — anabolic stimulus, preserves muscle</td><td>2–3x/week even low intensity. Supervised initially.</td></tr>\n      <tr><td>Megestrol acetate</td><td>Improves appetite — conventional option</td><td>DVT/PE risk. Short-term. Consult oncologist.</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 EPA — the anti-cachectic omega-3</div><div class=\"pt\">Eicosapentaenoic acid (EPA), not DHA, is the key anti-cachectic omega-3. Mechanism: ↓ PIF (proteolysis-inducing factor), ↓ NF-κB, ↓ muscle ubiquitin-proteasome pathway. Dose: 2g EPA/day from fish oil. Clinical trials show stabilisation of weight and lean mass in pancreatic and lung cancer cachexia. Liquid fish oil is better tolerated when appetite is poor.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "onco-supp-cancer-sleep-managing-treatment-related-insomnia",
+      "title": "Cancer & Sleep — Managing Treatment-Related Insomnia",
+      "badge": "Supportive Care",
+      "category": "supp",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Cause of insomnia in cancer",
+              "Naturopathic approach"
+            ],
+            "rows": [
+              [
+                "Corticosteroids (dexamethasone) — very common",
+                "Take steroids before 12pm if possible. Tart cherry juice (melatonin precursor). L-theanine 200mg."
+              ],
+              [
+                "Hot flushes (hormone therapy)",
+                "Acupuncture ★ (Grade A), black cohosh, venlafaxine (conventional). Cool bedroom."
+              ],
+              [
+                "Pain-related waking",
+                "Optimise analgesia timing. Melatonin 3–10mg for pain modulation (acts on pain pathways). Yoga nidra."
+              ],
+              [
+                "Anxiety and fear",
+                "CBT-I + mindfulness. MBSR (Grade A for cancer anxiety). Ashwagandha 600mg (if not on anticoagulants)."
+              ],
+              [
+                "Chemo fatigue paradox (exhausted but can't sleep)",
+                "Moderate aerobic exercise ★ (Grade A) — most evidence. Restrict caffeine to before 12pm."
+              ],
+              [
+                "Nausea (overnight)",
+                "Ginger tea before bed, acupressure P6 point. Small dry crackers at bedside. Ondansetron if prescribed."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Melatonin in cancer — dual role",
+            "text": "Melatonin serves dual roles: (1) sleep regulation — 3–10mg 30 min before bed, (2) oncostatic — radiosensitiser, anti-proliferative, antioxidant, immune-modulatory at 20–40mg doses. Grade B evidence for QoL improvement. Safe with most regimens — check with oncologist for hormone-sensitive cancers. Always start with 3mg and titrate up over 2–4 weeks."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Cause of insomnia in cancer</th><th>Naturopathic approach</th></tr></thead><tbody>\n      <tr><td>Corticosteroids (dexamethasone) — very common</td><td>Take steroids before 12pm if possible. Tart cherry juice (melatonin precursor). L-theanine 200mg.</td></tr>\n      <tr><td>Hot flushes (hormone therapy)</td><td>Acupuncture ★ (Grade A), black cohosh, venlafaxine (conventional). Cool bedroom.</td></tr>\n      <tr><td>Pain-related waking</td><td>Optimise analgesia timing. Melatonin 3–10mg for pain modulation (acts on pain pathways). Yoga nidra.</td></tr>\n      <tr><td>Anxiety and fear</td><td>CBT-I + mindfulness. MBSR (Grade A for cancer anxiety). Ashwagandha 600mg (if not on anticoagulants).</td></tr>\n      <tr><td>Chemo fatigue paradox (exhausted but can't sleep)</td><td>Moderate aerobic exercise ★ (Grade A) — most evidence. Restrict caffeine to before 12pm.</td></tr>\n      <tr><td>Nausea (overnight)</td><td>Ginger tea before bed, acupressure P6 point. Small dry crackers at bedside. Ondansetron if prescribed.</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Melatonin in cancer — dual role</div><div class=\"pt\">Melatonin serves dual roles: (1) sleep regulation — 3–10mg 30 min before bed, (2) oncostatic — radiosensitiser, anti-proliferative, antioxidant, immune-modulatory at 20–40mg doses. Grade B evidence for QoL improvement. Safe with most regimens — check with oncologist for hormone-sensitive cancers. Always start with 3mg and titrate up over 2–4 weeks.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "onco-supp-chemotherapy-side-effect-management",
+      "title": "Chemotherapy Side Effect Management",
+      "badge": "Oncology ★",
+      "category": "supp",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "danger",
+            "label": "⚠️ All naturopathic support during chemotherapy requires oncologist approval",
+            "text": "Some supplements interact with chemotherapy — either reducing efficacy (antioxidants during certain regimens) or increasing toxicity. Always disclose to the oncology team. General principle: focus on non-supplement naturopathic interventions first (exercise, diet, mind-body), then discuss supplement support with the team."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Side Effect",
+              "Naturopathic Intervention",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "Nausea/vomiting (CINV)",
+                "Acupuncture PC6 ★★★ (endorsed by ASCO and SIO), ginger 250mg QID ★★★ (comparable to metoclopramide for mild CINV), P6 acupressure bands (Sea-Bands)",
+                "★★★ PC6 acupuncture — Cochrane Grade A"
+              ],
+              [
+                "Mucositis (oral)",
+                "Glutamine oral rinse 1–2g in water 4×/day ★★★, manuka honey UMF10+ coating ★★★, cryotherapy (ice chips during infusion for 5-FU) ★★★, gentle saline rinses, avoid spicy/acid foods",
+                "★★★ Glutamine RCT (grade 2 mucositis prevention)"
+              ],
+              [
+                "Cancer-related fatigue",
+                "Exercise ★★★ (most evidence-based intervention — walking 30 min/day), yoga ★★★, acupuncture ★★, cognitive adaptation techniques, pacing strategy",
+                "★★★ Exercise meta-analysis: 27% fatigue reduction"
+              ],
+              [
+                "Chemotherapy-induced peripheral neuropathy (CIPN)",
+                "Alpha-lipoic acid 600mg IV/oral ★★★, B12 methylcobalamin 1000mcg ★★★, acetyl-L-carnitine 2g ★★, omega-3 3g ★★, glovestocking exercises, heat therapy",
+                "★★★ ALA for CIPN — multiple RCTs"
+              ],
+              [
+                "Bone marrow suppression (neutropenia)",
+                "Mushroom beta-glucans (reishi, turkey tail — PSK ★★★ Japanese oncology standard), astragalus ★★ (stimulates G-CSF), Vit D ★★, probiotics for GI immunity (LGG, Saccharomyces). Avoid: Echinacea (may interfere with immunosuppressive chemo)",
+                "★★★ PSK (turkey tail) — Japanese oncology adjunct for 30+ years"
+              ],
+              [
+                "Hot flushes (hormonal therapy)",
+                "Acupuncture ★★★ (Grade A — SIO endorsed), venlafaxine equivalent (conventional), black cohosh controversial in ER+ (discuss with oncologist), mindfulness ★★",
+                "★★★ Acupuncture for hot flushes in breast cancer"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">⚠️ All naturopathic support during chemotherapy requires oncologist approval</div>Some supplements interact with chemotherapy — either reducing efficacy (antioxidants during certain regimens) or increasing toxicity. Always disclose to the oncology team. General principle: focus on non-supplement naturopathic interventions first (exercise, diet, mind-body), then discuss supplement support with the team.</div>\n    <table class=\"tbl\"><thead><tr><th>Side Effect</th><th>Naturopathic Intervention</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td>Nausea/vomiting (CINV)</td><td>Acupuncture PC6 ★★★ (endorsed by ASCO and SIO), ginger 250mg QID ★★★ (comparable to metoclopramide for mild CINV), P6 acupressure bands (Sea-Bands)</td><td>★★★ PC6 acupuncture — Cochrane Grade A</td></tr>\n      <tr><td>Mucositis (oral)</td><td>Glutamine oral rinse 1–2g in water 4×/day ★★★, manuka honey UMF10+ coating ★★★, cryotherapy (ice chips during infusion for 5-FU) ★★★, gentle saline rinses, avoid spicy/acid foods</td><td>★★★ Glutamine RCT (grade 2 mucositis prevention)</td></tr>\n      <tr><td>Cancer-related fatigue</td><td>Exercise ★★★ (most evidence-based intervention — walking 30 min/day), yoga ★★★, acupuncture ★★, cognitive adaptation techniques, pacing strategy</td><td>★★★ Exercise meta-analysis: 27% fatigue reduction</td></tr>\n      <tr><td>Chemotherapy-induced peripheral neuropathy (CIPN)</td><td>Alpha-lipoic acid 600mg IV/oral ★★★, B12 methylcobalamin 1000mcg ★★★, acetyl-L-carnitine 2g ★★, omega-3 3g ★★, glovestocking exercises, heat therapy</td><td>★★★ ALA for CIPN — multiple RCTs</td></tr>\n      <tr><td>Bone marrow suppression (neutropenia)</td><td>Mushroom beta-glucans (reishi, turkey tail — PSK ★★★ Japanese oncology standard), astragalus ★★ (stimulates G-CSF), Vit D ★★, probiotics for GI immunity (LGG, Saccharomyces). Avoid: Echinacea (may interfere with immunosuppressive chemo)</td><td>★★★ PSK (turkey tail) — Japanese oncology adjunct for 30+ years</td></tr>\n      <tr><td>Hot flushes (hormonal therapy)</td><td>Acupuncture ★★★ (Grade A — SIO endorsed), venlafaxine equivalent (conventional), black cohosh controversial in ER+ (discuss with oncologist), mindfulness ★★</td><td>★★★ Acupuncture for hot flushes in breast cancer</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "onco-supp-cancer-survivorship-long-term-naturopathic",
+      "title": "Cancer Survivorship — Long-Term Naturopathic",
+      "badge": "Supportive",
+      "category": "supp",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Cancer Survivorship — A New Naturopathic Frontier",
+            "text": "With cancer survival rates improving (5-year survival now 68% overall), there are more cancer survivors than ever. Survivorship care addresses: long-term treatment side effects, psychological adaptation, secondary prevention, and health promotion. BNYS practitioners are ideally positioned for the prevention-focused, holistic survivorship care model."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Issue",
+              "Naturopathic Approach",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "Post-treatment fatigue syndrome",
+                "Graded exercise ★★★ (must be gradual), Vit D correction, B12, thyroid screening (radiation-induced hypothyroidism), CoQ10, sleep optimisation, MBSR ★★★",
+                "★★★ Exercise most effective — reduces long-term cancer fatigue"
+              ],
+              [
+                "Cognitive impairment (chemo brain)",
+                "Exercise ★★★ (BDNF), omega-3 DHA 2g ★★, lion's mane ★★, cognitive training, sleep priority, manage depression, estrogen normalisation (if hormone-related)",
+                "★★ Emerging evidence for omega-3 + exercise combination"
+              ],
+              [
+                "Bone health (aromatase inhibitors)",
+                "Ca 1000mg + D3 4000IU + K2 MK-7 180mcg ★★★ (mandatory with AI therapy), resistance training, denosumab if significant bone loss (conventional)",
+                "★★★ Ca+D3 protocol in AI-treated breast cancer"
+              ],
+              [
+                "Weight management (breast cancer)",
+                "Mediterranean diet ★★★ (reduces breast cancer recurrence in PREDIMED-Plus). Caloric deficit if overweight. Exercise 150 min/week ★★★. Avoid: obesity increases oestrogen and cancer recurrence risk.",
+                "★★★ Multiple RCTs linking exercise + Mediterranean diet to recurrence reduction"
+              ],
+              [
+                "Psychological adjustment",
+                "MBSR 8-week ★★★ (reduces cancer distress, fatigue, improves QoL), yoga ★★★, ACT (acceptance and commitment therapy), fear of recurrence management (specific CBT protocol), support groups",
+                "★★★ MBSR in cancer survivorship — landmark Carlson RCTs"
+              ],
+              [
+                "Secondary prevention (recurrence)",
+                "Maintain healthy weight ★★★, exercise 150+ min/week ★★★, Mediterranean diet, adequate sleep, avoid alcohol, eliminate smoking. For hormone-sensitive cancers: phytoestrogen caution — discuss with oncologist (soy safe, high-dose isoflavone supplements — discuss)",
+                "★★★ Lifestyle factors reduce recurrence 30–50% across cancer types"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Cancer Survivorship — A New Naturopathic Frontier</div>With cancer survival rates improving (5-year survival now 68% overall), there are more cancer survivors than ever. Survivorship care addresses: long-term treatment side effects, psychological adaptation, secondary prevention, and health promotion. BNYS practitioners are ideally positioned for the prevention-focused, holistic survivorship care model.</div>\n    <table class=\"tbl\"><thead><tr><th>Issue</th><th>Naturopathic Approach</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td>Post-treatment fatigue syndrome</td><td>Graded exercise ★★★ (must be gradual), Vit D correction, B12, thyroid screening (radiation-induced hypothyroidism), CoQ10, sleep optimisation, MBSR ★★★</td><td>★★★ Exercise most effective — reduces long-term cancer fatigue</td></tr>\n      <tr><td>Cognitive impairment (chemo brain)</td><td>Exercise ★★★ (BDNF), omega-3 DHA 2g ★★, lion's mane ★★, cognitive training, sleep priority, manage depression, estrogen normalisation (if hormone-related)</td><td>★★ Emerging evidence for omega-3 + exercise combination</td></tr>\n      <tr><td>Bone health (aromatase inhibitors)</td><td>Ca 1000mg + D3 4000IU + K2 MK-7 180mcg ★★★ (mandatory with AI therapy), resistance training, denosumab if significant bone loss (conventional)</td><td>★★★ Ca+D3 protocol in AI-treated breast cancer</td></tr>\n      <tr><td>Weight management (breast cancer)</td><td>Mediterranean diet ★★★ (reduces breast cancer recurrence in PREDIMED-Plus). Caloric deficit if overweight. Exercise 150 min/week ★★★. Avoid: obesity increases oestrogen and cancer recurrence risk.</td><td>★★★ Multiple RCTs linking exercise + Mediterranean diet to recurrence reduction</td></tr>\n      <tr><td>Psychological adjustment</td><td>MBSR 8-week ★★★ (reduces cancer distress, fatigue, improves QoL), yoga ★★★, ACT (acceptance and commitment therapy), fear of recurrence management (specific CBT protocol), support groups</td><td>★★★ MBSR in cancer survivorship — landmark Carlson RCTs</td></tr>\n      <tr><td>Secondary prevention (recurrence)</td><td>Maintain healthy weight ★★★, exercise 150+ min/week ★★★, Mediterranean diet, adequate sleep, avoid alcohol, eliminate smoking. For hormone-sensitive cancers: phytoestrogen caution — discuss with oncologist (soy safe, high-dose isoflavone supplements — discuss)</td><td>★★★ Lifestyle factors reduce recurrence 30–50% across cancer types</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "onco-supp-palliative-naturopathy-symptom-management",
+      "title": "Palliative Naturopathy — Symptom Management",
+      "badge": "Supportive",
+      "category": "supp",
+      "section": "onco",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Palliative Naturopathy — Dignity and Comfort at Every Stage",
+            "text": "Palliative care is not about giving up — it is about maximising quality of life, dignity, and comfort at every stage of serious illness. BNYS practitioners can contribute meaningfully to palliative care through: symptom management, family support, spiritual support, and ensuring the patient retains agency and naturopathic identity through illness."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Symptom",
+              "Naturopathic Approach",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "Pain",
+                "Acupuncture ★★★ (analgesic — reduce opioid requirement), massage ★★ (comfort, connective touch), TENS ★★, topical arnica/capsaicin, heat therapy. Hydrotherapy: warm baths for bone metastasis pain.",
+                "Work within palliative care team. Never withhold opioids when needed. Acupuncture reduces opioid requirements by 30% in cancer pain (meta-analysis)"
+              ],
+              [
+                "Breathlessness",
+                "Handheld fan to face ★★★ (vagal reflex reduces dyspnoea sensation even without SpO2 change), Pranayama (slow 4-count exhale), positioning (sitting forward, supported arms). Oxygen only if SpO2 <90%.",
+                "Fan therapy is remarkably effective and evidence-based for dyspnoea at end of life. Ensure family knows this technique."
+              ],
+              [
+                "Anorexia/Cachexia",
+                "Small, frequent, favourite foods. High-calorie density (avocado, nuts, healthy oils, protein powder). Ginger for nausea ★★★. Megestrol (medical). Cannabis (antiemetic, appetite stimulation — where legal). Social meals.",
+                "Do not force food near end of life — it is natural for appetite to diminish. Focus on pleasure and social connection of eating, not caloric targets."
+              ],
+              [
+                "Constipation (opioid-induced)",
+                "Senna (stimulant laxative — first choice for opioid constipation ★★★). Osmotic laxatives (lactulose, PEG). Probiotics. Abdominal massage ★★. Adequate hydration (if able). Positioning (squat-like). Macrogol for prophylaxis when starting opioids.",
+                "Opioid-induced constipation does not respond to fibre alone — needs stimulant laxative. Start laxative with EVERY opioid prescription."
+              ],
+              [
+                "Existential distress / Spiritual pain",
+                "Yoga Nidra ★★★ (reduces existential distress in RCT at end of life — Samueli Institute). Dignity therapy (recording life narrative). Meaning-centred therapy. Chaplaincy/spiritual care. Mindfulness — focusing on present experience. Art therapy, music therapy.",
+                "Spiritual care is legitimate medicine — ask about meaning, fear, unfinished business, legacy. \"What matters most to you now?\" is the most important end-of-life question."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Palliative Naturopathy — Dignity and Comfort at Every Stage</div>Palliative care is not about giving up — it is about maximising quality of life, dignity, and comfort at every stage of serious illness. BNYS practitioners can contribute meaningfully to palliative care through: symptom management, family support, spiritual support, and ensuring the patient retains agency and naturopathic identity through illness.</div>\n    <table class=\"tbl\"><thead><tr><th>Symptom</th><th>Naturopathic Approach</th><th>Notes</th></tr></thead><tbody>\n      <tr><td><strong>Pain</strong></td><td>Acupuncture ★★★ (analgesic — reduce opioid requirement), massage ★★ (comfort, connective touch), TENS ★★, topical arnica/capsaicin, heat therapy. Hydrotherapy: warm baths for bone metastasis pain.</td><td>Work within palliative care team. Never withhold opioids when needed. Acupuncture reduces opioid requirements by 30% in cancer pain (meta-analysis)</td></tr>\n      <tr><td><strong>Breathlessness</strong></td><td>Handheld fan to face ★★★ (vagal reflex reduces dyspnoea sensation even without SpO2 change), Pranayama (slow 4-count exhale), positioning (sitting forward, supported arms). Oxygen only if SpO2 &lt;90%.</td><td>Fan therapy is remarkably effective and evidence-based for dyspnoea at end of life. Ensure family knows this technique.</td></tr>\n      <tr><td><strong>Anorexia/Cachexia</strong></td><td>Small, frequent, favourite foods. High-calorie density (avocado, nuts, healthy oils, protein powder). Ginger for nausea ★★★. Megestrol (medical). Cannabis (antiemetic, appetite stimulation — where legal). Social meals.</td><td>Do not force food near end of life — it is natural for appetite to diminish. Focus on pleasure and social connection of eating, not caloric targets.</td></tr>\n      <tr><td><strong>Constipation (opioid-induced)</strong></td><td>Senna (stimulant laxative — first choice for opioid constipation ★★★). Osmotic laxatives (lactulose, PEG). Probiotics. Abdominal massage ★★. Adequate hydration (if able). Positioning (squat-like). Macrogol for prophylaxis when starting opioids.</td><td>Opioid-induced constipation does not respond to fibre alone — needs stimulant laxative. Start laxative with EVERY opioid prescription.</td></tr>\n      <tr><td><strong>Existential distress / Spiritual pain</strong></td><td>Yoga Nidra ★★★ (reduces existential distress in RCT at end of life — Samueli Institute). Dignity therapy (recording life narrative). Meaning-centred therapy. Chaplaincy/spiritual care. Mindfulness — focusing on present experience. Art therapy, music therapy.</td><td>Spiritual care is legitimate medicine — ask about meaning, fear, unfinished business, legacy. \"What matters most to you now?\" is the most important end-of-life question.</td></tr>\n    </tbody></table>",
+      "_review": false
+    }
+  ]
+}
