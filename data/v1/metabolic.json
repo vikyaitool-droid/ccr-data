@@ -1,10 +1,300 @@
 {
+  "schemaVersion": "1.0",
+  "section": "metabolic",
+  "generatedAt": "2026-04-13T11:49:24.526Z",
+  "cardCount": 4,
   "cards": [
     {
-      "title": "Metabolic Syndrome & Protocols",
-      "badge": "",
+      "id": "metabolic-met-type-2-diabetes-comprehensive-bnys-protocol",
+      "title": "Type 2 Diabetes — Comprehensive BNYS Protocol",
+      "badge": "Priority",
       "category": "met",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>IDF criteria: Waist + any 2 of 4</li><li>Insulin resistance: Naturopathic reversal protocol</li><li>Obesity management: Phytotherapy, exercise, IF</li><li>Hypothyroidism: Holistic management plan</li></ul></div>"
+      "section": "metabolic",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Pillar",
+              "Intervention",
+              "Evidence/Dose"
+            ],
+            "rows": [
+              [
+                "Diet",
+                "Low-GI Mediterranean or low-carb ★",
+                "Carbs <130g/day, eliminate refined sugar, fibre 35+g/day"
+              ],
+              [
+                "Exercise ★★",
+                "Aerobic + resistance training",
+                "150 min/week + 2× resistance. Post-meal walking 10 min ↓PPG 22%"
+              ],
+              [
+                "Berberine ★",
+                "AMPK activation (metformin equivalent in RCTs)",
+                "500mg TDS with meals. Additive with metformin."
+              ],
+              [
+                "Inositol",
+                "Insulin second messenger restoration",
+                "Myo-inositol 4g/day + D-chiro-inositol 400mg (40:1 ratio)"
+              ],
+              [
+                "Bitter melon (Karela)",
+                "Insulin-mimetic peptides",
+                "Fresh juice 50–100ml/day or extract 1000mg TDS"
+              ],
+              [
+                "Alpha-lipoic acid",
+                "Insulin sensitiser + neuropathy",
+                "600–1200mg/day. Reduces HbA1c ~0.5%"
+              ],
+              [
+                "Intermittent fasting",
+                "↓ Insulin resistance, β-cell recovery",
+                "16:8 TRE or 5:2 protocol. Not for insulin-dependent without supervision."
+              ],
+              [
+                "Yoga therapy ★",
+                "HPA axis, vagal tone, muscle glucose uptake",
+                "Surya Namaskar 12 rounds + Pranayama 30 min. ↓HbA1c ~0.5% RCTs."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 T2DM reversal — the 3-month window",
+            "text": "T2DM is reversible in early-stage patients. DiRECT trial: 15kg+ weight loss → 46% remission at 1 year. β-cell function recovers when hepatic + pancreatic fat is depleted. BNYS intensive residential programmes show 60–80% medication reduction in motivated patients within 3 months. Document as \"remission\" (HbA1c <6.5% off medication ≥3 months), not \"cure\"."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"nv-grid\">\n      <div class=\"nv-card\"><div class=\"nv-label\">Diagnosis (ADA)</div><div class=\"nv-val\">FPG ≥7.0 · 2hPG ≥11.1 · HbA1c ≥6.5% · Random ≥11.1 + symptoms</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">BNYS targets</div><div class=\"nv-val\">FPG 5.0–7.2 · 2hPP &lt;10.0 · HbA1c &lt;7.0%</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">Monitoring</div><div class=\"nv-val\">HbA1c 3-monthly · HOMA-IR · Urine ACR · Lipids · eGFR</div></div>\n    </div>\n    <table class=\"tbl\"><thead><tr><th>Pillar</th><th>Intervention</th><th>Evidence/Dose</th></tr></thead><tbody>\n      <tr><td>Diet</td><td>Low-GI Mediterranean or low-carb ★</td><td>Carbs &lt;130g/day, eliminate refined sugar, fibre 35+g/day</td></tr>\n      <tr><td>Exercise ★★</td><td>Aerobic + resistance training</td><td>150 min/week + 2× resistance. Post-meal walking 10 min ↓PPG 22%</td></tr>\n      <tr><td>Berberine ★</td><td>AMPK activation (metformin equivalent in RCTs)</td><td>500mg TDS with meals. Additive with metformin.</td></tr>\n      <tr><td>Inositol</td><td>Insulin second messenger restoration</td><td>Myo-inositol 4g/day + D-chiro-inositol 400mg (40:1 ratio)</td></tr>\n      <tr><td>Bitter melon (Karela)</td><td>Insulin-mimetic peptides</td><td>Fresh juice 50–100ml/day or extract 1000mg TDS</td></tr>\n      <tr><td>Alpha-lipoic acid</td><td>Insulin sensitiser + neuropathy</td><td>600–1200mg/day. Reduces HbA1c ~0.5%</td></tr>\n      <tr><td>Intermittent fasting</td><td>↓ Insulin resistance, β-cell recovery</td><td>16:8 TRE or 5:2 protocol. Not for insulin-dependent without supervision.</td></tr>\n      <tr><td>Yoga therapy ★</td><td>HPA axis, vagal tone, muscle glucose uptake</td><td>Surya Namaskar 12 rounds + Pranayama 30 min. ↓HbA1c ~0.5% RCTs.</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 T2DM reversal — the 3-month window</div><div class=\"pt\">T2DM is reversible in early-stage patients. DiRECT trial: 15kg+ weight loss → 46% remission at 1 year. β-cell function recovers when hepatic + pancreatic fat is depleted. BNYS intensive residential programmes show 60–80% medication reduction in motivated patients within 3 months. Document as \"remission\" (HbA1c &lt;6.5% off medication ≥3 months), not \"cure\".</div></div>",
+      "_review": false
+    },
+    {
+      "id": "metabolic-met-metabolic-syndrome-assessment-full-protocol",
+      "title": "Metabolic Syndrome — Assessment & Full Protocol",
+      "badge": "Core",
+      "category": "met",
+      "section": "metabolic",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "IDF/AHA Harmonised Definition — 3 of 5 criteria",
+            "text": "1. Waist ≥94cm (M) / ≥80cm (F) [South Asian: ≥90/≥80]\n    2. TG ≥1.7 mmol/L · 3. HDL <1.0 (M) / <1.3 (F) mmol/L\n    4. BP ≥130/85 mmHg · 5. FPG ≥5.6 mmol/L"
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Component",
+              "Root cause",
+              "BNYS intervention"
+            ],
+            "rows": [
+              [
+                "Central obesity",
+                "↑ Visceral fat → ↑ FFA → insulin resistance",
+                "Caloric restriction 500–750 kcal deficit, low-carb, HIIT"
+              ],
+              [
+                "Insulin resistance",
+                "↓ GLUT-4, ↑ hepatic glucose output",
+                "Berberine 500mg TDS, inositol 4g/day, fasting (16:8)"
+              ],
+              [
+                "Dyslipidaemia",
+                "↑ VLDL (from IR), ↓ HDL",
+                "Omega-3 2–4g/day, niacin (↑HDL), dietary fibre (psyllium)"
+              ],
+              [
+                "Hypertension",
+                "↑ Sympathetic tone, ↑ RAAS",
+                "DASH diet, Mg glycinate 400mg, CoQ10 200mg, hibiscus tea"
+              ],
+              [
+                "Impaired FPG",
+                "β-cell dysfunction + peripheral IR",
+                "Cinnamon 1–3g/day, ACV 15ml before meals"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Sleep + metabolic syndrome",
+            "text": "Even 1 week of sleep restriction (5hr/night) induces insulin resistance comparable to 6 months of high-fat diet. Poor sleep ↑ ghrelin (hunger) ↓ leptin (satiety) → 300–500 extra kcal/day. Treating sleep apnoea reduces HbA1c, BP, and waist circumference independently of other lifestyle changes. Sleep is non-negotiable in metabolic medicine."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-info\"><div class=\"a-label\">IDF/AHA Harmonised Definition — 3 of 5 criteria</div>\n    1. Waist ≥94cm (M) / ≥80cm (F) [South Asian: ≥90/≥80]<br>\n    2. TG ≥1.7 mmol/L · 3. HDL &lt;1.0 (M) / &lt;1.3 (F) mmol/L<br>\n    4. BP ≥130/85 mmHg · 5. FPG ≥5.6 mmol/L</div>\n    <table class=\"tbl\"><thead><tr><th>Component</th><th>Root cause</th><th>BNYS intervention</th></tr></thead><tbody>\n      <tr><td>Central obesity</td><td>↑ Visceral fat → ↑ FFA → insulin resistance</td><td>Caloric restriction 500–750 kcal deficit, low-carb, HIIT</td></tr>\n      <tr><td>Insulin resistance</td><td>↓ GLUT-4, ↑ hepatic glucose output</td><td>Berberine 500mg TDS, inositol 4g/day, fasting (16:8)</td></tr>\n      <tr><td>Dyslipidaemia</td><td>↑ VLDL (from IR), ↓ HDL</td><td>Omega-3 2–4g/day, niacin (↑HDL), dietary fibre (psyllium)</td></tr>\n      <tr><td>Hypertension</td><td>↑ Sympathetic tone, ↑ RAAS</td><td>DASH diet, Mg glycinate 400mg, CoQ10 200mg, hibiscus tea</td></tr>\n      <tr><td>Impaired FPG</td><td>β-cell dysfunction + peripheral IR</td><td>Cinnamon 1–3g/day, ACV 15ml before meals</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Sleep + metabolic syndrome</div><div class=\"pt\">Even 1 week of sleep restriction (5hr/night) induces insulin resistance comparable to 6 months of high-fat diet. Poor sleep ↑ ghrelin (hunger) ↓ leptin (satiety) → 300–500 extra kcal/day. Treating sleep apnoea reduces HbA1c, BP, and waist circumference independently of other lifestyle changes. Sleep is non-negotiable in metabolic medicine.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "metabolic-met-hypothyroidism-functional-assessment-protocol",
+      "title": "Hypothyroidism — Functional Assessment & Protocol",
+      "badge": "Common",
+      "category": "met",
+      "section": "metabolic",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Marker",
+              "Lab Normal",
+              "Functional Optimal",
+              "If suboptimal"
+            ],
+            "rows": [
+              [
+                "TSH",
+                "0.5–4.5 mIU/L",
+                "0.5–2.0 mIU/L",
+                "TSH 2–4 + symptoms = subclinical hypothyroid → treat"
+              ],
+              [
+                "Free T4",
+                "9–24 pmol/L",
+                "15–23 pmol/L",
+                "Low T4 + symptoms = refer for levothyroxine"
+              ],
+              [
+                "Free T3",
+                "3.5–6.5 pmol/L",
+                "5.0–6.5 pmol/L",
+                "Low T3 + normal T4 = poor T4→T3 conversion (check selenium, zinc, stress)"
+              ],
+              [
+                "Reverse T3",
+                "<22 ng/dL",
+                "<15 ng/dL",
+                "↑ rT3 = T4 shunted to inactive form: stress, caloric restriction, IR"
+              ],
+              [
+                "Anti-TPO antibodies",
+                "<35 IU/mL",
+                "<15 IU/mL",
+                "Elevated = Hashimoto's → gluten-free + selenium 200µg + vitamin D"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Naturopathic intervention",
+              "Dose",
+              "Mechanism"
+            ],
+            "rows": [
+              [
+                "Selenium ★",
+                "200 µg/day selenomethionine",
+                "T4→T3 conversion; reduces anti-TPO by 50% in Hashimoto's RCTs"
+              ],
+              [
+                "Zinc",
+                "25–30 mg/day bisglycinate",
+                "Thyroid hormone receptor binding, T4→T3 conversion"
+              ],
+              [
+                "Ashwagandha (KSM-66)",
+                "300–600 mg twice daily",
+                "↑ T3 and T4 in RCTs of subclinical hypothyroid; ↓ cortisol → normalises rT3"
+              ],
+              [
+                "Gluten-free diet",
+                "Strict elimination",
+                "Molecular mimicry (gliadin vs thyroid tissue) → ↓anti-TPO in 80% within 6 months"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Marker</th><th>Lab Normal</th><th>Functional Optimal</th><th>If suboptimal</th></tr></thead><tbody>\n      <tr><td>TSH</td><td>0.5–4.5 mIU/L</td><td>0.5–2.0 mIU/L</td><td>TSH 2–4 + symptoms = subclinical hypothyroid → treat</td></tr>\n      <tr><td>Free T4</td><td>9–24 pmol/L</td><td>15–23 pmol/L</td><td>Low T4 + symptoms = refer for levothyroxine</td></tr>\n      <tr><td>Free T3</td><td>3.5–6.5 pmol/L</td><td>5.0–6.5 pmol/L</td><td>Low T3 + normal T4 = poor T4→T3 conversion (check selenium, zinc, stress)</td></tr>\n      <tr><td>Reverse T3</td><td>&lt;22 ng/dL</td><td>&lt;15 ng/dL</td><td>↑ rT3 = T4 shunted to inactive form: stress, caloric restriction, IR</td></tr>\n      <tr><td>Anti-TPO antibodies</td><td>&lt;35 IU/mL</td><td>&lt;15 IU/mL</td><td>Elevated = Hashimoto's → gluten-free + selenium 200µg + vitamin D</td></tr>\n    </tbody></table>\n    <table class=\"tbl\"><thead><tr><th>Naturopathic intervention</th><th>Dose</th><th>Mechanism</th></tr></thead><tbody>\n      <tr><td>Selenium ★</td><td>200 µg/day selenomethionine</td><td>T4→T3 conversion; reduces anti-TPO by 50% in Hashimoto's RCTs</td></tr>\n      <tr><td>Zinc</td><td>25–30 mg/day bisglycinate</td><td>Thyroid hormone receptor binding, T4→T3 conversion</td></tr>\n      <tr><td>Ashwagandha (KSM-66)</td><td>300–600 mg twice daily</td><td>↑ T3 and T4 in RCTs of subclinical hypothyroid; ↓ cortisol → normalises rT3</td></tr>\n      <tr><td>Gluten-free diet</td><td>Strict elimination</td><td>Molecular mimicry (gliadin vs thyroid tissue) → ↓anti-TPO in 80% within 6 months</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "metabolic-met-obesity-naturopathic-assessment-protocol",
+      "title": "Obesity — Naturopathic Assessment & Protocol",
+      "badge": "Core",
+      "category": "met",
+      "section": "metabolic",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Intervention",
+              "Expected effect",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "Caloric deficit 500–750 kcal/day",
+                "0.5–1 kg/week",
+                "Grade A — cornerstone"
+              ],
+              [
+                "Low-carbohydrate diet (<130g CHO)",
+                "Superior short-term vs low-fat",
+                "Grade A — ↓ insulin, hunger, TG"
+              ],
+              [
+                "Time-restricted eating (16:8)",
+                "3–8% body weight over 12 weeks",
+                "Grade B — independent of calorie counting"
+              ],
+              [
+                "Protein >1.2g/kg/day",
+                "Preserves muscle, ↑ satiety",
+                "Grade A"
+              ],
+              [
+                "Sleep optimisation (>7hr)",
+                "↓ ghrelin, ↑ leptin sensitivity",
+                "Grade B — poor sleep sabotages all other interventions"
+              ],
+              [
+                "Glucomannan (konjac)",
+                "~0.5 kg/month additional",
+                "Grade B — 1g before meals with water"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"nv-grid\">\n      <div class=\"nv-card\"><div class=\"nv-label\">BMI classification</div><div class=\"nv-val\">Normal 18.5–24.9 · Overweight 25–29.9 · Obese I 30–34.9 · II 35–39.9 · III ≥40</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">Asian cutoffs</div><div class=\"nv-val\">Overweight ≥23 · Obese ≥27.5 (WHO Asia-Pacific)</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">Waist:height ratio</div><div class=\"nv-val\">Best cardiometabolic predictor. Target &lt;0.5</div></div>\n    </div>\n    <table class=\"tbl\"><thead><tr><th>Intervention</th><th>Expected effect</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td>Caloric deficit 500–750 kcal/day</td><td>0.5–1 kg/week</td><td>Grade A — cornerstone</td></tr>\n      <tr><td>Low-carbohydrate diet (&lt;130g CHO)</td><td>Superior short-term vs low-fat</td><td>Grade A — ↓ insulin, hunger, TG</td></tr>\n      <tr><td>Time-restricted eating (16:8)</td><td>3–8% body weight over 12 weeks</td><td>Grade B — independent of calorie counting</td></tr>\n      <tr><td>Protein &gt;1.2g/kg/day</td><td>Preserves muscle, ↑ satiety</td><td>Grade A</td></tr>\n      <tr><td>Sleep optimisation (&gt;7hr)</td><td>↓ ghrelin, ↑ leptin sensitivity</td><td>Grade B — poor sleep sabotages all other interventions</td></tr>\n      <tr><td>Glucomannan (konjac)</td><td>~0.5 kg/month additional</td><td>Grade B — 1g before meals with water</td></tr>\n    </tbody></table>",
+      "_review": false
     }
   ]
 }
