@@ -1,17 +1,17 @@
 {
   "schemaVersion": "1.0",
   "section": "bnysprotocols",
-  "generatedAt": "2026-04-12T17:47:23.749Z",
+  "generatedAt": "2026-04-13T11:50:38.542Z",
   "cardCount": 7,
   "cards": [
     {
-      "id": "bnysprotocols-dis-hypertension-bnys-complete-protocol",
+      "id": "bnysprotocols-dp1-hypertension-bnys-complete-protocol",
       "title": "Hypertension — BNYS Complete Protocol",
       "badge": "Priority",
-      "category": "dis",
+      "category": "dp1",
       "section": "bnysprotocols",
       "version": 1,
-      "lastUpdated": "2026-04-12",
+      "lastUpdated": "2026-04-13",
       "content": {
         "summary": null,
         "alerts": [
@@ -91,13 +91,13 @@
       "_review": false
     },
     {
-      "id": "bnysprotocols-dis-asthma-bnys-protocol",
+      "id": "bnysprotocols-dp1-asthma-bnys-protocol",
       "title": "Asthma — BNYS Protocol",
       "badge": "Core",
-      "category": "dis",
+      "category": "dp1",
       "section": "bnysprotocols",
       "version": 1,
-      "lastUpdated": "2026-04-12",
+      "lastUpdated": "2026-04-13",
       "content": {
         "summary": null,
         "alerts": [
@@ -157,13 +157,13 @@
       "_review": false
     },
     {
-      "id": "bnysprotocols-dis-ibs-bnys-protocol",
+      "id": "bnysprotocols-dp2-ibs-bnys-protocol",
       "title": "IBS — BNYS Protocol",
       "badge": "Core",
-      "category": "dis",
+      "category": "dp2",
       "section": "bnysprotocols",
       "version": 1,
-      "lastUpdated": "2026-04-12",
+      "lastUpdated": "2026-04-13",
       "content": {
         "summary": null,
         "alerts": [],
@@ -217,13 +217,13 @@
       "_review": false
     },
     {
-      "id": "bnysprotocols-dis-anxiety-bnys-protocol",
+      "id": "bnysprotocols-dp2-anxiety-bnys-protocol",
       "title": "Anxiety — BNYS Protocol",
       "badge": "Core",
-      "category": "dis",
+      "category": "dp2",
       "section": "bnysprotocols",
       "version": 1,
-      "lastUpdated": "2026-04-12",
+      "lastUpdated": "2026-04-13",
       "content": {
         "summary": null,
         "alerts": [],
@@ -282,13 +282,13 @@
       "_review": false
     },
     {
-      "id": "bnysprotocols-dis-t2dm-pcos-migraine-bnys-protocols",
+      "id": "bnysprotocols-dp3-t2dm-pcos-migraine-bnys-protocols",
       "title": "T2DM, PCOS & Migraine — BNYS Protocols",
       "badge": "BNYS Protocol",
-      "category": "dis",
+      "category": "dp3",
       "section": "bnysprotocols",
       "version": 1,
-      "lastUpdated": "2026-04-12",
+      "lastUpdated": "2026-04-13",
       "content": {
         "summary": null,
         "alerts": [],
@@ -387,13 +387,13 @@
       "_review": false
     },
     {
-      "id": "bnysprotocols-dis-nafld-arthritis-psoriasis-thyroid-bnys-protocols",
+      "id": "bnysprotocols-dp3-nafld-arthritis-psoriasis-thyroid-bnys-protocols",
       "title": "NAFLD, Arthritis, Psoriasis & Thyroid — BNYS Protocols",
       "badge": "BNYS Protocol",
-      "category": "dis",
+      "category": "dp3",
       "section": "bnysprotocols",
       "version": 1,
-      "lastUpdated": "2026-04-12",
+      "lastUpdated": "2026-04-13",
       "content": {
         "summary": null,
         "alerts": [],
@@ -478,13 +478,13 @@
       "_review": false
     },
     {
-      "id": "bnysprotocols-dis-insomnia-obesity-ckd-bnys-protocols",
+      "id": "bnysprotocols-dp3-insomnia-obesity-ckd-bnys-protocols",
       "title": "Insomnia, Obesity & CKD — BNYS Protocols",
       "badge": "BNYS Protocol",
-      "category": "dis",
+      "category": "dp3",
       "section": "bnysprotocols",
       "version": 1,
-      "lastUpdated": "2026-04-12",
+      "lastUpdated": "2026-04-13",
       "content": {
         "summary": null,
         "alerts": [],
