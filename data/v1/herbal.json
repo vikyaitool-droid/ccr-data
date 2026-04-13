@@ -1,28 +1,1026 @@
 {
+  "schemaVersion": "1.0",
+  "section": "herbal",
+  "generatedAt": "2026-04-13T11:50:11.522Z",
+  "cardCount": 11,
   "cards": [
     {
-      "title": "Adaptogens & Safety",
-      "badge": "",
-      "category": "hadapt",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Ashwagandha: HPA axis, testosterone, thyroid</li><li>Rhodiola: Cortisol, fatigue, cognition</li><li>Holy Basil (Tulsi): Anxiety, blood sugar</li><li>Eleuthero: Stamina, immune support</li></ul></div>"
+      "id": "herbal-adp-adaptogens-evidence-clinical-guide",
+      "title": "Adaptogens — Evidence & Clinical Guide",
+      "badge": "Category",
+      "category": "adp",
+      "section": "herbal",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Definition (Brekhman & Dardymov, 1969)",
+            "text": "An adaptogen must: (1) be non-toxic, (2) produce a non-specific resistance to stress, (3) have a normalising effect regardless of direction of pathological change — i.e. bidirectional modulation."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Adaptogen",
+              "Latin Name",
+              "Primary Actions",
+              "Best Evidence",
+              "Dose"
+            ],
+            "rows": [
+              [
+                "Ashwagandha",
+                "Withania somnifera",
+                "↓ Cortisol, ↑ thyroid (T3/T4), ↑ testosterone, ↑ muscle",
+                "Anxiety ★, fatigue, hypothyroid, male fertility",
+                "KSM-66: 300–600mg/day"
+              ],
+              [
+                "Rhodiola rosea",
+                "Rhodiola rosea",
+                "↑ Serotonin/dopamine, ↓ cortisol, ↑ mental performance",
+                "Burnout ★, mental fatigue, depression adjunct",
+                "SHR-5: 200–400mg/day (3% rosavins)"
+              ],
+              [
+                "Panax ginseng",
+                "Panax ginseng",
+                "↑ CNS stimulation, ↑ NK cells, ↑ NO, antidiabetic",
+                "Cognitive function ★, T2DM, fatigue, immune",
+                "200–400mg (standardised 4% ginsenosides)"
+              ],
+              [
+                "Eleuthero",
+                "Eleutherococcus senticosus",
+                "↑ Physical endurance, immune modulation",
+                "Athletic performance, chronic fatigue",
+                "300–1200mg/day"
+              ],
+              [
+                "Schisandra",
+                "Schisandra chinensis",
+                "Hepatoprotective, ↓ cortisol, ↑ mental endurance",
+                "Liver protection, stress, cognitive",
+                "500–2000mg/day"
+              ],
+              [
+                "Holy basil (Tulsi)",
+                "Ocimum tenuiflorum",
+                "↓ Cortisol, antibacterial, adaptogenic, ↓ blood sugar",
+                "Anxiety, metabolic syndrome, BNYS-specific ★",
+                "300–2000mg or 1–2 cups/day"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Avoid adaptogens in",
+            "text": "Pregnancy (most), autoimmune disease on immunosuppressants (ginseng, eleuthero stimulate immunity), hyperthyroidism (ashwagandha ↑ T3/T4), hormone-sensitive cancers (Panax ginseng has oestrogen-like activity). Rhodiola is stimulating — avoid in evening, bipolar, or with SSRIs (serotonin syndrome risk at high dose)."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Definition (Brekhman & Dardymov, 1969)</div>An adaptogen must: (1) be non-toxic, (2) produce a non-specific resistance to stress, (3) have a normalising effect regardless of direction of pathological change — i.e. bidirectional modulation.</div>\n    <table class=\"tbl\"><thead><tr><th>Adaptogen</th><th>Latin Name</th><th>Primary Actions</th><th>Best Evidence</th><th>Dose</th></tr></thead><tbody>\n      <tr><td>Ashwagandha</td><td>Withania somnifera</td><td>↓ Cortisol, ↑ thyroid (T3/T4), ↑ testosterone, ↑ muscle</td><td>Anxiety ★, fatigue, hypothyroid, male fertility</td><td>KSM-66: 300–600mg/day</td></tr>\n      <tr><td>Rhodiola rosea</td><td>Rhodiola rosea</td><td>↑ Serotonin/dopamine, ↓ cortisol, ↑ mental performance</td><td>Burnout ★, mental fatigue, depression adjunct</td><td>SHR-5: 200–400mg/day (3% rosavins)</td></tr>\n      <tr><td>Panax ginseng</td><td>Panax ginseng</td><td>↑ CNS stimulation, ↑ NK cells, ↑ NO, antidiabetic</td><td>Cognitive function ★, T2DM, fatigue, immune</td><td>200–400mg (standardised 4% ginsenosides)</td></tr>\n      <tr><td>Eleuthero</td><td>Eleutherococcus senticosus</td><td>↑ Physical endurance, immune modulation</td><td>Athletic performance, chronic fatigue</td><td>300–1200mg/day</td></tr>\n      <tr><td>Schisandra</td><td>Schisandra chinensis</td><td>Hepatoprotective, ↓ cortisol, ↑ mental endurance</td><td>Liver protection, stress, cognitive</td><td>500–2000mg/day</td></tr>\n      <tr><td>Holy basil (Tulsi)</td><td>Ocimum tenuiflorum</td><td>↓ Cortisol, antibacterial, adaptogenic, ↓ blood sugar</td><td>Anxiety, metabolic syndrome, BNYS-specific ★</td><td>300–2000mg or 1–2 cups/day</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Avoid adaptogens in</div><div class=\"pt\">Pregnancy (most), autoimmune disease on immunosuppressants (ginseng, eleuthero stimulate immunity), hyperthyroidism (ashwagandha ↑ T3/T4), hormone-sensitive cancers (Panax ginseng has oestrogen-like activity). Rhodiola is stimulating — avoid in evening, bipolar, or with SSRIs (serotonin syndrome risk at high dose).</div></div>",
+      "_review": false
     },
     {
-      "title": "Cardiovascular & Anti-inflammatory",
-      "badge": "",
-      "category": "hcv",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Hawthorn: CHF, BP, palpitations</li><li>Garlic: Lipids, BP, platelet inhibition</li><li>Turmeric/Curcumin: NF-κB, bioavailability</li><li>Boswellia: Arthritis, IBD, asthma</li></ul></div>"
+      "id": "herbal-adp-herb-drug-interactions-critical-table",
+      "title": "Herb-Drug Interactions — Critical Table",
+      "badge": "Safety",
+      "category": "adp",
+      "section": "herbal",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "danger",
+            "label": "High-risk combinations — know these",
+            "text": ""
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Drug Class",
+              "Interaction",
+              "Mechanism",
+              "Risk"
+            ],
+            "rows": [
+              [
+                "St John's Wort",
+                "SSRIs, SNRIs",
+                "↑ Serotonin syndrome",
+                "↑ Serotonin",
+                "HIGH ★"
+              ],
+              [
+                "St John's Wort",
+                "Warfarin, OCP, HIV meds, cyclosporin",
+                "↓ Drug levels → treatment failure",
+                "CYP3A4 + P-gp induction",
+                "HIGH ★"
+              ],
+              [
+                "Ginkgo biloba",
+                "Warfarin, aspirin, NSAIDs",
+                "↑ Bleeding risk",
+                "Antiplatelet effect",
+                "HIGH ★"
+              ],
+              [
+                "Valerian",
+                "Benzodiazepines, barbiturates",
+                "↑ CNS depression",
+                "GABA potentiation",
+                "Moderate"
+              ],
+              [
+                "Garlic / Dong quai",
+                "Warfarin, antiplatelets",
+                "↑ Bleeding risk",
+                "Antiplatelet + anticoagulant",
+                "Moderate"
+              ],
+              [
+                "Liquorice (DGL-free)",
+                "Antihypertensives, corticosteroids",
+                "↑ BP, ↓ K⁺, potentiates steroids",
+                "Pseudoaldosteronism (glycyrrhizin)",
+                "Moderate"
+              ],
+              [
+                "Echinacea",
+                "Immunosuppressants (cyclosporin, tacrolimus)",
+                "↓ Drug efficacy",
+                "Immune stimulation opposes",
+                "Moderate"
+              ],
+              [
+                "Ashwagandha",
+                "Thyroid hormones",
+                "↑ T3/T4 → possible thyrotoxicosis",
+                "TSH-lowering, T4→T3 conversion ↑",
+                "Moderate"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Rule of thumb",
+            "text": "ANY herb with antiplatelet activity (garlic, ginger, turmeric, ginkgo, dong quai, fish oil >3g) → withhold 2 weeks before surgery. Always ask about herbs BEFORE prescribing. St John's Wort interacts with more drugs than any pharmaceutical except rifampicin — it must be avoided with any narrow therapeutic index drug."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">High-risk combinations — know these</div></div>\n    <table class=\"tbl\"><thead><tr><th>Herb</th><th>Drug Class</th><th>Interaction</th><th>Mechanism</th><th>Risk</th></tr></thead><tbody>\n      <tr><td>St John's Wort</td><td>SSRIs, SNRIs</td><td>↑ Serotonin syndrome</td><td>↑ Serotonin</td><td>HIGH ★</td></tr>\n      <tr><td>St John's Wort</td><td>Warfarin, OCP, HIV meds, cyclosporin</td><td>↓ Drug levels → treatment failure</td><td>CYP3A4 + P-gp induction</td><td>HIGH ★</td></tr>\n      <tr><td>Ginkgo biloba</td><td>Warfarin, aspirin, NSAIDs</td><td>↑ Bleeding risk</td><td>Antiplatelet effect</td><td>HIGH ★</td></tr>\n      <tr><td>Valerian</td><td>Benzodiazepines, barbiturates</td><td>↑ CNS depression</td><td>GABA potentiation</td><td>Moderate</td></tr>\n      <tr><td>Garlic / Dong quai</td><td>Warfarin, antiplatelets</td><td>↑ Bleeding risk</td><td>Antiplatelet + anticoagulant</td><td>Moderate</td></tr>\n      <tr><td>Liquorice (DGL-free)</td><td>Antihypertensives, corticosteroids</td><td>↑ BP, ↓ K⁺, potentiates steroids</td><td>Pseudoaldosteronism (glycyrrhizin)</td><td>Moderate</td></tr>\n      <tr><td>Echinacea</td><td>Immunosuppressants (cyclosporin, tacrolimus)</td><td>↓ Drug efficacy</td><td>Immune stimulation opposes</td><td>Moderate</td></tr>\n      <tr><td>Ashwagandha</td><td>Thyroid hormones</td><td>↑ T3/T4 → possible thyrotoxicosis</td><td>TSH-lowering, T4→T3 conversion ↑</td><td>Moderate</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Rule of thumb</div><div class=\"pt\">ANY herb with antiplatelet activity (garlic, ginger, turmeric, ginkgo, dong quai, fish oil &gt;3g) → withhold 2 weeks before surgery. Always ask about herbs BEFORE prescribing. St John's Wort interacts with more drugs than any pharmaceutical except rifampicin — it must be avoided with any narrow therapeutic index drug.</div></div>",
+      "_review": false
     },
     {
-      "title": "Antimicrobial & Digestive",
-      "badge": "",
-      "category": "hant",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Berberine: SIBO, blood sugar, lipids</li><li>Oregano oil: Antimicrobial, antifungal</li><li>Ginger: Anti-nausea, anti-inflammatory</li><li>Triphala: Bowel regulation, Rasayana</li></ul></div>"
+      "id": "herbal-adp-cardiovascular-anti-inflammatory-herbs",
+      "title": "Cardiovascular & Anti-inflammatory Herbs",
+      "badge": "Herbal",
+      "category": "adp",
+      "section": "herbal",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Key Actions",
+              "Dose",
+              "Evidence",
+              "Interactions"
+            ],
+            "rows": [
+              [
+                "Hawthorn (Crataegus) ★",
+                "Positive inotrope, coronary vasodilator, antioxidant",
+                "900mg extract/day",
+                "★★★★ NYHA I–II heart failure",
+                "Digoxin (additive), antihypertensives"
+              ],
+              [
+                "Arjuna (Terminalia arjuna)",
+                "Cardioprotective, reduces cardiac hypertrophy, improves EF",
+                "500mg bark extract TDS",
+                "★★★ Indian RCTs for angina, HF",
+                "Antihypertensives, anticoagulants"
+              ],
+              [
+                "Garlic (Allium sativum)",
+                "BP ↓ 5–10mmHg, LDL ↓, antiplatelet, antimicrobial",
+                "Aged garlic extract 600–1200mg/day",
+                "★★★ Multiple meta-analyses",
+                "Warfarin (↑ bleeding), antiplatelets"
+              ],
+              [
+                "Boswellia serrata ★",
+                "5-LOX inhibitor — reduces LTB4. Anti-inflammatory. Pain relief.",
+                "300–400mg TDS (65% boswellic acids)",
+                "★★★ OA, asthma, IBD, RA",
+                "Anticoagulants (mild)"
+              ],
+              [
+                "Turmeric/Curcumin ★",
+                "NF-kB inhibition, COX inhibition, antioxidant, anti-tumour",
+                "500–1000mg + piperine 20mg BD",
+                "★★★ Broad anti-inflammatory evidence",
+                "Warfarin (high dose), bile duct obstruction CI"
+              ],
+              [
+                "Willow bark",
+                "COX inhibition (salicin — like aspirin), antipyretic, analgesic",
+                "240mg salicin/day",
+                "★★★ LBP, OA",
+                "Aspirin, NSAIDs, anticoagulants — additive"
+              ],
+              [
+                "Ginger ★",
+                "COX-1/2 inhibition, anti-emetic (5-HT3 antagonism), prokinetic",
+                "1–3g dried ginger/day or 500mg extract BD",
+                "★★★★ NVP — good for OA pain",
+                "Warfarin (mild antiplatelet)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Herb</th><th>Key Actions</th><th>Dose</th><th>Evidence</th><th>Interactions</th></tr></thead><tbody>\n      <tr><td>Hawthorn (Crataegus) ★</td><td>Positive inotrope, coronary vasodilator, antioxidant</td><td>900mg extract/day</td><td>★★★★ NYHA I–II heart failure</td><td>Digoxin (additive), antihypertensives</td></tr>\n      <tr><td>Arjuna (Terminalia arjuna)</td><td>Cardioprotective, reduces cardiac hypertrophy, improves EF</td><td>500mg bark extract TDS</td><td>★★★ Indian RCTs for angina, HF</td><td>Antihypertensives, anticoagulants</td></tr>\n      <tr><td>Garlic (Allium sativum)</td><td>BP ↓ 5–10mmHg, LDL ↓, antiplatelet, antimicrobial</td><td>Aged garlic extract 600–1200mg/day</td><td>★★★ Multiple meta-analyses</td><td>Warfarin (↑ bleeding), antiplatelets</td></tr>\n      <tr><td>Boswellia serrata ★</td><td>5-LOX inhibitor — reduces LTB4. Anti-inflammatory. Pain relief.</td><td>300–400mg TDS (65% boswellic acids)</td><td>★★★ OA, asthma, IBD, RA</td><td>Anticoagulants (mild)</td></tr>\n      <tr><td>Turmeric/Curcumin ★</td><td>NF-kB inhibition, COX inhibition, antioxidant, anti-tumour</td><td>500–1000mg + piperine 20mg BD</td><td>★★★ Broad anti-inflammatory evidence</td><td>Warfarin (high dose), bile duct obstruction CI</td></tr>\n      <tr><td>Willow bark</td><td>COX inhibition (salicin — like aspirin), antipyretic, analgesic</td><td>240mg salicin/day</td><td>★★★ LBP, OA</td><td>Aspirin, NSAIDs, anticoagulants — additive</td></tr>\n      <tr><td>Ginger ★</td><td>COX-1/2 inhibition, anti-emetic (5-HT3 antagonism), prokinetic</td><td>1–3g dried ginger/day or 500mg extract BD</td><td>★★★★ NVP — good for OA pain</td><td>Warfarin (mild antiplatelet)</td></tr>\n    </tbody></table>",
+      "_review": false
     },
     {
-      "title": "Respiratory & Women's Health",
-      "badge": "",
-      "category": "hresp",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Andrographis: Acute respiratory infections</li><li>Elderberry: Flu prevention, duration</li><li>Vitex (Chaste tree): PMS, progesterone</li><li>Shatavari: Female reproductive tonic</li></ul></div>"
+      "id": "herbal-adp-antimicrobial-digestive-womens-health-herbs",
+      "title": "Antimicrobial, Digestive & Women's Health Herbs",
+      "badge": "Herbal",
+      "category": "adp",
+      "section": "herbal",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Actions",
+              "Dose",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "Berberine ★",
+                "Antimicrobial, antifungal, AMPK activator, antidiarrhoeal",
+                "500mg TDS with meals",
+                "Broad: MRSA, H.pylori, Candida, Giardia. Avoid in pregnancy. Interacts with cyclosporin."
+              ],
+              [
+                "Andrographis",
+                "Antiviral, immune-stimulant, hepatoprotective",
+                "400mg TDS (6% andrographolides)",
+                "URTI, influenza, dengue. Avoid in autoimmune, pregnancy."
+              ],
+              [
+                "Oil of Oregano",
+                "Antimicrobial, antifungal (Candida), antiparasitic",
+                "200mg carvacrol TDS",
+                "Rotate every 2 weeks (resistance). Avoid in pregnancy."
+              ],
+              [
+                "Neem ★",
+                "Antimicrobial, antifungal, antiparasitic, antidiabetic, hepatoprotective",
+                "500mg leaf extract BD",
+                "Avoid in pregnancy, young children. May reduce fertility."
+              ],
+              [
+                "Triphala ★",
+                "Gentle laxative, prebiotic, antioxidant, antimicrobial",
+                "1–2g at night",
+                "Very safe — long-term use acceptable. Traditional Ayurvedic tonic."
+              ],
+              [
+                "DGL Liquorice ★",
+                "Mucous membrane protection, anti-ulcer, anti-inflammatory",
+                "380mg chewed before meals",
+                "DGL form (deglycyrrhizinated) — safe long-term. Whole root: raises BP."
+              ],
+              [
+                "Peppermint oil (enteric-coated)",
+                "Antispasmodic (smooth muscle relaxation), carminative",
+                "0.2–0.4mL enteric-coated capsule TDS",
+                "IBS, SIBO. MUST be enteric-coated — otherwise causes GERD."
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Use",
+              "Dose",
+              "Evidence",
+              "Cautions"
+            ],
+            "rows": [
+              [
+                "Vitex agnus-castus ★",
+                "PMS, PMDD, irregular cycles, hyperprolactinaemia, mastalgia",
+                "400–500mg OD morning",
+                "★★★ Good — needs 3+ months",
+                "Avoid with dopamine antagonists, OCP, pregnancy"
+              ],
+              [
+                "Black cohosh",
+                "Menopause hot flushes — NOT oestrogenic (serotonergic)",
+                "40–80mg/day",
+                "★★★ Reduces hot flushes 50%",
+                "Monitor LFTs. Max 6 months. Safe in ER+ cancer."
+              ],
+              [
+                "Gymnema sylvestre",
+                "Reduces sugar craving, lowers blood glucose, insulin sensitiser",
+                "400mg BD (25% gymnemic acids)",
+                "★★★ T2DM adjunct",
+                "Monitor glucose if on antidiabetics"
+              ],
+              [
+                "Bitter melon (Karela)",
+                "Blood glucose ↓ (charantin, vicine — insulin-like), PCOS",
+                "50–100ml fresh juice OD or 500mg BD",
+                "★★★ Multiple Indian RCTs",
+                "Avoid in pregnancy. G6PD deficiency."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div style=\"font-weight:700;color:var(--em-dk);margin-bottom:6px\">ANTIMICROBIAL & DIGESTIVE HERBS</div>\n    <table class=\"tbl\"><thead><tr><th>Herb</th><th>Actions</th><th>Dose</th><th>Notes</th></tr></thead><tbody>\n      <tr><td>Berberine ★</td><td>Antimicrobial, antifungal, AMPK activator, antidiarrhoeal</td><td>500mg TDS with meals</td><td>Broad: MRSA, H.pylori, Candida, Giardia. Avoid in pregnancy. Interacts with cyclosporin.</td></tr>\n      <tr><td>Andrographis</td><td>Antiviral, immune-stimulant, hepatoprotective</td><td>400mg TDS (6% andrographolides)</td><td>URTI, influenza, dengue. Avoid in autoimmune, pregnancy.</td></tr>\n      <tr><td>Oil of Oregano</td><td>Antimicrobial, antifungal (Candida), antiparasitic</td><td>200mg carvacrol TDS</td><td>Rotate every 2 weeks (resistance). Avoid in pregnancy.</td></tr>\n      <tr><td>Neem ★</td><td>Antimicrobial, antifungal, antiparasitic, antidiabetic, hepatoprotective</td><td>500mg leaf extract BD</td><td>Avoid in pregnancy, young children. May reduce fertility.</td></tr>\n      <tr><td>Triphala ★</td><td>Gentle laxative, prebiotic, antioxidant, antimicrobial</td><td>1–2g at night</td><td>Very safe — long-term use acceptable. Traditional Ayurvedic tonic.</td></tr>\n      <tr><td>DGL Liquorice ★</td><td>Mucous membrane protection, anti-ulcer, anti-inflammatory</td><td>380mg chewed before meals</td><td>DGL form (deglycyrrhizinated) — safe long-term. Whole root: raises BP.</td></tr>\n      <tr><td>Peppermint oil (enteric-coated)</td><td>Antispasmodic (smooth muscle relaxation), carminative</td><td>0.2–0.4mL enteric-coated capsule TDS</td><td>IBS, SIBO. MUST be enteric-coated — otherwise causes GERD.</td></tr>\n    </tbody></table>\n    <div style=\"font-weight:700;color:var(--em-dk);margin:10px 0 6px\">WOMEN'S HEALTH HERBS</div>\n    <table class=\"tbl\"><thead><tr><th>Herb</th><th>Use</th><th>Dose</th><th>Evidence</th><th>Cautions</th></tr></thead><tbody>\n      <tr><td>Vitex agnus-castus ★</td><td>PMS, PMDD, irregular cycles, hyperprolactinaemia, mastalgia</td><td>400–500mg OD morning</td><td>★★★ Good — needs 3+ months</td><td>Avoid with dopamine antagonists, OCP, pregnancy</td></tr>\n      <tr><td>Black cohosh</td><td>Menopause hot flushes — NOT oestrogenic (serotonergic)</td><td>40–80mg/day</td><td>★★★ Reduces hot flushes 50%</td><td>Monitor LFTs. Max 6 months. Safe in ER+ cancer.</td></tr>\n      <tr><td>Gymnema sylvestre</td><td>Reduces sugar craving, lowers blood glucose, insulin sensitiser</td><td>400mg BD (25% gymnemic acids)</td><td>★★★ T2DM adjunct</td><td>Monitor glucose if on antidiabetics</td></tr>\n      <tr><td>Bitter melon (Karela)</td><td>Blood glucose ↓ (charantin, vicine — insulin-like), PCOS</td><td>50–100ml fresh juice OD or 500mg BD</td><td>★★★ Multiple Indian RCTs</td><td>Avoid in pregnancy. G6PD deficiency.</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "herbal-adp-respiratory-immune-adaptogenic-herbs",
+      "title": "Respiratory, Immune & Adaptogenic Herbs",
+      "badge": "Herbal",
+      "category": "adp",
+      "section": "herbal",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Actions",
+              "Dose",
+              "Best For",
+              "Cautions"
+            ],
+            "rows": [
+              [
+                "Vasaka (Adhatoda vasica) ★",
+                "Bronchodilator, expectorant, antispasmodic. Vasicine = precursor of bromhexine.",
+                "500mg TDS or 10ml juice TDS",
+                "Asthma, bronchitis, COPD, productive cough",
+                "Avoid in pregnancy (uterotonic)"
+              ],
+              [
+                "Tulsi (Ocimum sanctum) ★",
+                "Adaptogen, immunomodulator, antiviral, bronchodilator, antistress",
+                "500mg BD or 2 cups tea/day",
+                "URTI, mild asthma, stress, immune support",
+                "Mild anticoagulant. Generally very safe."
+              ],
+              [
+                "Thyme",
+                "Expectorant, antispasmodic, antimicrobial (thymol)",
+                "100mg thymol extract TDS or 2 tsp herb tea TDS",
+                "Productive cough, bronchitis, COPD",
+                "Generally safe at food doses"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Dose",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "Echinacea ★",
+                "E. purpurea 300mg TDS. Max 10 days continuous.",
+                "★★★ Reduces URTI duration 1–4 days"
+              ],
+              [
+                "Astragalus (Huang Qi)",
+                "500mg extract BD or 4–7g root/day",
+                "★★★ Immune modulator, antiviral, anti-fatigue, oncology adjunct"
+              ],
+              [
+                "Elderberry",
+                "15ml syrup QID during illness or 600mg extract/day",
+                "★★★ Reduces influenza duration 3–4 days (meta-analysis)"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Dose",
+              "Best For",
+              "Cautions"
+            ],
+            "rows": [
+              [
+                "Ashwagandha KSM-66 ★",
+                "300mg BD",
+                "Stress, burnout, thyroid, testosterone, sleep, PCOS",
+                "Avoid in autoimmune, pregnancy. Nightshade family."
+              ],
+              [
+                "Rhodiola rosea ★",
+                "200–400mg AM only (3% rosavins)",
+                "Mental fatigue, burnout Stage 1–2, athletic performance",
+                "Stimulating — avoid Stage 4 burnout, PM doses (insomnia)"
+              ],
+              [
+                "Schisandra",
+                "500mg extract BD",
+                "Liver support, mental fatigue, hepatitis adjunct",
+                "Avoid in pregnancy. CYP3A4 interactions."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div style=\"font-weight:700;color:var(--em-dk);margin-bottom:6px\">RESPIRATORY HERBS</div>\n    <table class=\"tbl\"><thead><tr><th>Herb</th><th>Actions</th><th>Dose</th><th>Best For</th><th>Cautions</th></tr></thead><tbody>\n      <tr><td>Vasaka (Adhatoda vasica) ★</td><td>Bronchodilator, expectorant, antispasmodic. Vasicine = precursor of bromhexine.</td><td>500mg TDS or 10ml juice TDS</td><td>Asthma, bronchitis, COPD, productive cough</td><td>Avoid in pregnancy (uterotonic)</td></tr>\n      <tr><td>Tulsi (Ocimum sanctum) ★</td><td>Adaptogen, immunomodulator, antiviral, bronchodilator, antistress</td><td>500mg BD or 2 cups tea/day</td><td>URTI, mild asthma, stress, immune support</td><td>Mild anticoagulant. Generally very safe.</td></tr>\n      <tr><td>Thyme</td><td>Expectorant, antispasmodic, antimicrobial (thymol)</td><td>100mg thymol extract TDS or 2 tsp herb tea TDS</td><td>Productive cough, bronchitis, COPD</td><td>Generally safe at food doses</td></tr>\n    </tbody></table>\n    <div style=\"font-weight:700;color:var(--em-dk);margin:10px 0 6px\">IMMUNE HERBS</div>\n    <table class=\"tbl\"><thead><tr><th>Herb</th><th>Dose</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td>Echinacea ★</td><td>E. purpurea 300mg TDS. Max 10 days continuous.</td><td>★★★ Reduces URTI duration 1–4 days</td></tr>\n      <tr><td>Astragalus (Huang Qi)</td><td>500mg extract BD or 4–7g root/day</td><td>★★★ Immune modulator, antiviral, anti-fatigue, oncology adjunct</td></tr>\n      <tr><td>Elderberry</td><td>15ml syrup QID during illness or 600mg extract/day</td><td>★★★ Reduces influenza duration 3–4 days (meta-analysis)</td></tr>\n    </tbody></table>\n    <div style=\"font-weight:700;color:var(--em-dk);margin:10px 0 6px\">ADAPTOGENS (HPA AXIS)</div>\n    <table class=\"tbl\"><thead><tr><th>Herb</th><th>Dose</th><th>Best For</th><th>Cautions</th></tr></thead><tbody>\n      <tr><td>Ashwagandha KSM-66 ★</td><td>300mg BD</td><td>Stress, burnout, thyroid, testosterone, sleep, PCOS</td><td>Avoid in autoimmune, pregnancy. Nightshade family.</td></tr>\n      <tr><td>Rhodiola rosea ★</td><td>200–400mg AM only (3% rosavins)</td><td>Mental fatigue, burnout Stage 1–2, athletic performance</td><td>Stimulating — avoid Stage 4 burnout, PM doses (insomnia)</td></tr>\n      <tr><td>Schisandra</td><td>500mg extract BD</td><td>Liver support, mental fatigue, hepatitis adjunct</td><td>Avoid in pregnancy. CYP3A4 interactions.</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "herbal-adp-cardiovascular-anti-inflammatory-herbs-2",
+      "title": "Cardiovascular & Anti-inflammatory Herbs",
+      "badge": "Herbal",
+      "category": "adp",
+      "section": "herbal",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Key Actions",
+              "Dose",
+              "Evidence",
+              "Interactions"
+            ],
+            "rows": [
+              [
+                "Hawthorn (Crataegus)",
+                "Positive inotrope, coronary vasodilator, antioxidant, antiarrhythmic",
+                "900mg extract/day",
+                "Strong for NYHA I-II heart failure",
+                "Digoxin (additive), antihypertensives"
+              ],
+              [
+                "Arjuna (Terminalia arjuna)",
+                "Cardioprotective, reduces hypertrophy, improves EF",
+                "500mg bark extract TDS",
+                "Good — Indian RCTs for angina, HF",
+                "Antihypertensives (additive)"
+              ],
+              [
+                "Garlic (Allium sativum)",
+                "BP down 5-10mmHg, LDL down, antiplatelet, antimicrobial",
+                "Aged garlic extract 600-1200mg/day",
+                "Good — multiple meta-analyses",
+                "Warfarin (bleeding risk), antiplatelets"
+              ],
+              [
+                "Olive leaf (Oleuropein)",
+                "BP down, antioxidant, antiviral",
+                "500-1000mg/day",
+                "Good for hypertension",
+                "Antihypertensives (additive)"
+              ],
+              [
+                "Boswellia serrata",
+                "5-LOX inhibitor, reduces LTB4, potent anti-inflammatory",
+                "300-400mg TDS (65% boswellic acids)",
+                "Good for OA, asthma, IBD, RA",
+                "Anticoagulants (mild)"
+              ],
+              [
+                "Turmeric (Curcumin)",
+                "NF-kB inhibition, COX inhibition, antioxidant",
+                "500-1000mg with piperine 20mg BD",
+                "Good — broad anti-inflammatory evidence",
+                "Warfarin at high doses"
+              ],
+              [
+                "Willow bark (Salicin)",
+                "COX inhibition (aspirin-like), antipyretic, analgesic",
+                "240mg salicin/day",
+                "Good for LBP, OA pain",
+                "Aspirin, NSAIDs, anticoagulants — additive"
+              ],
+              [
+                "Ginger (Zingiber officinale)",
+                "COX-1/2 inhibition, anti-emetic, prokinetic",
+                "1-3g dried ginger/day",
+                "Strong for nausea, good for OA pain",
+                "Warfarin (mild antiplatelet)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Herb Safety Before Surgery",
+            "text": "Stop all herbal medicines 2 weeks before elective surgery. Garlic, ginger, ginkgo, ginseng — antiplatelet effects. Hawthorn — cardiac effects. St John's Wort — CYP induction affects anaesthetic metabolism. Valerian, kava — potentiate anaesthetic agents. Always take a full herbal history at pre-operative assessment — most patients do not volunteer this information unless specifically asked."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Herb</th><th>Key Actions</th><th>Dose</th><th>Evidence</th><th>Interactions</th></tr></thead><tbody>\n      <tr><td>Hawthorn (Crataegus)</td><td>Positive inotrope, coronary vasodilator, antioxidant, antiarrhythmic</td><td>900mg extract/day</td><td>Strong for NYHA I-II heart failure</td><td>Digoxin (additive), antihypertensives</td></tr>\n      <tr><td>Arjuna (Terminalia arjuna)</td><td>Cardioprotective, reduces hypertrophy, improves EF</td><td>500mg bark extract TDS</td><td>Good — Indian RCTs for angina, HF</td><td>Antihypertensives (additive)</td></tr>\n      <tr><td>Garlic (Allium sativum)</td><td>BP down 5-10mmHg, LDL down, antiplatelet, antimicrobial</td><td>Aged garlic extract 600-1200mg/day</td><td>Good — multiple meta-analyses</td><td>Warfarin (bleeding risk), antiplatelets</td></tr>\n      <tr><td>Olive leaf (Oleuropein)</td><td>BP down, antioxidant, antiviral</td><td>500-1000mg/day</td><td>Good for hypertension</td><td>Antihypertensives (additive)</td></tr>\n      <tr><td>Boswellia serrata</td><td>5-LOX inhibitor, reduces LTB4, potent anti-inflammatory</td><td>300-400mg TDS (65% boswellic acids)</td><td>Good for OA, asthma, IBD, RA</td><td>Anticoagulants (mild)</td></tr>\n      <tr><td>Turmeric (Curcumin)</td><td>NF-kB inhibition, COX inhibition, antioxidant</td><td>500-1000mg with piperine 20mg BD</td><td>Good — broad anti-inflammatory evidence</td><td>Warfarin at high doses</td></tr>\n      <tr><td>Willow bark (Salicin)</td><td>COX inhibition (aspirin-like), antipyretic, analgesic</td><td>240mg salicin/day</td><td>Good for LBP, OA pain</td><td>Aspirin, NSAIDs, anticoagulants — additive</td></tr>\n      <tr><td>Ginger (Zingiber officinale)</td><td>COX-1/2 inhibition, anti-emetic, prokinetic</td><td>1-3g dried ginger/day</td><td>Strong for nausea, good for OA pain</td><td>Warfarin (mild antiplatelet)</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Herb Safety Before Surgery</div><div class=\"pt\">Stop all herbal medicines 2 weeks before elective surgery. Garlic, ginger, ginkgo, ginseng — antiplatelet effects. Hawthorn — cardiac effects. St John's Wort — CYP induction affects anaesthetic metabolism. Valerian, kava — potentiate anaesthetic agents. Always take a full herbal history at pre-operative assessment — most patients do not volunteer this information unless specifically asked.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "herbal-adp-antimicrobial-digestive-herbs",
+      "title": "Antimicrobial & Digestive Herbs",
+      "badge": "Herbal",
+      "category": "adp",
+      "section": "herbal",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Key Actions",
+              "Dose",
+              "Best For",
+              "Cautions"
+            ],
+            "rows": [
+              [
+                "Berberine",
+                "Antimicrobial, antifungal, antiparasitic, AMPK activator (metabolic)",
+                "500mg TDS with meals",
+                "SIBO, H.pylori, Candida, T2DM, PCOS",
+                "Cyclosporin interaction. Avoid pregnancy. P450 inhibitor."
+              ],
+              [
+                "Andrographis",
+                "Antiviral, immune-stimulant, anti-inflammatory, hepatoprotective",
+                "400mg TDS (6% andrographolides)",
+                "Viral URTI, influenza, dengue support",
+                "Avoid autoimmune disease, pregnancy"
+              ],
+              [
+                "Oil of Oregano (Carvacrol)",
+                "Broad-spectrum antimicrobial, antifungal",
+                "200mg carvacrol TDS",
+                "Candida, SIBO, H.pylori adjunct",
+                "Rotate every 2 weeks to prevent resistance. Avoid pregnancy."
+              ],
+              [
+                "Neem (Azadirachta indica)",
+                "Antimicrobial, antifungal, antiparasitic, anti-inflammatory",
+                "500mg leaf extract BD",
+                "Gut dysbiosis, dental health, skin infections",
+                "Avoid pregnancy, young children. Hepatotoxic in overdose."
+              ],
+              [
+                "Triphala",
+                "Gentle laxative, prebiotic, antioxidant, hepatoprotective",
+                "1-2g at night",
+                "Constipation, dysbiosis, digestive tonic",
+                "Very safe — long-term use acceptable"
+              ],
+              [
+                "DGL Liquorice",
+                "Anti-ulcer, mucous membrane protection, anti-inflammatory",
+                "380mg chewed before meals",
+                "GERD, peptic ulcer, gastritis, oral mucositis",
+                "DGL form is safe. Standard liquorice root raises BP — avoid long-term."
+              ],
+              [
+                "Peppermint oil (enteric-coated)",
+                "Antispasmodic (L-menthol), carminative, antimicrobial",
+                "0.2-0.4mL enteric-coated capsule TDS",
+                "IBS, SIBO, intestinal spasm, bloating",
+                "Must be enteric-coated. Avoid in GERD without coating."
+              ],
+              [
+                "Dandelion root",
+                "Choleretic, diuretic, prebiotic (inulin), hepatoprotective",
+                "500mg extract BD or 3 cups root tea/day",
+                "Liver support, constipation, bloating, UTI prevention",
+                "Avoid bile duct obstruction. May interact with diuretics."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Herb</th><th>Key Actions</th><th>Dose</th><th>Best For</th><th>Cautions</th></tr></thead><tbody>\n      <tr><td>Berberine</td><td>Antimicrobial, antifungal, antiparasitic, AMPK activator (metabolic)</td><td>500mg TDS with meals</td><td>SIBO, H.pylori, Candida, T2DM, PCOS</td><td>Cyclosporin interaction. Avoid pregnancy. P450 inhibitor.</td></tr>\n      <tr><td>Andrographis</td><td>Antiviral, immune-stimulant, anti-inflammatory, hepatoprotective</td><td>400mg TDS (6% andrographolides)</td><td>Viral URTI, influenza, dengue support</td><td>Avoid autoimmune disease, pregnancy</td></tr>\n      <tr><td>Oil of Oregano (Carvacrol)</td><td>Broad-spectrum antimicrobial, antifungal</td><td>200mg carvacrol TDS</td><td>Candida, SIBO, H.pylori adjunct</td><td>Rotate every 2 weeks to prevent resistance. Avoid pregnancy.</td></tr>\n      <tr><td>Neem (Azadirachta indica)</td><td>Antimicrobial, antifungal, antiparasitic, anti-inflammatory</td><td>500mg leaf extract BD</td><td>Gut dysbiosis, dental health, skin infections</td><td>Avoid pregnancy, young children. Hepatotoxic in overdose.</td></tr>\n      <tr><td>Triphala</td><td>Gentle laxative, prebiotic, antioxidant, hepatoprotective</td><td>1-2g at night</td><td>Constipation, dysbiosis, digestive tonic</td><td>Very safe — long-term use acceptable</td></tr>\n      <tr><td>DGL Liquorice</td><td>Anti-ulcer, mucous membrane protection, anti-inflammatory</td><td>380mg chewed before meals</td><td>GERD, peptic ulcer, gastritis, oral mucositis</td><td>DGL form is safe. Standard liquorice root raises BP — avoid long-term.</td></tr>\n      <tr><td>Peppermint oil (enteric-coated)</td><td>Antispasmodic (L-menthol), carminative, antimicrobial</td><td>0.2-0.4mL enteric-coated capsule TDS</td><td>IBS, SIBO, intestinal spasm, bloating</td><td>Must be enteric-coated. Avoid in GERD without coating.</td></tr>\n      <tr><td>Dandelion root</td><td>Choleretic, diuretic, prebiotic (inulin), hepatoprotective</td><td>500mg extract BD or 3 cups root tea/day</td><td>Liver support, constipation, bloating, UTI prevention</td><td>Avoid bile duct obstruction. May interact with diuretics.</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "herbal-adp-womens-health-immune-metabolic-herbs",
+      "title": "Women's Health, Immune & Metabolic Herbs",
+      "badge": "Herbal",
+      "category": "adp",
+      "section": "herbal",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Primary Use",
+              "Dose",
+              "Evidence",
+              "Cautions"
+            ],
+            "rows": [
+              [
+                "Vitex agnus-castus",
+                "PMS, PMDD, irregular cycles, mastalgia, hyperprolactinaemia",
+                "400-500mg standardised extract OD (morning)",
+                "Good — 3+ months for effect",
+                "Avoid with dopamine antagonists. Avoid in pregnancy and OCP."
+              ],
+              [
+                "Black cohosh",
+                "Menopausal hot flushes, mood, sleep — NOT oestrogenic",
+                "40-80mg/day",
+                "Good — reduces hot flushes 50%",
+                "Monitor LFTs long-term. Max 6 months then reassess."
+              ],
+              [
+                "Red raspberry leaf",
+                "Uterine toning — traditional from 32 weeks gestation only",
+                "1-2 cups tea/day from 32 weeks",
+                "Moderate — traditional, limited RCT",
+                "Avoid before 32 weeks (uterotonic)"
+              ],
+              [
+                "Dong quai",
+                "Dysmenorrhoea, irregular cycles, blood tonic",
+                "3-4.5g dried root/day",
+                "Moderate",
+                "Photosensitising. Avoid pregnancy, heavy bleeding, anticoagulants."
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Primary Use",
+              "Dose",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "Echinacea",
+                "URTI prevention and treatment, NK cell activation",
+                "E.purpurea 300mg TDS. Max 10 days continuous.",
+                "Good — reduces URTI duration 1-4 days"
+              ],
+              [
+                "Astragalus (Huang Qi)",
+                "Immune modulator, adaptogen, antiviral, anti-fatigue",
+                "500mg extract BD",
+                "Good — traditional + emerging oncology evidence"
+              ],
+              [
+                "Elderberry (Sambucus nigra)",
+                "Antiviral (influenza, cold), immune stimulant",
+                "15ml syrup QID during illness or 600mg extract/day",
+                "Good — reduces influenza duration 3-4 days"
+              ],
+              [
+                "Gymnema sylvestre",
+                "Reduces sugar cravings, lowers blood glucose, improves insulin sensitivity",
+                "400mg (25% gymnemic acids) BD",
+                "Good for T2DM adjunct"
+              ],
+              [
+                "Bitter melon (Karela)",
+                "Blood glucose lowering, insulin-like action, PCOS support",
+                "50-100ml fresh juice OD or 500mg extract BD",
+                "Good — multiple Indian RCTs"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div style=\"font-weight:700;color:var(--em-dk);margin-bottom:6px\">WOMEN'S HEALTH HERBS</div>\n    <table class=\"tbl\"><thead><tr><th>Herb</th><th>Primary Use</th><th>Dose</th><th>Evidence</th><th>Cautions</th></tr></thead><tbody>\n      <tr><td>Vitex agnus-castus</td><td>PMS, PMDD, irregular cycles, mastalgia, hyperprolactinaemia</td><td>400-500mg standardised extract OD (morning)</td><td>Good — 3+ months for effect</td><td>Avoid with dopamine antagonists. Avoid in pregnancy and OCP.</td></tr>\n      <tr><td>Black cohosh</td><td>Menopausal hot flushes, mood, sleep — NOT oestrogenic</td><td>40-80mg/day</td><td>Good — reduces hot flushes 50%</td><td>Monitor LFTs long-term. Max 6 months then reassess.</td></tr>\n      <tr><td>Red raspberry leaf</td><td>Uterine toning — traditional from 32 weeks gestation only</td><td>1-2 cups tea/day from 32 weeks</td><td>Moderate — traditional, limited RCT</td><td>Avoid before 32 weeks (uterotonic)</td></tr>\n      <tr><td>Dong quai</td><td>Dysmenorrhoea, irregular cycles, blood tonic</td><td>3-4.5g dried root/day</td><td>Moderate</td><td>Photosensitising. Avoid pregnancy, heavy bleeding, anticoagulants.</td></tr>\n    </tbody></table>\n    <div style=\"font-weight:700;color:var(--em-dk);margin:10px 0 6px\">IMMUNE & METABOLIC HERBS</div>\n    <table class=\"tbl\"><thead><tr><th>Herb</th><th>Primary Use</th><th>Dose</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td>Echinacea</td><td>URTI prevention and treatment, NK cell activation</td><td>E.purpurea 300mg TDS. Max 10 days continuous.</td><td>Good — reduces URTI duration 1-4 days</td></tr>\n      <tr><td>Astragalus (Huang Qi)</td><td>Immune modulator, adaptogen, antiviral, anti-fatigue</td><td>500mg extract BD</td><td>Good — traditional + emerging oncology evidence</td></tr>\n      <tr><td>Elderberry (Sambucus nigra)</td><td>Antiviral (influenza, cold), immune stimulant</td><td>15ml syrup QID during illness or 600mg extract/day</td><td>Good — reduces influenza duration 3-4 days</td></tr>\n      <tr><td>Gymnema sylvestre</td><td>Reduces sugar cravings, lowers blood glucose, improves insulin sensitivity</td><td>400mg (25% gymnemic acids) BD</td><td>Good for T2DM adjunct</td></tr>\n      <tr><td>Bitter melon (Karela)</td><td>Blood glucose lowering, insulin-like action, PCOS support</td><td>50-100ml fresh juice OD or 500mg extract BD</td><td>Good — multiple Indian RCTs</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "herbal-adp-respiratory-adaptogenic-herbs",
+      "title": "Respiratory & Adaptogenic Herbs",
+      "badge": "Herbal",
+      "category": "adp",
+      "section": "herbal",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Key Actions",
+              "Dose",
+              "Best For",
+              "Cautions"
+            ],
+            "rows": [
+              [
+                "Vasaka (Adhatoda vasica)",
+                "Bronchodilator, expectorant, antispasmodic. Vasicine is precursor of bromhexine.",
+                "500mg leaf extract TDS or 10ml juice TDS",
+                "Asthma, bronchitis, COPD, productive cough",
+                "Avoid in pregnancy (uterotonic). Not for dry cough."
+              ],
+              [
+                "Tulsi (Ocimum sanctum)",
+                "Adaptogen, immunomodulator, antiviral, bronchodilator, COX-2 inhibitor",
+                "500mg extract BD or 2 cups tea/day",
+                "Respiratory infections, asthma (mild), stress, immunity",
+                "Mild anticoagulant. Generally very safe."
+              ],
+              [
+                "Thyme (Thymus vulgaris)",
+                "Expectorant, antispasmodic, antimicrobial (thymol)",
+                "1-2 tsp dried herb as tea TDS",
+                "Productive cough, bronchitis, COPD",
+                "Generally safe. Avoid high-dose essential oil internally."
+              ],
+              [
+                "Licorice root",
+                "Expectorant, demulcent, anti-inflammatory, antiviral",
+                "DGL 380mg TDS for GI. Whole root 200mg TDS for respiratory (short-term only)",
+                "Respiratory tract infections, laryngitis, bronchitis",
+                "Whole root: raises BP, hypokalaemia — max 6 weeks."
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Type",
+              "Dose",
+              "Best For",
+              "Cautions"
+            ],
+            "rows": [
+              [
+                "Ashwagandha KSM-66",
+                "Adaptogen — bidirectional cortisol modulation",
+                "300mg BD",
+                "Stress, burnout, thyroid, testosterone, sleep, PCOS",
+                "Avoid in autoimmune disease, pregnancy. Nightshade family."
+              ],
+              [
+                "Rhodiola rosea",
+                "Adaptogen — reduces fatigue, improves cognition",
+                "200-400mg (3% rosavins) AM only",
+                "Mental fatigue, burnout Stage 1-2, athletic performance",
+                "Stimulating — avoid Stage 4 burnout (low cortisol). Avoid PM (insomnia)."
+              ],
+              [
+                "Siberian ginseng (Eleuthero)",
+                "Adaptogen — immune support, anti-fatigue",
+                "300-600mg extract/day",
+                "Fatigue, immune support, cancer treatment adjunct",
+                "Avoid in hypertension (high doses). Interferes with digoxin assay."
+              ],
+              [
+                "Schisandra",
+                "Hepatoprotective, adaptogen, cognitive, anti-fatigue",
+                "500mg extract BD",
+                "Liver support, mental fatigue, hepatitis adjunct",
+                "Avoid pregnancy. CYP3A4 interactions."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div style=\"font-weight:700;color:var(--em-dk);margin-bottom:6px\">RESPIRATORY HERBS</div>\n    <table class=\"tbl\"><thead><tr><th>Herb</th><th>Key Actions</th><th>Dose</th><th>Best For</th><th>Cautions</th></tr></thead><tbody>\n      <tr><td>Vasaka (Adhatoda vasica)</td><td>Bronchodilator, expectorant, antispasmodic. Vasicine is precursor of bromhexine.</td><td>500mg leaf extract TDS or 10ml juice TDS</td><td>Asthma, bronchitis, COPD, productive cough</td><td>Avoid in pregnancy (uterotonic). Not for dry cough.</td></tr>\n      <tr><td>Tulsi (Ocimum sanctum)</td><td>Adaptogen, immunomodulator, antiviral, bronchodilator, COX-2 inhibitor</td><td>500mg extract BD or 2 cups tea/day</td><td>Respiratory infections, asthma (mild), stress, immunity</td><td>Mild anticoagulant. Generally very safe.</td></tr>\n      <tr><td>Thyme (Thymus vulgaris)</td><td>Expectorant, antispasmodic, antimicrobial (thymol)</td><td>1-2 tsp dried herb as tea TDS</td><td>Productive cough, bronchitis, COPD</td><td>Generally safe. Avoid high-dose essential oil internally.</td></tr>\n      <tr><td>Licorice root</td><td>Expectorant, demulcent, anti-inflammatory, antiviral</td><td>DGL 380mg TDS for GI. Whole root 200mg TDS for respiratory (short-term only)</td><td>Respiratory tract infections, laryngitis, bronchitis</td><td>Whole root: raises BP, hypokalaemia — max 6 weeks.</td></tr>\n    </tbody></table>\n    <div style=\"font-weight:700;color:var(--em-dk);margin:10px 0 6px\">ADAPTOGENS — HPA AXIS SUPPORT</div>\n    <table class=\"tbl\"><thead><tr><th>Herb</th><th>Type</th><th>Dose</th><th>Best For</th><th>Cautions</th></tr></thead><tbody>\n      <tr><td>Ashwagandha KSM-66</td><td>Adaptogen — bidirectional cortisol modulation</td><td>300mg BD</td><td>Stress, burnout, thyroid, testosterone, sleep, PCOS</td><td>Avoid in autoimmune disease, pregnancy. Nightshade family.</td></tr>\n      <tr><td>Rhodiola rosea</td><td>Adaptogen — reduces fatigue, improves cognition</td><td>200-400mg (3% rosavins) AM only</td><td>Mental fatigue, burnout Stage 1-2, athletic performance</td><td>Stimulating — avoid Stage 4 burnout (low cortisol). Avoid PM (insomnia).</td></tr>\n      <tr><td>Siberian ginseng (Eleuthero)</td><td>Adaptogen — immune support, anti-fatigue</td><td>300-600mg extract/day</td><td>Fatigue, immune support, cancer treatment adjunct</td><td>Avoid in hypertension (high doses). Interferes with digoxin assay.</td></tr>\n      <tr><td>Schisandra</td><td>Hepatoprotective, adaptogen, cognitive, anti-fatigue</td><td>500mg extract BD</td><td>Liver support, mental fatigue, hepatitis adjunct</td><td>Avoid pregnancy. CYP3A4 interactions.</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "herbal-hep-hepatoprotective-herbs-liver-support",
+      "title": "Hepatoprotective Herbs — Liver Support",
+      "badge": "Organ",
+      "category": "hep",
+      "section": "herbal",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Active Compounds",
+              "Mechanism",
+              "Best Evidence",
+              "Dose"
+            ],
+            "rows": [
+              [
+                "Milk Thistle",
+                "Silymarin (silibinin)",
+                "Antioxidant (↑ GSH), membrane stabiliser, anti-fibrotic, ↑ protein synthesis",
+                "Cirrhosis, hepatitis (viral, alcoholic), Amanita poisoning ★",
+                "420mg/day silymarin"
+              ],
+              [
+                "Dandelion root",
+                "Taraxacin, inulin, bitter sesquiterpenes",
+                "↑ Bile flow, mild diuretic, prebiotic, anti-inflammatory",
+                "Liver congestion, constipation, UTI",
+                "4–10g root/day or tincture"
+              ],
+              [
+                "Globe artichoke",
+                "Cynarin, luteolin",
+                "↑ Bile production/flow, hepatoprotective, lipid-lowering",
+                "Dyslipidaemia ★, NAFLD, dyspepsia",
+                "320–640mg extract/day"
+              ],
+              [
+                "Turmeric / Curcumin",
+                "Curcuminoids",
+                "NF-κB ↓, COX-2 ↓, Nrf2 ↑, anti-fibrotic",
+                "NAFLD ★, IBD, arthritis, cancer adjunct",
+                "500–2000mg/day + piperine or liposomal"
+              ],
+              [
+                "Andrographis",
+                "Andrographolide",
+                "Anti-viral, NF-κB ↓, immune modulation",
+                "Viral hepatitis, URTI, IBD",
+                "200–400mg andrographolide/day"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Curcumin bioavailability — critical",
+            "text": "Curcumin has only 1% oral bioavailability as standard powder. Solutions: (1) Piperine (black pepper extract, bioperine) 20mg increases absorption 2000%, (2) Liposomal/phospholipid complex (Meriva, BCM-95) 7–29× increase, (3) Nanoparticle formulations. Always specify the formulation when recommending. BCM-95 or Meriva at 500mg/day equals 8–10g standard curcumin powder."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Herb</th><th>Active Compounds</th><th>Mechanism</th><th>Best Evidence</th><th>Dose</th></tr></thead><tbody>\n      <tr><td>Milk Thistle</td><td>Silymarin (silibinin)</td><td>Antioxidant (↑ GSH), membrane stabiliser, anti-fibrotic, ↑ protein synthesis</td><td>Cirrhosis, hepatitis (viral, alcoholic), Amanita poisoning ★</td><td>420mg/day silymarin</td></tr>\n      <tr><td>Dandelion root</td><td>Taraxacin, inulin, bitter sesquiterpenes</td><td>↑ Bile flow, mild diuretic, prebiotic, anti-inflammatory</td><td>Liver congestion, constipation, UTI</td><td>4–10g root/day or tincture</td></tr>\n      <tr><td>Globe artichoke</td><td>Cynarin, luteolin</td><td>↑ Bile production/flow, hepatoprotective, lipid-lowering</td><td>Dyslipidaemia ★, NAFLD, dyspepsia</td><td>320–640mg extract/day</td></tr>\n      <tr><td>Turmeric / Curcumin</td><td>Curcuminoids</td><td>NF-κB ↓, COX-2 ↓, Nrf2 ↑, anti-fibrotic</td><td>NAFLD ★, IBD, arthritis, cancer adjunct</td><td>500–2000mg/day + piperine or liposomal</td></tr>\n      <tr><td>Andrographis</td><td>Andrographolide</td><td>Anti-viral, NF-κB ↓, immune modulation</td><td>Viral hepatitis, URTI, IBD</td><td>200–400mg andrographolide/day</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Curcumin bioavailability — critical</div><div class=\"pt\">Curcumin has only 1% oral bioavailability as standard powder. Solutions: (1) Piperine (black pepper extract, bioperine) 20mg increases absorption 2000%, (2) Liposomal/phospholipid complex (Meriva, BCM-95) 7–29× increase, (3) Nanoparticle formulations. Always specify the formulation when recommending. BCM-95 or Meriva at 500mg/day equals 8–10g standard curcumin powder.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "herbal-nrv-nervines-neurological-herbs",
+      "title": "Nervines & Neurological Herbs",
+      "badge": "Category",
+      "category": "nrv",
+      "section": "herbal",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Herb",
+              "Category",
+              "Mechanism",
+              "Best Use",
+              "Dose"
+            ],
+            "rows": [
+              [
+                "Ashwagandha",
+                "Adaptogen-nervine",
+                "↓ Cortisol, GABA-A modulation, BDNF ↑",
+                "Anxiety + fatigue, adrenal fatigue",
+                "KSM-66 300mg twice daily"
+              ],
+              [
+                "Valerian",
+                "Sedative nervine",
+                "GABA transaminase inhibition, GABA-A agonism",
+                "Insomnia ★, anxiety, muscle tension",
+                "400–900mg 30min before bed"
+              ],
+              [
+                "Passionflower",
+                "Anxiolytic nervine",
+                "GABA-A potentiation (similar to benzos, no dependence)",
+                "Anxiety ★, insomnia, withdrawal support",
+                "250–500mg or tincture"
+              ],
+              [
+                "Lemon balm",
+                "Relaxing nervine",
+                "MAO inhibition (mild), GABA-T inhibition, antiviral",
+                "Anxiety, insomnia, cold sores, ADHD (children)",
+                "300–600mg (or tea)"
+              ],
+              [
+                "Bacopa monnieri",
+                "Nootropic",
+                "↑ Acetylcholine, antioxidant, ↑ BDNF, adaptogenic",
+                "Memory ★, ADHD adjunct, cognitive ageing",
+                "300mg/day standardised (must take 8–12 weeks)"
+              ],
+              [
+                "Lion's Mane",
+                "Nootropic mushroom",
+                "NGF (nerve growth factor) stimulation, remyelination",
+                "Cognitive decline ★, neuropathy, depression",
+                "500–3000mg/day extract"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Lion's Mane & NGF",
+            "text": "Hericium erinaceus (Lion's Mane) is the only known food that stimulates NGF (nerve growth factor) synthesis in the brain. NGF promotes neuroplasticity, remyelination, and neurogenesis. RCT evidence for mild cognitive impairment (Mori et al., 2009 — 50% cognitive improvement vs placebo over 16 weeks). Requires 8 weeks minimum. Use hot-water extract (fruiting body) not mycelium for NGF-stimulating hericenones and erinacines."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Herb</th><th>Category</th><th>Mechanism</th><th>Best Use</th><th>Dose</th></tr></thead><tbody>\n      <tr><td>Ashwagandha</td><td>Adaptogen-nervine</td><td>↓ Cortisol, GABA-A modulation, BDNF ↑</td><td>Anxiety + fatigue, adrenal fatigue</td><td>KSM-66 300mg twice daily</td></tr>\n      <tr><td>Valerian</td><td>Sedative nervine</td><td>GABA transaminase inhibition, GABA-A agonism</td><td>Insomnia ★, anxiety, muscle tension</td><td>400–900mg 30min before bed</td></tr>\n      <tr><td>Passionflower</td><td>Anxiolytic nervine</td><td>GABA-A potentiation (similar to benzos, no dependence)</td><td>Anxiety ★, insomnia, withdrawal support</td><td>250–500mg or tincture</td></tr>\n      <tr><td>Lemon balm</td><td>Relaxing nervine</td><td>MAO inhibition (mild), GABA-T inhibition, antiviral</td><td>Anxiety, insomnia, cold sores, ADHD (children)</td><td>300–600mg (or tea)</td></tr>\n      <tr><td>Bacopa monnieri</td><td>Nootropic</td><td>↑ Acetylcholine, antioxidant, ↑ BDNF, adaptogenic</td><td>Memory ★, ADHD adjunct, cognitive ageing</td><td>300mg/day standardised (must take 8–12 weeks)</td></tr>\n      <tr><td>Lion's Mane</td><td>Nootropic mushroom</td><td>NGF (nerve growth factor) stimulation, remyelination</td><td>Cognitive decline ★, neuropathy, depression</td><td>500–3000mg/day extract</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Lion's Mane & NGF</div><div class=\"pt\">Hericium erinaceus (Lion's Mane) is the only known food that stimulates NGF (nerve growth factor) synthesis in the brain. NGF promotes neuroplasticity, remyelination, and neurogenesis. RCT evidence for mild cognitive impairment (Mori et al., 2009 — 50% cognitive improvement vs placebo over 16 weeks). Requires 8 weeks minimum. Use hot-water extract (fruiting body) not mycelium for NGF-stimulating hericenones and erinacines.</div></div>",
+      "_review": false
     }
   ]
 }
