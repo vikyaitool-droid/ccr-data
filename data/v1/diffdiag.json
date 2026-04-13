@@ -1,0 +1,22 @@
+{
+  "cards": [
+    {
+      "title": "Chest Pain & Headache DDx",
+      "badge": "",
+      "category": "ddchest",
+      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Chest pain: ACS vs PE vs Aortic dissection vs GERD vs MSK</li><li>Headache: Tension vs Migraine vs Cluster vs SAH (thunderclap)</li><li>Red flags in chest pain (RSVP: Rest, Severity, Variation, Provocation)</li><li>Migraine criteria: POUND mnemonic</li></ul></div>"
+    },
+    {
+      "title": "Abdominal & Skin DDx",
+      "badge": "",
+      "category": "ddabd",
+      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>RUQ pain: Cholecystitis, hepatitis, Fitz-Hugh-Curtis</li><li>LLQ pain: Diverticulitis, ectopic, ovarian cyst</li><li>Skin rash DDx: Symmetry, distribution, lesion type</li><li>Itching without rash: Cholestasis, CKD, lymphoma</li></ul></div>"
+    },
+    {
+      "title": "Fatigue & General DDx",
+      "badge": "",
+      "category": "ddgen",
+      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Fatigue: Anaemia, thyroid, depression, sleep apnea, malignancy</li><li>Weight loss DDx: MALT (Malignancy, Anxiety, Liver, TB/thyrotoxicosis)</li><li>Peripheral oedema: Cardiac, hepatic, renal, lymphatic, venous</li><li>Polyuria DDx: DM, DI, CKD, hypercalcaemia</li></ul></div>"
+    }
+  ]
+}
