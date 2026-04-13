@@ -1,0 +1,245 @@
+{
+  "schemaVersion": "1.0",
+  "section": "panchakarma",
+  "generatedAt": "2026-04-13T11:56:45.233Z",
+  "cardCount": 4,
+  "cards": [
+    {
+      "id": "panchakarma-pancha-panchakarma-principles-philosophy",
+      "title": "Panchakarma — Principles & Philosophy",
+      "badge": "Foundation",
+      "category": "pancha",
+      "section": "panchakarma",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Panchakarma — The Five Therapeutic Actions",
+            "text": "Panchakarma (pañcakarma) is Ayurveda's primary detoxification and purification system. The term means \"five actions\" — five main therapeutic procedures that eliminate accumulated toxins (ama) and vitiated doshas from specific body channels (srotas). Panchakarma is always preceded by purvakarma (preparatory procedures: snehana/oleation and swedana/sudation) and followed by paschatkarma (post-treatment rehabilitation). It is a complete therapeutic programme, not individual treatments."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Karma",
+              "Sanskrit",
+              "Route",
+              "Primary Dosha Addressed",
+              "Main Indication"
+            ],
+            "rows": [
+              [
+                "Vamana",
+                "Therapeutic vomiting",
+                "Oral (emetic decoctions)",
+                "Kapha (from stomach/lungs)",
+                "Asthma, chronic cough, sinusitis, skin diseases (kapha), obesity, psoriasis"
+              ],
+              [
+                "Virechana",
+                "Therapeutic purgation",
+                "Oral (purgatives)",
+                "Pitta (from small intestine/liver)",
+                "Skin diseases (pitta), liver disorders, NAFLD, inflammatory bowel, jaundice, migraine, herpes"
+              ],
+              [
+                "Basti",
+                "Therapeutic enema",
+                "Rectal (herbal decoctions or medicated oils)",
+                "Vata (from colon — vata's seat)",
+                "Constipation, neurological disorders, musculoskeletal, IBS, reproductive disorders. Most important of the 5 karmas — addresses vata which controls all movement."
+              ],
+              [
+                "Nasya",
+                "Nasal administration",
+                "Nasal (medicated oils, powders)",
+                "Kapha above clavicle (head and neck)",
+                "Sinusitis, migraine, CNS disorders, cognitive decline, cervical spondylosis, facial palsy, nasal polyps"
+              ],
+              [
+                "Raktamokshana",
+                "Blood purification/letting",
+                "Various (leech therapy, venesection, cupping)",
+                "Rakta (blood — pitta-vitiated)",
+                "Skin diseases (eczema, psoriasis), inflammatory arthritis, gout, varicose veins, local infections. Leech therapy most common modern application."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Panchakarma — The Five Therapeutic Actions</div>Panchakarma (pañcakarma) is Ayurveda's primary detoxification and purification system. The term means \"five actions\" — five main therapeutic procedures that eliminate accumulated toxins (ama) and vitiated doshas from specific body channels (srotas). Panchakarma is always preceded by purvakarma (preparatory procedures: snehana/oleation and swedana/sudation) and followed by paschatkarma (post-treatment rehabilitation). It is a complete therapeutic programme, not individual treatments.</div>\n    <table class=\"tbl\"><thead><tr><th>Karma</th><th>Sanskrit</th><th>Route</th><th>Primary Dosha Addressed</th><th>Main Indication</th></tr></thead><tbody>\n      <tr><td><strong>Vamana</strong></td><td>Therapeutic vomiting</td><td>Oral (emetic decoctions)</td><td>Kapha (from stomach/lungs)</td><td>Asthma, chronic cough, sinusitis, skin diseases (kapha), obesity, psoriasis</td></tr>\n      <tr><td><strong>Virechana</strong></td><td>Therapeutic purgation</td><td>Oral (purgatives)</td><td>Pitta (from small intestine/liver)</td><td>Skin diseases (pitta), liver disorders, NAFLD, inflammatory bowel, jaundice, migraine, herpes</td></tr>\n      <tr><td><strong>Basti</strong></td><td>Therapeutic enema</td><td>Rectal (herbal decoctions or medicated oils)</td><td>Vata (from colon — vata's seat)</td><td>Constipation, neurological disorders, musculoskeletal, IBS, reproductive disorders. Most important of the 5 karmas — addresses vata which controls all movement.</td></tr>\n      <tr><td><strong>Nasya</strong></td><td>Nasal administration</td><td>Nasal (medicated oils, powders)</td><td>Kapha above clavicle (head and neck)</td><td>Sinusitis, migraine, CNS disorders, cognitive decline, cervical spondylosis, facial palsy, nasal polyps</td></tr>\n      <tr><td><strong>Raktamokshana</strong></td><td>Blood purification/letting</td><td>Various (leech therapy, venesection, cupping)</td><td>Rakta (blood — pitta-vitiated)</td><td>Skin diseases (eczema, psoriasis), inflammatory arthritis, gout, varicose veins, local infections. Leech therapy most common modern application.</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "panchakarma-pancha-purvakarma-preparatory-procedures",
+      "title": "Purvakarma — Preparatory Procedures",
+      "badge": "Clinical",
+      "category": "pancha",
+      "section": "panchakarma",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Purvakarma is MANDATORY Before Any Main Panchakarma Procedure",
+            "text": "Purvakarma (preparatory procedures) mobilises ama and vitiated doshas from peripheral tissues to the GI tract (the site of elimination). Performing main panchakarma without purvakarma is like trying to sweep a room without loosening the dust first — ineffective and potentially harmful."
+          }
+        ],
+        "tables": [],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Snehana (Oleation) — Internal & External",
+            "text": "Internal snehana (antah snehana): medicated ghee (ghrita) administered orally in increasing doses over 3–7 days (typically 30ml → 60ml → 90ml → 120ml). Softens and lubricates body channels. Signs of proper internal oleation: oiliness of stool, absence of hunger (oleation suppresses agni), skin lustre. External snehana: Abhyanga — full body warm medicated oil massage (60–90 min). Specific oils: Dhanvantaram (vata), Mahanarayan (musculoskeletal), Ksheerabala (neurological). Post-massage steam (see swedana below)."
+          },
+          {
+            "n": 2,
+            "title": "Swedana (Sudation/Steam Therapy)",
+            "text": "Immediately after external snehana. Types: Bashpa sweda (steam bath in steam cabinet — full body). Nadi sweda (steam pipe directed at specific joints). Pinda sweda (bolus massage — see below). Duration: 10–20 min until profuse sweating. Endpoints: skin becomes soft and moist, ama is liquefied and mobilised, patient feels light. Post-swedana: patient must be kept warm and avoid cold — open channels are vulnerable."
+          },
+          {
+            "n": 3,
+            "title": "Pinda Sweda — Special Bolus Therapies",
+            "text": "Njavara Kizhi: rice (njavara variety) cooked in milk and herbal decoction, formed into boluses in cloth, massaged over body at 45°C. Indication: neurological conditions, post-stroke rehabilitation, muscular atrophy, Parkinson's. Elakizhi: fresh medicinal leaves (nirgundi, vitex, calotropis, etc.) filled in cloth bolus. Indication: musculoskeletal pain, arthritis, spondylosis. Chakra Basti: medicated oil retained in dough well placed over specific joints or spine (see previous reference)."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-info\"><div class=\"a-label\">Purvakarma is MANDATORY Before Any Main Panchakarma Procedure</div>Purvakarma (preparatory procedures) mobilises ama and vitiated doshas from peripheral tissues to the GI tract (the site of elimination). Performing main panchakarma without purvakarma is like trying to sweep a room without loosening the dust first — ineffective and potentially harmful.</div>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">1</div><div class=\"st\"><span class=\"sh\">Snehana (Oleation) — Internal & External</span> Internal snehana (antah snehana): medicated ghee (ghrita) administered orally in increasing doses over 3–7 days (typically 30ml → 60ml → 90ml → 120ml). Softens and lubricates body channels. Signs of proper internal oleation: oiliness of stool, absence of hunger (oleation suppresses agni), skin lustre. External snehana: Abhyanga — full body warm medicated oil massage (60–90 min). Specific oils: Dhanvantaram (vata), Mahanarayan (musculoskeletal), Ksheerabala (neurological). Post-massage steam (see swedana below).</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">2</div><div class=\"st\"><span class=\"sh\">Swedana (Sudation/Steam Therapy)</span> Immediately after external snehana. Types: Bashpa sweda (steam bath in steam cabinet — full body). Nadi sweda (steam pipe directed at specific joints). Pinda sweda (bolus massage — see below). Duration: 10–20 min until profuse sweating. Endpoints: skin becomes soft and moist, ama is liquefied and mobilised, patient feels light. Post-swedana: patient must be kept warm and avoid cold — open channels are vulnerable.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">3</div><div class=\"st\"><span class=\"sh\">Pinda Sweda — Special Bolus Therapies</span> Njavara Kizhi: rice (njavara variety) cooked in milk and herbal decoction, formed into boluses in cloth, massaged over body at 45°C. Indication: neurological conditions, post-stroke rehabilitation, muscular atrophy, Parkinson's. Elakizhi: fresh medicinal leaves (nirgundi, vitex, calotropis, etc.) filled in cloth bolus. Indication: musculoskeletal pain, arthritis, spondylosis. Chakra Basti: medicated oil retained in dough well placed over specific joints or spine (see previous reference).</div></div>\n    </div>",
+      "_review": false
+    },
+    {
+      "id": "panchakarma-pancha-special-panchakarma-treatments-shirodhara-shirobasti",
+      "title": "Special Panchakarma Treatments — Shirodhara & Shirobasti",
+      "badge": "BNYS Specialty",
+      "category": "pancha",
+      "section": "panchakarma",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Shirodhara — The Most Recognisable Panchakarma Procedure",
+            "text": "Shirodhara (shiro = head, dhara = continuous stream) involves a continuous flow of warm medicated liquid (oil, milk, buttermilk, decoctions) onto the forehead (third eye — ajna chakra region) in a slow oscillating stream for 30–60 minutes. It induces profound mental relaxation, normalises HPA axis, and is neurologically restorative. Multiple RCTs confirm efficacy for insomnia, anxiety, hypertension, and PTSD."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Shirodhara Type",
+              "Fluid Used",
+              "Indication",
+              "Duration"
+            ],
+            "rows": [
+              [
+                "Tailadhara",
+                "Medicated sesame oil (Dhanvantaram, Ksheerabala, Brahmi oil)",
+                "Vata disorders, neurological conditions, insomnia, anxiety, cognitive decline, facial palsy",
+                "45–60 min, 7–14 days"
+              ],
+              [
+                "Ksheeradhara",
+                "Medicated milk (with Brahmi, ashwagandha decoctions)",
+                "Pitta disorders, burning sensations, migraines, hypertension, menopausal symptoms, hair loss",
+                "30–45 min, 7–14 days"
+              ],
+              [
+                "Takradhara",
+                "Medicated buttermilk (with amalaki, sandalwood)",
+                "Pitta + vata, psoriasis of scalp, stress, premature greying, burning sensations of scalp",
+                "30–45 min, 7–21 days"
+              ],
+              [
+                "Kwathadhara",
+                "Herbal decoctions (various)",
+                "Kapha-vata conditions, musculoskeletal, chronic inflammatory conditions",
+                "30 min, 7 days"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Shirodhara Evidence",
+            "text": "RCTs for Shirodhara: significant reduction in insomnia (ISI score), anxiety (HAM-A), hypertension, and PTSD symptoms. Proposed mechanisms: direct activation of forehead mechanoreceptors → vagal afferents → hypothalamic modulation → cortisol ↓, melatonin ↑. EEG during shirodhara: alpha and theta wave dominance (relaxation/meditative state). fMRI: increased prefrontal cortex activity (executive control) + decreased amygdala activation (anxiety reduction). This is one of the best-evidenced Ayurvedic procedures."
+          }
+        ],
+        "steps": [
+          {
+            "n": 0,
+            "title": "Shirodhara Protocol",
+            "text": "Patient position: supine, eyes covered. Oil heated to 37–42°C (body temperature — never hot). Dhara vessel suspended above forehead. Oil pours in oscillating stream from hairline to hairline (not onto face, not into eyes or ears). Oscillation rate: slow and rhythmic. Therapist must maintain constant stream temperature and flow. Post-procedure: DO NOT allow patient to sit up rapidly (orthostatic hypotension). Rest 20–30 min. Head wrapped to retain heat. Avoid cold, wind, and mental stress post-treatment."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Shirodhara — The Most Recognisable Panchakarma Procedure</div>Shirodhara (shiro = head, dhara = continuous stream) involves a continuous flow of warm medicated liquid (oil, milk, buttermilk, decoctions) onto the forehead (third eye — ajna chakra region) in a slow oscillating stream for 30–60 minutes. It induces profound mental relaxation, normalises HPA axis, and is neurologically restorative. Multiple RCTs confirm efficacy for insomnia, anxiety, hypertension, and PTSD.</div>\n    <table class=\"tbl\"><thead><tr><th>Shirodhara Type</th><th>Fluid Used</th><th>Indication</th><th>Duration</th></tr></thead><tbody>\n      <tr><td><strong>Tailadhara</strong></td><td>Medicated sesame oil (Dhanvantaram, Ksheerabala, Brahmi oil)</td><td>Vata disorders, neurological conditions, insomnia, anxiety, cognitive decline, facial palsy</td><td>45–60 min, 7–14 days</td></tr>\n      <tr><td><strong>Ksheeradhara</strong></td><td>Medicated milk (with Brahmi, ashwagandha decoctions)</td><td>Pitta disorders, burning sensations, migraines, hypertension, menopausal symptoms, hair loss</td><td>30–45 min, 7–14 days</td></tr>\n      <tr><td><strong>Takradhara</strong></td><td>Medicated buttermilk (with amalaki, sandalwood)</td><td>Pitta + vata, psoriasis of scalp, stress, premature greying, burning sensations of scalp</td><td>30–45 min, 7–21 days</td></tr>\n      <tr><td><strong>Kwathadhara</strong></td><td>Herbal decoctions (various)</td><td>Kapha-vata conditions, musculoskeletal, chronic inflammatory conditions</td><td>30 min, 7 days</td></tr>\n    </tbody></table>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">S</div><div class=\"st\"><span class=\"sh\">Shirodhara Protocol</span> Patient position: supine, eyes covered. Oil heated to 37–42°C (body temperature — never hot). Dhara vessel suspended above forehead. Oil pours in oscillating stream from hairline to hairline (not onto face, not into eyes or ears). Oscillation rate: slow and rhythmic. Therapist must maintain constant stream temperature and flow. Post-procedure: DO NOT allow patient to sit up rapidly (orthostatic hypotension). Rest 20–30 min. Head wrapped to retain heat. Avoid cold, wind, and mental stress post-treatment.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Shirodhara Evidence</div><div class=\"pt\">RCTs for Shirodhara: significant reduction in insomnia (ISI score), anxiety (HAM-A), hypertension, and PTSD symptoms. Proposed mechanisms: direct activation of forehead mechanoreceptors → vagal afferents → hypothalamic modulation → cortisol ↓, melatonin ↑. EEG during shirodhara: alpha and theta wave dominance (relaxation/meditative state). fMRI: increased prefrontal cortex activity (executive control) + decreased amygdala activation (anxiety reduction). This is one of the best-evidenced Ayurvedic procedures.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "panchakarma-pancha-leech-therapy-jalaukavacharana-clinical-protocol",
+      "title": "Leech Therapy (Jalaukavacharana) — Clinical Protocol",
+      "badge": "Specialty",
+      "category": "pancha",
+      "section": "panchakarma",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Medicinal Leech Therapy — Modern Evidence",
+            "text": "Medicinal leeches (Hirudo medicinalis) produce hirudin (anticoagulant), hyaluronidase (spreading factor), destabilase (clot lysis), and anaesthetic compounds in their saliva. Applications: venous congestion (microsurgery flap salvage — Grade A evidence), osteoarthritis, varicose veins, chronic skin conditions."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Parameter",
+              "Details"
+            ],
+            "rows": [
+              [
+                "Indications",
+                "Localised venous congestion post-surgery ★★★, OA of knee ★★ (RCT evidence), varicose veins, haematoma, skin diseases (psoriasis, eczema — Ayurvedic), thrombophlebitis, gout (localised)"
+              ],
+              [
+                "Contraindications",
+                "Bleeding disorders (haemophilia, anticoagulant therapy), anaemia (<10g/dL Hb), pregnancy, allergy to leech antigens (test first), HIV/Hepatitis (leech cannot be reused — strict infection control), immunosuppression, malignancy at site"
+              ],
+              [
+                "Procedure",
+                "1) Starved leech (30 min to 2 days). 2) Clean site with water (no alcohol — repels leeches). 3) Apply leech — it attaches in 1–5 min (may need a small nick with lancet). 4) Leech feeds 20–60 min, detaches when full. 5) NEVER forcibly remove (injects bacteria). 6) Post-removal bleeding: 30 min to 6 hours (hirudin effect). Cover with absorbent dressing. 7) Dispose of leech in 70% alcohol — NEVER reuse (infection risk)."
+              ],
+              [
+                "Post-procedure care",
+                "Monitor for: excessive bleeding (rare — apply firm pressure if >200ml total loss), allergic reaction (urticaria at site — antihistamine), secondary infection (7–10 days post — Aeromonas hydrophila from leech gut — may need prophylactic antibiotic). Site heals in 1–2 weeks."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-info\"><div class=\"a-label\">Medicinal Leech Therapy — Modern Evidence</div>Medicinal leeches (Hirudo medicinalis) produce hirudin (anticoagulant), hyaluronidase (spreading factor), destabilase (clot lysis), and anaesthetic compounds in their saliva. Applications: venous congestion (microsurgery flap salvage — Grade A evidence), osteoarthritis, varicose veins, chronic skin conditions.</div>\n    <table class=\"tbl\"><thead><tr><th>Parameter</th><th>Details</th></tr></thead><tbody>\n      <tr><td>Indications</td><td>Localised venous congestion post-surgery ★★★, OA of knee ★★ (RCT evidence), varicose veins, haematoma, skin diseases (psoriasis, eczema — Ayurvedic), thrombophlebitis, gout (localised)</td></tr>\n      <tr><td>Contraindications</td><td>Bleeding disorders (haemophilia, anticoagulant therapy), anaemia (&lt;10g/dL Hb), pregnancy, allergy to leech antigens (test first), HIV/Hepatitis (leech cannot be reused — strict infection control), immunosuppression, malignancy at site</td></tr>\n      <tr><td>Procedure</td><td>1) Starved leech (30 min to 2 days). 2) Clean site with water (no alcohol — repels leeches). 3) Apply leech — it attaches in 1–5 min (may need a small nick with lancet). 4) Leech feeds 20–60 min, detaches when full. 5) NEVER forcibly remove (injects bacteria). 6) Post-removal bleeding: 30 min to 6 hours (hirudin effect). Cover with absorbent dressing. 7) Dispose of leech in 70% alcohol — NEVER reuse (infection risk).</td></tr>\n      <tr><td>Post-procedure care</td><td>Monitor for: excessive bleeding (rare — apply firm pressure if &gt;200ml total loss), allergic reaction (urticaria at site — antihistamine), secondary infection (7–10 days post — Aeromonas hydrophila from leech gut — may need prophylactic antibiotic). Site heals in 1–2 weeks.</td></tr>\n    </tbody></table>",
+      "_review": false
+    }
+  ]
+}
