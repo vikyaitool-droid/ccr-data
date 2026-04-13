@@ -1,16 +1,34 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-13T17:44:30.571Z",
+  "generatedAt": "2026-04-13T17:46:36.313Z",
   "sections": [
     {
-      "id": "clinicmgt",
-      "file": "clinicmgt.json",
+      "id": "agni_doshas",
+      "file": "agni_doshas.json",
       "cardCount": 4,
-      "sizeKb": "24.1",
+      "sizeKb": "1.3",
       "priority": "lazy",
       "lastUpdated": "2026-04-13",
-      "etag": "589ef3e4d486"
+      "etag": "0865fe2960e0"
+    },
+    {
+      "id": "herb_drug_interactions",
+      "file": "herb_drug_interactions.json",
+      "cardCount": 108,
+      "sizeKb": "121.1",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "3b8492e2f287"
+    },
+    {
+      "id": "skills",
+      "file": "skills.json",
+      "cardCount": 24,
+      "sizeKb": "114.4",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "4c63dd777e04"
     }
   ]
 }
