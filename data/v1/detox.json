@@ -1,0 +1,278 @@
+{
+  "schemaVersion": "1.0",
+  "section": "detox",
+  "generatedAt": "2026-04-13T11:55:57.064Z",
+  "cardCount": 4,
+  "cards": [
+    {
+      "id": "detox-det-detoxification-principles-phases",
+      "title": "Detoxification — Principles & Phases",
+      "badge": "Foundation",
+      "category": "det",
+      "section": "detox",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Hepatic Detoxification",
+            "text": "The liver detoxifies in 3 phases. Supporting all 3 phases is essential — activating Phase 1 without Phase 2 support can increase toxicity (Phase 1 produces reactive intermediates)."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Phase",
+              "Process",
+              "Enzymes",
+              "Nutrients Required",
+              "Supported By"
+            ],
+            "rows": [
+              [
+                "Phase 1 (Oxidation)",
+                "CYP450 converts fat-soluble toxins to reactive intermediates",
+                "CYP1A2, CYP3A4, etc.",
+                "B2, B3, B6, B12, folate, glutathione, flavonoids",
+                "Cruciferous veg, green tea, resveratrol"
+              ],
+              [
+                "Phase 2 (Conjugation)",
+                "Intermediates conjugated to water-soluble molecules",
+                "Glutathione-S-transferase, sulfotransferase, UGT",
+                "Glycine, taurine, glutamine, cysteine, methionine, sulfur",
+                "Eggs (sulfur), cruciferous, garlic, onion, whey protein"
+              ],
+              [
+                "Phase 3 (Elimination)",
+                "Conjugated toxins excreted via bile/urine/sweat",
+                "Transporters (MRP2, P-gp)",
+                "Adequate hydration, fibre, bile salts",
+                "Water 3L/day, fibre 30g/day, bile support herbs"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Pearl — Phase 2 Induction",
+            "text": "Sulforaphane (from broccoli sprouts) is the most potent Phase 2 inducer known. 3-day-old broccoli sprouts contain 50–100x more sulforaphane than mature broccoli. Protocol: 1 cup broccoli sprouts daily or sulforaphane supplement 50mg/day during detox. This activates Nrf2 pathway — the master regulator of cellular detoxification and antioxidant defence."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Hepatic Detoxification</div>The liver detoxifies in 3 phases. Supporting all 3 phases is essential — activating Phase 1 without Phase 2 support can increase toxicity (Phase 1 produces reactive intermediates).</div>\n    <table class=\"tbl\"><thead><tr><th>Phase</th><th>Process</th><th>Enzymes</th><th>Nutrients Required</th><th>Supported By</th></tr></thead><tbody>\n      <tr><td>Phase 1 (Oxidation)</td><td>CYP450 converts fat-soluble toxins to reactive intermediates</td><td>CYP1A2, CYP3A4, etc.</td><td>B2, B3, B6, B12, folate, glutathione, flavonoids</td><td>Cruciferous veg, green tea, resveratrol</td></tr>\n      <tr><td>Phase 2 (Conjugation)</td><td>Intermediates conjugated to water-soluble molecules</td><td>Glutathione-S-transferase, sulfotransferase, UGT</td><td>Glycine, taurine, glutamine, cysteine, methionine, sulfur</td><td>Eggs (sulfur), cruciferous, garlic, onion, whey protein</td></tr>\n      <tr><td>Phase 3 (Elimination)</td><td>Conjugated toxins excreted via bile/urine/sweat</td><td>Transporters (MRP2, P-gp)</td><td>Adequate hydration, fibre, bile salts</td><td>Water 3L/day, fibre 30g/day, bile support herbs</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Pearl — Phase 2 Induction</div><div class=\"pt\">Sulforaphane (from broccoli sprouts) is the most potent Phase 2 inducer known. 3-day-old broccoli sprouts contain 50–100x more sulforaphane than mature broccoli. Protocol: 1 cup broccoli sprouts daily or sulforaphane supplement 50mg/day during detox. This activates Nrf2 pathway — the master regulator of cellular detoxification and antioxidant defence.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "detox-det-7-day-detox-programme-clinical-protocol",
+      "title": "7-Day Detox Programme — Clinical Protocol",
+      "badge": "Protocol",
+      "category": "det",
+      "section": "detox",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Supplement",
+              "Dose",
+              "Timing",
+              "Purpose"
+            ],
+            "rows": [
+              [
+                "Milk thistle (silymarin)",
+                "200mg TDS",
+                "With meals",
+                "Hepatoprotective, Phase 1+2 support"
+              ],
+              [
+                "N-Acetyl Cysteine (NAC)",
+                "600mg BD",
+                "With food",
+                "Glutathione precursor — Phase 2"
+              ],
+              [
+                "Alpha lipoic acid",
+                "300mg OD",
+                "Morning",
+                "Universal antioxidant, regenerates glutathione"
+              ],
+              [
+                "Chlorella",
+                "3g OD",
+                "Morning",
+                "Heavy metal binding, chlorophyll"
+              ],
+              [
+                "Psyllium husk",
+                "5g BD",
+                "Away from meds",
+                "Fibre — Phase 3 elimination"
+              ],
+              [
+                "Dandelion root tea",
+                "2 cups/day",
+                "Morning/afternoon",
+                "Bile stimulant, liver tonic"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 0,
+            "title": "Days 1–2: Preparation",
+            "text": "Reduce caffeine, alcohol, processed food, red meat gradually (avoid withdrawal headache). Increase water to 3L/day. Begin dry brushing (lymphatic stimulation). Start castor oil packs over liver each evening (30 min). Baseline weight, BP, and symptoms documented."
+          },
+          {
+            "n": 0,
+            "title": "Days 3–5: Active Detox",
+            "text": "Mono diet: kitchari (mung dal + rice) or vegetable broth and steamed vegetables only. Lemon water (warm) on waking. Morning: dry brushing + 20 min yoga. Afternoon: hydrotherapy (contrast shower or steam bath). Evening: castor oil pack + meditation. Coffee enema optional day 3 and 5."
+          },
+          {
+            "n": 0,
+            "title": "Days 6–7: Rebuilding",
+            "text": "Gradually reintroduce: steamed vegetables → fruits → whole grains → legumes → fish. Continue 3L water. Add probiotics (Lactobacillus acidophilus 10 billion CFU). Maintain no caffeine, alcohol, processed food. Document symptom resolution, energy, bowel habits."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#065f46\">D1</div><div class=\"st\"><span class=\"sh\">Days 1–2: Preparation</span> Reduce caffeine, alcohol, processed food, red meat gradually (avoid withdrawal headache). Increase water to 3L/day. Begin dry brushing (lymphatic stimulation). Start castor oil packs over liver each evening (30 min). Baseline weight, BP, and symptoms documented.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#065f46\">D3</div><div class=\"st\"><span class=\"sh\">Days 3–5: Active Detox</span> Mono diet: kitchari (mung dal + rice) or vegetable broth and steamed vegetables only. Lemon water (warm) on waking. Morning: dry brushing + 20 min yoga. Afternoon: hydrotherapy (contrast shower or steam bath). Evening: castor oil pack + meditation. Coffee enema optional day 3 and 5.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#065f46\">D6</div><div class=\"st\"><span class=\"sh\">Days 6–7: Rebuilding</span> Gradually reintroduce: steamed vegetables → fruits → whole grains → legumes → fish. Continue 3L water. Add probiotics (Lactobacillus acidophilus 10 billion CFU). Maintain no caffeine, alcohol, processed food. Document symptom resolution, energy, bowel habits.</div></div>\n    </div>\n    <table class=\"tbl\"><thead><tr><th>Supplement</th><th>Dose</th><th>Timing</th><th>Purpose</th></tr></thead><tbody>\n      <tr><td>Milk thistle (silymarin)</td><td>200mg TDS</td><td>With meals</td><td>Hepatoprotective, Phase 1+2 support</td></tr>\n      <tr><td>N-Acetyl Cysteine (NAC)</td><td>600mg BD</td><td>With food</td><td>Glutathione precursor — Phase 2</td></tr>\n      <tr><td>Alpha lipoic acid</td><td>300mg OD</td><td>Morning</td><td>Universal antioxidant, regenerates glutathione</td></tr>\n      <tr><td>Chlorella</td><td>3g OD</td><td>Morning</td><td>Heavy metal binding, chlorophyll</td></tr>\n      <tr><td>Psyllium husk</td><td>5g BD</td><td>Away from meds</td><td>Fibre — Phase 3 elimination</td></tr>\n      <tr><td>Dandelion root tea</td><td>2 cups/day</td><td>Morning/afternoon</td><td>Bile stimulant, liver tonic</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "detox-det-heavy-metal-detox-naturopathic-approach",
+      "title": "Heavy Metal Detox — Naturopathic Approach",
+      "badge": "Specialist",
+      "category": "det",
+      "section": "detox",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "danger",
+            "label": "Important",
+            "text": "Chelation therapy (EDTA, DMSA, DMPS) is a medical procedure requiring physician supervision. Naturopathic heavy metal protocols support natural elimination pathways and are NOT a substitute for medical chelation in acute poisoning."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Metal",
+              "Sources",
+              "Symptoms",
+              "Natural Binders"
+            ],
+            "rows": [
+              [
+                "Lead",
+                "Old paint, pipes, soil, imported spices",
+                "Cognitive impairment, anaemia, neuropathy",
+                "Chlorella, pectin, garlic, NAC"
+              ],
+              [
+                "Mercury",
+                "Large fish (tuna, swordfish), amalgam fillings",
+                "Tremor, cognitive decline, peripheral neuropathy",
+                "Chlorella, cilantro, selenium, NAC"
+              ],
+              [
+                "Arsenic",
+                "Rice, well water, pesticides",
+                "Skin lesions, neuropathy, GI symptoms",
+                "Folate, B12, selenium, garlic"
+              ],
+              [
+                "Cadmium",
+                "Smoking, contaminated food, batteries",
+                "Renal damage, bone loss, fatigue",
+                "Zinc (competitive), NAC, selenium"
+              ],
+              [
+                "Aluminium",
+                "Cookware, antiperspirants, antacids, vaccines",
+                "Cognitive issues, bone pain",
+                "Silicon-rich water, curcumin, quercetin"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Cilantro + Chlorella Protocol",
+            "text": "Widely used naturopathic approach: Chlorella 3–5g/day (binds metals in gut, prevents reabsorption) + fresh cilantro (coriander leaves) 1–2 tbsp daily in food (mobilises metals from tissues). Always use chlorella BEFORE cilantro — cilantro mobilises metals, chlorella must be present to capture them. Without chlorella, cilantro alone may redistribute metals to other tissues. Duration: 3–6 months with monthly symptom review."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">Important</div>Chelation therapy (EDTA, DMSA, DMPS) is a medical procedure requiring physician supervision. Naturopathic heavy metal protocols support natural elimination pathways and are NOT a substitute for medical chelation in acute poisoning.</div>\n    <table class=\"tbl\"><thead><tr><th>Metal</th><th>Sources</th><th>Symptoms</th><th>Natural Binders</th></tr></thead><tbody>\n      <tr><td>Lead</td><td>Old paint, pipes, soil, imported spices</td><td>Cognitive impairment, anaemia, neuropathy</td><td>Chlorella, pectin, garlic, NAC</td></tr>\n      <tr><td>Mercury</td><td>Large fish (tuna, swordfish), amalgam fillings</td><td>Tremor, cognitive decline, peripheral neuropathy</td><td>Chlorella, cilantro, selenium, NAC</td></tr>\n      <tr><td>Arsenic</td><td>Rice, well water, pesticides</td><td>Skin lesions, neuropathy, GI symptoms</td><td>Folate, B12, selenium, garlic</td></tr>\n      <tr><td>Cadmium</td><td>Smoking, contaminated food, batteries</td><td>Renal damage, bone loss, fatigue</td><td>Zinc (competitive), NAC, selenium</td></tr>\n      <tr><td>Aluminium</td><td>Cookware, antiperspirants, antacids, vaccines</td><td>Cognitive issues, bone pain</td><td>Silicon-rich water, curcumin, quercetin</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Cilantro + Chlorella Protocol</div><div class=\"pt\">Widely used naturopathic approach: Chlorella 3–5g/day (binds metals in gut, prevents reabsorption) + fresh cilantro (coriander leaves) 1–2 tbsp daily in food (mobilises metals from tissues). Always use chlorella BEFORE cilantro — cilantro mobilises metals, chlorella must be present to capture them. Without chlorella, cilantro alone may redistribute metals to other tissues. Duration: 3–6 months with monthly symptom review.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "detox-det-lymphatic-drainage-skin-detox-techniques",
+      "title": "Lymphatic Drainage & Skin Detox Techniques",
+      "badge": "Supporting",
+      "category": "det",
+      "section": "detox",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Lymphatic System",
+            "text": "The lymphatic system carries 3–4L of interstitial fluid daily, removing cellular waste. Unlike the cardiovascular system, lymph has no pump — it relies entirely on muscle movement, breathing, and massage."
+          }
+        ],
+        "tables": [],
+        "pearls": [
+          {
+            "label": "🟡 Lymphoedema Caution",
+            "text": "All lymphatic drainage techniques are contraindicated in: active infection/cellulitis (spreads infection), DVT (may dislodge clot), active cancer (may spread malignant cells — require oncologist approval), cardiac failure (cannot handle increased fluid return). Manual Lymphatic Drainage (MLD) by a trained therapist is the evidence-based treatment for lymphoedema — use feather-light pressure only (40–60g/cm²). Combined Decongestive Therapy (CDT) = MLD + compression garments + exercise + skin care."
+          }
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Dry Skin Brushing",
+            "text": "Natural bristle brush on dry skin before shower. Brush towards heart: feet → legs → hands → arms → torso. Duration 5–7 min daily. Benefits: lymphatic flow stimulation, dead skin removal, improved circulation. Do before contrast shower for synergistic effect."
+          },
+          {
+            "n": 2,
+            "title": "Contrast Hydrotherapy",
+            "text": "Alternate hot 3 min and cold 30–60 sec, end on cold, 3–5 cycles. Vasodilation (hot) and vasoconstriction (cold) creates a pumping action for lymph and blood. Benefits: lymphatic circulation up, immune activation, cortisol down. Use daily during detox programme."
+          },
+          {
+            "n": 3,
+            "title": "Rebounding",
+            "text": "10–15 min on mini-trampoline daily — one of the most effective lymphatic stimulants. Each bounce creates G-force fluctuation — lymphatic valves open during upward phase. Lymph flow increases 15x during rebounding vs rest. Even gentle bouncing (feet not leaving surface) is effective and safe."
+          },
+          {
+            "n": 4,
+            "title": "Castor Oil Pack (Liver)",
+            "text": "Apply cold-pressed castor oil over right upper abdomen, cover with flannel cloth and heat pack (40–45°C) for 45–60 min. Use 4–5x/week. Mechanism: ricinoleic acid stimulates lymphatic circulation, liver blood flow, and bile production. Excellent for liver detox, constipation, pelvic congestion."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Lymphatic System</div>The lymphatic system carries 3–4L of interstitial fluid daily, removing cellular waste. Unlike the cardiovascular system, lymph has no pump — it relies entirely on muscle movement, breathing, and massage.</div>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#065f46\">1</div><div class=\"st\"><span class=\"sh\">Dry Skin Brushing</span> Natural bristle brush on dry skin before shower. Brush towards heart: feet → legs → hands → arms → torso. Duration 5–7 min daily. Benefits: lymphatic flow stimulation, dead skin removal, improved circulation. Do before contrast shower for synergistic effect.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#065f46\">2</div><div class=\"st\"><span class=\"sh\">Contrast Hydrotherapy</span> Alternate hot 3 min and cold 30–60 sec, end on cold, 3–5 cycles. Vasodilation (hot) and vasoconstriction (cold) creates a pumping action for lymph and blood. Benefits: lymphatic circulation up, immune activation, cortisol down. Use daily during detox programme.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#065f46\">3</div><div class=\"st\"><span class=\"sh\">Rebounding</span> 10–15 min on mini-trampoline daily — one of the most effective lymphatic stimulants. Each bounce creates G-force fluctuation — lymphatic valves open during upward phase. Lymph flow increases 15x during rebounding vs rest. Even gentle bouncing (feet not leaving surface) is effective and safe.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#065f46\">4</div><div class=\"st\"><span class=\"sh\">Castor Oil Pack (Liver)</span> Apply cold-pressed castor oil over right upper abdomen, cover with flannel cloth and heat pack (40–45°C) for 45–60 min. Use 4–5x/week. Mechanism: ricinoleic acid stimulates lymphatic circulation, liver blood flow, and bile production. Excellent for liver detox, constipation, pelvic congestion.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Lymphoedema Caution</div><div class=\"pt\">All lymphatic drainage techniques are contraindicated in: active infection/cellulitis (spreads infection), DVT (may dislodge clot), active cancer (may spread malignant cells — require oncologist approval), cardiac failure (cannot handle increased fluid return). Manual Lymphatic Drainage (MLD) by a trained therapist is the evidence-based treatment for lymphoedema — use feather-light pressure only (40–60g/cm²). Combined Decongestive Therapy (CDT) = MLD + compression garments + exercise + skin care.</div></div>",
+      "_review": false
+    }
+  ]
+}
