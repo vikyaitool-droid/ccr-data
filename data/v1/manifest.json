@@ -1,74 +1,574 @@
 {
-  "version": "1.0",
-  "base": "https://raw.githubusercontent.com/vikyaitool-droid/ccr-data/main/data/v1",
+  "schemaVersion": "1.0",
+  "appVersion": "9.0",
+  "generatedAt": "2026-04-13T17:20:03.469Z",
   "sections": [
-    "lab",
-    "skills",
-    "exam",
-    "bnys",
-    "imaging",
-    "gut",
-    "mindbody",
-    "nutbio",
-    "herbal",
-    "onco",
-    "chrono",
-    "ebm",
-    "womens",
-    "msk",
-    "cases",
-    "dosing",
-    "fmlabs",
-    "emergency",
-    "psychiatry",
-    "obstetrics",
-    "paediatrics",
-    "algorithms",
-    "metabolic",
-    "chromotherapy",
-    "magneto",
-    "clinnut",
-    "colon",
-    "lifestyle",
-    "detox",
-    "physio",
-    "counselling",
-    "yogathera",
-    "panchakarma",
-    "treatmanip",
-    "helioaero",
-    "acupther",
-    "intpain",
-    "firstaid",
-    "pocus",
-    "clinscoring",
-    "microguide",
-    "signseponyms",
-    "natassess",
-    "diffdiag",
-    "drugside",
-    "derm",
-    "endo",
-    "cardio",
-    "resp",
-    "neuro",
-    "geri",
-    "sleepdisorder",
-    "menshealth",
-    "longevity",
-    "immunity",
-    "envmed",
-    "sportmed",
-    "oraldent",
-    "clinicmgt",
-    "bnysexam",
-    "bnys_protocols",
-    "naturotreat",
-    "anatomy"
-  ],
-  "preload": [
-    "lab",
-    "bnys",
-    "naturotreat"
+    {
+      "id": "acupther",
+      "file": "acupther.json",
+      "cardCount": 4,
+      "sizeKb": "12.2",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "8377eaeb15c7"
+    },
+    {
+      "id": "bnys_protocols",
+      "file": "bnys_protocols.json",
+      "cardCount": 7,
+      "sizeKb": "14.6",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "50c5dbbd2564"
+    },
+    {
+      "id": "anatomy",
+      "file": "anatomy.json",
+      "cardCount": 23,
+      "sizeKb": "61.9",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "d32d9ac6919d"
+    },
+    {
+      "id": "algorithms",
+      "file": "algorithms.json",
+      "cardCount": 10,
+      "sizeKb": "21.2",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "203961bd9dc2"
+    },
+    {
+      "id": "chromotherapy",
+      "file": "chromotherapy.json",
+      "cardCount": 4,
+      "sizeKb": "8.3",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "efcfa5948bc0"
+    },
+    {
+      "id": "cases",
+      "file": "cases.json",
+      "cardCount": 4,
+      "sizeKb": "7.8",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "798deac2d3c7"
+    },
+    {
+      "id": "clinicmgt",
+      "file": "clinicmgt.json",
+      "cardCount": 4,
+      "sizeKb": "11.3",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "c3f83b79f9f2"
+    },
+    {
+      "id": "chrono",
+      "file": "chrono.json",
+      "cardCount": 20,
+      "sizeKb": "52.8",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "361341653880"
+    },
+    {
+      "id": "clinnut",
+      "file": "clinnut.json",
+      "cardCount": 9,
+      "sizeKb": "19.9",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "f92ead2f2b47"
+    },
+    {
+      "id": "cardio",
+      "file": "cardio.json",
+      "cardCount": 20,
+      "sizeKb": "38.7",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "07a5c9a8dbfb"
+    },
+    {
+      "id": "clinscoring",
+      "file": "clinscoring.json",
+      "cardCount": 4,
+      "sizeKb": "9.9",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "a922ee267360"
+    },
+    {
+      "id": "counselling",
+      "file": "counselling.json",
+      "cardCount": 4,
+      "sizeKb": "9.1",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "2bf1846880d5"
+    },
+    {
+      "id": "detox",
+      "file": "detox.json",
+      "cardCount": 4,
+      "sizeKb": "8.9",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "857b74d3c8b3"
+    },
+    {
+      "id": "colon",
+      "file": "colon.json",
+      "cardCount": 4,
+      "sizeKb": "8.1",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "aaebd9d93208"
+    },
+    {
+      "id": "drugside",
+      "file": "drugside.json",
+      "cardCount": 10,
+      "sizeKb": "31.0",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "cb78e238c3db"
+    },
+    {
+      "id": "dosing",
+      "file": "dosing.json",
+      "cardCount": 6,
+      "sizeKb": "15.8",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "f9d3cf3e2d23"
+    },
+    {
+      "id": "diffdiag",
+      "file": "diffdiag.json",
+      "cardCount": 6,
+      "sizeKb": "12.9",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "e0158191ef07"
+    },
+    {
+      "id": "endo",
+      "file": "endo.json",
+      "cardCount": 24,
+      "sizeKb": "49.1",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "bdf9d6511be5"
+    },
+    {
+      "id": "ebm",
+      "file": "ebm.json",
+      "cardCount": 18,
+      "sizeKb": "48.2",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "268c4feaac65"
+    },
+    {
+      "id": "envmed",
+      "file": "envmed.json",
+      "cardCount": 4,
+      "sizeKb": "12.6",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "9bc490f028f0"
+    },
+    {
+      "id": "emergency",
+      "file": "emergency.json",
+      "cardCount": 9,
+      "sizeKb": "16.7",
+      "priority": "eager",
+      "lastUpdated": "2026-04-13",
+      "etag": "4ede58a4baf5"
+    },
+    {
+      "id": "firstaid",
+      "file": "firstaid.json",
+      "cardCount": 4,
+      "sizeKb": "15.2",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "2901610978cf"
+    },
+    {
+      "id": "geri",
+      "file": "geri.json",
+      "cardCount": 24,
+      "sizeKb": "54.8",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "89015be5678f"
+    },
+    {
+      "id": "helioaero",
+      "file": "helioaero.json",
+      "cardCount": 5,
+      "sizeKb": "13.2",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "fe9e05afdd99"
+    },
+    {
+      "id": "fmlabs",
+      "file": "fmlabs.json",
+      "cardCount": 6,
+      "sizeKb": "14.4",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "ddfeadc52a32"
+    },
+    {
+      "id": "immunity",
+      "file": "immunity.json",
+      "cardCount": 4,
+      "sizeKb": "11.7",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "55ee6974b676"
+    },
+    {
+      "id": "herbal",
+      "file": "herbal.json",
+      "cardCount": 11,
+      "sizeKb": "25.9",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "3f7ccdfa0006"
+    },
+    {
+      "id": "magneto",
+      "file": "magneto.json",
+      "cardCount": 4,
+      "sizeKb": "7.2",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "09ed9218e6c2"
+    },
+    {
+      "id": "lifestyle",
+      "file": "lifestyle.json",
+      "cardCount": 7,
+      "sizeKb": "17.1",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "914ce1004a0e"
+    },
+    {
+      "id": "intpain",
+      "file": "intpain.json",
+      "cardCount": 5,
+      "sizeKb": "11.9",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "0913ac1094ac"
+    },
+    {
+      "id": "longevity",
+      "file": "longevity.json",
+      "cardCount": 4,
+      "sizeKb": "12.4",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "f0a226163b98"
+    },
+    {
+      "id": "menshealth",
+      "file": "menshealth.json",
+      "cardCount": 5,
+      "sizeKb": "12.4",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "b0601a086fdf"
+    },
+    {
+      "id": "microguide",
+      "file": "microguide.json",
+      "cardCount": 3,
+      "sizeKb": "9.4",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "61aeb7a64a2f"
+    },
+    {
+      "id": "metabolic",
+      "file": "metabolic.json",
+      "cardCount": 4,
+      "sizeKb": "7.6",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "90990bc3d35d"
+    },
+    {
+      "id": "manifest",
+      "file": "manifest.json",
+      "cardCount": 0,
+      "sizeKb": "1.1",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "013b88606bc3"
+    },
+    {
+      "id": "mindbody",
+      "file": "mindbody.json",
+      "cardCount": 26,
+      "sizeKb": "53.4",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "e5559f60b204"
+    },
+    {
+      "id": "natassess",
+      "file": "natassess.json",
+      "cardCount": 3,
+      "sizeKb": "8.2",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "db69053ded41"
+    },
+    {
+      "id": "naturotreat",
+      "file": "naturotreat.json",
+      "cardCount": 21,
+      "sizeKb": "56.8",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "1f0ca4505536"
+    },
+    {
+      "id": "onco",
+      "file": "onco.json",
+      "cardCount": 18,
+      "sizeKb": "39.2",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "c5cc57ecc956"
+    },
+    {
+      "id": "neuro",
+      "file": "neuro.json",
+      "cardCount": 26,
+      "sizeKb": "61.0",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "10a7acfb51b6"
+    },
+    {
+      "id": "oraldent",
+      "file": "oraldent.json",
+      "cardCount": 4,
+      "sizeKb": "11.7",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "6fdfafa43d78"
+    },
+    {
+      "id": "panchakarma",
+      "file": "panchakarma.json",
+      "cardCount": 4,
+      "sizeKb": "9.9",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "f403e7ae10b1"
+    },
+    {
+      "id": "paediatrics",
+      "file": "paediatrics.json",
+      "cardCount": 18,
+      "sizeKb": "54.8",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "2a45afe052ed"
+    },
+    {
+      "id": "pocus",
+      "file": "pocus.json",
+      "cardCount": 4,
+      "sizeKb": "11.4",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "11d6942a9faa"
+    },
+    {
+      "id": "obstetrics",
+      "file": "obstetrics.json",
+      "cardCount": 16,
+      "sizeKb": "45.4",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "a2f63d4448ac"
+    },
+    {
+      "id": "physio",
+      "file": "physio.json",
+      "cardCount": 5,
+      "sizeKb": "12.3",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "01a78f3a0b51"
+    },
+    {
+      "id": "resp",
+      "file": "resp.json",
+      "cardCount": 20,
+      "sizeKb": "37.7",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "9aabf06fdaf9"
+    },
+    {
+      "id": "signseponyms",
+      "file": "signseponyms.json",
+      "cardCount": 4,
+      "sizeKb": "8.0",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "50c984daa2b3"
+    },
+    {
+      "id": "bnys",
+      "file": "bnys.json",
+      "cardCount": 35,
+      "sizeKb": "85.4",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "6fb967d30e93"
+    },
+    {
+      "id": "treatmanip",
+      "file": "treatmanip.json",
+      "cardCount": 4,
+      "sizeKb": "11.0",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "32c07df9f42c"
+    },
+    {
+      "id": "skills",
+      "file": "skills.json",
+      "cardCount": 24,
+      "sizeKb": "53.3",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "042b601c4704"
+    },
+    {
+      "id": "derm",
+      "file": "derm.json",
+      "cardCount": 27,
+      "sizeKb": "78.1",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "dc062d28a592"
+    },
+    {
+      "id": "sleepdisorder",
+      "file": "sleepdisorder.json",
+      "cardCount": 18,
+      "sizeKb": "38.9",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "5a827968405f"
+    },
+    {
+      "id": "exam",
+      "file": "exam.json",
+      "cardCount": 43,
+      "sizeKb": "91.5",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "e40dac0f9f44"
+    },
+    {
+      "id": "imaging",
+      "file": "imaging.json",
+      "cardCount": 37,
+      "sizeKb": "93.6",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "6853d35a191a"
+    },
+    {
+      "id": "gut",
+      "file": "gut.json",
+      "cardCount": 51,
+      "sizeKb": "121.0",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "72196eb23e84"
+    },
+    {
+      "id": "lab",
+      "file": "lab.json",
+      "cardCount": 0,
+      "sizeKb": "94.6",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "75f627a6b696"
+    },
+    {
+      "id": "msk",
+      "file": "msk.json",
+      "cardCount": 32,
+      "sizeKb": "84.1",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "e26b7490d760"
+    },
+    {
+      "id": "nutbio",
+      "file": "nutbio.json",
+      "cardCount": 26,
+      "sizeKb": "82.1",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "e3871b58d740"
+    },
+    {
+      "id": "psychiatry",
+      "file": "psychiatry.json",
+      "cardCount": 30,
+      "sizeKb": "93.5",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "5a19370575a4"
+    },
+    {
+      "id": "sportmed",
+      "file": "sportmed.json",
+      "cardCount": 4,
+      "sizeKb": "10.8",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "fc9e30ac55ca"
+    },
+    {
+      "id": "yogathera",
+      "file": "yogathera.json",
+      "cardCount": 4,
+      "sizeKb": "13.1",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "ec5c0c158900"
+    },
+    {
+      "id": "womens",
+      "file": "womens.json",
+      "cardCount": 41,
+      "sizeKb": "109.7",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-13",
+      "etag": "1c2f0e3c3f30"
+    }
   ]
 }
