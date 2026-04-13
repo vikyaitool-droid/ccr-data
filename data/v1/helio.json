@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "helio",
-  "generatedAt": "2026-04-12T17:43:36.116Z",
+  "generatedAt": "2026-04-13T11:49:47.163Z",
   "cardCount": 5,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "helio",
       "section": "helio",
       "version": 1,
-      "lastUpdated": "2026-04-12",
+      "lastUpdated": "2026-04-13",
       "content": {
         "summary": null,
         "alerts": [
@@ -78,7 +78,7 @@
       "category": "helio",
       "section": "helio",
       "version": 1,
-      "lastUpdated": "2026-04-12",
+      "lastUpdated": "2026-04-13",
       "content": {
         "summary": null,
         "alerts": [],
@@ -166,7 +166,7 @@
       "category": "helio",
       "section": "helio",
       "version": 1,
-      "lastUpdated": "2026-04-12",
+      "lastUpdated": "2026-04-13",
       "content": {
         "summary": null,
         "alerts": [
@@ -233,7 +233,7 @@
       "category": "helio",
       "section": "helio",
       "version": 1,
-      "lastUpdated": "2026-04-12",
+      "lastUpdated": "2026-04-13",
       "content": {
         "summary": null,
         "alerts": [],
@@ -278,7 +278,7 @@
       "category": "helio",
       "section": "helio",
       "version": 1,
-      "lastUpdated": "2026-04-12",
+      "lastUpdated": "2026-04-13",
       "content": {
         "summary": null,
         "alerts": [
