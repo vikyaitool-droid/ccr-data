@@ -1,302 +1,34 @@
 {
-  "schemaVersion": "1.0",
-  "section": "intpain",
-  "generatedAt": "2026-04-13T11:56:06.656Z",
-  "cardCount": 5,
   "cards": [
     {
-      "id": "intpain-intpain-integrative-pain-management-framework",
       "title": "Integrative Pain Management — Framework",
       "badge": "Foundation",
       "category": "intpain",
-      "section": "intpain",
-      "version": 1,
-      "lastUpdated": "2026-04-13",
-      "content": {
-        "summary": null,
-        "alerts": [
-          {
-            "type": "info",
-            "label": "Integrative Approach to Pain",
-            "text": "Pain is not merely a sensory experience — it is a multidimensional phenomenon encompassing sensory-discriminative, affective-motivational, and cognitive-evaluative components (the biopsychosocial model). Integrative pain management combines evidence-based naturopathic modalities with conventional medical care to address all dimensions of pain, reduce opioid dependency, and restore function and quality of life."
-          }
-        ],
-        "tables": [
-          {
-            "caption": null,
-            "headers": [
-              "Pain Type",
-              "Mechanism",
-              "Key Features",
-              "Primary Integrative Approach"
-            ],
-            "rows": [
-              [
-                "Nociceptive (Somatic)",
-                "Tissue damage activating nociceptors",
-                "Well-localised, proportional to injury, inflammatory signs",
-                "Manual therapy, hydrotherapy, anti-inflammatory nutrition, acupuncture"
-              ],
-              [
-                "Nociceptive (Visceral)",
-                "Visceral nociceptors — stretch, ischaemia",
-                "Poorly localised, referred, colicky/cramping, autonomic features",
-                "Abdominal hydrotherapy, yoga (parasympathetic), acupuncture, dietary modification"
-              ],
-              [
-                "Neuropathic",
-                "Nerve damage / central sensitisation",
-                "Burning, shooting, dysaesthesia, allodynia, hyperalgesia",
-                "Alpha-lipoic acid, B12, acupuncture (GB34, ST36), TENS, mindfulness"
-              ],
-              [
-                "Central Sensitisation",
-                "Amplified central processing — wind-up",
-                "Widespread pain, disproportionate to stimulus, fatigue, cognitive fog",
-                "Graded exercise, mindfulness, pain neuroscience education (PNE), sleep optimisation"
-              ],
-              [
-                "Nociplastic",
-                "Altered nociception without tissue/nerve damage",
-                "Fibromyalgia, IBS, tension headache — pain with normal imaging",
-                "Mindfulness, yoga, exercise, psychological support, sleep, nutrition"
-              ]
-            ]
-          }
-        ],
-        "pearls": [],
-        "steps": [],
-        "references": []
-      },
-      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Integrative Approach to Pain</div>Pain is not merely a sensory experience — it is a multidimensional phenomenon encompassing sensory-discriminative, affective-motivational, and cognitive-evaluative components (the biopsychosocial model). Integrative pain management combines evidence-based naturopathic modalities with conventional medical care to address all dimensions of pain, reduce opioid dependency, and restore function and quality of life.</div>\n    <table class=\"tbl\"><thead><tr><th>Pain Type</th><th>Mechanism</th><th>Key Features</th><th>Primary Integrative Approach</th></tr></thead><tbody>\n      <tr><td><strong>Nociceptive (Somatic)</strong></td><td>Tissue damage activating nociceptors</td><td>Well-localised, proportional to injury, inflammatory signs</td><td>Manual therapy, hydrotherapy, anti-inflammatory nutrition, acupuncture</td></tr>\n      <tr><td><strong>Nociceptive (Visceral)</strong></td><td>Visceral nociceptors — stretch, ischaemia</td><td>Poorly localised, referred, colicky/cramping, autonomic features</td><td>Abdominal hydrotherapy, yoga (parasympathetic), acupuncture, dietary modification</td></tr>\n      <tr><td><strong>Neuropathic</strong></td><td>Nerve damage / central sensitisation</td><td>Burning, shooting, dysaesthesia, allodynia, hyperalgesia</td><td>Alpha-lipoic acid, B12, acupuncture (GB34, ST36), TENS, mindfulness</td></tr>\n      <tr><td><strong>Central Sensitisation</strong></td><td>Amplified central processing — wind-up</td><td>Widespread pain, disproportionate to stimulus, fatigue, cognitive fog</td><td>Graded exercise, mindfulness, pain neuroscience education (PNE), sleep optimisation</td></tr>\n      <tr><td><strong>Nociplastic</strong></td><td>Altered nociception without tissue/nerve damage</td><td>Fibromyalgia, IBS, tension headache — pain with normal imaging</td><td>Mindfulness, yoga, exercise, psychological support, sleep, nutrition</td></tr>\n    </tbody></table>",
-      "_review": false
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Integrative Approach to Pain</div>Pain is not merely a sensory experience — it is a multidimensional phenomenon encompassing sensory-discriminative, affective-motivational, and cognitive-evaluative components (the biopsychosocial model). Integrative pain management combines evidence-based naturopathic modalities with conventional medical care to address all dimensions of pain, reduce opioid dependency, and restore function and quality of life.</div>\n    <table class=\"tbl\"><thead><tr><th>Pain Type</th><th>Mechanism</th><th>Key Features</th><th>Primary Integrative Approach</th></tr></thead><tbody>\n      <tr><td><strong>Nociceptive (Somatic)</strong></td><td>Tissue damage activating nociceptors</td><td>Well-localised, proportional to injury, inflammatory signs</td><td>Manual therapy, hydrotherapy, anti-inflammatory nutrition, acupuncture</td></tr>\n      <tr><td><strong>Nociceptive (Visceral)</strong></td><td>Visceral nociceptors — stretch, ischaemia</td><td>Poorly localised, referred, colicky/cramping, autonomic features</td><td>Abdominal hydrotherapy, yoga (parasympathetic), acupuncture, dietary modification</td></tr>\n      <tr><td><strong>Neuropathic</strong></td><td>Nerve damage / central sensitisation</td><td>Burning, shooting, dysaesthesia, allodynia, hyperalgesia</td><td>Alpha-lipoic acid, B12, acupuncture (GB34, ST36), TENS, mindfulness</td></tr>\n      <tr><td><strong>Central Sensitisation</strong></td><td>Amplified central processing — wind-up</td><td>Widespread pain, disproportionate to stimulus, fatigue, cognitive fog</td><td>Graded exercise, mindfulness, pain neuroscience education (PNE), sleep optimisation</td></tr>\n      <tr><td><strong>Nociplastic</strong></td><td>Altered nociception without tissue/nerve damage</td><td>Fibromyalgia, IBS, tension headache — pain with normal imaging</td><td>Mindfulness, yoga, exercise, psychological support, sleep, nutrition</td></tr>\n    </tbody></table>"
     },
     {
-      "id": "intpain-intpain-naturopathic-pain-assessment",
       "title": "Naturopathic Pain Assessment",
       "badge": "Clinical",
       "category": "intpain",
-      "section": "intpain",
-      "version": 1,
-      "lastUpdated": "2026-04-13",
-      "content": {
-        "summary": null,
-        "alerts": [],
-        "tables": [],
-        "pearls": [],
-        "steps": [
-          {
-            "n": 1,
-            "title": "Pain History (SOCRATES)",
-            "text": "Site, Onset, Character (burning/stabbing/aching/cramping), Radiation, Alleviating factors, Timing (constant/intermittent, worse AM/PM), Exacerbating factors, Severity (NRS 0–10). Additionally: pain catastrophising (PCS), sleep impact, mood impact, function impact (how many activities limited?), social impact. Never underestimate pain — it is always real to the patient."
-          },
-          {
-            "n": 2,
-            "title": "Red Flag Screen — Always",
-            "text": "Night pain (waking from sleep — bone tumour, infection), weight loss + pain (malignancy), fever + pain (infection), pain after trauma (fracture), neurological symptoms (cord compression), bowel/bladder dysfunction (cauda equina), pain in immunocompromised (opportunistic infection). ANY red flag = REFER before naturopathic management."
-          },
-          {
-            "n": 3,
-            "title": "Naturopathic Pain Assessment",
-            "text": "Assess: dietary inflammatory load (pro-inflammatory diet perpetuates pain), sleep quality (sleep deprivation amplifies pain — insomnia → central sensitisation), stress and cortisol (chronic stress → ↑ substance P, ↓ pain tolerance), gut health (gut-brain-pain axis: dysbiosis correlates with fibromyalgia, IBS-related pain), movement patterns (kinesiophobia, pain catastrophising), constitutional assessment (Prakriti: Vata excess = neurological/neuropathic type pain)."
-          },
-          {
-            "n": 4,
-            "title": "Validated Pain Tools",
-            "text": "NRS (Numerical Rating Scale 0–10): simple, reliable, use at every visit. BPI (Brief Pain Inventory): severity + interference. DN4 (Douleur Neuropathique 4): screen for neuropathic component (≥4/10 = neuropathic). PSQI (Pittsburgh Sleep Quality Index): sleep and pain are bidirectional. PHQ-9 + GAD-7: depression and anxiety amplify pain 2–3×. PSEQ (Pain Self-Efficacy Questionnaire): predicts treatment response."
-          }
-        ],
-        "references": []
-      },
-      "_legacyHtml": "<div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">1</div><div class=\"st\"><span class=\"sh\">Pain History (SOCRATES)</span> Site, Onset, Character (burning/stabbing/aching/cramping), Radiation, Alleviating factors, Timing (constant/intermittent, worse AM/PM), Exacerbating factors, Severity (NRS 0–10). Additionally: pain catastrophising (PCS), sleep impact, mood impact, function impact (how many activities limited?), social impact. Never underestimate pain — it is always real to the patient.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">2</div><div class=\"st\"><span class=\"sh\">Red Flag Screen — Always</span> Night pain (waking from sleep — bone tumour, infection), weight loss + pain (malignancy), fever + pain (infection), pain after trauma (fracture), neurological symptoms (cord compression), bowel/bladder dysfunction (cauda equina), pain in immunocompromised (opportunistic infection). ANY red flag = REFER before naturopathic management.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">3</div><div class=\"st\"><span class=\"sh\">Naturopathic Pain Assessment</span> Assess: dietary inflammatory load (pro-inflammatory diet perpetuates pain), sleep quality (sleep deprivation amplifies pain — insomnia → central sensitisation), stress and cortisol (chronic stress → ↑ substance P, ↓ pain tolerance), gut health (gut-brain-pain axis: dysbiosis correlates with fibromyalgia, IBS-related pain), movement patterns (kinesiophobia, pain catastrophising), constitutional assessment (Prakriti: Vata excess = neurological/neuropathic type pain).</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">4</div><div class=\"st\"><span class=\"sh\">Validated Pain Tools</span> NRS (Numerical Rating Scale 0–10): simple, reliable, use at every visit. BPI (Brief Pain Inventory): severity + interference. DN4 (Douleur Neuropathique 4): screen for neuropathic component (≥4/10 = neuropathic). PSQI (Pittsburgh Sleep Quality Index): sleep and pain are bidirectional. PHQ-9 + GAD-7: depression and anxiety amplify pain 2–3×. PSEQ (Pain Self-Efficacy Questionnaire): predicts treatment response.</div></div>\n    </div>",
-      "_review": false
+      "_legacyHtml": "<div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">1</div><div class=\"st\"><span class=\"sh\">Pain History (SOCRATES)</span> Site, Onset, Character (burning/stabbing/aching/cramping), Radiation, Alleviating factors, Timing (constant/intermittent, worse AM/PM), Exacerbating factors, Severity (NRS 0–10). Additionally: pain catastrophising (PCS), sleep impact, mood impact, function impact (how many activities limited?), social impact. Never underestimate pain — it is always real to the patient.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">2</div><div class=\"st\"><span class=\"sh\">Red Flag Screen — Always</span> Night pain (waking from sleep — bone tumour, infection), weight loss + pain (malignancy), fever + pain (infection), pain after trauma (fracture), neurological symptoms (cord compression), bowel/bladder dysfunction (cauda equina), pain in immunocompromised (opportunistic infection). ANY red flag = REFER before naturopathic management.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">3</div><div class=\"st\"><span class=\"sh\">Naturopathic Pain Assessment</span> Assess: dietary inflammatory load (pro-inflammatory diet perpetuates pain), sleep quality (sleep deprivation amplifies pain — insomnia → central sensitisation), stress and cortisol (chronic stress → ↑ substance P, ↓ pain tolerance), gut health (gut-brain-pain axis: dysbiosis correlates with fibromyalgia, IBS-related pain), movement patterns (kinesiophobia, pain catastrophising), constitutional assessment (Prakriti: Vata excess = neurological/neuropathic type pain).</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">4</div><div class=\"st\"><span class=\"sh\">Validated Pain Tools</span> NRS (Numerical Rating Scale 0–10): simple, reliable, use at every visit. BPI (Brief Pain Inventory): severity + interference. DN4 (Douleur Neuropathique 4): screen for neuropathic component (≥4/10 = neuropathic). PSQI (Pittsburgh Sleep Quality Index): sleep and pain are bidirectional. PHQ-9 + GAD-7: depression and anxiety amplify pain 2–3×. PSEQ (Pain Self-Efficacy Questionnaire): predicts treatment response.</div></div>\n    </div>"
     },
     {
-      "id": "intpain-intpain-integrative-pain-protocols-by-condition",
       "title": "Integrative Pain Protocols by Condition",
       "badge": "Clinical",
       "category": "intpain",
-      "section": "intpain",
-      "version": 1,
-      "lastUpdated": "2026-04-13",
-      "content": {
-        "summary": null,
-        "alerts": [],
-        "tables": [
-          {
-            "caption": null,
-            "headers": [
-              "Condition",
-              "Naturopathic Priority",
-              "Evidence-Based Modalities",
-              "Nutritional Support"
-            ],
-            "rows": [
-              [
-                "Chronic LBP",
-                "Movement restoration, anti-inflammatory",
-                "Acupuncture ★★★, spinal manipulation ★★★, yoga ★★★, TENS ★★, hydrotherapy (contrast)",
-                "Curcumin 500mg TID, omega-3 3g/day, magnesium glycinate 400mg, Vit D 2000IU. Eliminate: refined carbs, trans fats, alcohol"
-              ],
-              [
-                "Osteoarthritis",
-                "Joint nutrition, inflammation reduction",
-                "Acupuncture ★★★, hydrotherapy (warm baths), manipulation/mobilisation ★★★, tai chi ★★",
-                "Glucosamine 1500mg/day, chondroitin 1200mg/day (modest benefit), omega-3, collagen peptides 10g/day, cherry extract (gout)"
-              ],
-              [
-                "Fibromyalgia",
-                "Central sensitisation, sleep, stress",
-                "Aerobic exercise ★★★ (graded), mindfulness ★★, acupuncture ★★, hydrotherapy ★★, CBT ★★★",
-                "Malic acid + magnesium, CoQ10, SAMe 800mg/day, Vit D, optimise sleep (5-HTP 100–300mg before bed), eliminate nightshades"
-              ],
-              [
-                "Migraine",
-                "Trigger identification, neurovascular",
-                "Acupuncture ★★★ (prophylactic), MBSR ★★, biofeedback ★★, elimination diet ★★",
-                "Magnesium glycinate 400–600mg/day ★★★, riboflavin 400mg/day ★★, CoQ10 300mg/day ★★, butterbur 75mg BD ★★★ (liver toxicity risk — use PA-free extract), feverfew 100mg/day"
-              ],
-              [
-                "Neuropathic Pain",
-                "Nerve repair, antioxidant protection",
-                "Acupuncture ★★, TENS ★★, yoga ★, mindfulness ★★",
-                "Alpha-lipoic acid 600mg/day ★★★ (diabetic neuropathy), B12 methylcobalamin 1000mcg/day, Vit D 4000IU, acetyl-L-carnitine 1–2g/day, NAC 600mg BD"
-              ],
-              [
-                "Dysmenorrhoea",
-                "Prostaglandin reduction, uterine",
-                "Acupuncture ★★★, yoga ★★, heat application ★★★, hydrotherapy",
-                "Omega-3 3g/day ★★ (comparable to ibuprofen), magnesium 300mg/day, ginger 250mg QID ★★, zinc 30mg/day, Vit D, reduce refined sugar + dairy"
-              ]
-            ]
-          }
-        ],
-        "pearls": [],
-        "steps": [],
-        "references": []
-      },
-      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Condition</th><th>Naturopathic Priority</th><th>Evidence-Based Modalities</th><th>Nutritional Support</th></tr></thead><tbody>\n      <tr><td><strong>Chronic LBP</strong></td><td>Movement restoration, anti-inflammatory</td><td>Acupuncture ★★★, spinal manipulation ★★★, yoga ★★★, TENS ★★, hydrotherapy (contrast)</td><td>Curcumin 500mg TID, omega-3 3g/day, magnesium glycinate 400mg, Vit D 2000IU. Eliminate: refined carbs, trans fats, alcohol</td></tr>\n      <tr><td><strong>Osteoarthritis</strong></td><td>Joint nutrition, inflammation reduction</td><td>Acupuncture ★★★, hydrotherapy (warm baths), manipulation/mobilisation ★★★, tai chi ★★</td><td>Glucosamine 1500mg/day, chondroitin 1200mg/day (modest benefit), omega-3, collagen peptides 10g/day, cherry extract (gout)</td></tr>\n      <tr><td><strong>Fibromyalgia</strong></td><td>Central sensitisation, sleep, stress</td><td>Aerobic exercise ★★★ (graded), mindfulness ★★, acupuncture ★★, hydrotherapy ★★, CBT ★★★</td><td>Malic acid + magnesium, CoQ10, SAMe 800mg/day, Vit D, optimise sleep (5-HTP 100–300mg before bed), eliminate nightshades</td></tr>\n      <tr><td><strong>Migraine</strong></td><td>Trigger identification, neurovascular</td><td>Acupuncture ★★★ (prophylactic), MBSR ★★, biofeedback ★★, elimination diet ★★</td><td>Magnesium glycinate 400–600mg/day ★★★, riboflavin 400mg/day ★★, CoQ10 300mg/day ★★, butterbur 75mg BD ★★★ (liver toxicity risk — use PA-free extract), feverfew 100mg/day</td></tr>\n      <tr><td><strong>Neuropathic Pain</strong></td><td>Nerve repair, antioxidant protection</td><td>Acupuncture ★★, TENS ★★, yoga ★, mindfulness ★★</td><td>Alpha-lipoic acid 600mg/day ★★★ (diabetic neuropathy), B12 methylcobalamin 1000mcg/day, Vit D 4000IU, acetyl-L-carnitine 1–2g/day, NAC 600mg BD</td></tr>\n      <tr><td><strong>Dysmenorrhoea</strong></td><td>Prostaglandin reduction, uterine</td><td>Acupuncture ★★★, yoga ★★, heat application ★★★, hydrotherapy</td><td>Omega-3 3g/day ★★ (comparable to ibuprofen), magnesium 300mg/day, ginger 250mg QID ★★, zinc 30mg/day, Vit D, reduce refined sugar + dairy</td></tr>\n    </tbody></table>",
-      "_review": false
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Condition</th><th>Naturopathic Priority</th><th>Evidence-Based Modalities</th><th>Nutritional Support</th></tr></thead><tbody>\n      <tr><td><strong>Chronic LBP</strong></td><td>Movement restoration, anti-inflammatory</td><td>Acupuncture ★★★, spinal manipulation ★★★, yoga ★★★, TENS ★★, hydrotherapy (contrast)</td><td>Curcumin 500mg TID, omega-3 3g/day, magnesium glycinate 400mg, Vit D 2000IU. Eliminate: refined carbs, trans fats, alcohol</td></tr>\n      <tr><td><strong>Osteoarthritis</strong></td><td>Joint nutrition, inflammation reduction</td><td>Acupuncture ★★★, hydrotherapy (warm baths), manipulation/mobilisation ★★★, tai chi ★★</td><td>Glucosamine 1500mg/day, chondroitin 1200mg/day (modest benefit), omega-3, collagen peptides 10g/day, cherry extract (gout)</td></tr>\n      <tr><td><strong>Fibromyalgia</strong></td><td>Central sensitisation, sleep, stress</td><td>Aerobic exercise ★★★ (graded), mindfulness ★★, acupuncture ★★, hydrotherapy ★★, CBT ★★★</td><td>Malic acid + magnesium, CoQ10, SAMe 800mg/day, Vit D, optimise sleep (5-HTP 100–300mg before bed), eliminate nightshades</td></tr>\n      <tr><td><strong>Migraine</strong></td><td>Trigger identification, neurovascular</td><td>Acupuncture ★★★ (prophylactic), MBSR ★★, biofeedback ★★, elimination diet ★★</td><td>Magnesium glycinate 400–600mg/day ★★★, riboflavin 400mg/day ★★, CoQ10 300mg/day ★★, butterbur 75mg BD ★★★ (liver toxicity risk — use PA-free extract), feverfew 100mg/day</td></tr>\n      <tr><td><strong>Neuropathic Pain</strong></td><td>Nerve repair, antioxidant protection</td><td>Acupuncture ★★, TENS ★★, yoga ★, mindfulness ★★</td><td>Alpha-lipoic acid 600mg/day ★★★ (diabetic neuropathy), B12 methylcobalamin 1000mcg/day, Vit D 4000IU, acetyl-L-carnitine 1–2g/day, NAC 600mg BD</td></tr>\n      <tr><td><strong>Dysmenorrhoea</strong></td><td>Prostaglandin reduction, uterine</td><td>Acupuncture ★★★, yoga ★★, heat application ★★★, hydrotherapy</td><td>Omega-3 3g/day ★★ (comparable to ibuprofen), magnesium 300mg/day, ginger 250mg QID ★★, zinc 30mg/day, Vit D, reduce refined sugar + dairy</td></tr>\n    </tbody></table>"
     },
     {
-      "id": "intpain-intpain-pain-neuroscience-education-pne-patient-communication",
       "title": "Pain Neuroscience Education (PNE) — Patient Communication",
       "badge": "Essential",
       "category": "intpain",
-      "section": "intpain",
-      "version": 1,
-      "lastUpdated": "2026-04-13",
-      "content": {
-        "summary": null,
-        "alerts": [
-          {
-            "type": "info",
-            "label": "Why PNE Matters",
-            "text": "Pain education is a treatment, not just information. Explaining how pain works — that it is a protective output of the brain, not always a sign of tissue damage — reduces pain catastrophising, kinesiophobia (fear of movement), and hypervigilance. PNE alone reduces chronic pain scores by 20–30% before any other intervention."
-          }
-        ],
-        "tables": [],
-        "pearls": [
-          {
-            "label": "🟡 Opioid Harm Reduction in Integrative Practice",
-            "text": "Many patients presenting to BNYS practitioners are on or reducing opioid medication. Key points: Never advise stopping prescribed opioids abruptly — withdrawal is dangerous. Work alongside prescribing physician. Naturopathic interventions that reduce opioid requirements: acupuncture (reduces opioid use post-surgery ★★★), mindfulness (reduces opioid craving and catastrophising), exercise (endogenous opioid upregulation), omega-3 + curcumin (anti-inflammatory → reduced nociception). Document reductions in pain scores and function — evidence to support prescriber's tapering decisions."
-          }
-        ],
-        "steps": [
-          {
-            "n": 1,
-            "title": "Key Messages for Patients",
-            "text": "\"Pain does not equal damage.\" Pain is the brain's alarm system — in chronic pain, the alarm becomes hypersensitive (like a smoke detector going off when there's no fire). Hurt does not mean harm. Moving is safe and necessary for healing. Sleep, stress, and thoughts all influence pain — this is biology, not imagination. Recovery is possible and common."
-          },
-          {
-            "n": 2,
-            "title": "Graded Activity & Graded Exposure",
-            "text": "For kinesiophobia: identify feared activities. Rate fear (0–10). Begin with least feared (2–3/10). Progress only when fear reduces. For deconditioning: baseline activity level → 10% increase per week. Never push through severe pain — stay below 4/10 NRS. Flare-up plan: return to previous tolerated level, not complete rest."
-          },
-          {
-            "n": 3,
-            "title": "Sleep & Pain Bidirectional Relationship",
-            "text": "Poor sleep → ↑ pain sensitivity (reduced pain threshold by 25%). Pain → poor sleep → more pain. Break cycle: CBT-I (cognitive behavioural therapy for insomnia) reduces pain intensity independent of sleep improvement. Naturopathic sleep support: magnesium, 5-HTP, lavender aromatherapy, sleep hygiene protocol, yoga Nidra."
-          }
-        ],
-        "references": []
-      },
-      "_legacyHtml": "<div class=\"alert a-blu\"><div class=\"a-label\">Why PNE Matters</div>Pain education is a treatment, not just information. Explaining how pain works — that it is a protective output of the brain, not always a sign of tissue damage — reduces pain catastrophising, kinesiophobia (fear of movement), and hypervigilance. PNE alone reduces chronic pain scores by 20–30% before any other intervention.</div>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">1</div><div class=\"st\"><span class=\"sh\">Key Messages for Patients</span> \"Pain does not equal damage.\" Pain is the brain's alarm system — in chronic pain, the alarm becomes hypersensitive (like a smoke detector going off when there's no fire). Hurt does not mean harm. Moving is safe and necessary for healing. Sleep, stress, and thoughts all influence pain — this is biology, not imagination. Recovery is possible and common.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">2</div><div class=\"st\"><span class=\"sh\">Graded Activity & Graded Exposure</span> For kinesiophobia: identify feared activities. Rate fear (0–10). Begin with least feared (2–3/10). Progress only when fear reduces. For deconditioning: baseline activity level → 10% increase per week. Never push through severe pain — stay below 4/10 NRS. Flare-up plan: return to previous tolerated level, not complete rest.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">3</div><div class=\"st\"><span class=\"sh\">Sleep & Pain Bidirectional Relationship</span> Poor sleep → ↑ pain sensitivity (reduced pain threshold by 25%). Pain → poor sleep → more pain. Break cycle: CBT-I (cognitive behavioural therapy for insomnia) reduces pain intensity independent of sleep improvement. Naturopathic sleep support: magnesium, 5-HTP, lavender aromatherapy, sleep hygiene protocol, yoga Nidra.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Opioid Harm Reduction in Integrative Practice</div><div class=\"pt\">Many patients presenting to BNYS practitioners are on or reducing opioid medication. Key points: Never advise stopping prescribed opioids abruptly — withdrawal is dangerous. Work alongside prescribing physician. Naturopathic interventions that reduce opioid requirements: acupuncture (reduces opioid use post-surgery ★★★), mindfulness (reduces opioid craving and catastrophising), exercise (endogenous opioid upregulation), omega-3 + curcumin (anti-inflammatory → reduced nociception). Document reductions in pain scores and function — evidence to support prescriber's tapering decisions.</div></div>",
-      "_review": false
+      "_legacyHtml": "<div class=\"alert a-blu\"><div class=\"a-label\">Why PNE Matters</div>Pain education is a treatment, not just information. Explaining how pain works — that it is a protective output of the brain, not always a sign of tissue damage — reduces pain catastrophising, kinesiophobia (fear of movement), and hypervigilance. PNE alone reduces chronic pain scores by 20–30% before any other intervention.</div>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">1</div><div class=\"st\"><span class=\"sh\">Key Messages for Patients</span> \"Pain does not equal damage.\" Pain is the brain's alarm system — in chronic pain, the alarm becomes hypersensitive (like a smoke detector going off when there's no fire). Hurt does not mean harm. Moving is safe and necessary for healing. Sleep, stress, and thoughts all influence pain — this is biology, not imagination. Recovery is possible and common.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">2</div><div class=\"st\"><span class=\"sh\">Graded Activity & Graded Exposure</span> For kinesiophobia: identify feared activities. Rate fear (0–10). Begin with least feared (2–3/10). Progress only when fear reduces. For deconditioning: baseline activity level → 10% increase per week. Never push through severe pain — stay below 4/10 NRS. Flare-up plan: return to previous tolerated level, not complete rest.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">3</div><div class=\"st\"><span class=\"sh\">Sleep & Pain Bidirectional Relationship</span> Poor sleep → ↑ pain sensitivity (reduced pain threshold by 25%). Pain → poor sleep → more pain. Break cycle: CBT-I (cognitive behavioural therapy for insomnia) reduces pain intensity independent of sleep improvement. Naturopathic sleep support: magnesium, 5-HTP, lavender aromatherapy, sleep hygiene protocol, yoga Nidra.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Opioid Harm Reduction in Integrative Practice</div><div class=\"pt\">Many patients presenting to BNYS practitioners are on or reducing opioid medication. Key points: Never advise stopping prescribed opioids abruptly — withdrawal is dangerous. Work alongside prescribing physician. Naturopathic interventions that reduce opioid requirements: acupuncture (reduces opioid use post-surgery ★★★), mindfulness (reduces opioid craving and catastrophising), exercise (endogenous opioid upregulation), omega-3 + curcumin (anti-inflammatory → reduced nociception). Document reductions in pain scores and function — evidence to support prescriber's tapering decisions.</div></div>"
     },
     {
-      "id": "intpain-intpain-integrative-pain-management-supplement-protocol",
       "title": "Integrative Pain Management — Supplement Protocol",
       "badge": "Reference",
       "category": "intpain",
-      "section": "intpain",
-      "version": 1,
-      "lastUpdated": "2026-04-13",
-      "content": {
-        "summary": null,
-        "alerts": [],
-        "tables": [
-          {
-            "caption": null,
-            "headers": [
-              "Supplement",
-              "Dose",
-              "Mechanism",
-              "Evidence",
-              "Cautions"
-            ],
-            "rows": [
-              [
-                "Curcumin (Bioperine complex)",
-                "500mg TID with food",
-                "NF-κB inhibition, COX-2 inhibition, TNF-α ↓",
-                "★★★ Equivalent to ibuprofen for knee OA pain",
-                "Anticoagulant interaction (high dose). Reduce gall bladder disease (stimulates contraction)"
-              ],
-              [
-                "Omega-3 (EPA+DHA)",
-                "3–4g/day EPA+DHA combined",
-                "Competitive inhibitor of arachidonic acid → ↓ PGE2, LTB4",
-                "★★★ RA, LBP, dysmenorrhoea, migraine prophylaxis",
-                "Anticoagulants (monitor INR at doses >3g). Fishy aftertaste — take with meals"
-              ],
-              [
-                "Magnesium Glycinate",
-                "300–600mg elemental/day",
-                "NMDA receptor antagonism — blocks central sensitisation. Muscle relaxation",
-                "★★★ Migraine prophylaxis, fibromyalgia, dysmenorrhoea, tension headache",
-                "Renal failure (accumulates). Diarrhoea with oxide/citrate forms — glycinate better tolerated"
-              ],
-              [
-                "Alpha-lipoic Acid",
-                "600mg/day",
-                "Antioxidant — reduces oxidative stress in neural tissue, regenerates glutathione",
-                "★★★ Diabetic peripheral neuropathy pain (Cochrane review)",
-                "Hypoglycaemia (potentiates insulin). Biotin depletion with long-term use — supplement biotin"
-              ],
-              [
-                "Boswellia Serrata",
-                "400mg TID (65% boswellic acids)",
-                "5-LOX inhibition → ↓ leukotriene synthesis → ↓ joint inflammation",
-                "★★★ Knee OA, RA, IBD-related pain",
-                "GI upset. Drug interaction: statins, anticoagulants. Avoid in pregnancy"
-              ],
-              [
-                "Vitamin D3",
-                "2000–4000 IU/day (or per serum levels)",
-                "Modulates immune response, reduces pro-inflammatory cytokines, VDR in neural tissue",
-                "★★★ Deficiency associated with fibromyalgia, LBP, widespread musculoskeletal pain",
-                "Monitor 25(OH)D. Toxicity if >10,000IU/day sustained. Hypercalcaemia risk"
-              ]
-            ]
-          }
-        ],
-        "pearls": [],
-        "steps": [],
-        "references": []
-      },
-      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Supplement</th><th>Dose</th><th>Mechanism</th><th>Evidence</th><th>Cautions</th></tr></thead><tbody>\n      <tr><td>Curcumin (Bioperine complex)</td><td>500mg TID with food</td><td>NF-κB inhibition, COX-2 inhibition, TNF-α ↓</td><td>★★★ Equivalent to ibuprofen for knee OA pain</td><td>Anticoagulant interaction (high dose). Reduce gall bladder disease (stimulates contraction)</td></tr>\n      <tr><td>Omega-3 (EPA+DHA)</td><td>3–4g/day EPA+DHA combined</td><td>Competitive inhibitor of arachidonic acid → ↓ PGE2, LTB4</td><td>★★★ RA, LBP, dysmenorrhoea, migraine prophylaxis</td><td>Anticoagulants (monitor INR at doses &gt;3g). Fishy aftertaste — take with meals</td></tr>\n      <tr><td>Magnesium Glycinate</td><td>300–600mg elemental/day</td><td>NMDA receptor antagonism — blocks central sensitisation. Muscle relaxation</td><td>★★★ Migraine prophylaxis, fibromyalgia, dysmenorrhoea, tension headache</td><td>Renal failure (accumulates). Diarrhoea with oxide/citrate forms — glycinate better tolerated</td></tr>\n      <tr><td>Alpha-lipoic Acid</td><td>600mg/day</td><td>Antioxidant — reduces oxidative stress in neural tissue, regenerates glutathione</td><td>★★★ Diabetic peripheral neuropathy pain (Cochrane review)</td><td>Hypoglycaemia (potentiates insulin). Biotin depletion with long-term use — supplement biotin</td></tr>\n      <tr><td>Boswellia Serrata</td><td>400mg TID (65% boswellic acids)</td><td>5-LOX inhibition → ↓ leukotriene synthesis → ↓ joint inflammation</td><td>★★★ Knee OA, RA, IBD-related pain</td><td>GI upset. Drug interaction: statins, anticoagulants. Avoid in pregnancy</td></tr>\n      <tr><td>Vitamin D3</td><td>2000–4000 IU/day (or per serum levels)</td><td>Modulates immune response, reduces pro-inflammatory cytokines, VDR in neural tissue</td><td>★★★ Deficiency associated with fibromyalgia, LBP, widespread musculoskeletal pain</td><td>Monitor 25(OH)D. Toxicity if &gt;10,000IU/day sustained. Hypercalcaemia risk</td></tr>\n    </tbody></table>",
-      "_review": false
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Supplement</th><th>Dose</th><th>Mechanism</th><th>Evidence</th><th>Cautions</th></tr></thead><tbody>\n      <tr><td>Curcumin (Bioperine complex)</td><td>500mg TID with food</td><td>NF-κB inhibition, COX-2 inhibition, TNF-α ↓</td><td>★★★ Equivalent to ibuprofen for knee OA pain</td><td>Anticoagulant interaction (high dose). Reduce gall bladder disease (stimulates contraction)</td></tr>\n      <tr><td>Omega-3 (EPA+DHA)</td><td>3–4g/day EPA+DHA combined</td><td>Competitive inhibitor of arachidonic acid → ↓ PGE2, LTB4</td><td>★★★ RA, LBP, dysmenorrhoea, migraine prophylaxis</td><td>Anticoagulants (monitor INR at doses &gt;3g). Fishy aftertaste — take with meals</td></tr>\n      <tr><td>Magnesium Glycinate</td><td>300–600mg elemental/day</td><td>NMDA receptor antagonism — blocks central sensitisation. Muscle relaxation</td><td>★★★ Migraine prophylaxis, fibromyalgia, dysmenorrhoea, tension headache</td><td>Renal failure (accumulates). Diarrhoea with oxide/citrate forms — glycinate better tolerated</td></tr>\n      <tr><td>Alpha-lipoic Acid</td><td>600mg/day</td><td>Antioxidant — reduces oxidative stress in neural tissue, regenerates glutathione</td><td>★★★ Diabetic peripheral neuropathy pain (Cochrane review)</td><td>Hypoglycaemia (potentiates insulin). Biotin depletion with long-term use — supplement biotin</td></tr>\n      <tr><td>Boswellia Serrata</td><td>400mg TID (65% boswellic acids)</td><td>5-LOX inhibition → ↓ leukotriene synthesis → ↓ joint inflammation</td><td>★★★ Knee OA, RA, IBD-related pain</td><td>GI upset. Drug interaction: statins, anticoagulants. Avoid in pregnancy</td></tr>\n      <tr><td>Vitamin D3</td><td>2000–4000 IU/day (or per serum levels)</td><td>Modulates immune response, reduces pro-inflammatory cytokines, VDR in neural tissue</td><td>★★★ Deficiency associated with fibromyalgia, LBP, widespread musculoskeletal pain</td><td>Monitor 25(OH)D. Toxicity if &gt;10,000IU/day sustained. Hypercalcaemia risk</td></tr>\n    </tbody></table>"
     }
   ]
 }
