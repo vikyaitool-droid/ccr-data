@@ -1,0 +1,16 @@
+{
+  "cards": [
+    {
+      "title": "Immune Architecture & Mechanisms",
+      "badge": "",
+      "category": "iimm",
+      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Innate vs adaptive immunity overview</li><li>NK cell activity: Key for cancer surveillance</li><li>Regulatory T cells: Tolerance, autoimmunity prevention</li><li>Microbiome → immune axis (70% immunity in gut)</li></ul></div>"
+    },
+    {
+      "title": "Botanicals & Autoimmune Protocols",
+      "badge": "",
+      "category": "iherb",
+      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Immune modulators: Astragalus, Medicinal mushrooms (Reishi, Turkey tail)</li><li>Autoimmune protocol (AIP) diet: 30-day elimination</li><li>Low-dose naltrexone (LDN) for autoimmunity</li><li>Histamine intolerance: DAO enzyme, low-histamine diet</li></ul></div>"
+    }
+  ]
+}
