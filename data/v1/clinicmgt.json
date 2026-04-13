@@ -1,261 +1,28 @@
 {
-  "schemaVersion": "1.0",
-  "section": "clinicmgt",
-  "generatedAt": "2026-04-13T11:56:48.281Z",
-  "cardCount": 4,
   "cards": [
     {
-      "id": "clinicmgt-clinic-setting-up-a-bnys-clinic-registration-licensing",
       "title": "Setting Up a BNYS Clinic — Registration & Licensing",
       "badge": "Foundation",
       "category": "clinic",
-      "section": "clinicmgt",
-      "version": 1,
-      "lastUpdated": "2026-04-13",
-      "content": {
-        "summary": null,
-        "alerts": [
-          {
-            "type": "info",
-            "label": "Legal Framework for BNYS Practice in India",
-            "text": "BNYS practitioners are registered under the Central Council of Indian Medicine (CCIM) Act, 1970. Each state has its own State Medical Council for AYUSH practitioners. Registration is mandatory before practising. Understanding the regulatory framework protects you legally and defines your scope of practice clearly."
-          }
-        ],
-        "tables": [
-          {
-            "caption": null,
-            "headers": [
-              "Requirement",
-              "Details",
-              "Authority"
-            ],
-            "rows": [
-              [
-                "BNYS Degree Registration",
-                "Register with your State AYUSH Medical Council after graduation. Required for legal practice. Application: degree certificate, marksheets, internship completion certificate, photos, registration fee.",
-                "State AYUSH Medical Council (e.g., Karnataka AYUSH Medical Council, Tamil Nadu Board of Indian Medicine)"
-              ],
-              [
-                "Clinic Registration",
-                "Register clinic with local municipal authority / panchayat / district health office. Required for running an inpatient facility or charging fees. Obtain trade licence from municipality.",
-                "District Health Officer / Municipal Corporation"
-              ],
-              [
-                "Clinical Establishment Act",
-                "Clinical Establishments (Registration and Regulation) Act, 2010 applies to clinics in states that have adopted it (most states). Register within 90 days of opening. Fee varies by state. Renewal annual.",
-                "District Appropriate Authority (usually CMO level)"
-              ],
-              [
-                "Bio-Medical Waste",
-                "Hospitals and clinics generating bio-medical waste must register with State Pollution Control Board. Even small clinics using needles or dressings must comply with BMW Management Rules, 2016.",
-                "State Pollution Control Board"
-              ],
-              [
-                "Pharmacy / Dispensary",
-                "If dispensing AYUSH medicines: separate drug licence under Drugs and Cosmetics Act. Ayurvedic/naturopathic formulations may be dispensed under Schedule A of the Act without pharmacist in some states — check your state rules.",
-                "State Drug Controller"
-              ],
-              [
-                "GST Registration",
-                "If annual turnover exceeds ₹20 lakh (₹10 lakh for special category states): GST registration mandatory. Healthcare services are generally exempt from GST, but pharmacy sales, cosmetic procedures, and wellness packages may attract GST.",
-                "GST Department"
-              ]
-            ]
-          }
-        ],
-        "pearls": [],
-        "steps": [],
-        "references": []
-      },
-      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Legal Framework for BNYS Practice in India</div>BNYS practitioners are registered under the Central Council of Indian Medicine (CCIM) Act, 1970. Each state has its own State Medical Council for AYUSH practitioners. Registration is mandatory before practising. Understanding the regulatory framework protects you legally and defines your scope of practice clearly.</div>\n    <table class=\"tbl\"><thead><tr><th>Requirement</th><th>Details</th><th>Authority</th></tr></thead><tbody>\n      <tr><td>BNYS Degree Registration</td><td>Register with your State AYUSH Medical Council after graduation. Required for legal practice. Application: degree certificate, marksheets, internship completion certificate, photos, registration fee.</td><td>State AYUSH Medical Council (e.g., Karnataka AYUSH Medical Council, Tamil Nadu Board of Indian Medicine)</td></tr>\n      <tr><td>Clinic Registration</td><td>Register clinic with local municipal authority / panchayat / district health office. Required for running an inpatient facility or charging fees. Obtain trade licence from municipality.</td><td>District Health Officer / Municipal Corporation</td></tr>\n      <tr><td>Clinical Establishment Act</td><td>Clinical Establishments (Registration and Regulation) Act, 2010 applies to clinics in states that have adopted it (most states). Register within 90 days of opening. Fee varies by state. Renewal annual.</td><td>District Appropriate Authority (usually CMO level)</td></tr>\n      <tr><td>Bio-Medical Waste</td><td>Hospitals and clinics generating bio-medical waste must register with State Pollution Control Board. Even small clinics using needles or dressings must comply with BMW Management Rules, 2016.</td><td>State Pollution Control Board</td></tr>\n      <tr><td>Pharmacy / Dispensary</td><td>If dispensing AYUSH medicines: separate drug licence under Drugs and Cosmetics Act. Ayurvedic/naturopathic formulations may be dispensed under Schedule A of the Act without pharmacist in some states — check your state rules.</td><td>State Drug Controller</td></tr>\n      <tr><td>GST Registration</td><td>If annual turnover exceeds ₹20 lakh (₹10 lakh for special category states): GST registration mandatory. Healthcare services are generally exempt from GST, but pharmacy sales, cosmetic procedures, and wellness packages may attract GST.</td><td>GST Department</td></tr>\n    </tbody></table>",
-      "_review": false
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Legal Framework for BNYS Practice in India</div>BNYS practitioners are registered under the Central Council of Indian Medicine (CCIM) Act, 1970. Each state has its own State Medical Council for AYUSH practitioners. Registration is mandatory before practising. Understanding the regulatory framework protects you legally and defines your scope of practice clearly.</div>\n    <table class=\"tbl\"><thead><tr><th>Requirement</th><th>Details</th><th>Authority</th></tr></thead><tbody>\n      <tr><td>BNYS Degree Registration</td><td>Register with your State AYUSH Medical Council after graduation. Required for legal practice. Application: degree certificate, marksheets, internship completion certificate, photos, registration fee.</td><td>State AYUSH Medical Council (e.g., Karnataka AYUSH Medical Council, Tamil Nadu Board of Indian Medicine)</td></tr>\n      <tr><td>Clinic Registration</td><td>Register clinic with local municipal authority / panchayat / district health office. Required for running an inpatient facility or charging fees. Obtain trade licence from municipality.</td><td>District Health Officer / Municipal Corporation</td></tr>\n      <tr><td>Clinical Establishment Act</td><td>Clinical Establishments (Registration and Regulation) Act, 2010 applies to clinics in states that have adopted it (most states). Register within 90 days of opening. Fee varies by state. Renewal annual.</td><td>District Appropriate Authority (usually CMO level)</td></tr>\n      <tr><td>Bio-Medical Waste</td><td>Hospitals and clinics generating bio-medical waste must register with State Pollution Control Board. Even small clinics using needles or dressings must comply with BMW Management Rules, 2016.</td><td>State Pollution Control Board</td></tr>\n      <tr><td>Pharmacy / Dispensary</td><td>If dispensing AYUSH medicines: separate drug licence under Drugs and Cosmetics Act. Ayurvedic/naturopathic formulations may be dispensed under Schedule A of the Act without pharmacist in some states — check your state rules.</td><td>State Drug Controller</td></tr>\n      <tr><td>GST Registration</td><td>If annual turnover exceeds ₹20 lakh (₹10 lakh for special category states): GST registration mandatory. Healthcare services are generally exempt from GST, but pharmacy sales, cosmetic procedures, and wellness packages may attract GST.</td><td>GST Department</td></tr>\n    </tbody></table>"
     },
     {
-      "id": "clinicmgt-clinic-clinic-setup-infrastructure-equipment",
       "title": "Clinic Setup — Infrastructure & Equipment",
       "badge": "Practical",
       "category": "clinic",
-      "section": "clinicmgt",
-      "version": 1,
-      "lastUpdated": "2026-04-13",
-      "content": {
-        "summary": null,
-        "alerts": [],
-        "tables": [
-          {
-            "caption": null,
-            "headers": [
-              "Revenue Stream",
-              "Typical Pricing (Tier 2 City)",
-              "Overhead"
-            ],
-            "rows": [
-              [
-                "Initial consultation (60 min)",
-                "₹500–1500",
-                "Your time only"
-              ],
-              [
-                "Follow-up consultation (30 min)",
-                "₹300–800",
-                "Your time only"
-              ],
-              [
-                "Hydrotherapy session",
-                "₹300–600/session",
-                "Utilities, therapist time"
-              ],
-              [
-                "Yoga class (group)",
-                "₹500–1500/month membership",
-                "Hall rental / therapist"
-              ],
-              [
-                "Panchakarma programme (7 days)",
-                "₹8,000–25,000",
-                "Oils, therapist, consumables"
-              ],
-              [
-                "Supplement dispensary margin",
-                "15–30% on MRP",
-                "Stock, storage"
-              ],
-              [
-                "Corporate wellness packages",
-                "₹50,000–5L/year per company",
-                "Travel, materials"
-              ]
-            ]
-          }
-        ],
-        "pearls": [],
-        "steps": [
-          {
-            "n": 1,
-            "title": "Minimum Space Requirements",
-            "text": "Consultation room: minimum 10×10 ft. Examination area with curtain partition. Hydrotherapy facility: separate room with good drainage, non-slip flooring, hot and cold water supply, multiple treatment baths (hip bath, foot bath, spinal bath tubs). Mud therapy room: separate (for cleanliness). Yoga hall: minimum 20×20 ft for group classes. Reception/waiting: proportional to patient volume. Toilet facilities: separate for patients and staff. All areas: natural light + ventilation (naturopathic principle)."
-          },
-          {
-            "n": 2,
-            "title": "Essential Equipment Checklist — BNYS Clinic",
-            "text": "Examination: examination table, stethoscope, BP apparatus (manual + digital), pulse oximeter, thermometer, tongue depressors, reflex hammer, ophthalmoscope, otoscope, measuring tape, weighing scale with height measure. Hydrotherapy: hip bath tubs (hot/cold/neutral), foot bath tubs, full bath tub, steam cabinet or steam generator, hot and cold water supply with mixing valve, thermometer for water. Mud therapy: mud tray, cotton muslin cloth, mixing vessels. Yoga: mats, bolsters, blocks, straps, chairs. Physiotherapy (if applicable): TENS unit, heating pads, cold packs."
-          },
-          {
-            "n": 3,
-            "title": "Digital Infrastructure",
-            "text": "Electronic Health Records (EHR): cloud-based patient management software — recommended: Practo, Clinic365, or free option: GNU Health. Online appointment booking: Google Business Profile + PhonePe/Razorpay for payments. WhatsApp Business: patient communication, appointment reminders, report sharing. Telemedicine: Practo, DocsApp, or direct video consult compliance (MCI telemedicine guidelines 2020 — BNYS practitioners can practise telemedicine). Patient education: create condition-specific handouts (use AI tools in this app!)."
-          }
-        ],
-        "references": []
-      },
-      "_legacyHtml": "<div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0369a1\">1</div><div class=\"st\"><span class=\"sh\">Minimum Space Requirements</span> Consultation room: minimum 10×10 ft. Examination area with curtain partition. Hydrotherapy facility: separate room with good drainage, non-slip flooring, hot and cold water supply, multiple treatment baths (hip bath, foot bath, spinal bath tubs). Mud therapy room: separate (for cleanliness). Yoga hall: minimum 20×20 ft for group classes. Reception/waiting: proportional to patient volume. Toilet facilities: separate for patients and staff. All areas: natural light + ventilation (naturopathic principle).</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0369a1\">2</div><div class=\"st\"><span class=\"sh\">Essential Equipment Checklist — BNYS Clinic</span> Examination: examination table, stethoscope, BP apparatus (manual + digital), pulse oximeter, thermometer, tongue depressors, reflex hammer, ophthalmoscope, otoscope, measuring tape, weighing scale with height measure. Hydrotherapy: hip bath tubs (hot/cold/neutral), foot bath tubs, full bath tub, steam cabinet or steam generator, hot and cold water supply with mixing valve, thermometer for water. Mud therapy: mud tray, cotton muslin cloth, mixing vessels. Yoga: mats, bolsters, blocks, straps, chairs. Physiotherapy (if applicable): TENS unit, heating pads, cold packs.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0369a1\">3</div><div class=\"st\"><span class=\"sh\">Digital Infrastructure</span> Electronic Health Records (EHR): cloud-based patient management software — recommended: Practo, Clinic365, or free option: GNU Health. Online appointment booking: Google Business Profile + PhonePe/Razorpay for payments. WhatsApp Business: patient communication, appointment reminders, report sharing. Telemedicine: Practo, DocsApp, or direct video consult compliance (MCI telemedicine guidelines 2020 — BNYS practitioners can practise telemedicine). Patient education: create condition-specific handouts (use AI tools in this app!).</div></div>\n    </div>\n    <table class=\"tbl\" style=\"margin-top:12px\"><thead><tr><th>Revenue Stream</th><th>Typical Pricing (Tier 2 City)</th><th>Overhead</th></tr></thead><tbody>\n      <tr><td>Initial consultation (60 min)</td><td>₹500–1500</td><td>Your time only</td></tr>\n      <tr><td>Follow-up consultation (30 min)</td><td>₹300–800</td><td>Your time only</td></tr>\n      <tr><td>Hydrotherapy session</td><td>₹300–600/session</td><td>Utilities, therapist time</td></tr>\n      <tr><td>Yoga class (group)</td><td>₹500–1500/month membership</td><td>Hall rental / therapist</td></tr>\n      <tr><td>Panchakarma programme (7 days)</td><td>₹8,000–25,000</td><td>Oils, therapist, consumables</td></tr>\n      <tr><td>Supplement dispensary margin</td><td>15–30% on MRP</td><td>Stock, storage</td></tr>\n      <tr><td>Corporate wellness packages</td><td>₹50,000–5L/year per company</td><td>Travel, materials</td></tr>\n    </tbody></table>",
-      "_review": false
+      "_legacyHtml": "<div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0369a1\">1</div><div class=\"st\"><span class=\"sh\">Minimum Space Requirements</span> Consultation room: minimum 10×10 ft. Examination area with curtain partition. Hydrotherapy facility: separate room with good drainage, non-slip flooring, hot and cold water supply, multiple treatment baths (hip bath, foot bath, spinal bath tubs). Mud therapy room: separate (for cleanliness). Yoga hall: minimum 20×20 ft for group classes. Reception/waiting: proportional to patient volume. Toilet facilities: separate for patients and staff. All areas: natural light + ventilation (naturopathic principle).</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0369a1\">2</div><div class=\"st\"><span class=\"sh\">Essential Equipment Checklist — BNYS Clinic</span> Examination: examination table, stethoscope, BP apparatus (manual + digital), pulse oximeter, thermometer, tongue depressors, reflex hammer, ophthalmoscope, otoscope, measuring tape, weighing scale with height measure. Hydrotherapy: hip bath tubs (hot/cold/neutral), foot bath tubs, full bath tub, steam cabinet or steam generator, hot and cold water supply with mixing valve, thermometer for water. Mud therapy: mud tray, cotton muslin cloth, mixing vessels. Yoga: mats, bolsters, blocks, straps, chairs. Physiotherapy (if applicable): TENS unit, heating pads, cold packs.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0369a1\">3</div><div class=\"st\"><span class=\"sh\">Digital Infrastructure</span> Electronic Health Records (EHR): cloud-based patient management software — recommended: Practo, Clinic365, or free option: GNU Health. Online appointment booking: Google Business Profile + PhonePe/Razorpay for payments. WhatsApp Business: patient communication, appointment reminders, report sharing. Telemedicine: Practo, DocsApp, or direct video consult compliance (MCI telemedicine guidelines 2020 — BNYS practitioners can practise telemedicine). Patient education: create condition-specific handouts (use AI tools in this app!).</div></div>\n    </div>\n    <table class=\"tbl\" style=\"margin-top:12px\"><thead><tr><th>Revenue Stream</th><th>Typical Pricing (Tier 2 City)</th><th>Overhead</th></tr></thead><tbody>\n      <tr><td>Initial consultation (60 min)</td><td>₹500–1500</td><td>Your time only</td></tr>\n      <tr><td>Follow-up consultation (30 min)</td><td>₹300–800</td><td>Your time only</td></tr>\n      <tr><td>Hydrotherapy session</td><td>₹300–600/session</td><td>Utilities, therapist time</td></tr>\n      <tr><td>Yoga class (group)</td><td>₹500–1500/month membership</td><td>Hall rental / therapist</td></tr>\n      <tr><td>Panchakarma programme (7 days)</td><td>₹8,000–25,000</td><td>Oils, therapist, consumables</td></tr>\n      <tr><td>Supplement dispensary margin</td><td>15–30% on MRP</td><td>Stock, storage</td></tr>\n      <tr><td>Corporate wellness packages</td><td>₹50,000–5L/year per company</td><td>Travel, materials</td></tr>\n    </tbody></table>"
     },
     {
-      "id": "clinicmgt-clinic-patient-retention-practice-growth",
       "title": "Patient Retention & Practice Growth",
       "badge": "Business",
       "category": "clinic",
-      "section": "clinicmgt",
-      "version": 1,
-      "lastUpdated": "2026-04-13",
-      "content": {
-        "summary": null,
-        "alerts": [],
-        "tables": [
-          {
-            "caption": null,
-            "headers": [
-              "Strategy",
-              "Implementation",
-              "Expected Outcome"
-            ],
-            "rows": [
-              [
-                "First Impression Protocol",
-                "45–60 min initial consultation (never less). Thorough assessment — patients feel heard. Printed treatment plan with clear goals. Follow-up appointment booked before patient leaves.",
-                "80% return rate if initial consultation is thorough and rapport is established"
-              ],
-              [
-                "Outcome Tracking",
-                "Use validated tools at every visit: PHQ-9 (depression), NRS (pain 0-10), blood glucose log, BP diary. Show patients their progress graphically. \"Your pain score was 8/10 six weeks ago, today it is 4/10.\"",
-                "Demonstrates value, builds trust, creates data for testimonials and case studies"
-              ],
-              [
-                "WhatsApp Follow-up",
-                "Check-in message 3–5 days after each appointment: \"How are you finding the new diet changes? Any questions?\" Brief, professional, timely.",
-                "Significantly ↑ compliance and retention. Patients feel cared for between appointments."
-              ],
-              [
-                "Referral Network",
-                "Build relationships with GPs, orthopaedic surgeons, gynaecologists, diabetologists in your area. Write professional referral notes. Refer to them → they refer back. Attend CME events.",
-                "Sustainable referral pipeline within 6–12 months. Bidirectional referral is the best practice-builder."
-              ],
-              [
-                "Group Programmes",
-                "6–8 week structured programmes: \"Diabetes Reversal Programme,\" \"Weight Management,\" \"Stress & Sleep.\" Group format: community, accountability, higher perceived value, better patient outcomes, higher revenue per hour.",
-                "Premium pricing justified, high completion rates, strong testimonials"
-              ],
-              [
-                "Content Creation",
-                "One educational post per week on Instagram/Facebook: tip, myth-bust, patient education (anonymised case). Use Canva. Consistency > frequency.",
-                "Brand authority, patient trust, local SEO — patients find you when searching for BNYS + your area"
-              ]
-            ]
-          }
-        ],
-        "pearls": [
-          {
-            "label": "🟡 Avoid These Common Mistakes",
-            "text": "1. Undercharging — patients associate price with quality. 2. Seeing too many patients per day (burnout and poor quality care). 3. No written consent for treatments — medico-legal risk. 4. Not documenting case notes — \"if it isn't written, it didn't happen.\" 5. Competing with allopathy instead of differentiating — your value is TIME, holistic care, non-pharmacological solutions. 6. Neglecting your own health — practitioners who model lifestyle medicine are more credible and more effective. 7. No referral system — knowing your limits and referring appropriately builds, not diminishes, your reputation."
-          }
-        ],
-        "steps": [],
-        "references": []
-      },
-      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Strategy</th><th>Implementation</th><th>Expected Outcome</th></tr></thead><tbody>\n      <tr><td><strong>First Impression Protocol</strong></td><td>45–60 min initial consultation (never less). Thorough assessment — patients feel heard. Printed treatment plan with clear goals. Follow-up appointment booked before patient leaves.</td><td>80% return rate if initial consultation is thorough and rapport is established</td></tr>\n      <tr><td><strong>Outcome Tracking</strong></td><td>Use validated tools at every visit: PHQ-9 (depression), NRS (pain 0-10), blood glucose log, BP diary. Show patients their progress graphically. \"Your pain score was 8/10 six weeks ago, today it is 4/10.\"</td><td>Demonstrates value, builds trust, creates data for testimonials and case studies</td></tr>\n      <tr><td><strong>WhatsApp Follow-up</strong></td><td>Check-in message 3–5 days after each appointment: \"How are you finding the new diet changes? Any questions?\" Brief, professional, timely.</td><td>Significantly ↑ compliance and retention. Patients feel cared for between appointments.</td></tr>\n      <tr><td><strong>Referral Network</strong></td><td>Build relationships with GPs, orthopaedic surgeons, gynaecologists, diabetologists in your area. Write professional referral notes. Refer to them → they refer back. Attend CME events.</td><td>Sustainable referral pipeline within 6–12 months. Bidirectional referral is the best practice-builder.</td></tr>\n      <tr><td><strong>Group Programmes</strong></td><td>6–8 week structured programmes: \"Diabetes Reversal Programme,\" \"Weight Management,\" \"Stress & Sleep.\" Group format: community, accountability, higher perceived value, better patient outcomes, higher revenue per hour.</td><td>Premium pricing justified, high completion rates, strong testimonials</td></tr>\n      <tr><td><strong>Content Creation</strong></td><td>One educational post per week on Instagram/Facebook: tip, myth-bust, patient education (anonymised case). Use Canva. Consistency &gt; frequency.</td><td>Brand authority, patient trust, local SEO — patients find you when searching for BNYS + your area</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Avoid These Common Mistakes</div><div class=\"pt\">1. Undercharging — patients associate price with quality. 2. Seeing too many patients per day (burnout and poor quality care). 3. No written consent for treatments — medico-legal risk. 4. Not documenting case notes — \"if it isn't written, it didn't happen.\" 5. Competing with allopathy instead of differentiating — your value is TIME, holistic care, non-pharmacological solutions. 6. Neglecting your own health — practitioners who model lifestyle medicine are more credible and more effective. 7. No referral system — knowing your limits and referring appropriately builds, not diminishes, your reputation.</div></div>",
-      "_review": false
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Strategy</th><th>Implementation</th><th>Expected Outcome</th></tr></thead><tbody>\n      <tr><td><strong>First Impression Protocol</strong></td><td>45–60 min initial consultation (never less). Thorough assessment — patients feel heard. Printed treatment plan with clear goals. Follow-up appointment booked before patient leaves.</td><td>80% return rate if initial consultation is thorough and rapport is established</td></tr>\n      <tr><td><strong>Outcome Tracking</strong></td><td>Use validated tools at every visit: PHQ-9 (depression), NRS (pain 0-10), blood glucose log, BP diary. Show patients their progress graphically. \"Your pain score was 8/10 six weeks ago, today it is 4/10.\"</td><td>Demonstrates value, builds trust, creates data for testimonials and case studies</td></tr>\n      <tr><td><strong>WhatsApp Follow-up</strong></td><td>Check-in message 3–5 days after each appointment: \"How are you finding the new diet changes? Any questions?\" Brief, professional, timely.</td><td>Significantly ↑ compliance and retention. Patients feel cared for between appointments.</td></tr>\n      <tr><td><strong>Referral Network</strong></td><td>Build relationships with GPs, orthopaedic surgeons, gynaecologists, diabetologists in your area. Write professional referral notes. Refer to them → they refer back. Attend CME events.</td><td>Sustainable referral pipeline within 6–12 months. Bidirectional referral is the best practice-builder.</td></tr>\n      <tr><td><strong>Group Programmes</strong></td><td>6–8 week structured programmes: \"Diabetes Reversal Programme,\" \"Weight Management,\" \"Stress & Sleep.\" Group format: community, accountability, higher perceived value, better patient outcomes, higher revenue per hour.</td><td>Premium pricing justified, high completion rates, strong testimonials</td></tr>\n      <tr><td><strong>Content Creation</strong></td><td>One educational post per week on Instagram/Facebook: tip, myth-bust, patient education (anonymised case). Use Canva. Consistency &gt; frequency.</td><td>Brand authority, patient trust, local SEO — patients find you when searching for BNYS + your area</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Avoid These Common Mistakes</div><div class=\"pt\">1. Undercharging — patients associate price with quality. 2. Seeing too many patients per day (burnout and poor quality care). 3. No written consent for treatments — medico-legal risk. 4. Not documenting case notes — \"if it isn't written, it didn't happen.\" 5. Competing with allopathy instead of differentiating — your value is TIME, holistic care, non-pharmacological solutions. 6. Neglecting your own health — practitioners who model lifestyle medicine are more credible and more effective. 7. No referral system — knowing your limits and referring appropriately builds, not diminishes, your reputation.</div></div>"
     },
     {
-      "id": "clinicmgt-clinic-medico-legal-essentials-informed-consent",
       "title": "Medico-Legal Essentials & Informed Consent",
       "badge": "Legal ★",
       "category": "clinic",
-      "section": "clinicmgt",
-      "version": 1,
-      "lastUpdated": "2026-04-13",
-      "content": {
-        "summary": null,
-        "alerts": [
-          {
-            "type": "danger",
-            "label": "Medico-Legal Protection — Every BNYS Practitioner Needs This",
-            "text": "Legal claims against complementary medicine practitioners are increasing in India. The best protection is: comprehensive documentation, valid informed consent, clear scope-of-practice awareness, and timely referral. These four pillars are both ethically correct and legally protective."
-          }
-        ],
-        "tables": [],
-        "pearls": [],
-        "steps": [
-          {
-            "n": 1,
-            "title": "Informed Consent — What Must Be Documented",
-            "text": "Every treatment requires: (1) Name of treatment/procedure. (2) Nature and purpose of treatment. (3) Expected benefits. (4) Material risks and side effects. (5) Alternatives available. (6) Consequences of declining treatment. (7) Patient's right to withdraw consent at any time. For invasive procedures (leech therapy, acupuncture, manipulation): written consent mandatory. Keep signed consent forms minimum 7 years. Verbal consent: document in notes with date and what was explained."
-          },
-          {
-            "n": 2,
-            "title": "Documentation Standards",
-            "text": "Every patient contact must be documented in writing. SOAP format minimum: Subjective (history), Objective (examination), Assessment (diagnosis/clinical impression), Plan (treatment). Include: date, time, presenting complaint, findings, advice given, prescriptions/referrals, follow-up plan, your signature. Abbreviations: use only standard ones. Never alter records retrospectively — draw single line through errors, initial and date. Electronic records: maintain backup and audit trail."
-          },
-          {
-            "n": 3,
-            "title": "Scope of Practice — Know Your Limits",
-            "text": "BNYS practitioners: authorised to diagnose and treat using naturopathic/yogic modalities. Prescribing modern medicine (allopathic drugs): NOT within scope — refer. BNYS practitioners may NOT perform surgical procedures except those explicitly within AYUSH scope. Emergency situations: provide first aid, stabilise, and REFER immediately — never delay emergency care trying to treat naturopathically. Document every referral: to whom, for what, and the clinical reason."
-          }
-        ],
-        "references": []
-      },
-      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">Medico-Legal Protection — Every BNYS Practitioner Needs This</div>Legal claims against complementary medicine practitioners are increasing in India. The best protection is: comprehensive documentation, valid informed consent, clear scope-of-practice awareness, and timely referral. These four pillars are both ethically correct and legally protective.</div>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#374151\">1</div><div class=\"st\"><span class=\"sh\">Informed Consent — What Must Be Documented</span> Every treatment requires: (1) Name of treatment/procedure. (2) Nature and purpose of treatment. (3) Expected benefits. (4) Material risks and side effects. (5) Alternatives available. (6) Consequences of declining treatment. (7) Patient's right to withdraw consent at any time. For invasive procedures (leech therapy, acupuncture, manipulation): written consent mandatory. Keep signed consent forms minimum 7 years. Verbal consent: document in notes with date and what was explained.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#374151\">2</div><div class=\"st\"><span class=\"sh\">Documentation Standards</span> Every patient contact must be documented in writing. SOAP format minimum: Subjective (history), Objective (examination), Assessment (diagnosis/clinical impression), Plan (treatment). Include: date, time, presenting complaint, findings, advice given, prescriptions/referrals, follow-up plan, your signature. Abbreviations: use only standard ones. Never alter records retrospectively — draw single line through errors, initial and date. Electronic records: maintain backup and audit trail.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#374151\">3</div><div class=\"st\"><span class=\"sh\">Scope of Practice — Know Your Limits</span> BNYS practitioners: authorised to diagnose and treat using naturopathic/yogic modalities. Prescribing modern medicine (allopathic drugs): NOT within scope — refer. BNYS practitioners may NOT perform surgical procedures except those explicitly within AYUSH scope. Emergency situations: provide first aid, stabilise, and REFER immediately — never delay emergency care trying to treat naturopathically. Document every referral: to whom, for what, and the clinical reason.</div></div>\n    </div>",
-      "_review": false
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">Medico-Legal Protection — Every BNYS Practitioner Needs This</div>Legal claims against complementary medicine practitioners are increasing in India. The best protection is: comprehensive documentation, valid informed consent, clear scope-of-practice awareness, and timely referral. These four pillars are both ethically correct and legally protective.</div>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#374151\">1</div><div class=\"st\"><span class=\"sh\">Informed Consent — What Must Be Documented</span> Every treatment requires: (1) Name of treatment/procedure. (2) Nature and purpose of treatment. (3) Expected benefits. (4) Material risks and side effects. (5) Alternatives available. (6) Consequences of declining treatment. (7) Patient's right to withdraw consent at any time. For invasive procedures (leech therapy, acupuncture, manipulation): written consent mandatory. Keep signed consent forms minimum 7 years. Verbal consent: document in notes with date and what was explained.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#374151\">2</div><div class=\"st\"><span class=\"sh\">Documentation Standards</span> Every patient contact must be documented in writing. SOAP format minimum: Subjective (history), Objective (examination), Assessment (diagnosis/clinical impression), Plan (treatment). Include: date, time, presenting complaint, findings, advice given, prescriptions/referrals, follow-up plan, your signature. Abbreviations: use only standard ones. Never alter records retrospectively — draw single line through errors, initial and date. Electronic records: maintain backup and audit trail.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#374151\">3</div><div class=\"st\"><span class=\"sh\">Scope of Practice — Know Your Limits</span> BNYS practitioners: authorised to diagnose and treat using naturopathic/yogic modalities. Prescribing modern medicine (allopathic drugs): NOT within scope — refer. BNYS practitioners may NOT perform surgical procedures except those explicitly within AYUSH scope. Emergency situations: provide first aid, stabilise, and REFER immediately — never delay emergency care trying to treat naturopathically. Document every referral: to whom, for what, and the clinical reason.</div></div>\n    </div>"
     }
   ]
 }
