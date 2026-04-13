@@ -1,0 +1,186 @@
+{
+  "schemaVersion": "1.0",
+  "section": "bnysexam",
+  "generatedAt": "2026-04-13T11:56:50.531Z",
+  "cardCount": 3,
+  "cards": [
+    {
+      "id": "bnysexam-exam-bnys-exam-prep-high-yield-topics-by-subject",
+      "title": "BNYS Exam Prep — High-Yield Topics by Subject",
+      "badge": "Exam ★",
+      "category": "exam",
+      "section": "bnysexam",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "BNYS Examination Strategy",
+            "text": "BNYS final year examinations test: theoretical knowledge (written), practical/clinical skills (OSCE/viva), and case presentation. High-yield areas are consistent across universities: Hydrotherapy, Yoga Therapeutics, Naturopathic Principles, Anatomy (applied), Physiology (applied), and emerging topics in Integrative Medicine. Focus on understanding mechanisms over rote memorisation."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Subject",
+              "High-Yield Topics",
+              "Typical Question Types"
+            ],
+            "rows": [
+              [
+                "Hydrotherapy",
+                "All bath types with temps/durations/indications. Packs (types, technique, CI). Constitutional effects of heat vs cold. Kneipp cure principles. Contrast therapy. Spinal bath. Immersion baths.",
+                "Long answer: \"Describe spinal bath with technique, indications, and contraindications.\" Short: \"Temperature range of neutral hip bath.\" MCQ: \"Which hydrotherapy is indicated for constipation?\""
+              ],
+              [
+                "Yoga & Pranayama",
+                "Ashtanga yoga (8 limbs — Patanjali). Asanas: names, technique, therapeutic benefits, contraindications. Shatkarmas (all 6). Pranayama: types, ratio, benefits. Bandhas and mudras. Disease-specific yoga protocols.",
+                "Long: \"Describe the yogic management of asthma.\" Short: \"Explain Nadi Shodhana pranayama.\" Practical: Demonstrate 5 asanas for diabetes."
+              ],
+              [
+                "Naturopathic Principles",
+                "Essay: \"Discuss the naturopathic approach to disease versus the conventional medical model.\" MCQ: \"Which is the first principle of naturopathy?\""
+              ],
+              [
+                "Diet & Nutrition",
+                "Therapeutic diets for all major diseases. Fasting types (intermittent, juice, water). Elimination diet protocol. Raw food vs cooked. Naturopathic dietary classifications. Vitamins and minerals (deficiency diseases).",
+                "Case: \"A 45-year-old T2DM patient — design a 3-day naturopathic diet plan.\" Short: \"Advantages of fruit fasting.\" MCQ: \"Which vitamin deficiency causes rickets?\""
+              ],
+              [
+                "Mud Therapy",
+                "Long: \"Describe the technique and therapeutic effects of full mud bath.\" Short: \"Contraindications of mud therapy.\" Practical: Apply abdominal mud pack."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">BNYS Examination Strategy</div>BNYS final year examinations test: theoretical knowledge (written), practical/clinical skills (OSCE/viva), and case presentation. High-yield areas are consistent across universities: Hydrotherapy, Yoga Therapeutics, Naturopathic Principles, Anatomy (applied), Physiology (applied), and emerging topics in Integrative Medicine. Focus on understanding mechanisms over rote memorisation.</div>\n    <table class=\"tbl\"><thead><tr><th>Subject</th><th>High-Yield Topics</th><th>Typical Question Types</th></tr></thead><tbody>\n      <tr><td><strong>Hydrotherapy</strong></td><td>All bath types with temps/durations/indications. Packs (types, technique, CI). Constitutional effects of heat vs cold. Kneipp cure principles. Contrast therapy. Spinal bath. Immersion baths.</td><td>Long answer: \"Describe spinal bath with technique, indications, and contraindications.\" Short: \"Temperature range of neutral hip bath.\" MCQ: \"Which hydrotherapy is indicated for constipation?\"</td></tr>\n      <tr><td><strong>Yoga & Pranayama</strong></td><td>Ashtanga yoga (8 limbs — Patanjali). Asanas: names, technique, therapeutic benefits, contraindications. Shatkarmas (all 6). Pranayama: types, ratio, benefits. Bandhas and mudras. Disease-specific yoga protocols.</td><td>Long: \"Describe the yogic management of asthma.\" Short: \"Explain Nadi Shodhana pranayama.\" Practical: Demonstrate 5 asanas for diabetes.</td></tr>\n      <tr><td><strong>Naturopathic Principles</strong></td><td\">Six BNYS principles (Vis Medicatrix Naturae, First Do No Harm, etc.). Therapeutic Order. Hering's Law of Cure. Acute vs chronic disease management. Concepts: Toxaemia, Vital Force. Fasting physiology.</td><td>Essay: \"Discuss the naturopathic approach to disease versus the conventional medical model.\" MCQ: \"Which is the first principle of naturopathy?\"</td></tr>\n      <tr><td><strong>Diet & Nutrition</strong></td><td>Therapeutic diets for all major diseases. Fasting types (intermittent, juice, water). Elimination diet protocol. Raw food vs cooked. Naturopathic dietary classifications. Vitamins and minerals (deficiency diseases).</td><td>Case: \"A 45-year-old T2DM patient — design a 3-day naturopathic diet plan.\" Short: \"Advantages of fruit fasting.\" MCQ: \"Which vitamin deficiency causes rickets?\"</td></tr>\n      <tr><td><strong>Mud Therapy</strong></td><td\">Types of mud. Full mud bath technique. Mud packs (abdominal, spinal, eye, facial). Mud composition and therapeutic properties. Indications and contraindications. Sun-charged mud preparation.</td><td>Long: \"Describe the technique and therapeutic effects of full mud bath.\" Short: \"Contraindications of mud therapy.\" Practical: Apply abdominal mud pack.</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "bnysexam-exam-bnys-viva-preparation-commonly-asked-questions",
+      "title": "BNYS Viva Preparation — Commonly Asked Questions",
+      "badge": "Exam",
+      "category": "exam",
+      "section": "bnysexam",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 0,
+            "title": "\"What is naturopathy? Define its principles.\"",
+            "text": "Model answer: Naturopathy is a system of medicine that recognises the inherent self-healing ability of the body (Vis Medicatrix Naturae) and uses natural agents — water, air, light, diet, exercise — to stimulate healing. Six BNYS principles: (1) Vis Medicatrix Naturae, (2) Primum Non Nocere (First Do No Harm), (3) Tolle Causam (Treat the Cause), (4) Docere (Doctor as Teacher), (5) Tolle Totum (Treat the Whole Person), (6) Preventare (Prevention). These correspond to the BNYS council curriculum — learn them precisely."
+          },
+          {
+            "n": 0,
+            "title": "\"What is Hering's Law of Cure?\"",
+            "text": "Model answer: Hering's Law states that healing proceeds: (1) From above downward (head to feet), (2) From inside outward (internal organs to skin — rashes appear as healing progresses), (3) From more vital to less vital organs, (4) In reverse order of symptoms (most recent symptoms resolve first, oldest symptoms resolve last — a healing crisis may re-experience old symptoms briefly). Example: a patient with chronic eczema and asthma who improves — asthma improves first (more vital) and as healing progresses, skin symptoms may temporarily worsen (inside → outward) before resolving."
+          },
+          {
+            "n": 0,
+            "title": "\"Explain therapeutic order in naturopathic practice.\"",
+            "text": "Model answer: Therapeutic order (Zeff/Snider/Sensenig): (1) Remove obstacles to health (toxins, poor diet, stress). (2) Stimulate Vis Medicatrix Naturae (fasting, hydrotherapy). (3) Strengthen weakened systems (tonics, specific nutrition). (4) Correct structural integrity (manipulation, exercise). (5) Use natural substances to restore function (botanicals, homeopathy). (6) Use pharmacological substances to halt disease process (if steps 1–5 insufficient). (7) Use high-force interventions (surgery, radiation) — only when necessary. BNYS works primarily at levels 1–5."
+          },
+          {
+            "n": 0,
+            "title": "\"What is the constitutional effect of cold water?\"",
+            "text": "Model answer: Cold water application (10–18°C) produces: Immediate: vasoconstriction, bradycardia, decreased metabolic rate. Reaction phase (5–10 min later): vasodilation (reactive hyperaemia), ↑ metabolic rate, ↑ immune activity, ↑ WBC count, tonic effect on smooth muscle. Tonic effect of cold (key exam point): cold → shock → reaction → tonic stimulation of whole body. Short cold = tonic/stimulating. Prolonged cold (sedative) = depressant effect on SNS. This is why contrast hydrotherapy (alternate hot/cold) is more powerful than either alone — combines vasodilation with reactive toning."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">Q1</div><div class=\"st\"><span class=\"sh\">\"What is naturopathy? Define its principles.\"</span> Model answer: Naturopathy is a system of medicine that recognises the inherent self-healing ability of the body (Vis Medicatrix Naturae) and uses natural agents — water, air, light, diet, exercise — to stimulate healing. Six BNYS principles: (1) Vis Medicatrix Naturae, (2) Primum Non Nocere (First Do No Harm), (3) Tolle Causam (Treat the Cause), (4) Docere (Doctor as Teacher), (5) Tolle Totum (Treat the Whole Person), (6) Preventare (Prevention). These correspond to the BNYS council curriculum — learn them precisely.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">Q2</div><div class=\"st\"><span class=\"sh\">\"What is Hering's Law of Cure?\"</span> Model answer: Hering's Law states that healing proceeds: (1) From above downward (head to feet), (2) From inside outward (internal organs to skin — rashes appear as healing progresses), (3) From more vital to less vital organs, (4) In reverse order of symptoms (most recent symptoms resolve first, oldest symptoms resolve last — a healing crisis may re-experience old symptoms briefly). Example: a patient with chronic eczema and asthma who improves — asthma improves first (more vital) and as healing progresses, skin symptoms may temporarily worsen (inside → outward) before resolving.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">Q3</div><div class=\"st\"><span class=\"sh\">\"Explain therapeutic order in naturopathic practice.\"</span> Model answer: Therapeutic order (Zeff/Snider/Sensenig): (1) Remove obstacles to health (toxins, poor diet, stress). (2) Stimulate Vis Medicatrix Naturae (fasting, hydrotherapy). (3) Strengthen weakened systems (tonics, specific nutrition). (4) Correct structural integrity (manipulation, exercise). (5) Use natural substances to restore function (botanicals, homeopathy). (6) Use pharmacological substances to halt disease process (if steps 1–5 insufficient). (7) Use high-force interventions (surgery, radiation) — only when necessary. BNYS works primarily at levels 1–5.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#7c3aed\">Q4</div><div class=\"st\"><span class=\"sh\">\"What is the constitutional effect of cold water?\"</span> Model answer: Cold water application (10–18°C) produces: Immediate: vasoconstriction, bradycardia, decreased metabolic rate. Reaction phase (5–10 min later): vasodilation (reactive hyperaemia), ↑ metabolic rate, ↑ immune activity, ↑ WBC count, tonic effect on smooth muscle. Tonic effect of cold (key exam point): cold → shock → reaction → tonic stimulation of whole body. Short cold = tonic/stimulating. Prolonged cold (sedative) = depressant effect on SNS. This is why contrast hydrotherapy (alternate hot/cold) is more powerful than either alone — combines vasodilation with reactive toning.</div></div>\n    </div>",
+      "_review": false
+    },
+    {
+      "id": "bnysexam-exam-bnys-mcq-bank-practice-questions",
+      "title": "BNYS MCQ Bank — Practice Questions",
+      "badge": "Exam Practice",
+      "category": "exam",
+      "section": "bnysexam",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Practice MCQs — All with Explanations",
+            "text": "Work through these before checking explanations. These reflect actual university examination style. Answers at the bottom of each question."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "#",
+              "Question",
+              "Options",
+              "Answer + Explanation"
+            ],
+            "rows": [
+              [
+                "1",
+                "Which hydrotherapy is MOST indicated for constipation?",
+                "A) Hot full bath B) Cold hip bath C) Neutral spinal bath D) Wet sheet pack",
+                "B — Cold hip bath stimulates bowel motility via reflex vasodilation of intestinal vessels and stimulates peristalsis. Neutral spinal bath is for neurological/sedative indications."
+              ],
+              [
+                "2",
+                "Temperature range of NEUTRAL hip bath:",
+                "A) 10–18°C B) 26–33°C C) 34–36°C D) 40–45°C",
+                "C — Neutral (thermally indifferent) temperature is 34–36°C (close to body temperature). Indications: anxiety, insomnia, neurological disorders."
+              ],
+              [
+                "3",
+                "Which pranayama is MOST indicated for hypertension?",
+                "A) Kapalbhati B) Bhastrika C) Nadi Shodhana D) Surya Bhedi",
+                "C — Nadi Shodhana (alternate nostril breathing) activates the parasympathetic nervous system, reduces cortisol, and has most evidence for blood pressure reduction. Surya Bhedi (right nostril) is CONTRAINDICATED in hypertension (stimulating)."
+              ],
+              [
+                "4",
+                "Hering's Law states healing proceeds:",
+                "A) From below upward B) From outside inward C) From least vital to most vital D) In reverse order of symptom appearance",
+                "D — \"In reverse order of symptom appearance\" — most recent symptoms resolve first, oldest last. Note: also from above downward, inside outward, more vital to less vital. All are components of Hering's Law."
+              ],
+              [
+                "5",
+                "Which vitamin deficiency is MOST likely in a patient on long-term Metformin?",
+                "A) Vitamin D B) Vitamin C C) Vitamin B12 D) Vitamin A",
+                "C — Metformin inhibits ileal vitamin B12-intrinsic factor complex absorption. Check B12 annually in all metformin patients. Replace with methylcobalamin 1000mcg/day."
+              ],
+              [
+                "6",
+                "Vis Medicatrix Naturae means:",
+                "A) First do no harm B) The healing power of nature C) Treat the whole person D) Doctor as teacher",
+                "B — VMN = \"The healing power of nature\" — the inherent, self-organising intelligence of the body to heal itself. It is the first and foundational naturopathic principle."
+              ],
+              [
+                "7",
+                "Full wet sheet pack stage 3 (diaphoretic stage) temperature effect is:",
+                "A) Body temperature falls B) Body temperature rises, profuse sweating C) No temperature change D) Patient shivers continuously",
+                "B — Stage 3 (30–60 min): body heat trapped by pack → core temperature ↑ → profuse perspiration → detoxification effect. Stage 1 = cold/shock. Stage 2 = warming/neutral. Stage 3 = heating/diaphoretic."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-info\"><div class=\"a-label\">Practice MCQs — All with Explanations</div>Work through these before checking explanations. These reflect actual university examination style. Answers at the bottom of each question.</div>\n    <table class=\"tbl\"><thead><tr><th>#</th><th>Question</th><th>Options</th><th>Answer + Explanation</th></tr></thead><tbody>\n      <tr><td>1</td><td>Which hydrotherapy is MOST indicated for constipation?</td><td>A) Hot full bath B) Cold hip bath C) Neutral spinal bath D) Wet sheet pack</td><td><strong>B</strong> — Cold hip bath stimulates bowel motility via reflex vasodilation of intestinal vessels and stimulates peristalsis. Neutral spinal bath is for neurological/sedative indications.</td></tr>\n      <tr><td>2</td><td>Temperature range of NEUTRAL hip bath:</td><td>A) 10–18°C B) 26–33°C C) 34–36°C D) 40–45°C</td><td><strong>C</strong> — Neutral (thermally indifferent) temperature is 34–36°C (close to body temperature). Indications: anxiety, insomnia, neurological disorders.</td></tr>\n      <tr><td>3</td><td>Which pranayama is MOST indicated for hypertension?</td><td>A) Kapalbhati B) Bhastrika C) Nadi Shodhana D) Surya Bhedi</td><td><strong>C</strong> — Nadi Shodhana (alternate nostril breathing) activates the parasympathetic nervous system, reduces cortisol, and has most evidence for blood pressure reduction. Surya Bhedi (right nostril) is CONTRAINDICATED in hypertension (stimulating).</td></tr>\n      <tr><td>4</td><td>Hering's Law states healing proceeds:</td><td>A) From below upward B) From outside inward C) From least vital to most vital D) In reverse order of symptom appearance</td><td><strong>D</strong> — \"In reverse order of symptom appearance\" — most recent symptoms resolve first, oldest last. Note: also from above downward, inside outward, more vital to less vital. All are components of Hering's Law.</td></tr>\n      <tr><td>5</td><td>Which vitamin deficiency is MOST likely in a patient on long-term Metformin?</td><td>A) Vitamin D B) Vitamin C C) Vitamin B12 D) Vitamin A</td><td><strong>C</strong> — Metformin inhibits ileal vitamin B12-intrinsic factor complex absorption. Check B12 annually in all metformin patients. Replace with methylcobalamin 1000mcg/day.</td></tr>\n      <tr><td>6</td><td>Vis Medicatrix Naturae means:</td><td>A) First do no harm B) The healing power of nature C) Treat the whole person D) Doctor as teacher</td><td><strong>B</strong> — VMN = \"The healing power of nature\" — the inherent, self-organising intelligence of the body to heal itself. It is the first and foundational naturopathic principle.</td></tr>\n      <tr><td>7</td><td>Full wet sheet pack stage 3 (diaphoretic stage) temperature effect is:</td><td>A) Body temperature falls B) Body temperature rises, profuse sweating C) No temperature change D) Patient shivers continuously</td><td><strong>B</strong> — Stage 3 (30–60 min): body heat trapped by pack → core temperature ↑ → profuse perspiration → detoxification effect. Stage 1 = cold/shock. Stage 2 = warming/neutral. Stage 3 = heating/diaphoretic.</td></tr>\n    </tbody></table>",
+      "_review": false
+    }
+  ]
+}
