@@ -1,0 +1,2154 @@
+{
+  "schemaVersion": "1.0",
+  "section": "nutbio",
+  "generatedAt": "2026-04-13T11:56:22.343Z",
+  "cardCount": 26,
+  "cards": [
+    {
+      "id": "nutbio-mth-methylation-cycle-clinical-overview",
+      "title": "Methylation Cycle — Clinical Overview",
+      "badge": "Foundation",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Why methylation matters",
+            "text": "Methylation occurs 1 billion times per second in every cell. It controls: DNA repair, gene expression (epigenetics), neurotransmitter synthesis and degradation, detoxification (Phase II), oestrogen metabolism, immune regulation, and myelin formation."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Key Reaction",
+              "Enzyme",
+              "Nutrient Cofactors",
+              "If blocked"
+            ],
+            "rows": [
+              [
+                "Homocysteine → Methionine",
+                "MTHFR (C677T, A1298C)",
+                "5-MTHF (active folate), B12 (methylcobalamin)",
+                "↑ homocysteine → CVD, neurological"
+              ],
+              [
+                "SAM → SAH",
+                "Multiple methyltransferases",
+                "Magnesium, SAM-e",
+                "↓ methylation of DNA, neurotransmitters"
+              ],
+              [
+                "Homocysteine → Cysteine",
+                "CBS (transsulphuration)",
+                "B6 (P5P), serine",
+                "↑ homocysteine, ↓ glutathione"
+              ],
+              [
+                "BH4 recycling",
+                "DHFR",
+                "Riboflavin (B2)",
+                "↓ dopamine, serotonin, NO synthesis"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 MTHFR polymorphism — practical guide",
+            "text": "MTHFR C677T homozygous (TT) = 70% reduced enzyme activity. Present in 10% of population. NOT a disease — a polymorphism requiring adequate cofactors. Management: 5-methyltetrahydrofolate (5-MTHF, NOT folic acid), methylcobalamin (B12), B2, B6. Check: serum homocysteine (target <10 µmol/L), RBC folate, active B12. Avoid high-dose folic acid — can paradoxically worsen methylation by blocking MTHFR competitively."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-blu\"><div class=\"a-label\">Why methylation matters</div>Methylation occurs 1 billion times per second in every cell. It controls: DNA repair, gene expression (epigenetics), neurotransmitter synthesis and degradation, detoxification (Phase II), oestrogen metabolism, immune regulation, and myelin formation.</div>\n    <table class=\"tbl\"><thead><tr><th>Key Reaction</th><th>Enzyme</th><th>Nutrient Cofactors</th><th>If blocked</th></tr></thead><tbody>\n      <tr><td>Homocysteine → Methionine</td><td>MTHFR (C677T, A1298C)</td><td>5-MTHF (active folate), B12 (methylcobalamin)</td><td>↑ homocysteine → CVD, neurological</td></tr>\n      <tr><td>SAM → SAH</td><td>Multiple methyltransferases</td><td>Magnesium, SAM-e</td><td>↓ methylation of DNA, neurotransmitters</td></tr>\n      <tr><td>Homocysteine → Cysteine</td><td>CBS (transsulphuration)</td><td>B6 (P5P), serine</td><td>↑ homocysteine, ↓ glutathione</td></tr>\n      <tr><td>BH4 recycling</td><td>DHFR</td><td>Riboflavin (B2)</td><td>↓ dopamine, serotonin, NO synthesis</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 MTHFR polymorphism — practical guide</div><div class=\"pt\">MTHFR C677T homozygous (TT) = 70% reduced enzyme activity. Present in 10% of population. NOT a disease — a polymorphism requiring adequate cofactors. Management: 5-methyltetrahydrofolate (5-MTHF, NOT folic acid), methylcobalamin (B12), B2, B6. Check: serum homocysteine (target &lt;10 µmol/L), RBC folate, active B12. Avoid high-dose folic acid — can paradoxically worsen methylation by blocking MTHFR competitively.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mth-homocysteine-interpretation-management",
+      "title": "Homocysteine — Interpretation & Management",
+      "badge": "Key Marker",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Homocysteine Level",
+              "Risk",
+              "Action"
+            ],
+            "rows": [
+              [
+                "<10 µmol/L",
+                "Optimal",
+                "Maintain — adequate methylation nutrients"
+              ],
+              [
+                "10–15 µmol/L",
+                "Borderline — ↑ CVD risk begins",
+                "5-MTHF 400–800µg, methylB12 1000µg, B6 50mg"
+              ],
+              [
+                "15–30 µmol/L",
+                "Moderate — 2× CVD, dementia risk",
+                "Higher doses: 5-MTHF 1–5mg, methylB12 2–5mg, P5P 100mg, betaine 2g"
+              ],
+              [
+                ">30 µmol/L",
+                "Severe — vascular/thrombotic risk",
+                "Medical review + above + investigate CBS deficiency"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Betaine — the backup methylator",
+            "text": "Trimethylglycine (betaine, from beetroot) provides an alternative methylation pathway that does NOT require MTHFR. 2–6g/day lowers homocysteine by 10–20% independently of B-vitamins. Especially useful when MTHFR is highly impaired. Found naturally in: beetroot ★, spinach, quinoa, wheat germ."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"nv-grid\">\n      <div class=\"nv-card\"><div class=\"nv-label\">Optimal</div><div class=\"nv-val\">&lt;7 µmol/L</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">Normal (lab)</div><div class=\"nv-val\">5–15 µmol/L</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">Moderate elevation</div><div class=\"nv-val\">15–30 µmol/L</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">Severe</div><div class=\"nv-val\">&gt;30 µmol/L</div></div>\n    </div>\n    <table class=\"tbl\"><thead><tr><th>Homocysteine Level</th><th>Risk</th><th>Action</th></tr></thead><tbody>\n      <tr><td>&lt;10 µmol/L</td><td>Optimal</td><td>Maintain — adequate methylation nutrients</td></tr>\n      <tr><td>10–15 µmol/L</td><td>Borderline — ↑ CVD risk begins</td><td>5-MTHF 400–800µg, methylB12 1000µg, B6 50mg</td></tr>\n      <tr><td>15–30 µmol/L</td><td>Moderate — 2× CVD, dementia risk</td><td>Higher doses: 5-MTHF 1–5mg, methylB12 2–5mg, P5P 100mg, betaine 2g</td></tr>\n      <tr><td>&gt;30 µmol/L</td><td>Severe — vascular/thrombotic risk</td><td>Medical review + above + investigate CBS deficiency</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Betaine — the backup methylator</div><div class=\"pt\">Trimethylglycine (betaine, from beetroot) provides an alternative methylation pathway that does NOT require MTHFR. 2–6g/day lowers homocysteine by 10–20% independently of B-vitamins. Especially useful when MTHFR is highly impaired. Found naturally in: beetroot ★, spinach, quinoa, wheat germ.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mth-oxidative-stress-antioxidant-pathways",
+      "title": "Oxidative Stress & Antioxidant Pathways",
+      "badge": "Systems",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Antioxidant",
+              "Source",
+              "Mechanism",
+              "Clinical use"
+            ],
+            "rows": [
+              [
+                "Glutathione (GSH)",
+                "Endogenous; NAC precursor; liposomal GSH supp.",
+                "Master antioxidant, Phase II detox, regenerates other antioxidants",
+                "Liver disease, detox, heavy metals, NAC for paracetamol toxicity"
+              ],
+              [
+                "Nrf2 pathway",
+                "Activated by: sulforaphane, curcumin, resveratrol",
+                "Transcription factor → 200+ antioxidant/detox genes",
+                "Cancer prevention, neurodegeneration, autoimmune"
+              ],
+              [
+                "SOD (Superoxide dismutase)",
+                "Manganese, copper, zinc",
+                "O₂⁻ → H₂O₂",
+                "↑ with Mn, Cu, Zn repletion"
+              ],
+              [
+                "Catalase",
+                "Iron, haem",
+                "H₂O₂ → H₂O + O₂",
+                "Iron optimisation; selenium supports"
+              ],
+              [
+                "CoQ10",
+                "Endogenous; reduced with statins, ageing",
+                "Mitochondrial electron transport, lipid peroxidation prevention",
+                "Statins (mandatory replacement), HF, migraine prevention, fertility"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Sulforaphane — most potent Nrf2 activator",
+            "text": "Sulforaphane from broccoli sprouts activates Nrf2 → turns on 200+ cytoprotective genes for 72 hours from a single dose. 3-day-old broccoli sprouts contain 20–50× more sulforaphane than mature broccoli. Daily 50g sprouts = clinical dose. Myrosinase enzyme (from mustard, horseradish, or light steaming then cooling) converts glucoraphanin → sulforaphane — raw sprouts + mustard seed = optimal delivery."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Antioxidant</th><th>Source</th><th>Mechanism</th><th>Clinical use</th></tr></thead><tbody>\n      <tr><td>Glutathione (GSH)</td><td>Endogenous; NAC precursor; liposomal GSH supp.</td><td>Master antioxidant, Phase II detox, regenerates other antioxidants</td><td>Liver disease, detox, heavy metals, NAC for paracetamol toxicity</td></tr>\n      <tr><td>Nrf2 pathway</td><td>Activated by: sulforaphane, curcumin, resveratrol</td><td>Transcription factor → 200+ antioxidant/detox genes</td><td>Cancer prevention, neurodegeneration, autoimmune</td></tr>\n      <tr><td>SOD (Superoxide dismutase)</td><td>Manganese, copper, zinc</td><td>O₂⁻ → H₂O₂</td><td>↑ with Mn, Cu, Zn repletion</td></tr>\n      <tr><td>Catalase</td><td>Iron, haem</td><td>H₂O₂ → H₂O + O₂</td><td>Iron optimisation; selenium supports</td></tr>\n      <tr><td>CoQ10</td><td>Endogenous; reduced with statins, ageing</td><td>Mitochondrial electron transport, lipid peroxidation prevention</td><td>Statins (mandatory replacement), HF, migraine prevention, fertility</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Sulforaphane — most potent Nrf2 activator</div><div class=\"pt\">Sulforaphane from broccoli sprouts activates Nrf2 → turns on 200+ cytoprotective genes for 72 hours from a single dose. 3-day-old broccoli sprouts contain 20–50× more sulforaphane than mature broccoli. Daily 50g sprouts = clinical dose. Myrosinase enzyme (from mustard, horseradish, or light steaming then cooling) converts glucoraphanin → sulforaphane — raw sprouts + mustard seed = optimal delivery.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mth-mitochondrial-health-clinical-assessment-support",
+      "title": "Mitochondrial Health — Clinical Assessment & Support",
+      "badge": "Functional",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Mitochondrial Dysfunction — The Root of Fatigue",
+            "text": "Mitochondria produce 95% of cellular ATP. Mitochondrial dysfunction underlies: chronic fatigue syndrome, fibromyalgia, ageing, neurodegeneration, metabolic syndrome, and many chronic diseases. Unlike acute disease, mitochondrial dysfunction is subtle, pervasive, and highly responsive to nutritional intervention."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Marker",
+              "Assessment",
+              "Optimal"
+            ],
+            "rows": [
+              [
+                "Lactate:pyruvate ratio",
+                "Elevated in mitochondrial dysfunction — impaired oxidative phosphorylation",
+                "<20. Elevated >20 suggests mitchondrial ETC impairment."
+              ],
+              [
+                "Organic acids (urine)",
+                "Krebs cycle intermediates elevated: citrate, isocitrate, succinate, fumarate, malate — indicates bottlenecks in TCA cycle",
+                "Specialist lab. Genova Diagnostics, Great Plains Laboratory."
+              ],
+              [
+                "CoQ10 (plasma)",
+                "Ubiquinol form preferred. Low in: statin use, ageing, heart failure, CFS",
+                ">0.8 µg/mL. Supplement to >2.5 µg/mL in clinical conditions."
+              ],
+              [
+                "Cardiolipin antibodies",
+                "Mitochondrial membrane-specific phospholipid — antibodies indicate mitochondrial damage",
+                "Negative. Elevated in: CFS, autoimmune, post-viral syndromes."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Mitochondrial Support Protocol",
+            "text": "CoQ10 ubiquinol 200–400mg/day ★★★ (most evidence-based mitochondrial supplement — active reduced form, superior to ubiquinone in compromised patients). PQQ (pyrroloquinoline quinone) 20mg/day ★★ (stimulates mitochondrial biogenesis — new mitochondria, not just function). NAD+ precursors: NR (nicotinamide riboside) or NMN 250–500mg/day ★★★ (NAD+ declines 50% by age 60 — essential for ETC complex I). L-Carnitine or Acetyl-L-carnitine 1–2g/day ★★★ (shuttles fatty acids into mitochondria for beta-oxidation). R-Alpha lipoic acid 300–600mg/day ★★★ (TCA cofactor + antioxidant + regenerates CoQ10/E/C). Magnesium malate 400mg ★★★ (malate = TCA intermediate, Mg cofactor for ATP synthase)."
+          },
+          {
+            "n": 2,
+            "title": "Lifestyle Mitochondrial Biogenesis",
+            "text": "Exercise ★★★ — single most powerful mitochondrial biogenesis stimulus (PGC-1α activation). Zone 2 aerobic (150 min/week) + HIIT 2×/week. Fasting ★★★ — AMPK activation triggers mitophagy (clearing damaged mitochondria) + biogenesis. Cold exposure ★★ — cold thermogenesis activates UCP1 + PGC-1α (cold showers, cryotherapy). Ketogenic diet ★★ (ketones = cleaner mitochondrial fuel than glucose — less ROS per ATP generated). Sleep ★★★ — mitochondrial repair and biogenesis predominantly occur in deep sleep."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Mitochondrial Dysfunction — The Root of Fatigue</div>Mitochondria produce 95% of cellular ATP. Mitochondrial dysfunction underlies: chronic fatigue syndrome, fibromyalgia, ageing, neurodegeneration, metabolic syndrome, and many chronic diseases. Unlike acute disease, mitochondrial dysfunction is subtle, pervasive, and highly responsive to nutritional intervention.</div><table class=\"tbl\"><thead><tr><th>Marker</th><th>Assessment</th><th>Optimal</th></tr></thead><tbody><tr><td>Lactate:pyruvate ratio</td><td>Elevated in mitochondrial dysfunction — impaired oxidative phosphorylation</td><td>&lt;20. Elevated &gt;20 suggests mitchondrial ETC impairment.</td></tr><tr><td>Organic acids (urine)</td><td>Krebs cycle intermediates elevated: citrate, isocitrate, succinate, fumarate, malate — indicates bottlenecks in TCA cycle</td><td>Specialist lab. Genova Diagnostics, Great Plains Laboratory.</td></tr><tr><td>CoQ10 (plasma)</td><td>Ubiquinol form preferred. Low in: statin use, ageing, heart failure, CFS</td><td>&gt;0.8 µg/mL. Supplement to &gt;2.5 µg/mL in clinical conditions.</td></tr><tr><td>Cardiolipin antibodies</td><td>Mitochondrial membrane-specific phospholipid — antibodies indicate mitochondrial damage</td><td>Negative. Elevated in: CFS, autoimmune, post-viral syndromes.</td></tr></tbody></table><div class=\"steps\"><div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">1</div><div class=\"st\"><span class=\"sh\">Mitochondrial Support Protocol</span>CoQ10 ubiquinol 200–400mg/day ★★★ (most evidence-based mitochondrial supplement — active reduced form, superior to ubiquinone in compromised patients). PQQ (pyrroloquinoline quinone) 20mg/day ★★ (stimulates mitochondrial biogenesis — new mitochondria, not just function). NAD+ precursors: NR (nicotinamide riboside) or NMN 250–500mg/day ★★★ (NAD+ declines 50% by age 60 — essential for ETC complex I). L-Carnitine or Acetyl-L-carnitine 1–2g/day ★★★ (shuttles fatty acids into mitochondria for beta-oxidation). R-Alpha lipoic acid 300–600mg/day ★★★ (TCA cofactor + antioxidant + regenerates CoQ10/E/C). Magnesium malate 400mg ★★★ (malate = TCA intermediate, Mg cofactor for ATP synthase).</div></div><div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">2</div><div class=\"st\"><span class=\"sh\">Lifestyle Mitochondrial Biogenesis</span>Exercise ★★★ — single most powerful mitochondrial biogenesis stimulus (PGC-1α activation). Zone 2 aerobic (150 min/week) + HIIT 2×/week. Fasting ★★★ — AMPK activation triggers mitophagy (clearing damaged mitochondria) + biogenesis. Cold exposure ★★ — cold thermogenesis activates UCP1 + PGC-1α (cold showers, cryotherapy). Ketogenic diet ★★ (ketones = cleaner mitochondrial fuel than glucose — less ROS per ATP generated). Sleep ★★★ — mitochondrial repair and biogenesis predominantly occur in deep sleep.</div></div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mth-magnesium-the-master-mineral",
+      "title": "Magnesium — The Master Mineral",
+      "badge": "Essential ★",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Magnesium — Cofactor for 300+ Enzymatic Reactions",
+            "text": "Magnesium is the fourth most abundant mineral in the body and a cofactor for over 300 enzymes. It is essential for: ATP synthesis, DNA repair, protein synthesis, neuromuscular transmission, glucose metabolism, blood pressure regulation, and vitamin D activation. Deficiency is estimated in 60–70% of adults eating a Western diet."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Form",
+              "Absorption",
+              "Best For",
+              "Dose"
+            ],
+            "rows": [
+              [
+                "Magnesium Glycinate",
+                "High (chelated form)",
+                "Sleep, anxiety, muscle relaxation, PMS, general deficiency. Best tolerated form — no laxative effect.",
+                "200–400mg elemental before bed"
+              ],
+              [
+                "Magnesium Threonate (MgT)",
+                "High — uniquely crosses BBB",
+                "Cognitive function, memory, ADHD, neurological conditions, Alzheimer's prevention",
+                "1000–2000mg MgT (provides ~50–100mg elemental). Expensive but neurologically targeted."
+              ],
+              [
+                "Magnesium Malate",
+                "Good",
+                "Fibromyalgia ★★★, chronic fatigue, muscle pain, energy metabolism (malate = TCA cycle intermediate)",
+                "300–600mg elemental in divided doses"
+              ],
+              [
+                "Magnesium Citrate",
+                "Good",
+                "Constipation, kidney stone prevention (citrate inhibits oxalate crystallisation)",
+                "200–400mg elemental. Laxative effect dose-dependent."
+              ],
+              [
+                "Magnesium L-Threonate",
+                "BBB penetrant",
+                "Same as Mg Threonate above",
+                "Same"
+              ],
+              [
+                "Magnesium Oxide",
+                "Very poor (4% absorption)",
+                "Cheap but ineffective — avoid for systemic deficiency. Useful only as a laxative or antacid.",
+                "Avoid for deficiency supplementation"
+              ],
+              [
+                "Transdermal Magnesium",
+                "Evidence limited — controversial",
+                "Topical foot soaks, muscle cramps (some benefit reported). Evidence weaker than oral.",
+                "Epsom salt (MgSO4) foot bath — relaxing but uncertain systemic absorption"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Drugs That Deplete Magnesium",
+            "text": "PPIs ★★★ — most significant Mg depletion. Severe hypomagnesaemia can occur with >3 months PPI use (FDA black box warning). Check serum Mg in all long-term PPI patients. Thiazide and loop diuretics ★★★ — renal Mg wasting (tubular). Aminoglycosides, cisplatin (renally depleting). Alcohol ★★★ — inhibits renal Mg reabsorption. Beta-agonists (salbutamol) — shift Mg intracellularly. These patients need routine Mg monitoring and supplementation."
+          }
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Clinical Deficiency Patterns by Condition",
+            "text": "Migraine: Mg 400–600mg/day ★★★ — serum Mg low in 50% of migraine patients during attack. IV Mg terminates acute migraine in 50% (comparable to triptans). Cardiovascular: Mg 400mg ★★★ — reduces AF, ventricular arrhythmia, hypertension, torsades de pointes. T2DM: Mg 400mg ★★★ — deficiency = 10× ↑ T2DM risk. Insulin resistance is worsened by Mg deficiency (insulin receptor requires Mg). Insomnia: Mg glycinate 400mg at bedtime ★★★ — regulates GABA-A receptor, melatonin production. PMS: Mg 360mg from day 15 of cycle ★★★ — reduces mood symptoms, cramping, breast tenderness."
+          },
+          {
+            "n": 2,
+            "title": "Testing Magnesium Status",
+            "text": "Serum Mg: poor indicator (only 1% of Mg is extracellular — serum appears normal until severely deficient). RBC Mg (red blood cell intracellular Mg): better indicator of tissue stores. 24-hour urine Mg: measures Mg retention (low retention = deficiency if kidneys retaining Mg). Ionic Mg (most accurate): specialist lab. Practical approach: assess clinically — muscle cramps, eye twitching, anxiety, insomnia, constipation, fatigue, headaches, palpitations = clinical deficiency indicators. RBC Mg if available. Treat empirically in most cases — Mg glycinate is safe and well tolerated."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Magnesium — Cofactor for 300+ Enzymatic Reactions</div>Magnesium is the fourth most abundant mineral in the body and a cofactor for over 300 enzymes. It is essential for: ATP synthesis, DNA repair, protein synthesis, neuromuscular transmission, glucose metabolism, blood pressure regulation, and vitamin D activation. Deficiency is estimated in 60–70% of adults eating a Western diet.</div>\n    <table class=\"tbl\"><thead><tr><th>Form</th><th>Absorption</th><th>Best For</th><th>Dose</th></tr></thead><tbody>\n      <tr><td><strong>Magnesium Glycinate</strong></td><td>High (chelated form)</td><td>Sleep, anxiety, muscle relaxation, PMS, general deficiency. Best tolerated form — no laxative effect.</td><td>200–400mg elemental before bed</td></tr>\n      <tr><td><strong>Magnesium Threonate (MgT)</strong></td><td>High — uniquely crosses BBB</td><td>Cognitive function, memory, ADHD, neurological conditions, Alzheimer's prevention</td><td>1000–2000mg MgT (provides ~50–100mg elemental). Expensive but neurologically targeted.</td></tr>\n      <tr><td><strong>Magnesium Malate</strong></td><td>Good</td><td>Fibromyalgia ★★★, chronic fatigue, muscle pain, energy metabolism (malate = TCA cycle intermediate)</td><td>300–600mg elemental in divided doses</td></tr>\n      <tr><td><strong>Magnesium Citrate</strong></td><td>Good</td><td>Constipation, kidney stone prevention (citrate inhibits oxalate crystallisation)</td><td>200–400mg elemental. Laxative effect dose-dependent.</td></tr>\n      <tr><td><strong>Magnesium L-Threonate</strong></td><td>BBB penetrant</td><td>Same as Mg Threonate above</td><td>Same</td></tr>\n      <tr><td><strong>Magnesium Oxide</strong></td><td>Very poor (4% absorption)</td><td>Cheap but ineffective — avoid for systemic deficiency. Useful only as a laxative or antacid.</td><td>Avoid for deficiency supplementation</td></tr>\n      <tr><td><strong>Transdermal Magnesium</strong></td><td>Evidence limited — controversial</td><td>Topical foot soaks, muscle cramps (some benefit reported). Evidence weaker than oral.</td><td>Epsom salt (MgSO4) foot bath — relaxing but uncertain systemic absorption</td></tr>\n    </tbody></table>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">1</div><div class=\"st\"><span class=\"sh\">Clinical Deficiency Patterns by Condition</span> Migraine: Mg 400–600mg/day ★★★ — serum Mg low in 50% of migraine patients during attack. IV Mg terminates acute migraine in 50% (comparable to triptans). Cardiovascular: Mg 400mg ★★★ — reduces AF, ventricular arrhythmia, hypertension, torsades de pointes. T2DM: Mg 400mg ★★★ — deficiency = 10× ↑ T2DM risk. Insulin resistance is worsened by Mg deficiency (insulin receptor requires Mg). Insomnia: Mg glycinate 400mg at bedtime ★★★ — regulates GABA-A receptor, melatonin production. PMS: Mg 360mg from day 15 of cycle ★★★ — reduces mood symptoms, cramping, breast tenderness.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">2</div><div class=\"st\"><span class=\"sh\">Testing Magnesium Status</span> Serum Mg: poor indicator (only 1% of Mg is extracellular — serum appears normal until severely deficient). RBC Mg (red blood cell intracellular Mg): better indicator of tissue stores. 24-hour urine Mg: measures Mg retention (low retention = deficiency if kidneys retaining Mg). Ionic Mg (most accurate): specialist lab. Practical approach: assess clinically — muscle cramps, eye twitching, anxiety, insomnia, constipation, fatigue, headaches, palpitations = clinical deficiency indicators. RBC Mg if available. Treat empirically in most cases — Mg glycinate is safe and well tolerated.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Drugs That Deplete Magnesium</div><div class=\"pt\">PPIs ★★★ — most significant Mg depletion. Severe hypomagnesaemia can occur with &gt;3 months PPI use (FDA black box warning). Check serum Mg in all long-term PPI patients. Thiazide and loop diuretics ★★★ — renal Mg wasting (tubular). Aminoglycosides, cisplatin (renally depleting). Alcohol ★★★ — inhibits renal Mg reabsorption. Beta-agonists (salbutamol) — shift Mg intracellularly. These patients need routine Mg monitoring and supplementation.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mth-zinc-clinical-deep-dive",
+      "title": "Zinc — Clinical Deep Dive",
+      "badge": "Essential ★",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Zinc — The Most Versatile Immune and Metabolic Mineral",
+            "text": "Zinc is involved in: 300+ enzyme reactions, DNA synthesis, protein production, immune function (thymulin synthesis, T-cell maturation), testosterone production, insulin signalling, wound healing, taste and smell (carbonic anhydrase VI in saliva), visual cycle (retinal function), and antioxidant (superoxide dismutase cofactor). Deficiency is extremely common and profoundly multisystemic."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Deficiency Sign",
+              "Severity",
+              "Mechanism"
+            ],
+            "rows": [
+              [
+                "Recurrent infections",
+                "Moderate-severe",
+                "↓ Thymulin (thymus hormone) → ↓ T-cell maturation and function. ↓ NK cell activity."
+              ],
+              [
+                "Loss of taste/smell (hypogeusia/anosmia)",
+                "Moderate",
+                "Zinc-dependent carbonic anhydrase VI in saliva and olfactory neuroepithelium. Classic presentation of zinc deficiency."
+              ],
+              [
+                "White spots on nails (leukonychia)",
+                "Mild-moderate",
+                "Zinc required for nail keratin synthesis. White transverse bands = Muehrcke's lines (hypoalbuminaemia). White spots = zinc deficiency classically."
+              ],
+              [
+                "Poor wound healing",
+                "Moderate",
+                "Zinc required for metalloproteinases (tissue remodelling), collagen synthesis, and inflammatory phase of wound healing."
+              ],
+              [
+                "Acne (hormonal/inflammatory)",
+                "Mild",
+                "Zinc reduces 5α-reductase (DHT conversion), inhibits Propionibacterium acnes. Comparable to tetracycline in RCTs."
+              ],
+              [
+                "Low testosterone",
+                "Moderate-severe",
+                "Zinc is cofactor for testosterone synthesis. Zinc deficiency = low LH + low testosterone — both reverse with correction."
+              ],
+              [
+                "Delayed growth (children)",
+                "Moderate-severe",
+                "Zinc required for IGF-1 signalling. Most common cause of growth faltering in developing countries after malnutrition."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Zinc Forms — Clinical Selection",
+            "text": "Zinc picolinate: best absorbed form. Picolinic acid chelate = efficient membrane transport. Good for: immune, acne, testosterone. Zinc bisglycinate: second-best absorbed. Gentlest on stomach. Best for daily maintenance. Zinc carnosine: specific for gastric mucosal protection. PepZin GI — clinically proven for gastric ulcers, H.pylori support, gut barrier. Zinc citrate: moderate absorption. Good tolerability. Zinc gluconate: widely available. Moderate absorption. Zinc lozenges for cold prevention/treatment (ionic zinc) ★★★ — must dissolve in mouth to work (not swallow). Zinc oxide: poorly absorbed — topical use only (sunscreen, nappy cream). Do NOT use for deficiency."
+          },
+          {
+            "n": 2,
+            "title": "Zinc:Copper Balance — Critical Safety Point",
+            "text": "Zinc supplementation >40mg/day for >8 weeks induces metallothionein in gut enterocytes — which binds copper and prevents absorption. Chronic high-dose zinc → copper deficiency: anaemia (sideropeic + microcytic, not responding to iron), leukopenia, peripheral neuropathy (myelopathy), neurological symptoms (mimics B12 deficiency). Clinical rule: add 1mg copper for every 15mg zinc above baseline. Monitor: check caeruloplasmin (copper transport protein) or direct copper if supplementing zinc long-term at therapeutic doses (>30mg/day). Do NOT co-supplement copper with zinc at the same time — separate by 2–4 hours."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Zinc — The Most Versatile Immune and Metabolic Mineral</div>Zinc is involved in: 300+ enzyme reactions, DNA synthesis, protein production, immune function (thymulin synthesis, T-cell maturation), testosterone production, insulin signalling, wound healing, taste and smell (carbonic anhydrase VI in saliva), visual cycle (retinal function), and antioxidant (superoxide dismutase cofactor). Deficiency is extremely common and profoundly multisystemic.</div>\n    <table class=\"tbl\"><thead><tr><th>Deficiency Sign</th><th>Severity</th><th>Mechanism</th></tr></thead><tbody>\n      <tr><td>Recurrent infections</td><td>Moderate-severe</td><td>↓ Thymulin (thymus hormone) → ↓ T-cell maturation and function. ↓ NK cell activity.</td></tr>\n      <tr><td>Loss of taste/smell (hypogeusia/anosmia)</td><td>Moderate</td><td>Zinc-dependent carbonic anhydrase VI in saliva and olfactory neuroepithelium. Classic presentation of zinc deficiency.</td></tr>\n      <tr><td>White spots on nails (leukonychia)</td><td>Mild-moderate</td><td>Zinc required for nail keratin synthesis. White transverse bands = Muehrcke's lines (hypoalbuminaemia). White spots = zinc deficiency classically.</td></tr>\n      <tr><td>Poor wound healing</td><td>Moderate</td><td>Zinc required for metalloproteinases (tissue remodelling), collagen synthesis, and inflammatory phase of wound healing.</td></tr>\n      <tr><td>Acne (hormonal/inflammatory)</td><td>Mild</td><td>Zinc reduces 5α-reductase (DHT conversion), inhibits Propionibacterium acnes. Comparable to tetracycline in RCTs.</td></tr>\n      <tr><td>Low testosterone</td><td>Moderate-severe</td><td>Zinc is cofactor for testosterone synthesis. Zinc deficiency = low LH + low testosterone — both reverse with correction.</td></tr>\n      <tr><td>Delayed growth (children)</td><td>Moderate-severe</td><td>Zinc required for IGF-1 signalling. Most common cause of growth faltering in developing countries after malnutrition.</td></tr>\n    </tbody></table>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">1</div><div class=\"st\"><span class=\"sh\">Zinc Forms — Clinical Selection</span> Zinc picolinate: best absorbed form. Picolinic acid chelate = efficient membrane transport. Good for: immune, acne, testosterone. Zinc bisglycinate: second-best absorbed. Gentlest on stomach. Best for daily maintenance. Zinc carnosine: specific for gastric mucosal protection. PepZin GI — clinically proven for gastric ulcers, H.pylori support, gut barrier. Zinc citrate: moderate absorption. Good tolerability. Zinc gluconate: widely available. Moderate absorption. Zinc lozenges for cold prevention/treatment (ionic zinc) ★★★ — must dissolve in mouth to work (not swallow). Zinc oxide: poorly absorbed — topical use only (sunscreen, nappy cream). Do NOT use for deficiency.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">2</div><div class=\"st\"><span class=\"sh\">Zinc:Copper Balance — Critical Safety Point</span> Zinc supplementation &gt;40mg/day for &gt;8 weeks induces metallothionein in gut enterocytes — which binds copper and prevents absorption. Chronic high-dose zinc → copper deficiency: anaemia (sideropeic + microcytic, not responding to iron), leukopenia, peripheral neuropathy (myelopathy), neurological symptoms (mimics B12 deficiency). Clinical rule: add 1mg copper for every 15mg zinc above baseline. Monitor: check caeruloplasmin (copper transport protein) or direct copper if supplementing zinc long-term at therapeutic doses (&gt;30mg/day). Do NOT co-supplement copper with zinc at the same time — separate by 2–4 hours.</div></div>\n    </div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mth-nutrient-deficiency-functional-biochemistry",
+      "title": "Nutrient Deficiency — Functional Biochemistry",
+      "badge": "Assessment",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Nutrient",
+              "Functional marker",
+              "Standard marker limitation",
+              "Optimal level"
+            ],
+            "rows": [
+              [
+                "Vitamin D",
+                "25-OH-D3 (serum)",
+                "Lab \"normal\" 50nmol/L = functional deficiency",
+                "100–150 nmol/L"
+              ],
+              [
+                "B12",
+                "MMA (methylmalonic acid), holotranscobalamin",
+                "Serum B12 normal but functional deficiency common",
+                "HoloTC >50 pmol/L; MMA <0.26 µmol/L"
+              ],
+              [
+                "Folate",
+                "RBC folate (tissue level)",
+                "Serum folate = recent intake only",
+                "RBC folate >400 µg/L"
+              ],
+              [
+                "Iron",
+                "Ferritin + transferrin saturation + serum iron",
+                "Hb normal but ferritin <30 = functional deficiency",
+                "Ferritin 50–150 µg/L (functional)"
+              ],
+              [
+                "Zinc",
+                "RBC zinc, plasma zinc (fasted)",
+                "Serum zinc unreliable — redistributes in inflammation",
+                "Plasma zinc 11–18 µmol/L"
+              ],
+              [
+                "Magnesium",
+                "RBC magnesium (intracellular)",
+                "Serum Mg normal in 80% of deficient patients",
+                "RBC Mg 4.2–6.8 mg/dL"
+              ],
+              [
+                "Omega-3 index",
+                "RBC EPA+DHA%",
+                "Dietary recall unreliable",
+                "Omega-3 index >8%"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Ferritin — the most underdiagnosed deficiency",
+            "text": "Laboratory \"normal\" ferritin starts at 12 µg/L. Functional iron deficiency symptoms (fatigue, hair loss, cold intolerance, brain fog, restless legs) occur at ferritin <30 µg/L — a level most labs report as normal. Target ferritin 50–100 µg/L for symptom resolution. Iron bisglycinate (25mg/day with vitamin C, away from tea/coffee) is the best-tolerated form. Recheck in 3 months."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Nutrient</th><th>Functional marker</th><th>Standard marker limitation</th><th>Optimal level</th></tr></thead><tbody>\n      <tr><td>Vitamin D</td><td>25-OH-D3 (serum)</td><td>Lab \"normal\" 50nmol/L = functional deficiency</td><td>100–150 nmol/L</td></tr>\n      <tr><td>B12</td><td>MMA (methylmalonic acid), holotranscobalamin</td><td>Serum B12 normal but functional deficiency common</td><td>HoloTC &gt;50 pmol/L; MMA &lt;0.26 µmol/L</td></tr>\n      <tr><td>Folate</td><td>RBC folate (tissue level)</td><td>Serum folate = recent intake only</td><td>RBC folate &gt;400 µg/L</td></tr>\n      <tr><td>Iron</td><td>Ferritin + transferrin saturation + serum iron</td><td>Hb normal but ferritin &lt;30 = functional deficiency</td><td>Ferritin 50–150 µg/L (functional)</td></tr>\n      <tr><td>Zinc</td><td>RBC zinc, plasma zinc (fasted)</td><td>Serum zinc unreliable — redistributes in inflammation</td><td>Plasma zinc 11–18 µmol/L</td></tr>\n      <tr><td>Magnesium</td><td>RBC magnesium (intracellular)</td><td>Serum Mg normal in 80% of deficient patients</td><td>RBC Mg 4.2–6.8 mg/dL</td></tr>\n      <tr><td>Omega-3 index</td><td>RBC EPA+DHA%</td><td>Dietary recall unreliable</td><td>Omega-3 index &gt;8%</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Ferritin — the most underdiagnosed deficiency</div><div class=\"pt\">Laboratory \"normal\" ferritin starts at 12 µg/L. Functional iron deficiency symptoms (fatigue, hair loss, cold intolerance, brain fog, restless legs) occur at ferritin &lt;30 µg/L — a level most labs report as normal. Target ferritin 50–100 µg/L for symptom resolution. Iron bisglycinate (25mg/day with vitamin C, away from tea/coffee) is the best-tolerated form. Recheck in 3 months.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mth-omega-3-fatty-acids-complete-clinical-guide",
+      "title": "Omega-3 Fatty Acids — Complete Clinical Guide",
+      "badge": "Nutritional Biochemistry",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Omega-3 — The Most Evidence-Based Supplement in Naturopathic Practice",
+            "text": "Omega-3 PUFAs (EPA, DHA, ALA) have the broadest evidence base of any supplement — cardiovascular, neurological, inflammatory, psychiatric, and metabolic benefits confirmed across thousands of RCTs and meta-analyses."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Type",
+              "Full Name",
+              "Source",
+              "Primary Role",
+              "Conversion"
+            ],
+            "rows": [
+              [
+                "ALA",
+                "Alpha-linolenic acid",
+                "Flaxseed, walnuts, chia, hemp",
+                "Plant-based precursor",
+                "Converts to EPA/DHA at only 5–10% efficiency — insufficient as sole source"
+              ],
+              [
+                "EPA",
+                "Eicosapentaenoic acid",
+                "Oily fish, fish oil, algae oil",
+                "Anti-inflammatory, cardiovascular, mood (depression)",
+                "Direct use — no conversion needed"
+              ],
+              [
+                "DHA",
+                "Docosahexaenoic acid",
+                "Oily fish, fish oil, algae oil",
+                "Brain structure, retina, fetal development, cognitive health",
+                "Direct use — preferred for brain"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Condition",
+              "Optimal Form",
+              "Dose",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "Cardiovascular (TG reduction)",
+                "High EPA or EPA+DHA",
+                "3–4g EPA+DHA/day",
+                "★★★★ REDUCE-IT trial: icosapentaenoic acid 4g ↓ CV events 25%"
+              ],
+              [
+                "Depression",
+                "High EPA (EPA:DHA >2:1)",
+                "1–2g EPA/day",
+                "★★★★ Meta-analysis: EPA superior to DHA for depression"
+              ],
+              [
+                "Fetal brain development",
+                "DHA dominant",
+                "200–300mg DHA/day in pregnancy",
+                "★★★★ Critical — DHA is the primary structural fatty acid in fetal brain"
+              ],
+              [
+                "Inflammation (RA, IBD)",
+                "EPA dominant",
+                "3–6g EPA/day",
+                "★★★★ Multiple RCTs — reduces TNF-α, IL-1, LTB4"
+              ],
+              [
+                "ADHD",
+                "EPA+DHA combined",
+                "2–3g/day",
+                "★★★★ Meta-analysis 16 RCTs — modest but consistent benefit"
+              ],
+              [
+                "Cognitive health/prevention",
+                "DHA dominant",
+                "2g DHA/day (algae preferred)",
+                "★★★ Good for prevention — less for treatment of established dementia"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Fish Oil vs Algae Oil",
+            "text": "Algae oil is the original source — fish accumulate DHA/EPA by eating algae. Advantages of algae oil over fish oil: (1) Sustainable — no overfishing concern. (2) Vegan/vegetarian appropriate. (3) No mercury or PCB contamination risk. (4) No fishy aftertaste or burps. (5) DHA content often higher. Disadvantage: EPA content is lower in most algae oils — choose high-EPA algae oil for anti-inflammatory use. Oxidation check for fish oil: open the capsule — if it smells rancid (strong, unpleasant fishy smell), it is oxidised and potentially pro-inflammatory. Store in refrigerator, check expiry, take with food."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Omega-3 — The Most Evidence-Based Supplement in Naturopathic Practice</div>Omega-3 PUFAs (EPA, DHA, ALA) have the broadest evidence base of any supplement — cardiovascular, neurological, inflammatory, psychiatric, and metabolic benefits confirmed across thousands of RCTs and meta-analyses.</div>\n    <table class=\"tbl\"><thead><tr><th>Type</th><th>Full Name</th><th>Source</th><th>Primary Role</th><th>Conversion</th></tr></thead><tbody>\n      <tr><td>ALA</td><td>Alpha-linolenic acid</td><td>Flaxseed, walnuts, chia, hemp</td><td>Plant-based precursor</td><td>Converts to EPA/DHA at only 5–10% efficiency — insufficient as sole source</td></tr>\n      <tr><td>EPA</td><td>Eicosapentaenoic acid</td><td>Oily fish, fish oil, algae oil</td><td>Anti-inflammatory, cardiovascular, mood (depression)</td><td>Direct use — no conversion needed</td></tr>\n      <tr><td>DHA</td><td>Docosahexaenoic acid</td><td>Oily fish, fish oil, algae oil</td><td>Brain structure, retina, fetal development, cognitive health</td><td>Direct use — preferred for brain</td></tr>\n    </tbody></table>\n    <table class=\"tbl\" style=\"margin-top:10px\"><thead><tr><th>Condition</th><th>Optimal Form</th><th>Dose</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td>Cardiovascular (TG reduction)</td><td>High EPA or EPA+DHA</td><td>3–4g EPA+DHA/day</td><td>★★★★ REDUCE-IT trial: icosapentaenoic acid 4g ↓ CV events 25%</td></tr>\n      <tr><td>Depression</td><td>High EPA (EPA:DHA &gt;2:1)</td><td>1–2g EPA/day</td><td>★★★★ Meta-analysis: EPA superior to DHA for depression</td></tr>\n      <tr><td>Fetal brain development</td><td>DHA dominant</td><td>200–300mg DHA/day in pregnancy</td><td>★★★★ Critical — DHA is the primary structural fatty acid in fetal brain</td></tr>\n      <tr><td>Inflammation (RA, IBD)</td><td>EPA dominant</td><td>3–6g EPA/day</td><td>★★★★ Multiple RCTs — reduces TNF-α, IL-1, LTB4</td></tr>\n      <tr><td>ADHD</td><td>EPA+DHA combined</td><td>2–3g/day</td><td>★★★★ Meta-analysis 16 RCTs — modest but consistent benefit</td></tr>\n      <tr><td>Cognitive health/prevention</td><td>DHA dominant</td><td>2g DHA/day (algae preferred)</td><td>★★★ Good for prevention — less for treatment of established dementia</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Fish Oil vs Algae Oil</div><div class=\"pt\">Algae oil is the original source — fish accumulate DHA/EPA by eating algae. Advantages of algae oil over fish oil: (1) Sustainable — no overfishing concern. (2) Vegan/vegetarian appropriate. (3) No mercury or PCB contamination risk. (4) No fishy aftertaste or burps. (5) DHA content often higher. Disadvantage: EPA content is lower in most algae oils — choose high-EPA algae oil for anti-inflammatory use. Oxidation check for fish oil: open the capsule — if it smells rancid (strong, unpleasant fishy smell), it is oxidised and potentially pro-inflammatory. Store in refrigerator, check expiry, take with food.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mth-vitamin-d-the-master-hormone",
+      "title": "Vitamin D — The Master Hormone",
+      "badge": "Nutritional Biochemistry",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Vitamin D — Not Just a Vitamin",
+            "text": "Vitamin D is a secosteroid hormone — its receptor (VDR) is present in virtually every cell. It regulates over 200 genes involved in immunity, cell differentiation, inflammation, insulin secretion, blood pressure regulation, and calcium homeostasis. Deficiency is a global pandemic — affecting 1 billion people."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "25(OH)D Level",
+              "Status",
+              "Clinical Effects"
+            ],
+            "rows": [
+              [
+                "<25 nmol/L (<10 ng/mL)",
+                "Severe deficiency",
+                "Rickets (children), osteomalacia (adults), muscle weakness, bone pain, fractures"
+              ],
+              [
+                "25–50 nmol/L (10–20 ng/mL)",
+                "Deficiency",
+                "Reduced immunity, fatigue, depression risk, muscle weakness, impaired calcium absorption"
+              ],
+              [
+                "50–75 nmol/L (20–30 ng/mL)",
+                "Insufficiency",
+                "Suboptimal — bone density, immune function, mood may be affected"
+              ],
+              [
+                "75–150 nmol/L (30–60 ng/mL)",
+                "Optimal ★",
+                "Target range for most clinical benefits. Cancer prevention, immune function, cardiovascular"
+              ],
+              [
+                ">250 nmol/L (>100 ng/mL)",
+                "Toxicity risk",
+                "Hypercalcaemia, hypercalciuria. Rare — requires very high supplementation (>40,000 IU/day chronic)"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Population",
+              "Dose for Maintenance",
+              "Loading Dose (if deficient)"
+            ],
+            "rows": [
+              [
+                "General adult",
+                "2000 IU/day",
+                "50,000 IU/week × 8 weeks (prescriptive) or 4000 IU/day × 3 months"
+              ],
+              [
+                "Dark skin / low-sun regions",
+                "3000–4000 IU/day",
+                "As above"
+              ],
+              [
+                "Obesity (BMI >30)",
+                "4000–6000 IU/day (adipose tissue sequesters Vit D)",
+                "Higher loading needed"
+              ],
+              [
+                "Elderly (>65)",
+                "4000 IU/day (skin synthesis ↓ 75% vs young)",
+                "As above"
+              ],
+              [
+                "Pregnancy",
+                "4000 IU/day (target >100 nmol/L)",
+                "As above"
+              ],
+              [
+                "Autoimmune disease",
+                "4000–10,000 IU/day with monitoring",
+                "Under supervision — target 125–175 nmol/L (Coimbra protocol in MS, vitiligo)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 D3 + K2 + Mg — The Triad",
+            "text": "Vitamin D3 should always be combined with: K2 (MK-7) 100–200mcg — directs calcium to bone (osteocalcin carboxylation) and arteries (matrix Gla protein activation), preventing vascular calcification from high-dose Vit D. Magnesium 300–400mg — required for Vit D activation (25-OH-D → 1,25-OH2-D requires Mg-dependent enzyme CYP27B1). Low magnesium blocks Vit D conversion — patients who take Vit D without Mg may not respond adequately. D3 without K2 at high doses can raise serum calcium and deposit it in soft tissues — always prescribe together."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Vitamin D — Not Just a Vitamin</div>Vitamin D is a secosteroid hormone — its receptor (VDR) is present in virtually every cell. It regulates over 200 genes involved in immunity, cell differentiation, inflammation, insulin secretion, blood pressure regulation, and calcium homeostasis. Deficiency is a global pandemic — affecting 1 billion people.</div>\n    <table class=\"tbl\"><thead><tr><th>25(OH)D Level</th><th>Status</th><th>Clinical Effects</th></tr></thead><tbody>\n      <tr><td>&lt;25 nmol/L (&lt;10 ng/mL)</td><td>Severe deficiency</td><td>Rickets (children), osteomalacia (adults), muscle weakness, bone pain, fractures</td></tr>\n      <tr><td>25–50 nmol/L (10–20 ng/mL)</td><td>Deficiency</td><td>Reduced immunity, fatigue, depression risk, muscle weakness, impaired calcium absorption</td></tr>\n      <tr><td>50–75 nmol/L (20–30 ng/mL)</td><td>Insufficiency</td><td>Suboptimal — bone density, immune function, mood may be affected</td></tr>\n      <tr><td>75–150 nmol/L (30–60 ng/mL)</td><td>Optimal ★</td><td>Target range for most clinical benefits. Cancer prevention, immune function, cardiovascular</td></tr>\n      <tr><td>&gt;250 nmol/L (&gt;100 ng/mL)</td><td>Toxicity risk</td><td>Hypercalcaemia, hypercalciuria. Rare — requires very high supplementation (&gt;40,000 IU/day chronic)</td></tr>\n    </tbody></table>\n    <table class=\"tbl\" style=\"margin-top:10px\"><thead><tr><th>Population</th><th>Dose for Maintenance</th><th>Loading Dose (if deficient)</th></tr></thead><tbody>\n      <tr><td>General adult</td><td>2000 IU/day</td><td>50,000 IU/week × 8 weeks (prescriptive) or 4000 IU/day × 3 months</td></tr>\n      <tr><td>Dark skin / low-sun regions</td><td>3000–4000 IU/day</td><td>As above</td></tr>\n      <tr><td>Obesity (BMI &gt;30)</td><td>4000–6000 IU/day (adipose tissue sequesters Vit D)</td><td>Higher loading needed</td></tr>\n      <tr><td>Elderly (&gt;65)</td><td>4000 IU/day (skin synthesis ↓ 75% vs young)</td><td>As above</td></tr>\n      <tr><td>Pregnancy</td><td>4000 IU/day (target &gt;100 nmol/L)</td><td>As above</td></tr>\n      <tr><td>Autoimmune disease</td><td>4000–10,000 IU/day with monitoring</td><td>Under supervision — target 125–175 nmol/L (Coimbra protocol in MS, vitiligo)</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 D3 + K2 + Mg — The Triad</div><div class=\"pt\">Vitamin D3 should always be combined with: K2 (MK-7) 100–200mcg — directs calcium to bone (osteocalcin carboxylation) and arteries (matrix Gla protein activation), preventing vascular calcification from high-dose Vit D. Magnesium 300–400mg — required for Vit D activation (25-OH-D → 1,25-OH2-D requires Mg-dependent enzyme CYP27B1). Low magnesium blocks Vit D conversion — patients who take Vit D without Mg may not respond adequately. D3 without K2 at high doses can raise serum calcium and deposit it in soft tissues — always prescribe together.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mth-iron-metabolism-clinical-guide",
+      "title": "Iron Metabolism — Clinical Guide",
+      "badge": "Nutritional Biochemistry",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Parameter",
+              "Normal Range",
+              "Interpretation"
+            ],
+            "rows": [
+              [
+                "Serum ferritin",
+                "30–300 µg/L (M), 15–150 µg/L (F)",
+                "Best marker of iron stores. <30 = depletion (even without anaemia). <15 = definite deficiency. >500 = possible iron overload or inflammation (ferritin is acute phase reactant)"
+              ],
+              [
+                "Serum iron",
+                "10–30 µmol/L",
+                "Fluctuates widely during day — less useful alone"
+              ],
+              [
+                "TIBC (transferrin)",
+                "45–72 µmol/L",
+                "↑ in iron deficiency (more binding capacity). ↓ in inflammation/iron overload"
+              ],
+              [
+                "Transferrin saturation",
+                "20–50%",
+                "<16% = iron-deficient erythropoiesis. >45% = iron overload/haemochromatosis"
+              ],
+              [
+                "Hb",
+                "M: 130–170 g/L, F: 120–160 g/L",
+                "Falls LATE in iron deficiency — low Hb = severe depletion. Normal Hb does not exclude iron deficiency"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Iron Source",
+              "Type",
+              "Absorption",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "Red meat, organ meat (liver)",
+                "Haem iron",
+                "15–35% — high",
+                "Not affected by dietary inhibitors. Liver = highest iron content food"
+              ],
+              [
+                "Legumes, tofu, spinach, fortified cereals",
+                "Non-haem iron",
+                "2–20% — low, variable",
+                "Highly affected by enhancers and inhibitors"
+              ],
+              [
+                "Iron bisglycinate supplement",
+                "Chelated — highly bioavailable",
+                "~30% (2–4x better than ferrous sulphate)",
+                "Less GI side effects than sulphate. Preferred for supplementation."
+              ],
+              [
+                "Ferrous sulphate supplement",
+                "Standard",
+                "10–15%",
+                "GI side effects common (nausea, constipation). Take on empty stomach if tolerated"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Haemochromatosis — Iron Overload",
+            "text": "Hereditary haemochromatosis (HFE gene mutation — C282Y homozygous) causes progressive iron overload → liver cirrhosis, cardiomyopathy, diabetes, arthropathy, hypogonadism, bronze skin. Most common genetic disorder in people of Northern European descent (1:200). Screen with transferrin saturation (>45% → HFE gene test). Treatment: therapeutic phlebotomy 500ml every 1–2 weeks. NEVER prescribe iron supplements without checking ferritin and transferrin saturation first — giving iron to a patient with undiagnosed haemochromatosis causes serious harm."
+          }
+        ],
+        "steps": [
+          {
+            "n": 0,
+            "title": "Enhancers of Iron Absorption",
+            "text": "Vitamin C 100–200mg with iron supplement — increases absorption 2–4x (reduces Fe³⁺ to Fe²⁺). Meat factor (haem iron) — enhances non-haem iron absorption alongside. Cooking in cast-iron cookware — leaches iron into food. Acidic foods and liquids — stomach acid required for non-haem absorption."
+          },
+          {
+            "n": 0,
+            "title": "Inhibitors of Iron Absorption",
+            "text": "Phytates (whole grains, legumes) — reduce absorption 50–65%. Polyphenols/tannins (tea, coffee, red wine) — reduce 60–90% — avoid 1hr before and 2hrs after iron. Calcium — competes for same intestinal transporter — separate by 2hrs. PPIs and antacids — reduce gastric acid needed for non-haem iron conversion. Excessive zinc supplementation — competitive inhibition."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Parameter</th><th>Normal Range</th><th>Interpretation</th></tr></thead><tbody>\n      <tr><td>Serum ferritin</td><td>30–300 µg/L (M), 15–150 µg/L (F)</td><td>Best marker of iron stores. &lt;30 = depletion (even without anaemia). &lt;15 = definite deficiency. &gt;500 = possible iron overload or inflammation (ferritin is acute phase reactant)</td></tr>\n      <tr><td>Serum iron</td><td>10–30 µmol/L</td><td>Fluctuates widely during day — less useful alone</td></tr>\n      <tr><td>TIBC (transferrin)</td><td>45–72 µmol/L</td><td>↑ in iron deficiency (more binding capacity). ↓ in inflammation/iron overload</td></tr>\n      <tr><td>Transferrin saturation</td><td>20–50%</td><td>&lt;16% = iron-deficient erythropoiesis. &gt;45% = iron overload/haemochromatosis</td></tr>\n      <tr><td>Hb</td><td>M: 130–170 g/L, F: 120–160 g/L</td><td>Falls LATE in iron deficiency — low Hb = severe depletion. Normal Hb does not exclude iron deficiency</td></tr>\n    </tbody></table>\n    <table class=\"tbl\" style=\"margin-top:10px\"><thead><tr><th>Iron Source</th><th>Type</th><th>Absorption</th><th>Notes</th></tr></thead><tbody>\n      <tr><td>Red meat, organ meat (liver)</td><td>Haem iron</td><td>15–35% — high</td><td>Not affected by dietary inhibitors. Liver = highest iron content food</td></tr>\n      <tr><td>Legumes, tofu, spinach, fortified cereals</td><td>Non-haem iron</td><td>2–20% — low, variable</td><td>Highly affected by enhancers and inhibitors</td></tr>\n      <tr><td>Iron bisglycinate supplement</td><td>Chelated — highly bioavailable</td><td>~30% (2–4x better than ferrous sulphate)</td><td>Less GI side effects than sulphate. Preferred for supplementation.</td></tr>\n      <tr><td>Ferrous sulphate supplement</td><td>Standard</td><td>10–15%</td><td>GI side effects common (nausea, constipation). Take on empty stomach if tolerated</td></tr>\n    </tbody></table>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">E</div><div class=\"st\"><span class=\"sh\">Enhancers of Iron Absorption</span> Vitamin C 100–200mg with iron supplement — increases absorption 2–4x (reduces Fe³⁺ to Fe²⁺). Meat factor (haem iron) — enhances non-haem iron absorption alongside. Cooking in cast-iron cookware — leaches iron into food. Acidic foods and liquids — stomach acid required for non-haem absorption.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">I</div><div class=\"st\"><span class=\"sh\">Inhibitors of Iron Absorption</span> Phytates (whole grains, legumes) — reduce absorption 50–65%. Polyphenols/tannins (tea, coffee, red wine) — reduce 60–90% — avoid 1hr before and 2hrs after iron. Calcium — competes for same intestinal transporter — separate by 2hrs. PPIs and antacids — reduce gastric acid needed for non-haem iron conversion. Excessive zinc supplementation — competitive inhibition.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Haemochromatosis — Iron Overload</div><div class=\"pt\">Hereditary haemochromatosis (HFE gene mutation — C282Y homozygous) causes progressive iron overload → liver cirrhosis, cardiomyopathy, diabetes, arthropathy, hypogonadism, bronze skin. Most common genetic disorder in people of Northern European descent (1:200). Screen with transferrin saturation (&gt;45% → HFE gene test). Treatment: therapeutic phlebotomy 500ml every 1–2 weeks. NEVER prescribe iron supplements without checking ferritin and transferrin saturation first — giving iron to a patient with undiagnosed haemochromatosis causes serious harm.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mth-nutrient-absorption-optimising-bioavailability",
+      "title": "Nutrient Absorption — Optimising Bioavailability",
+      "badge": "Nutritional Biochemistry",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Bioavailability — What You Eat Is Not What You Absorb",
+            "text": "The gap between dietary intake and cellular uptake of nutrients is critical in naturopathic practice. Factors affecting absorption: gut health, stomach acid, food combinations, supplement form, timing, and individual genetics all profoundly influence nutrient bioavailability."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Nutrient",
+              "Best Form",
+              "Absorption Tip",
+              "Avoid With"
+            ],
+            "rows": [
+              [
+                "Iron",
+                "Bisglycinate or haem iron",
+                "Take with Vit C on empty stomach (or 30 min before meal)",
+                "Tea, coffee, calcium, antacids, PPIs"
+              ],
+              [
+                "Magnesium",
+                "Glycinate (sleep, anxiety), citrate (constipation), malate (fatigue, fibromyalgia)",
+                "Take with food to reduce GI upset. Evening for sleep benefits",
+                "Calcium (high doses compete). Separate by 2hrs"
+              ],
+              [
+                "Calcium",
+                "Citrate (better in achlorhydria/elderly), carbonate (requires acid)",
+                "Max 500mg per dose — absorption plateaus. Split doses. Take with food",
+                "Iron, zinc, high-dose Mg. Separate by 2hrs each"
+              ],
+              [
+                "Zinc",
+                "Bisglycinate, picolinate, acetate",
+                "Take on empty stomach or with small protein snack. NOT with calcium or iron",
+                "Copper (long-term zinc reduces copper — supplement Cu 2mg if zinc >30mg >3 months)"
+              ],
+              [
+                "Fat-soluble vitamins (A, D, E, K)",
+                "Softgel in oil carrier (best absorption). D3 drops in olive oil",
+                "Take with largest fat-containing meal of day",
+                "Fat malabsorption syndromes (coeliac, IBD, cystic fibrosis) — poor absorption"
+              ],
+              [
+                "B12",
+                "Methylcobalamin (active) > hydroxocobalamin > cyanocobalamin",
+                "Sublingual or IM injection bypasses intrinsic factor requirement. Oral needs intrinsic factor — ineffective in pernicious anaemia",
+                "PPIs, metformin, antacids (all reduce B12 absorption)"
+              ],
+              [
+                "Curcumin",
+                "Phytosome (Meriva), nanoparticle, or with piperine 20mg",
+                "Take with fat-containing meal + black pepper. Standard turmeric powder has <1% bioavailability",
+                "Nothing specific — focus on enhancing absorption"
+              ],
+              [
+                "CoQ10",
+                "Ubiquinol (reduced form — better absorbed, especially in elderly)",
+                "Take with fat-containing meal. Divide dose if >200mg (absorption saturates)",
+                "Statins (deplete CoQ10 — supplement is adjunct to statin therapy)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Low Stomach Acid (Hypochlorhydria) — The Hidden Epidemic",
+            "text": "Hypochlorhydria (low gastric HCl) impairs absorption of: iron, B12, calcium, zinc, folate, and protein (requires pepsin activation by acid). Common causes: PPI use (most common), H. pylori infection, atrophic gastritis (elderly), stress, zinc deficiency (zinc needed for HCl production). Signs: bloating after meals, belching, undigested food in stool, multiple nutrient deficiencies despite supplementation. Test: Betaine HCl challenge (150–500mg with protein meal — if no warmth/burning, hypochlorhydria likely). Support: apple cider vinegar 1 tbsp in water before protein meals, digestive bitters, Betaine HCl with pepsin supplements."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Bioavailability — What You Eat Is Not What You Absorb</div>The gap between dietary intake and cellular uptake of nutrients is critical in naturopathic practice. Factors affecting absorption: gut health, stomach acid, food combinations, supplement form, timing, and individual genetics all profoundly influence nutrient bioavailability.</div>\n    <table class=\"tbl\"><thead><tr><th>Nutrient</th><th>Best Form</th><th>Absorption Tip</th><th>Avoid With</th></tr></thead><tbody>\n      <tr><td>Iron</td><td>Bisglycinate or haem iron</td><td>Take with Vit C on empty stomach (or 30 min before meal)</td><td>Tea, coffee, calcium, antacids, PPIs</td></tr>\n      <tr><td>Magnesium</td><td>Glycinate (sleep, anxiety), citrate (constipation), malate (fatigue, fibromyalgia)</td><td>Take with food to reduce GI upset. Evening for sleep benefits</td><td>Calcium (high doses compete). Separate by 2hrs</td></tr>\n      <tr><td>Calcium</td><td>Citrate (better in achlorhydria/elderly), carbonate (requires acid)</td><td>Max 500mg per dose — absorption plateaus. Split doses. Take with food</td><td>Iron, zinc, high-dose Mg. Separate by 2hrs each</td></tr>\n      <tr><td>Zinc</td><td>Bisglycinate, picolinate, acetate</td><td>Take on empty stomach or with small protein snack. NOT with calcium or iron</td><td>Copper (long-term zinc reduces copper — supplement Cu 2mg if zinc &gt;30mg &gt;3 months)</td></tr>\n      <tr><td>Fat-soluble vitamins (A, D, E, K)</td><td>Softgel in oil carrier (best absorption). D3 drops in olive oil</td><td>Take with largest fat-containing meal of day</td><td>Fat malabsorption syndromes (coeliac, IBD, cystic fibrosis) — poor absorption</td></tr>\n      <tr><td>B12</td><td>Methylcobalamin (active) &gt; hydroxocobalamin &gt; cyanocobalamin</td><td>Sublingual or IM injection bypasses intrinsic factor requirement. Oral needs intrinsic factor — ineffective in pernicious anaemia</td><td>PPIs, metformin, antacids (all reduce B12 absorption)</td></tr>\n      <tr><td>Curcumin</td><td>Phytosome (Meriva), nanoparticle, or with piperine 20mg</td><td>Take with fat-containing meal + black pepper. Standard turmeric powder has &lt;1% bioavailability</td><td>Nothing specific — focus on enhancing absorption</td></tr>\n      <tr><td>CoQ10</td><td>Ubiquinol (reduced form — better absorbed, especially in elderly)</td><td>Take with fat-containing meal. Divide dose if &gt;200mg (absorption saturates)</td><td>Statins (deplete CoQ10 — supplement is adjunct to statin therapy)</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Low Stomach Acid (Hypochlorhydria) — The Hidden Epidemic</div><div class=\"pt\">Hypochlorhydria (low gastric HCl) impairs absorption of: iron, B12, calcium, zinc, folate, and protein (requires pepsin activation by acid). Common causes: PPI use (most common), H. pylori infection, atrophic gastritis (elderly), stress, zinc deficiency (zinc needed for HCl production). Signs: bloating after meals, belching, undigested food in stool, multiple nutrient deficiencies despite supplementation. Test: Betaine HCl challenge (150–500mg with protein meal — if no warmth/burning, hypochlorhydria likely). Support: apple cider vinegar 1 tbsp in water before protein meals, digestive bitters, Betaine HCl with pepsin supplements.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mth-b-vitamins-complete-clinical-guide",
+      "title": "B Vitamins — Complete Clinical Guide",
+      "badge": "Essential ★",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Vitamin",
+              "Key Function",
+              "Deficiency Signs",
+              "Clinical Protocol"
+            ],
+            "rows": [
+              [
+                "B1 (Thiamine)",
+                "Pyruvate dehydrogenase cofactor — glucose → energy. Nerve membrane maintenance.",
+                "Wet beriberi (cardiac, oedema). Dry beriberi (peripheral neuropathy). Wernicke's encephalopathy (alcoholics) — MEDICAL EMERGENCY: confusion + ophthalmoplegia + ataxia.",
+                "Wernicke's: IV thiamine 500mg TID × 3 days BEFORE glucose (giving glucose first precipitates Wernicke's in deficient patients). Maintenance: 50–100mg/day. High-risk: alcoholics, bariatric surgery, anorexia."
+              ],
+              [
+                "B2 (Riboflavin)",
+                "FAD/FMN cofactor — electron transport. Activates B6, folate, B12. Antioxidant (glutathione reductase).",
+                "Angular cheilitis, magenta tongue, photophobia, seborrhoea, normocytic anaemia. Worsens with oral contraceptives (common depletion).",
+                "Migraine prophylaxis ★★★ 400mg/day — mitochondrial energy enhancement. Maintenance: 10–50mg. Food: eggs, liver, dairy, almonds."
+              ],
+              [
+                "B3 (Niacin/Niacinamide)",
+                "NAD+/NADP+ (central metabolism). Niacin: vasodilation, lipids. Niacinamide: DNA repair, longevity (NAD+ precursor), skin barrier.",
+                "Pellagra: 4 Ds — Dermatitis (sun-exposed), Diarrhoea, Dementia, Death. Common in: corn-dependent diets, alcoholism, Hartnup disease.",
+                "Niacin (flush): lipids — 1–3g/day (cardiovascular). Niacinamide (no-flush): acne 4–5% topical ★★★, anxiety 500–1000mg, NAD+ support (combined with NR). Tryptophan → niacin (60:1 ratio — 60mg tryptophan = 1mg niacin)."
+              ],
+              [
+                "B5 (Pantothenic acid)",
+                "Coenzyme A synthesis — fatty acid metabolism, steroid hormone synthesis, acetylcholine. \"Anti-stress vitamin\" — adrenal support.",
+                "Burning feet syndrome. Deficiency rare — found in most foods. Seen in: severe malnutrition, alcoholism, some anti-HIV drugs.",
+                "HPA axis support: 500mg BD. Adrenal recovery protocol. Wound healing (topical dexpanthenol — Bepanthen). Acne: pantothenic acid 10g/day in some protocols (large dose)."
+              ],
+              [
+                "B6 (Pyridoxine → P5P)",
+                "Amino acid metabolism, neurotransmitter synthesis (serotonin, dopamine, GABA, histamine). PLP (active P5P form) essential for 100+ enzymes.",
+                "Depression, peripheral neuropathy (painful), glossitis, dermatitis, microcytic anaemia. Depleted by: OCP ★★★, isoniazid, penicillamine, theophylline.",
+                "OCP-related depression/PMS: P5P 25–50mg BD ★★★. Morning sickness in pregnancy: B6 25mg TID ★★★ (first-line WHO recommendation). Neurotransmitter support: P5P (active form — superior to pyridoxine). Toxicity: >200mg/day long-term → peripheral neuropathy (paradoxically). Use P5P not pyridoxine for chronic use."
+              ],
+              [
+                "B7 (Biotin)",
+                "Carboxylase cofactor — fatty acid synthesis, gluconeogenesis. Gene expression regulation. Keratin production.",
+                "Hair thinning (most common presenting complaint — though biotin deficiency is overdiagnosed). Brittle nails, seborrhoeic dermatitis, conjunctivitis.",
+                "Hair/nail: 2.5–5mg/day. Note: biotin supplementation falsely elevates thyroid tests and troponin on immunoassay — advise patients to stop biotin 48–72hrs before blood tests. Raw egg whites contain avidin which binds biotin (cooking destroys avidin)."
+              ],
+              [
+                "B9 (Folate/Methylfolate)",
+                "1-carbon metabolism, DNA synthesis, methylation. Neural tube development. Homocysteine remethylation.",
+                "Megaloblastic anaemia. Neural tube defects (maternal deficiency → spina bifida). Elevated homocysteine. Depression.",
+                "Pregnancy prevention: 400–800mcg methylfolate (NOT folic acid in MTHFR — see below). Megaloblastic anaemia: 5mg/day AFTER confirming B12 adequate. MTHFR C677T/A1298C: use L-methylfolate (5-MTHF) not folic acid."
+              ],
+              [
+                "B12 (Cobalamin)",
+                "Myelin synthesis (methylcobalamin). DNA synthesis (adenosylcobalamin). Methylation cycle.",
+                "Megaloblastic anaemia, subacute combined degeneration of cord (posterior columns + lateral), peripheral neuropathy, depression, cognitive decline. Serum B12 lab range is too low (>150 pmol/L) — functional deficiency at 150–300 pmol/L.",
+                "Methylcobalamin preferred (over cyanocobalamin — active form, no cyanide metabolite). Oral: 1000mcg/day. IM hydroxycobalamin: monthly if severe deficiency or absorption failure (atrophic gastritis, gastrectomy, Crohn's, metformin use)."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Vitamin</th><th>Key Function</th><th>Deficiency Signs</th><th>Clinical Protocol</th></tr></thead><tbody>\n      <tr><td><strong>B1 (Thiamine)</strong></td><td>Pyruvate dehydrogenase cofactor — glucose → energy. Nerve membrane maintenance.</td><td>Wet beriberi (cardiac, oedema). Dry beriberi (peripheral neuropathy). Wernicke's encephalopathy (alcoholics) — MEDICAL EMERGENCY: confusion + ophthalmoplegia + ataxia.</td><td>Wernicke's: IV thiamine 500mg TID × 3 days BEFORE glucose (giving glucose first precipitates Wernicke's in deficient patients). Maintenance: 50–100mg/day. High-risk: alcoholics, bariatric surgery, anorexia.</td></tr>\n      <tr><td><strong>B2 (Riboflavin)</strong></td><td>FAD/FMN cofactor — electron transport. Activates B6, folate, B12. Antioxidant (glutathione reductase).</td><td>Angular cheilitis, magenta tongue, photophobia, seborrhoea, normocytic anaemia. Worsens with oral contraceptives (common depletion).</td><td>Migraine prophylaxis ★★★ 400mg/day — mitochondrial energy enhancement. Maintenance: 10–50mg. Food: eggs, liver, dairy, almonds.</td></tr>\n      <tr><td><strong>B3 (Niacin/Niacinamide)</strong></td><td>NAD+/NADP+ (central metabolism). Niacin: vasodilation, lipids. Niacinamide: DNA repair, longevity (NAD+ precursor), skin barrier.</td><td>Pellagra: 4 Ds — Dermatitis (sun-exposed), Diarrhoea, Dementia, Death. Common in: corn-dependent diets, alcoholism, Hartnup disease.</td><td>Niacin (flush): lipids — 1–3g/day (cardiovascular). Niacinamide (no-flush): acne 4–5% topical ★★★, anxiety 500–1000mg, NAD+ support (combined with NR). Tryptophan → niacin (60:1 ratio — 60mg tryptophan = 1mg niacin).</td></tr>\n      <tr><td><strong>B5 (Pantothenic acid)</strong></td><td>Coenzyme A synthesis — fatty acid metabolism, steroid hormone synthesis, acetylcholine. \"Anti-stress vitamin\" — adrenal support.</td><td>Burning feet syndrome. Deficiency rare — found in most foods. Seen in: severe malnutrition, alcoholism, some anti-HIV drugs.</td><td>HPA axis support: 500mg BD. Adrenal recovery protocol. Wound healing (topical dexpanthenol — Bepanthen). Acne: pantothenic acid 10g/day in some protocols (large dose).</td></tr>\n      <tr><td><strong>B6 (Pyridoxine → P5P)</strong></td><td>Amino acid metabolism, neurotransmitter synthesis (serotonin, dopamine, GABA, histamine). PLP (active P5P form) essential for 100+ enzymes.</td><td>Depression, peripheral neuropathy (painful), glossitis, dermatitis, microcytic anaemia. Depleted by: OCP ★★★, isoniazid, penicillamine, theophylline.</td><td>OCP-related depression/PMS: P5P 25–50mg BD ★★★. Morning sickness in pregnancy: B6 25mg TID ★★★ (first-line WHO recommendation). Neurotransmitter support: P5P (active form — superior to pyridoxine). Toxicity: &gt;200mg/day long-term → peripheral neuropathy (paradoxically). Use P5P not pyridoxine for chronic use.</td></tr>\n      <tr><td><strong>B7 (Biotin)</strong></td><td>Carboxylase cofactor — fatty acid synthesis, gluconeogenesis. Gene expression regulation. Keratin production.</td><td>Hair thinning (most common presenting complaint — though biotin deficiency is overdiagnosed). Brittle nails, seborrhoeic dermatitis, conjunctivitis.</td><td>Hair/nail: 2.5–5mg/day. Note: biotin supplementation falsely elevates thyroid tests and troponin on immunoassay — advise patients to stop biotin 48–72hrs before blood tests. Raw egg whites contain avidin which binds biotin (cooking destroys avidin).</td></tr>\n      <tr><td><strong>B9 (Folate/Methylfolate)</strong></td><td>1-carbon metabolism, DNA synthesis, methylation. Neural tube development. Homocysteine remethylation.</td><td>Megaloblastic anaemia. Neural tube defects (maternal deficiency → spina bifida). Elevated homocysteine. Depression.</td><td>Pregnancy prevention: 400–800mcg methylfolate (NOT folic acid in MTHFR — see below). Megaloblastic anaemia: 5mg/day AFTER confirming B12 adequate. MTHFR C677T/A1298C: use L-methylfolate (5-MTHF) not folic acid.</td></tr>\n      <tr><td><strong>B12 (Cobalamin)</strong></td><td>Myelin synthesis (methylcobalamin). DNA synthesis (adenosylcobalamin). Methylation cycle.</td><td>Megaloblastic anaemia, subacute combined degeneration of cord (posterior columns + lateral), peripheral neuropathy, depression, cognitive decline. Serum B12 lab range is too low (&gt;150 pmol/L) — functional deficiency at 150–300 pmol/L.</td><td>Methylcobalamin preferred (over cyanocobalamin — active form, no cyanide metabolite). Oral: 1000mcg/day. IM hydroxycobalamin: monthly if severe deficiency or absorption failure (atrophic gastritis, gastrectomy, Crohn's, metformin use).</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mth-genomic-nutrition-mthfr-variants",
+      "title": "Genomic Nutrition — MTHFR & Variants",
+      "badge": "Functional",
+      "category": "mth",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Nutrigenomics — Personalised Nutrition Based on Genetics",
+            "text": "Individual genetic variants (SNPs — single nucleotide polymorphisms) alter nutrient metabolism, requirements, and risk of deficiency-related disease. MTHFR is the most clinically actionable example — but other variants (COMT, APOE, VDR, BCMO1) are increasingly relevant in naturopathic practice."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Gene/Variant",
+              "Enzyme/Protein",
+              "Effect",
+              "Clinical Implication"
+            ],
+            "rows": [
+              [
+                "MTHFR C677T",
+                "Methylenetetrahydrofolate reductase — converts folic acid to 5-MTHF (active methylfolate)",
+                "Homozygous (TT): enzyme activity ↓ 70%. Heterozygous (CT): ↓ 40%. High homocysteine if folate/B12/B6 insufficient.",
+                "Use L-methylfolate (5-MTHF) — NOT folic acid (cannot convert). B12 methylcobalamin. Riboflavin (B2 is MTHFR enzyme cofactor). Check homocysteine. Affects: cardiovascular risk, NTD risk, depression, recurrent miscarriage, treatment-resistant depression."
+              ],
+              [
+                "MTHFR A1298C",
+                "Same enzyme — different site",
+                "Less severe effect than C677T alone. Compound heterozygous (C677T + A1298C): significant impairment.",
+                "Same approach as C677T. Compound heterozygotes: more aggressive methylfolate protocol. May need B2 co-factor supplementation."
+              ],
+              [
+                "COMT (Val158Met)",
+                "Catechol-O-methyltransferase — degrades catecholamines (dopamine, adrenaline, noradrenaline) and oestrogen metabolites",
+                "Val/Val (fast COMT): rapid catecholamine breakdown → less anxious, lower oestrogen metabolites. Met/Met (slow COMT): slow breakdown → higher dopamine (better working memory but higher anxiety), elevated 4-OH oestrogen (breast cancer risk).",
+                "Slow COMT + high oestrogen: DIM 200mg, calcium D-glucarate, Vit B2 (COMT requires SAMe and B2 as cofactors). High dopamine from slow COMT: may explain caffeine sensitivity, stress reactivity. Avoid: catechol-rich herbs (green tea, quercetin in excess) in slow COMT."
+              ],
+              [
+                "APOE (ε4 variant)",
+                "Apolipoprotein E — lipid transport, neuronal repair, amyloid clearance",
+                "APOE4: 1 copy = 3× Alzheimer's risk. 2 copies = 12× risk. Also: ↑ LDL, ↑ cardiovascular risk, ↑ omega-3 requirements (needs more DHA for neurological benefit)",
+                "APOE4 carriers: DHA 3g/day (brain protection — APOE4 impairs DHA transport to brain). Curcumin 2g/day (amyloid-clearing). Fasting (ketone bodies bypass impaired glucose metabolism). Avoid: excessive saturated fat (↑ LDL dramatically in APOE4). Ketogenic diet benefit controversial in APOE4."
+              ],
+              [
+                "VDR (Vitamin D Receptor)",
+                "Vit D receptor — determines responsiveness to Vit D",
+                "Multiple VDR variants (FokI, BsmI, TaqI, ApaI). Some variants: ↓ receptor affinity → higher Vit D doses needed for same response. VDR variants associated with: Hashimoto's, MS, T1DM, some cancers.",
+                "Patients with VDR variants may need 5000–10,000 IU Vit D to achieve adequate 25(OH)D levels. Test 25(OH)D and titrate by blood level — not by dose alone."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 MTHFR Testing — Practical Guidance",
+            "text": "MTHFR testing: available through NivoFit, HealthifyMe, SRL Diagnostics, and direct-to-consumer services in India. Cost: ₹2000–5000. More meaningful than testing: serum homocysteine (functional marker of methylation pathway efficiency — target <9 µmol/L). Elevated homocysteine + unexplained cardiovascular risk + depression + recurrent miscarriage + treatment-resistant depression = MTHFR testing and methylation protocol beneficial. Patient communication: \"Your body needs a pre-activated form of folate — it's like your body's GPS needing the right format of map.\" Avoid catastrophising — MTHFR is a SNP, not a disease. With appropriate supplementation, outcomes are excellent."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Nutrigenomics — Personalised Nutrition Based on Genetics</div>Individual genetic variants (SNPs — single nucleotide polymorphisms) alter nutrient metabolism, requirements, and risk of deficiency-related disease. MTHFR is the most clinically actionable example — but other variants (COMT, APOE, VDR, BCMO1) are increasingly relevant in naturopathic practice.</div>\n    <table class=\"tbl\"><thead><tr><th>Gene/Variant</th><th>Enzyme/Protein</th><th>Effect</th><th>Clinical Implication</th></tr></thead><tbody>\n      <tr><td><strong>MTHFR C677T</strong></td><td>Methylenetetrahydrofolate reductase — converts folic acid to 5-MTHF (active methylfolate)</td><td>Homozygous (TT): enzyme activity ↓ 70%. Heterozygous (CT): ↓ 40%. High homocysteine if folate/B12/B6 insufficient.</td><td>Use L-methylfolate (5-MTHF) — NOT folic acid (cannot convert). B12 methylcobalamin. Riboflavin (B2 is MTHFR enzyme cofactor). Check homocysteine. Affects: cardiovascular risk, NTD risk, depression, recurrent miscarriage, treatment-resistant depression.</td></tr>\n      <tr><td><strong>MTHFR A1298C</strong></td><td>Same enzyme — different site</td><td>Less severe effect than C677T alone. Compound heterozygous (C677T + A1298C): significant impairment.</td><td>Same approach as C677T. Compound heterozygotes: more aggressive methylfolate protocol. May need B2 co-factor supplementation.</td></tr>\n      <tr><td><strong>COMT (Val158Met)</strong></td><td>Catechol-O-methyltransferase — degrades catecholamines (dopamine, adrenaline, noradrenaline) and oestrogen metabolites</td><td>Val/Val (fast COMT): rapid catecholamine breakdown → less anxious, lower oestrogen metabolites. Met/Met (slow COMT): slow breakdown → higher dopamine (better working memory but higher anxiety), elevated 4-OH oestrogen (breast cancer risk).</td><td>Slow COMT + high oestrogen: DIM 200mg, calcium D-glucarate, Vit B2 (COMT requires SAMe and B2 as cofactors). High dopamine from slow COMT: may explain caffeine sensitivity, stress reactivity. Avoid: catechol-rich herbs (green tea, quercetin in excess) in slow COMT.</td></tr>\n      <tr><td><strong>APOE (ε4 variant)</strong></td><td>Apolipoprotein E — lipid transport, neuronal repair, amyloid clearance</td><td>APOE4: 1 copy = 3× Alzheimer's risk. 2 copies = 12× risk. Also: ↑ LDL, ↑ cardiovascular risk, ↑ omega-3 requirements (needs more DHA for neurological benefit)</td><td>APOE4 carriers: DHA 3g/day (brain protection — APOE4 impairs DHA transport to brain). Curcumin 2g/day (amyloid-clearing). Fasting (ketone bodies bypass impaired glucose metabolism). Avoid: excessive saturated fat (↑ LDL dramatically in APOE4). Ketogenic diet benefit controversial in APOE4.</td></tr>\n      <tr><td><strong>VDR (Vitamin D Receptor)</strong></td><td>Vit D receptor — determines responsiveness to Vit D</td><td>Multiple VDR variants (FokI, BsmI, TaqI, ApaI). Some variants: ↓ receptor affinity → higher Vit D doses needed for same response. VDR variants associated with: Hashimoto's, MS, T1DM, some cancers.</td><td>Patients with VDR variants may need 5000–10,000 IU Vit D to achieve adequate 25(OH)D levels. Test 25(OH)D and titrate by blood level — not by dose alone.</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 MTHFR Testing — Practical Guidance</div><div class=\"pt\">MTHFR testing: available through NivoFit, HealthifyMe, SRL Diagnostics, and direct-to-consumer services in India. Cost: ₹2000–5000. More meaningful than testing: serum homocysteine (functional marker of methylation pathway efficiency — target &lt;9 µmol/L). Elevated homocysteine + unexplained cardiovascular risk + depression + recurrent miscarriage + treatment-resistant depression = MTHFR testing and methylation protocol beneficial. Patient communication: \"Your body needs a pre-activated form of folate — it's like your body's GPS needing the right format of map.\" Avoid catastrophising — MTHFR is a SNP, not a disease. With appropriate supplementation, outcomes are excellent.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-path-methylation-cycle-clinical-overview",
+      "title": "Methylation Cycle — Clinical Overview",
+      "badge": "Foundation",
+      "category": "path",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Why methylation matters",
+            "text": "Methylation occurs 1 billion times per second in every cell. It controls: DNA repair, gene expression (epigenetics), neurotransmitter synthesis and degradation, detoxification (Phase II), oestrogen metabolism, immune regulation, and myelin formation."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Key Reaction",
+              "Enzyme",
+              "Nutrient Cofactors",
+              "If blocked"
+            ],
+            "rows": [
+              [
+                "Homocysteine → Methionine",
+                "MTHFR (C677T, A1298C)",
+                "5-MTHF (active folate), B12 (methylcobalamin)",
+                "↑ homocysteine → CVD, neurological"
+              ],
+              [
+                "SAM → SAH",
+                "Multiple methyltransferases",
+                "Magnesium, SAM-e",
+                "↓ methylation of DNA, neurotransmitters"
+              ],
+              [
+                "Homocysteine → Cysteine",
+                "CBS (transsulphuration)",
+                "B6 (P5P), serine",
+                "↑ homocysteine, ↓ glutathione"
+              ],
+              [
+                "BH4 recycling",
+                "DHFR",
+                "Riboflavin (B2)",
+                "↓ dopamine, serotonin, NO synthesis"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 MTHFR polymorphism — practical guide",
+            "text": "MTHFR C677T homozygous (TT) = 70% reduced enzyme activity. Present in 10% of population. NOT a disease — a polymorphism requiring adequate cofactors. Management: 5-methyltetrahydrofolate (5-MTHF, NOT folic acid), methylcobalamin (B12), B2, B6. Check: serum homocysteine (target <10 µmol/L), RBC folate, active B12. Avoid high-dose folic acid — can paradoxically worsen methylation by blocking MTHFR competitively."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-blu\"><div class=\"a-label\">Why methylation matters</div>Methylation occurs 1 billion times per second in every cell. It controls: DNA repair, gene expression (epigenetics), neurotransmitter synthesis and degradation, detoxification (Phase II), oestrogen metabolism, immune regulation, and myelin formation.</div>\n    <table class=\"tbl\"><thead><tr><th>Key Reaction</th><th>Enzyme</th><th>Nutrient Cofactors</th><th>If blocked</th></tr></thead><tbody>\n      <tr><td>Homocysteine → Methionine</td><td>MTHFR (C677T, A1298C)</td><td>5-MTHF (active folate), B12 (methylcobalamin)</td><td>↑ homocysteine → CVD, neurological</td></tr>\n      <tr><td>SAM → SAH</td><td>Multiple methyltransferases</td><td>Magnesium, SAM-e</td><td>↓ methylation of DNA, neurotransmitters</td></tr>\n      <tr><td>Homocysteine → Cysteine</td><td>CBS (transsulphuration)</td><td>B6 (P5P), serine</td><td>↑ homocysteine, ↓ glutathione</td></tr>\n      <tr><td>BH4 recycling</td><td>DHFR</td><td>Riboflavin (B2)</td><td>↓ dopamine, serotonin, NO synthesis</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 MTHFR polymorphism — practical guide</div><div class=\"pt\">MTHFR C677T homozygous (TT) = 70% reduced enzyme activity. Present in 10% of population. NOT a disease — a polymorphism requiring adequate cofactors. Management: 5-methyltetrahydrofolate (5-MTHF, NOT folic acid), methylcobalamin (B12), B2, B6. Check: serum homocysteine (target &lt;10 µmol/L), RBC folate, active B12. Avoid high-dose folic acid — can paradoxically worsen methylation by blocking MTHFR competitively.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-path-homocysteine-interpretation-management",
+      "title": "Homocysteine — Interpretation & Management",
+      "badge": "Key Marker",
+      "category": "path",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Homocysteine Level",
+              "Risk",
+              "Action"
+            ],
+            "rows": [
+              [
+                "<10 µmol/L",
+                "Optimal",
+                "Maintain — adequate methylation nutrients"
+              ],
+              [
+                "10–15 µmol/L",
+                "Borderline — ↑ CVD risk begins",
+                "5-MTHF 400–800µg, methylB12 1000µg, B6 50mg"
+              ],
+              [
+                "15–30 µmol/L",
+                "Moderate — 2× CVD, dementia risk",
+                "Higher doses: 5-MTHF 1–5mg, methylB12 2–5mg, P5P 100mg, betaine 2g"
+              ],
+              [
+                ">30 µmol/L",
+                "Severe — vascular/thrombotic risk",
+                "Medical review + above + investigate CBS deficiency"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Betaine — the backup methylator",
+            "text": "Trimethylglycine (betaine, from beetroot) provides an alternative methylation pathway that does NOT require MTHFR. 2–6g/day lowers homocysteine by 10–20% independently of B-vitamins. Especially useful when MTHFR is highly impaired. Found naturally in: beetroot ★, spinach, quinoa, wheat germ."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"nv-grid\">\n      <div class=\"nv-card\"><div class=\"nv-label\">Optimal</div><div class=\"nv-val\">&lt;7 µmol/L</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">Normal (lab)</div><div class=\"nv-val\">5–15 µmol/L</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">Moderate elevation</div><div class=\"nv-val\">15–30 µmol/L</div></div>\n      <div class=\"nv-card\"><div class=\"nv-label\">Severe</div><div class=\"nv-val\">&gt;30 µmol/L</div></div>\n    </div>\n    <table class=\"tbl\"><thead><tr><th>Homocysteine Level</th><th>Risk</th><th>Action</th></tr></thead><tbody>\n      <tr><td>&lt;10 µmol/L</td><td>Optimal</td><td>Maintain — adequate methylation nutrients</td></tr>\n      <tr><td>10–15 µmol/L</td><td>Borderline — ↑ CVD risk begins</td><td>5-MTHF 400–800µg, methylB12 1000µg, B6 50mg</td></tr>\n      <tr><td>15–30 µmol/L</td><td>Moderate — 2× CVD, dementia risk</td><td>Higher doses: 5-MTHF 1–5mg, methylB12 2–5mg, P5P 100mg, betaine 2g</td></tr>\n      <tr><td>&gt;30 µmol/L</td><td>Severe — vascular/thrombotic risk</td><td>Medical review + above + investigate CBS deficiency</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Betaine — the backup methylator</div><div class=\"pt\">Trimethylglycine (betaine, from beetroot) provides an alternative methylation pathway that does NOT require MTHFR. 2–6g/day lowers homocysteine by 10–20% independently of B-vitamins. Especially useful when MTHFR is highly impaired. Found naturally in: beetroot ★, spinach, quinoa, wheat germ.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-path-oxidative-stress-antioxidant-pathways",
+      "title": "Oxidative Stress & Antioxidant Pathways",
+      "badge": "Systems",
+      "category": "path",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Antioxidant",
+              "Source",
+              "Mechanism",
+              "Clinical use"
+            ],
+            "rows": [
+              [
+                "Glutathione (GSH)",
+                "Endogenous; NAC precursor; liposomal GSH supp.",
+                "Master antioxidant, Phase II detox, regenerates other antioxidants",
+                "Liver disease, detox, heavy metals, NAC for paracetamol toxicity"
+              ],
+              [
+                "Nrf2 pathway",
+                "Activated by: sulforaphane, curcumin, resveratrol",
+                "Transcription factor → 200+ antioxidant/detox genes",
+                "Cancer prevention, neurodegeneration, autoimmune"
+              ],
+              [
+                "SOD (Superoxide dismutase)",
+                "Manganese, copper, zinc",
+                "O₂⁻ → H₂O₂",
+                "↑ with Mn, Cu, Zn repletion"
+              ],
+              [
+                "Catalase",
+                "Iron, haem",
+                "H₂O₂ → H₂O + O₂",
+                "Iron optimisation; selenium supports"
+              ],
+              [
+                "CoQ10",
+                "Endogenous; reduced with statins, ageing",
+                "Mitochondrial electron transport, lipid peroxidation prevention",
+                "Statins (mandatory replacement), HF, migraine prevention, fertility"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Sulforaphane — most potent Nrf2 activator",
+            "text": "Sulforaphane from broccoli sprouts activates Nrf2 → turns on 200+ cytoprotective genes for 72 hours from a single dose. 3-day-old broccoli sprouts contain 20–50× more sulforaphane than mature broccoli. Daily 50g sprouts = clinical dose. Myrosinase enzyme (from mustard, horseradish, or light steaming then cooling) converts glucoraphanin → sulforaphane — raw sprouts + mustard seed = optimal delivery."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Antioxidant</th><th>Source</th><th>Mechanism</th><th>Clinical use</th></tr></thead><tbody>\n      <tr><td>Glutathione (GSH)</td><td>Endogenous; NAC precursor; liposomal GSH supp.</td><td>Master antioxidant, Phase II detox, regenerates other antioxidants</td><td>Liver disease, detox, heavy metals, NAC for paracetamol toxicity</td></tr>\n      <tr><td>Nrf2 pathway</td><td>Activated by: sulforaphane, curcumin, resveratrol</td><td>Transcription factor → 200+ antioxidant/detox genes</td><td>Cancer prevention, neurodegeneration, autoimmune</td></tr>\n      <tr><td>SOD (Superoxide dismutase)</td><td>Manganese, copper, zinc</td><td>O₂⁻ → H₂O₂</td><td>↑ with Mn, Cu, Zn repletion</td></tr>\n      <tr><td>Catalase</td><td>Iron, haem</td><td>H₂O₂ → H₂O + O₂</td><td>Iron optimisation; selenium supports</td></tr>\n      <tr><td>CoQ10</td><td>Endogenous; reduced with statins, ageing</td><td>Mitochondrial electron transport, lipid peroxidation prevention</td><td>Statins (mandatory replacement), HF, migraine prevention, fertility</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Sulforaphane — most potent Nrf2 activator</div><div class=\"pt\">Sulforaphane from broccoli sprouts activates Nrf2 → turns on 200+ cytoprotective genes for 72 hours from a single dose. 3-day-old broccoli sprouts contain 20–50× more sulforaphane than mature broccoli. Daily 50g sprouts = clinical dose. Myrosinase enzyme (from mustard, horseradish, or light steaming then cooling) converts glucoraphanin → sulforaphane — raw sprouts + mustard seed = optimal delivery.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-path-mitochondrial-health-clinical-assessment-support",
+      "title": "Mitochondrial Health — Clinical Assessment & Support",
+      "badge": "Functional",
+      "category": "path",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Mitochondrial Dysfunction — The Root of Fatigue",
+            "text": "Mitochondria produce 95% of cellular ATP. Mitochondrial dysfunction underlies: chronic fatigue syndrome, fibromyalgia, ageing, neurodegeneration, metabolic syndrome, and many chronic diseases. Unlike acute disease, mitochondrial dysfunction is subtle, pervasive, and highly responsive to nutritional intervention."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Marker",
+              "Assessment",
+              "Optimal"
+            ],
+            "rows": [
+              [
+                "Lactate:pyruvate ratio",
+                "Elevated in mitochondrial dysfunction — impaired oxidative phosphorylation",
+                "<20. Elevated >20 suggests mitchondrial ETC impairment."
+              ],
+              [
+                "Organic acids (urine)",
+                "Krebs cycle intermediates elevated: citrate, isocitrate, succinate, fumarate, malate — indicates bottlenecks in TCA cycle",
+                "Specialist lab. Genova Diagnostics, Great Plains Laboratory."
+              ],
+              [
+                "CoQ10 (plasma)",
+                "Ubiquinol form preferred. Low in: statin use, ageing, heart failure, CFS",
+                ">0.8 µg/mL. Supplement to >2.5 µg/mL in clinical conditions."
+              ],
+              [
+                "Cardiolipin antibodies",
+                "Mitochondrial membrane-specific phospholipid — antibodies indicate mitochondrial damage",
+                "Negative. Elevated in: CFS, autoimmune, post-viral syndromes."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Mitochondrial Support Protocol",
+            "text": "CoQ10 ubiquinol 200–400mg/day ★★★ (most evidence-based mitochondrial supplement — active reduced form, superior to ubiquinone in compromised patients). PQQ (pyrroloquinoline quinone) 20mg/day ★★ (stimulates mitochondrial biogenesis — new mitochondria, not just function). NAD+ precursors: NR (nicotinamide riboside) or NMN 250–500mg/day ★★★ (NAD+ declines 50% by age 60 — essential for ETC complex I). L-Carnitine or Acetyl-L-carnitine 1–2g/day ★★★ (shuttles fatty acids into mitochondria for beta-oxidation). R-Alpha lipoic acid 300–600mg/day ★★★ (TCA cofactor + antioxidant + regenerates CoQ10/E/C). Magnesium malate 400mg ★★★ (malate = TCA intermediate, Mg cofactor for ATP synthase)."
+          },
+          {
+            "n": 2,
+            "title": "Lifestyle Mitochondrial Biogenesis",
+            "text": "Exercise ★★★ — single most powerful mitochondrial biogenesis stimulus (PGC-1α activation). Zone 2 aerobic (150 min/week) + HIIT 2×/week. Fasting ★★★ — AMPK activation triggers mitophagy (clearing damaged mitochondria) + biogenesis. Cold exposure ★★ — cold thermogenesis activates UCP1 + PGC-1α (cold showers, cryotherapy). Ketogenic diet ★★ (ketones = cleaner mitochondrial fuel than glucose — less ROS per ATP generated). Sleep ★★★ — mitochondrial repair and biogenesis predominantly occur in deep sleep."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Mitochondrial Dysfunction — The Root of Fatigue</div>Mitochondria produce 95% of cellular ATP. Mitochondrial dysfunction underlies: chronic fatigue syndrome, fibromyalgia, ageing, neurodegeneration, metabolic syndrome, and many chronic diseases. Unlike acute disease, mitochondrial dysfunction is subtle, pervasive, and highly responsive to nutritional intervention.</div><table class=\"tbl\"><thead><tr><th>Marker</th><th>Assessment</th><th>Optimal</th></tr></thead><tbody><tr><td>Lactate:pyruvate ratio</td><td>Elevated in mitochondrial dysfunction — impaired oxidative phosphorylation</td><td>&lt;20. Elevated &gt;20 suggests mitchondrial ETC impairment.</td></tr><tr><td>Organic acids (urine)</td><td>Krebs cycle intermediates elevated: citrate, isocitrate, succinate, fumarate, malate — indicates bottlenecks in TCA cycle</td><td>Specialist lab. Genova Diagnostics, Great Plains Laboratory.</td></tr><tr><td>CoQ10 (plasma)</td><td>Ubiquinol form preferred. Low in: statin use, ageing, heart failure, CFS</td><td>&gt;0.8 µg/mL. Supplement to &gt;2.5 µg/mL in clinical conditions.</td></tr><tr><td>Cardiolipin antibodies</td><td>Mitochondrial membrane-specific phospholipid — antibodies indicate mitochondrial damage</td><td>Negative. Elevated in: CFS, autoimmune, post-viral syndromes.</td></tr></tbody></table><div class=\"steps\"><div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">1</div><div class=\"st\"><span class=\"sh\">Mitochondrial Support Protocol</span>CoQ10 ubiquinol 200–400mg/day ★★★ (most evidence-based mitochondrial supplement — active reduced form, superior to ubiquinone in compromised patients). PQQ (pyrroloquinoline quinone) 20mg/day ★★ (stimulates mitochondrial biogenesis — new mitochondria, not just function). NAD+ precursors: NR (nicotinamide riboside) or NMN 250–500mg/day ★★★ (NAD+ declines 50% by age 60 — essential for ETC complex I). L-Carnitine or Acetyl-L-carnitine 1–2g/day ★★★ (shuttles fatty acids into mitochondria for beta-oxidation). R-Alpha lipoic acid 300–600mg/day ★★★ (TCA cofactor + antioxidant + regenerates CoQ10/E/C). Magnesium malate 400mg ★★★ (malate = TCA intermediate, Mg cofactor for ATP synthase).</div></div><div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">2</div><div class=\"st\"><span class=\"sh\">Lifestyle Mitochondrial Biogenesis</span>Exercise ★★★ — single most powerful mitochondrial biogenesis stimulus (PGC-1α activation). Zone 2 aerobic (150 min/week) + HIIT 2×/week. Fasting ★★★ — AMPK activation triggers mitophagy (clearing damaged mitochondria) + biogenesis. Cold exposure ★★ — cold thermogenesis activates UCP1 + PGC-1α (cold showers, cryotherapy). Ketogenic diet ★★ (ketones = cleaner mitochondrial fuel than glucose — less ROS per ATP generated). Sleep ★★★ — mitochondrial repair and biogenesis predominantly occur in deep sleep.</div></div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mins-iron-metabolism-clinical-guide",
+      "title": "Iron Metabolism — Clinical Guide",
+      "badge": "Nutritional Biochemistry",
+      "category": "mins",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Parameter",
+              "Normal Range",
+              "Interpretation"
+            ],
+            "rows": [
+              [
+                "Serum ferritin",
+                "30–300 µg/L (M), 15–150 µg/L (F)",
+                "Best marker of iron stores. <30 = depletion (even without anaemia). <15 = definite deficiency. >500 = possible iron overload or inflammation (ferritin is acute phase reactant)"
+              ],
+              [
+                "Serum iron",
+                "10–30 µmol/L",
+                "Fluctuates widely during day — less useful alone"
+              ],
+              [
+                "TIBC (transferrin)",
+                "45–72 µmol/L",
+                "↑ in iron deficiency (more binding capacity). ↓ in inflammation/iron overload"
+              ],
+              [
+                "Transferrin saturation",
+                "20–50%",
+                "<16% = iron-deficient erythropoiesis. >45% = iron overload/haemochromatosis"
+              ],
+              [
+                "Hb",
+                "M: 130–170 g/L, F: 120–160 g/L",
+                "Falls LATE in iron deficiency — low Hb = severe depletion. Normal Hb does not exclude iron deficiency"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Iron Source",
+              "Type",
+              "Absorption",
+              "Notes"
+            ],
+            "rows": [
+              [
+                "Red meat, organ meat (liver)",
+                "Haem iron",
+                "15–35% — high",
+                "Not affected by dietary inhibitors. Liver = highest iron content food"
+              ],
+              [
+                "Legumes, tofu, spinach, fortified cereals",
+                "Non-haem iron",
+                "2–20% — low, variable",
+                "Highly affected by enhancers and inhibitors"
+              ],
+              [
+                "Iron bisglycinate supplement",
+                "Chelated — highly bioavailable",
+                "~30% (2–4x better than ferrous sulphate)",
+                "Less GI side effects than sulphate. Preferred for supplementation."
+              ],
+              [
+                "Ferrous sulphate supplement",
+                "Standard",
+                "10–15%",
+                "GI side effects common (nausea, constipation). Take on empty stomach if tolerated"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Haemochromatosis — Iron Overload",
+            "text": "Hereditary haemochromatosis (HFE gene mutation — C282Y homozygous) causes progressive iron overload → liver cirrhosis, cardiomyopathy, diabetes, arthropathy, hypogonadism, bronze skin. Most common genetic disorder in people of Northern European descent (1:200). Screen with transferrin saturation (>45% → HFE gene test). Treatment: therapeutic phlebotomy 500ml every 1–2 weeks. NEVER prescribe iron supplements without checking ferritin and transferrin saturation first — giving iron to a patient with undiagnosed haemochromatosis causes serious harm."
+          }
+        ],
+        "steps": [
+          {
+            "n": 0,
+            "title": "Enhancers of Iron Absorption",
+            "text": "Vitamin C 100–200mg with iron supplement — increases absorption 2–4x (reduces Fe³⁺ to Fe²⁺). Meat factor (haem iron) — enhances non-haem iron absorption alongside. Cooking in cast-iron cookware — leaches iron into food. Acidic foods and liquids — stomach acid required for non-haem absorption."
+          },
+          {
+            "n": 0,
+            "title": "Inhibitors of Iron Absorption",
+            "text": "Phytates (whole grains, legumes) — reduce absorption 50–65%. Polyphenols/tannins (tea, coffee, red wine) — reduce 60–90% — avoid 1hr before and 2hrs after iron. Calcium — competes for same intestinal transporter — separate by 2hrs. PPIs and antacids — reduce gastric acid needed for non-haem iron conversion. Excessive zinc supplementation — competitive inhibition."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Parameter</th><th>Normal Range</th><th>Interpretation</th></tr></thead><tbody>\n      <tr><td>Serum ferritin</td><td>30–300 µg/L (M), 15–150 µg/L (F)</td><td>Best marker of iron stores. &lt;30 = depletion (even without anaemia). &lt;15 = definite deficiency. &gt;500 = possible iron overload or inflammation (ferritin is acute phase reactant)</td></tr>\n      <tr><td>Serum iron</td><td>10–30 µmol/L</td><td>Fluctuates widely during day — less useful alone</td></tr>\n      <tr><td>TIBC (transferrin)</td><td>45–72 µmol/L</td><td>↑ in iron deficiency (more binding capacity). ↓ in inflammation/iron overload</td></tr>\n      <tr><td>Transferrin saturation</td><td>20–50%</td><td>&lt;16% = iron-deficient erythropoiesis. &gt;45% = iron overload/haemochromatosis</td></tr>\n      <tr><td>Hb</td><td>M: 130–170 g/L, F: 120–160 g/L</td><td>Falls LATE in iron deficiency — low Hb = severe depletion. Normal Hb does not exclude iron deficiency</td></tr>\n    </tbody></table>\n    <table class=\"tbl\" style=\"margin-top:10px\"><thead><tr><th>Iron Source</th><th>Type</th><th>Absorption</th><th>Notes</th></tr></thead><tbody>\n      <tr><td>Red meat, organ meat (liver)</td><td>Haem iron</td><td>15–35% — high</td><td>Not affected by dietary inhibitors. Liver = highest iron content food</td></tr>\n      <tr><td>Legumes, tofu, spinach, fortified cereals</td><td>Non-haem iron</td><td>2–20% — low, variable</td><td>Highly affected by enhancers and inhibitors</td></tr>\n      <tr><td>Iron bisglycinate supplement</td><td>Chelated — highly bioavailable</td><td>~30% (2–4x better than ferrous sulphate)</td><td>Less GI side effects than sulphate. Preferred for supplementation.</td></tr>\n      <tr><td>Ferrous sulphate supplement</td><td>Standard</td><td>10–15%</td><td>GI side effects common (nausea, constipation). Take on empty stomach if tolerated</td></tr>\n    </tbody></table>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">E</div><div class=\"st\"><span class=\"sh\">Enhancers of Iron Absorption</span> Vitamin C 100–200mg with iron supplement — increases absorption 2–4x (reduces Fe³⁺ to Fe²⁺). Meat factor (haem iron) — enhances non-haem iron absorption alongside. Cooking in cast-iron cookware — leaches iron into food. Acidic foods and liquids — stomach acid required for non-haem absorption.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#c0392b\">I</div><div class=\"st\"><span class=\"sh\">Inhibitors of Iron Absorption</span> Phytates (whole grains, legumes) — reduce absorption 50–65%. Polyphenols/tannins (tea, coffee, red wine) — reduce 60–90% — avoid 1hr before and 2hrs after iron. Calcium — competes for same intestinal transporter — separate by 2hrs. PPIs and antacids — reduce gastric acid needed for non-haem iron conversion. Excessive zinc supplementation — competitive inhibition.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Haemochromatosis — Iron Overload</div><div class=\"pt\">Hereditary haemochromatosis (HFE gene mutation — C282Y homozygous) causes progressive iron overload → liver cirrhosis, cardiomyopathy, diabetes, arthropathy, hypogonadism, bronze skin. Most common genetic disorder in people of Northern European descent (1:200). Screen with transferrin saturation (&gt;45% → HFE gene test). Treatment: therapeutic phlebotomy 500ml every 1–2 weeks. NEVER prescribe iron supplements without checking ferritin and transferrin saturation first — giving iron to a patient with undiagnosed haemochromatosis causes serious harm.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mins-nutrient-absorption-optimising-bioavailability",
+      "title": "Nutrient Absorption — Optimising Bioavailability",
+      "badge": "Nutritional Biochemistry",
+      "category": "mins",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Bioavailability — What You Eat Is Not What You Absorb",
+            "text": "The gap between dietary intake and cellular uptake of nutrients is critical in naturopathic practice. Factors affecting absorption: gut health, stomach acid, food combinations, supplement form, timing, and individual genetics all profoundly influence nutrient bioavailability."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Nutrient",
+              "Best Form",
+              "Absorption Tip",
+              "Avoid With"
+            ],
+            "rows": [
+              [
+                "Iron",
+                "Bisglycinate or haem iron",
+                "Take with Vit C on empty stomach (or 30 min before meal)",
+                "Tea, coffee, calcium, antacids, PPIs"
+              ],
+              [
+                "Magnesium",
+                "Glycinate (sleep, anxiety), citrate (constipation), malate (fatigue, fibromyalgia)",
+                "Take with food to reduce GI upset. Evening for sleep benefits",
+                "Calcium (high doses compete). Separate by 2hrs"
+              ],
+              [
+                "Calcium",
+                "Citrate (better in achlorhydria/elderly), carbonate (requires acid)",
+                "Max 500mg per dose — absorption plateaus. Split doses. Take with food",
+                "Iron, zinc, high-dose Mg. Separate by 2hrs each"
+              ],
+              [
+                "Zinc",
+                "Bisglycinate, picolinate, acetate",
+                "Take on empty stomach or with small protein snack. NOT with calcium or iron",
+                "Copper (long-term zinc reduces copper — supplement Cu 2mg if zinc >30mg >3 months)"
+              ],
+              [
+                "Fat-soluble vitamins (A, D, E, K)",
+                "Softgel in oil carrier (best absorption). D3 drops in olive oil",
+                "Take with largest fat-containing meal of day",
+                "Fat malabsorption syndromes (coeliac, IBD, cystic fibrosis) — poor absorption"
+              ],
+              [
+                "B12",
+                "Methylcobalamin (active) > hydroxocobalamin > cyanocobalamin",
+                "Sublingual or IM injection bypasses intrinsic factor requirement. Oral needs intrinsic factor — ineffective in pernicious anaemia",
+                "PPIs, metformin, antacids (all reduce B12 absorption)"
+              ],
+              [
+                "Curcumin",
+                "Phytosome (Meriva), nanoparticle, or with piperine 20mg",
+                "Take with fat-containing meal + black pepper. Standard turmeric powder has <1% bioavailability",
+                "Nothing specific — focus on enhancing absorption"
+              ],
+              [
+                "CoQ10",
+                "Ubiquinol (reduced form — better absorbed, especially in elderly)",
+                "Take with fat-containing meal. Divide dose if >200mg (absorption saturates)",
+                "Statins (deplete CoQ10 — supplement is adjunct to statin therapy)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Low Stomach Acid (Hypochlorhydria) — The Hidden Epidemic",
+            "text": "Hypochlorhydria (low gastric HCl) impairs absorption of: iron, B12, calcium, zinc, folate, and protein (requires pepsin activation by acid). Common causes: PPI use (most common), H. pylori infection, atrophic gastritis (elderly), stress, zinc deficiency (zinc needed for HCl production). Signs: bloating after meals, belching, undigested food in stool, multiple nutrient deficiencies despite supplementation. Test: Betaine HCl challenge (150–500mg with protein meal — if no warmth/burning, hypochlorhydria likely). Support: apple cider vinegar 1 tbsp in water before protein meals, digestive bitters, Betaine HCl with pepsin supplements."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Bioavailability — What You Eat Is Not What You Absorb</div>The gap between dietary intake and cellular uptake of nutrients is critical in naturopathic practice. Factors affecting absorption: gut health, stomach acid, food combinations, supplement form, timing, and individual genetics all profoundly influence nutrient bioavailability.</div>\n    <table class=\"tbl\"><thead><tr><th>Nutrient</th><th>Best Form</th><th>Absorption Tip</th><th>Avoid With</th></tr></thead><tbody>\n      <tr><td>Iron</td><td>Bisglycinate or haem iron</td><td>Take with Vit C on empty stomach (or 30 min before meal)</td><td>Tea, coffee, calcium, antacids, PPIs</td></tr>\n      <tr><td>Magnesium</td><td>Glycinate (sleep, anxiety), citrate (constipation), malate (fatigue, fibromyalgia)</td><td>Take with food to reduce GI upset. Evening for sleep benefits</td><td>Calcium (high doses compete). Separate by 2hrs</td></tr>\n      <tr><td>Calcium</td><td>Citrate (better in achlorhydria/elderly), carbonate (requires acid)</td><td>Max 500mg per dose — absorption plateaus. Split doses. Take with food</td><td>Iron, zinc, high-dose Mg. Separate by 2hrs each</td></tr>\n      <tr><td>Zinc</td><td>Bisglycinate, picolinate, acetate</td><td>Take on empty stomach or with small protein snack. NOT with calcium or iron</td><td>Copper (long-term zinc reduces copper — supplement Cu 2mg if zinc &gt;30mg &gt;3 months)</td></tr>\n      <tr><td>Fat-soluble vitamins (A, D, E, K)</td><td>Softgel in oil carrier (best absorption). D3 drops in olive oil</td><td>Take with largest fat-containing meal of day</td><td>Fat malabsorption syndromes (coeliac, IBD, cystic fibrosis) — poor absorption</td></tr>\n      <tr><td>B12</td><td>Methylcobalamin (active) &gt; hydroxocobalamin &gt; cyanocobalamin</td><td>Sublingual or IM injection bypasses intrinsic factor requirement. Oral needs intrinsic factor — ineffective in pernicious anaemia</td><td>PPIs, metformin, antacids (all reduce B12 absorption)</td></tr>\n      <tr><td>Curcumin</td><td>Phytosome (Meriva), nanoparticle, or with piperine 20mg</td><td>Take with fat-containing meal + black pepper. Standard turmeric powder has &lt;1% bioavailability</td><td>Nothing specific — focus on enhancing absorption</td></tr>\n      <tr><td>CoQ10</td><td>Ubiquinol (reduced form — better absorbed, especially in elderly)</td><td>Take with fat-containing meal. Divide dose if &gt;200mg (absorption saturates)</td><td>Statins (deplete CoQ10 — supplement is adjunct to statin therapy)</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Low Stomach Acid (Hypochlorhydria) — The Hidden Epidemic</div><div class=\"pt\">Hypochlorhydria (low gastric HCl) impairs absorption of: iron, B12, calcium, zinc, folate, and protein (requires pepsin activation by acid). Common causes: PPI use (most common), H. pylori infection, atrophic gastritis (elderly), stress, zinc deficiency (zinc needed for HCl production). Signs: bloating after meals, belching, undigested food in stool, multiple nutrient deficiencies despite supplementation. Test: Betaine HCl challenge (150–500mg with protein meal — if no warmth/burning, hypochlorhydria likely). Support: apple cider vinegar 1 tbsp in water before protein meals, digestive bitters, Betaine HCl with pepsin supplements.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-mins-magnesium-the-master-mineral",
+      "title": "Magnesium — The Master Mineral",
+      "badge": "Essential ★",
+      "category": "mins",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Magnesium — Cofactor for 300+ Enzymatic Reactions",
+            "text": "Magnesium is the fourth most abundant mineral in the body and a cofactor for over 300 enzymes. It is essential for: ATP synthesis, DNA repair, protein synthesis, neuromuscular transmission, glucose metabolism, blood pressure regulation, and vitamin D activation. Deficiency is estimated in 60–70% of adults eating a Western diet."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Form",
+              "Absorption",
+              "Best For",
+              "Dose"
+            ],
+            "rows": [
+              [
+                "Magnesium Glycinate",
+                "High (chelated form)",
+                "Sleep, anxiety, muscle relaxation, PMS, general deficiency. Best tolerated form — no laxative effect.",
+                "200–400mg elemental before bed"
+              ],
+              [
+                "Magnesium Threonate (MgT)",
+                "High — uniquely crosses BBB",
+                "Cognitive function, memory, ADHD, neurological conditions, Alzheimer's prevention",
+                "1000–2000mg MgT (provides ~50–100mg elemental). Expensive but neurologically targeted."
+              ],
+              [
+                "Magnesium Malate",
+                "Good",
+                "Fibromyalgia ★★★, chronic fatigue, muscle pain, energy metabolism (malate = TCA cycle intermediate)",
+                "300–600mg elemental in divided doses"
+              ],
+              [
+                "Magnesium Citrate",
+                "Good",
+                "Constipation, kidney stone prevention (citrate inhibits oxalate crystallisation)",
+                "200–400mg elemental. Laxative effect dose-dependent."
+              ],
+              [
+                "Magnesium L-Threonate",
+                "BBB penetrant",
+                "Same as Mg Threonate above",
+                "Same"
+              ],
+              [
+                "Magnesium Oxide",
+                "Very poor (4% absorption)",
+                "Cheap but ineffective — avoid for systemic deficiency. Useful only as a laxative or antacid.",
+                "Avoid for deficiency supplementation"
+              ],
+              [
+                "Transdermal Magnesium",
+                "Evidence limited — controversial",
+                "Topical foot soaks, muscle cramps (some benefit reported). Evidence weaker than oral.",
+                "Epsom salt (MgSO4) foot bath — relaxing but uncertain systemic absorption"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Drugs That Deplete Magnesium",
+            "text": "PPIs ★★★ — most significant Mg depletion. Severe hypomagnesaemia can occur with >3 months PPI use (FDA black box warning). Check serum Mg in all long-term PPI patients. Thiazide and loop diuretics ★★★ — renal Mg wasting (tubular). Aminoglycosides, cisplatin (renally depleting). Alcohol ★★★ — inhibits renal Mg reabsorption. Beta-agonists (salbutamol) — shift Mg intracellularly. These patients need routine Mg monitoring and supplementation."
+          }
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Clinical Deficiency Patterns by Condition",
+            "text": "Migraine: Mg 400–600mg/day ★★★ — serum Mg low in 50% of migraine patients during attack. IV Mg terminates acute migraine in 50% (comparable to triptans). Cardiovascular: Mg 400mg ★★★ — reduces AF, ventricular arrhythmia, hypertension, torsades de pointes. T2DM: Mg 400mg ★★★ — deficiency = 10× ↑ T2DM risk. Insulin resistance is worsened by Mg deficiency (insulin receptor requires Mg). Insomnia: Mg glycinate 400mg at bedtime ★★★ — regulates GABA-A receptor, melatonin production. PMS: Mg 360mg from day 15 of cycle ★★★ — reduces mood symptoms, cramping, breast tenderness."
+          },
+          {
+            "n": 2,
+            "title": "Testing Magnesium Status",
+            "text": "Serum Mg: poor indicator (only 1% of Mg is extracellular — serum appears normal until severely deficient). RBC Mg (red blood cell intracellular Mg): better indicator of tissue stores. 24-hour urine Mg: measures Mg retention (low retention = deficiency if kidneys retaining Mg). Ionic Mg (most accurate): specialist lab. Practical approach: assess clinically — muscle cramps, eye twitching, anxiety, insomnia, constipation, fatigue, headaches, palpitations = clinical deficiency indicators. RBC Mg if available. Treat empirically in most cases — Mg glycinate is safe and well tolerated."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Magnesium — Cofactor for 300+ Enzymatic Reactions</div>Magnesium is the fourth most abundant mineral in the body and a cofactor for over 300 enzymes. It is essential for: ATP synthesis, DNA repair, protein synthesis, neuromuscular transmission, glucose metabolism, blood pressure regulation, and vitamin D activation. Deficiency is estimated in 60–70% of adults eating a Western diet.</div>\n    <table class=\"tbl\"><thead><tr><th>Form</th><th>Absorption</th><th>Best For</th><th>Dose</th></tr></thead><tbody>\n      <tr><td><strong>Magnesium Glycinate</strong></td><td>High (chelated form)</td><td>Sleep, anxiety, muscle relaxation, PMS, general deficiency. Best tolerated form — no laxative effect.</td><td>200–400mg elemental before bed</td></tr>\n      <tr><td><strong>Magnesium Threonate (MgT)</strong></td><td>High — uniquely crosses BBB</td><td>Cognitive function, memory, ADHD, neurological conditions, Alzheimer's prevention</td><td>1000–2000mg MgT (provides ~50–100mg elemental). Expensive but neurologically targeted.</td></tr>\n      <tr><td><strong>Magnesium Malate</strong></td><td>Good</td><td>Fibromyalgia ★★★, chronic fatigue, muscle pain, energy metabolism (malate = TCA cycle intermediate)</td><td>300–600mg elemental in divided doses</td></tr>\n      <tr><td><strong>Magnesium Citrate</strong></td><td>Good</td><td>Constipation, kidney stone prevention (citrate inhibits oxalate crystallisation)</td><td>200–400mg elemental. Laxative effect dose-dependent.</td></tr>\n      <tr><td><strong>Magnesium L-Threonate</strong></td><td>BBB penetrant</td><td>Same as Mg Threonate above</td><td>Same</td></tr>\n      <tr><td><strong>Magnesium Oxide</strong></td><td>Very poor (4% absorption)</td><td>Cheap but ineffective — avoid for systemic deficiency. Useful only as a laxative or antacid.</td><td>Avoid for deficiency supplementation</td></tr>\n      <tr><td><strong>Transdermal Magnesium</strong></td><td>Evidence limited — controversial</td><td>Topical foot soaks, muscle cramps (some benefit reported). Evidence weaker than oral.</td><td>Epsom salt (MgSO4) foot bath — relaxing but uncertain systemic absorption</td></tr>\n    </tbody></table>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">1</div><div class=\"st\"><span class=\"sh\">Clinical Deficiency Patterns by Condition</span> Migraine: Mg 400–600mg/day ★★★ — serum Mg low in 50% of migraine patients during attack. IV Mg terminates acute migraine in 50% (comparable to triptans). Cardiovascular: Mg 400mg ★★★ — reduces AF, ventricular arrhythmia, hypertension, torsades de pointes. T2DM: Mg 400mg ★★★ — deficiency = 10× ↑ T2DM risk. Insulin resistance is worsened by Mg deficiency (insulin receptor requires Mg). Insomnia: Mg glycinate 400mg at bedtime ★★★ — regulates GABA-A receptor, melatonin production. PMS: Mg 360mg from day 15 of cycle ★★★ — reduces mood symptoms, cramping, breast tenderness.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">2</div><div class=\"st\"><span class=\"sh\">Testing Magnesium Status</span> Serum Mg: poor indicator (only 1% of Mg is extracellular — serum appears normal until severely deficient). RBC Mg (red blood cell intracellular Mg): better indicator of tissue stores. 24-hour urine Mg: measures Mg retention (low retention = deficiency if kidneys retaining Mg). Ionic Mg (most accurate): specialist lab. Practical approach: assess clinically — muscle cramps, eye twitching, anxiety, insomnia, constipation, fatigue, headaches, palpitations = clinical deficiency indicators. RBC Mg if available. Treat empirically in most cases — Mg glycinate is safe and well tolerated.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Drugs That Deplete Magnesium</div><div class=\"pt\">PPIs ★★★ — most significant Mg depletion. Severe hypomagnesaemia can occur with &gt;3 months PPI use (FDA black box warning). Check serum Mg in all long-term PPI patients. Thiazide and loop diuretics ★★★ — renal Mg wasting (tubular). Aminoglycosides, cisplatin (renally depleting). Alcohol ★★★ — inhibits renal Mg reabsorption. Beta-agonists (salbutamol) — shift Mg intracellularly. These patients need routine Mg monitoring and supplementation.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-vits-zinc-clinical-deep-dive",
+      "title": "Zinc — Clinical Deep Dive",
+      "badge": "Essential ★",
+      "category": "vits",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Zinc — The Most Versatile Immune and Metabolic Mineral",
+            "text": "Zinc is involved in: 300+ enzyme reactions, DNA synthesis, protein production, immune function (thymulin synthesis, T-cell maturation), testosterone production, insulin signalling, wound healing, taste and smell (carbonic anhydrase VI in saliva), visual cycle (retinal function), and antioxidant (superoxide dismutase cofactor). Deficiency is extremely common and profoundly multisystemic."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Deficiency Sign",
+              "Severity",
+              "Mechanism"
+            ],
+            "rows": [
+              [
+                "Recurrent infections",
+                "Moderate-severe",
+                "↓ Thymulin (thymus hormone) → ↓ T-cell maturation and function. ↓ NK cell activity."
+              ],
+              [
+                "Loss of taste/smell (hypogeusia/anosmia)",
+                "Moderate",
+                "Zinc-dependent carbonic anhydrase VI in saliva and olfactory neuroepithelium. Classic presentation of zinc deficiency."
+              ],
+              [
+                "White spots on nails (leukonychia)",
+                "Mild-moderate",
+                "Zinc required for nail keratin synthesis. White transverse bands = Muehrcke's lines (hypoalbuminaemia). White spots = zinc deficiency classically."
+              ],
+              [
+                "Poor wound healing",
+                "Moderate",
+                "Zinc required for metalloproteinases (tissue remodelling), collagen synthesis, and inflammatory phase of wound healing."
+              ],
+              [
+                "Acne (hormonal/inflammatory)",
+                "Mild",
+                "Zinc reduces 5α-reductase (DHT conversion), inhibits Propionibacterium acnes. Comparable to tetracycline in RCTs."
+              ],
+              [
+                "Low testosterone",
+                "Moderate-severe",
+                "Zinc is cofactor for testosterone synthesis. Zinc deficiency = low LH + low testosterone — both reverse with correction."
+              ],
+              [
+                "Delayed growth (children)",
+                "Moderate-severe",
+                "Zinc required for IGF-1 signalling. Most common cause of growth faltering in developing countries after malnutrition."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Zinc Forms — Clinical Selection",
+            "text": "Zinc picolinate: best absorbed form. Picolinic acid chelate = efficient membrane transport. Good for: immune, acne, testosterone. Zinc bisglycinate: second-best absorbed. Gentlest on stomach. Best for daily maintenance. Zinc carnosine: specific for gastric mucosal protection. PepZin GI — clinically proven for gastric ulcers, H.pylori support, gut barrier. Zinc citrate: moderate absorption. Good tolerability. Zinc gluconate: widely available. Moderate absorption. Zinc lozenges for cold prevention/treatment (ionic zinc) ★★★ — must dissolve in mouth to work (not swallow). Zinc oxide: poorly absorbed — topical use only (sunscreen, nappy cream). Do NOT use for deficiency."
+          },
+          {
+            "n": 2,
+            "title": "Zinc:Copper Balance — Critical Safety Point",
+            "text": "Zinc supplementation >40mg/day for >8 weeks induces metallothionein in gut enterocytes — which binds copper and prevents absorption. Chronic high-dose zinc → copper deficiency: anaemia (sideropeic + microcytic, not responding to iron), leukopenia, peripheral neuropathy (myelopathy), neurological symptoms (mimics B12 deficiency). Clinical rule: add 1mg copper for every 15mg zinc above baseline. Monitor: check caeruloplasmin (copper transport protein) or direct copper if supplementing zinc long-term at therapeutic doses (>30mg/day). Do NOT co-supplement copper with zinc at the same time — separate by 2–4 hours."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Zinc — The Most Versatile Immune and Metabolic Mineral</div>Zinc is involved in: 300+ enzyme reactions, DNA synthesis, protein production, immune function (thymulin synthesis, T-cell maturation), testosterone production, insulin signalling, wound healing, taste and smell (carbonic anhydrase VI in saliva), visual cycle (retinal function), and antioxidant (superoxide dismutase cofactor). Deficiency is extremely common and profoundly multisystemic.</div>\n    <table class=\"tbl\"><thead><tr><th>Deficiency Sign</th><th>Severity</th><th>Mechanism</th></tr></thead><tbody>\n      <tr><td>Recurrent infections</td><td>Moderate-severe</td><td>↓ Thymulin (thymus hormone) → ↓ T-cell maturation and function. ↓ NK cell activity.</td></tr>\n      <tr><td>Loss of taste/smell (hypogeusia/anosmia)</td><td>Moderate</td><td>Zinc-dependent carbonic anhydrase VI in saliva and olfactory neuroepithelium. Classic presentation of zinc deficiency.</td></tr>\n      <tr><td>White spots on nails (leukonychia)</td><td>Mild-moderate</td><td>Zinc required for nail keratin synthesis. White transverse bands = Muehrcke's lines (hypoalbuminaemia). White spots = zinc deficiency classically.</td></tr>\n      <tr><td>Poor wound healing</td><td>Moderate</td><td>Zinc required for metalloproteinases (tissue remodelling), collagen synthesis, and inflammatory phase of wound healing.</td></tr>\n      <tr><td>Acne (hormonal/inflammatory)</td><td>Mild</td><td>Zinc reduces 5α-reductase (DHT conversion), inhibits Propionibacterium acnes. Comparable to tetracycline in RCTs.</td></tr>\n      <tr><td>Low testosterone</td><td>Moderate-severe</td><td>Zinc is cofactor for testosterone synthesis. Zinc deficiency = low LH + low testosterone — both reverse with correction.</td></tr>\n      <tr><td>Delayed growth (children)</td><td>Moderate-severe</td><td>Zinc required for IGF-1 signalling. Most common cause of growth faltering in developing countries after malnutrition.</td></tr>\n    </tbody></table>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">1</div><div class=\"st\"><span class=\"sh\">Zinc Forms — Clinical Selection</span> Zinc picolinate: best absorbed form. Picolinic acid chelate = efficient membrane transport. Good for: immune, acne, testosterone. Zinc bisglycinate: second-best absorbed. Gentlest on stomach. Best for daily maintenance. Zinc carnosine: specific for gastric mucosal protection. PepZin GI — clinically proven for gastric ulcers, H.pylori support, gut barrier. Zinc citrate: moderate absorption. Good tolerability. Zinc gluconate: widely available. Moderate absorption. Zinc lozenges for cold prevention/treatment (ionic zinc) ★★★ — must dissolve in mouth to work (not swallow). Zinc oxide: poorly absorbed — topical use only (sunscreen, nappy cream). Do NOT use for deficiency.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">2</div><div class=\"st\"><span class=\"sh\">Zinc:Copper Balance — Critical Safety Point</span> Zinc supplementation &gt;40mg/day for &gt;8 weeks induces metallothionein in gut enterocytes — which binds copper and prevents absorption. Chronic high-dose zinc → copper deficiency: anaemia (sideropeic + microcytic, not responding to iron), leukopenia, peripheral neuropathy (myelopathy), neurological symptoms (mimics B12 deficiency). Clinical rule: add 1mg copper for every 15mg zinc above baseline. Monitor: check caeruloplasmin (copper transport protein) or direct copper if supplementing zinc long-term at therapeutic doses (&gt;30mg/day). Do NOT co-supplement copper with zinc at the same time — separate by 2–4 hours.</div></div>\n    </div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-vits-nutrient-deficiency-functional-biochemistry",
+      "title": "Nutrient Deficiency — Functional Biochemistry",
+      "badge": "Assessment",
+      "category": "vits",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Nutrient",
+              "Functional marker",
+              "Standard marker limitation",
+              "Optimal level"
+            ],
+            "rows": [
+              [
+                "Vitamin D",
+                "25-OH-D3 (serum)",
+                "Lab \"normal\" 50nmol/L = functional deficiency",
+                "100–150 nmol/L"
+              ],
+              [
+                "B12",
+                "MMA (methylmalonic acid), holotranscobalamin",
+                "Serum B12 normal but functional deficiency common",
+                "HoloTC >50 pmol/L; MMA <0.26 µmol/L"
+              ],
+              [
+                "Folate",
+                "RBC folate (tissue level)",
+                "Serum folate = recent intake only",
+                "RBC folate >400 µg/L"
+              ],
+              [
+                "Iron",
+                "Ferritin + transferrin saturation + serum iron",
+                "Hb normal but ferritin <30 = functional deficiency",
+                "Ferritin 50–150 µg/L (functional)"
+              ],
+              [
+                "Zinc",
+                "RBC zinc, plasma zinc (fasted)",
+                "Serum zinc unreliable — redistributes in inflammation",
+                "Plasma zinc 11–18 µmol/L"
+              ],
+              [
+                "Magnesium",
+                "RBC magnesium (intracellular)",
+                "Serum Mg normal in 80% of deficient patients",
+                "RBC Mg 4.2–6.8 mg/dL"
+              ],
+              [
+                "Omega-3 index",
+                "RBC EPA+DHA%",
+                "Dietary recall unreliable",
+                "Omega-3 index >8%"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Ferritin — the most underdiagnosed deficiency",
+            "text": "Laboratory \"normal\" ferritin starts at 12 µg/L. Functional iron deficiency symptoms (fatigue, hair loss, cold intolerance, brain fog, restless legs) occur at ferritin <30 µg/L — a level most labs report as normal. Target ferritin 50–100 µg/L for symptom resolution. Iron bisglycinate (25mg/day with vitamin C, away from tea/coffee) is the best-tolerated form. Recheck in 3 months."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Nutrient</th><th>Functional marker</th><th>Standard marker limitation</th><th>Optimal level</th></tr></thead><tbody>\n      <tr><td>Vitamin D</td><td>25-OH-D3 (serum)</td><td>Lab \"normal\" 50nmol/L = functional deficiency</td><td>100–150 nmol/L</td></tr>\n      <tr><td>B12</td><td>MMA (methylmalonic acid), holotranscobalamin</td><td>Serum B12 normal but functional deficiency common</td><td>HoloTC &gt;50 pmol/L; MMA &lt;0.26 µmol/L</td></tr>\n      <tr><td>Folate</td><td>RBC folate (tissue level)</td><td>Serum folate = recent intake only</td><td>RBC folate &gt;400 µg/L</td></tr>\n      <tr><td>Iron</td><td>Ferritin + transferrin saturation + serum iron</td><td>Hb normal but ferritin &lt;30 = functional deficiency</td><td>Ferritin 50–150 µg/L (functional)</td></tr>\n      <tr><td>Zinc</td><td>RBC zinc, plasma zinc (fasted)</td><td>Serum zinc unreliable — redistributes in inflammation</td><td>Plasma zinc 11–18 µmol/L</td></tr>\n      <tr><td>Magnesium</td><td>RBC magnesium (intracellular)</td><td>Serum Mg normal in 80% of deficient patients</td><td>RBC Mg 4.2–6.8 mg/dL</td></tr>\n      <tr><td>Omega-3 index</td><td>RBC EPA+DHA%</td><td>Dietary recall unreliable</td><td>Omega-3 index &gt;8%</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Ferritin — the most underdiagnosed deficiency</div><div class=\"pt\">Laboratory \"normal\" ferritin starts at 12 µg/L. Functional iron deficiency symptoms (fatigue, hair loss, cold intolerance, brain fog, restless legs) occur at ferritin &lt;30 µg/L — a level most labs report as normal. Target ferritin 50–100 µg/L for symptom resolution. Iron bisglycinate (25mg/day with vitamin C, away from tea/coffee) is the best-tolerated form. Recheck in 3 months.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-vits-omega-3-fatty-acids-complete-clinical-guide",
+      "title": "Omega-3 Fatty Acids — Complete Clinical Guide",
+      "badge": "Nutritional Biochemistry",
+      "category": "vits",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Omega-3 — The Most Evidence-Based Supplement in Naturopathic Practice",
+            "text": "Omega-3 PUFAs (EPA, DHA, ALA) have the broadest evidence base of any supplement — cardiovascular, neurological, inflammatory, psychiatric, and metabolic benefits confirmed across thousands of RCTs and meta-analyses."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Type",
+              "Full Name",
+              "Source",
+              "Primary Role",
+              "Conversion"
+            ],
+            "rows": [
+              [
+                "ALA",
+                "Alpha-linolenic acid",
+                "Flaxseed, walnuts, chia, hemp",
+                "Plant-based precursor",
+                "Converts to EPA/DHA at only 5–10% efficiency — insufficient as sole source"
+              ],
+              [
+                "EPA",
+                "Eicosapentaenoic acid",
+                "Oily fish, fish oil, algae oil",
+                "Anti-inflammatory, cardiovascular, mood (depression)",
+                "Direct use — no conversion needed"
+              ],
+              [
+                "DHA",
+                "Docosahexaenoic acid",
+                "Oily fish, fish oil, algae oil",
+                "Brain structure, retina, fetal development, cognitive health",
+                "Direct use — preferred for brain"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Condition",
+              "Optimal Form",
+              "Dose",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "Cardiovascular (TG reduction)",
+                "High EPA or EPA+DHA",
+                "3–4g EPA+DHA/day",
+                "★★★★ REDUCE-IT trial: icosapentaenoic acid 4g ↓ CV events 25%"
+              ],
+              [
+                "Depression",
+                "High EPA (EPA:DHA >2:1)",
+                "1–2g EPA/day",
+                "★★★★ Meta-analysis: EPA superior to DHA for depression"
+              ],
+              [
+                "Fetal brain development",
+                "DHA dominant",
+                "200–300mg DHA/day in pregnancy",
+                "★★★★ Critical — DHA is the primary structural fatty acid in fetal brain"
+              ],
+              [
+                "Inflammation (RA, IBD)",
+                "EPA dominant",
+                "3–6g EPA/day",
+                "★★★★ Multiple RCTs — reduces TNF-α, IL-1, LTB4"
+              ],
+              [
+                "ADHD",
+                "EPA+DHA combined",
+                "2–3g/day",
+                "★★★★ Meta-analysis 16 RCTs — modest but consistent benefit"
+              ],
+              [
+                "Cognitive health/prevention",
+                "DHA dominant",
+                "2g DHA/day (algae preferred)",
+                "★★★ Good for prevention — less for treatment of established dementia"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Fish Oil vs Algae Oil",
+            "text": "Algae oil is the original source — fish accumulate DHA/EPA by eating algae. Advantages of algae oil over fish oil: (1) Sustainable — no overfishing concern. (2) Vegan/vegetarian appropriate. (3) No mercury or PCB contamination risk. (4) No fishy aftertaste or burps. (5) DHA content often higher. Disadvantage: EPA content is lower in most algae oils — choose high-EPA algae oil for anti-inflammatory use. Oxidation check for fish oil: open the capsule — if it smells rancid (strong, unpleasant fishy smell), it is oxidised and potentially pro-inflammatory. Store in refrigerator, check expiry, take with food."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Omega-3 — The Most Evidence-Based Supplement in Naturopathic Practice</div>Omega-3 PUFAs (EPA, DHA, ALA) have the broadest evidence base of any supplement — cardiovascular, neurological, inflammatory, psychiatric, and metabolic benefits confirmed across thousands of RCTs and meta-analyses.</div>\n    <table class=\"tbl\"><thead><tr><th>Type</th><th>Full Name</th><th>Source</th><th>Primary Role</th><th>Conversion</th></tr></thead><tbody>\n      <tr><td>ALA</td><td>Alpha-linolenic acid</td><td>Flaxseed, walnuts, chia, hemp</td><td>Plant-based precursor</td><td>Converts to EPA/DHA at only 5–10% efficiency — insufficient as sole source</td></tr>\n      <tr><td>EPA</td><td>Eicosapentaenoic acid</td><td>Oily fish, fish oil, algae oil</td><td>Anti-inflammatory, cardiovascular, mood (depression)</td><td>Direct use — no conversion needed</td></tr>\n      <tr><td>DHA</td><td>Docosahexaenoic acid</td><td>Oily fish, fish oil, algae oil</td><td>Brain structure, retina, fetal development, cognitive health</td><td>Direct use — preferred for brain</td></tr>\n    </tbody></table>\n    <table class=\"tbl\" style=\"margin-top:10px\"><thead><tr><th>Condition</th><th>Optimal Form</th><th>Dose</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td>Cardiovascular (TG reduction)</td><td>High EPA or EPA+DHA</td><td>3–4g EPA+DHA/day</td><td>★★★★ REDUCE-IT trial: icosapentaenoic acid 4g ↓ CV events 25%</td></tr>\n      <tr><td>Depression</td><td>High EPA (EPA:DHA &gt;2:1)</td><td>1–2g EPA/day</td><td>★★★★ Meta-analysis: EPA superior to DHA for depression</td></tr>\n      <tr><td>Fetal brain development</td><td>DHA dominant</td><td>200–300mg DHA/day in pregnancy</td><td>★★★★ Critical — DHA is the primary structural fatty acid in fetal brain</td></tr>\n      <tr><td>Inflammation (RA, IBD)</td><td>EPA dominant</td><td>3–6g EPA/day</td><td>★★★★ Multiple RCTs — reduces TNF-α, IL-1, LTB4</td></tr>\n      <tr><td>ADHD</td><td>EPA+DHA combined</td><td>2–3g/day</td><td>★★★★ Meta-analysis 16 RCTs — modest but consistent benefit</td></tr>\n      <tr><td>Cognitive health/prevention</td><td>DHA dominant</td><td>2g DHA/day (algae preferred)</td><td>★★★ Good for prevention — less for treatment of established dementia</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Fish Oil vs Algae Oil</div><div class=\"pt\">Algae oil is the original source — fish accumulate DHA/EPA by eating algae. Advantages of algae oil over fish oil: (1) Sustainable — no overfishing concern. (2) Vegan/vegetarian appropriate. (3) No mercury or PCB contamination risk. (4) No fishy aftertaste or burps. (5) DHA content often higher. Disadvantage: EPA content is lower in most algae oils — choose high-EPA algae oil for anti-inflammatory use. Oxidation check for fish oil: open the capsule — if it smells rancid (strong, unpleasant fishy smell), it is oxidised and potentially pro-inflammatory. Store in refrigerator, check expiry, take with food.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-vits-vitamin-d-the-master-hormone",
+      "title": "Vitamin D — The Master Hormone",
+      "badge": "Nutritional Biochemistry",
+      "category": "vits",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Vitamin D — Not Just a Vitamin",
+            "text": "Vitamin D is a secosteroid hormone — its receptor (VDR) is present in virtually every cell. It regulates over 200 genes involved in immunity, cell differentiation, inflammation, insulin secretion, blood pressure regulation, and calcium homeostasis. Deficiency is a global pandemic — affecting 1 billion people."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "25(OH)D Level",
+              "Status",
+              "Clinical Effects"
+            ],
+            "rows": [
+              [
+                "<25 nmol/L (<10 ng/mL)",
+                "Severe deficiency",
+                "Rickets (children), osteomalacia (adults), muscle weakness, bone pain, fractures"
+              ],
+              [
+                "25–50 nmol/L (10–20 ng/mL)",
+                "Deficiency",
+                "Reduced immunity, fatigue, depression risk, muscle weakness, impaired calcium absorption"
+              ],
+              [
+                "50–75 nmol/L (20–30 ng/mL)",
+                "Insufficiency",
+                "Suboptimal — bone density, immune function, mood may be affected"
+              ],
+              [
+                "75–150 nmol/L (30–60 ng/mL)",
+                "Optimal ★",
+                "Target range for most clinical benefits. Cancer prevention, immune function, cardiovascular"
+              ],
+              [
+                ">250 nmol/L (>100 ng/mL)",
+                "Toxicity risk",
+                "Hypercalcaemia, hypercalciuria. Rare — requires very high supplementation (>40,000 IU/day chronic)"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Population",
+              "Dose for Maintenance",
+              "Loading Dose (if deficient)"
+            ],
+            "rows": [
+              [
+                "General adult",
+                "2000 IU/day",
+                "50,000 IU/week × 8 weeks (prescriptive) or 4000 IU/day × 3 months"
+              ],
+              [
+                "Dark skin / low-sun regions",
+                "3000–4000 IU/day",
+                "As above"
+              ],
+              [
+                "Obesity (BMI >30)",
+                "4000–6000 IU/day (adipose tissue sequesters Vit D)",
+                "Higher loading needed"
+              ],
+              [
+                "Elderly (>65)",
+                "4000 IU/day (skin synthesis ↓ 75% vs young)",
+                "As above"
+              ],
+              [
+                "Pregnancy",
+                "4000 IU/day (target >100 nmol/L)",
+                "As above"
+              ],
+              [
+                "Autoimmune disease",
+                "4000–10,000 IU/day with monitoring",
+                "Under supervision — target 125–175 nmol/L (Coimbra protocol in MS, vitiligo)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 D3 + K2 + Mg — The Triad",
+            "text": "Vitamin D3 should always be combined with: K2 (MK-7) 100–200mcg — directs calcium to bone (osteocalcin carboxylation) and arteries (matrix Gla protein activation), preventing vascular calcification from high-dose Vit D. Magnesium 300–400mg — required for Vit D activation (25-OH-D → 1,25-OH2-D requires Mg-dependent enzyme CYP27B1). Low magnesium blocks Vit D conversion — patients who take Vit D without Mg may not respond adequately. D3 without K2 at high doses can raise serum calcium and deposit it in soft tissues — always prescribe together."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Vitamin D — Not Just a Vitamin</div>Vitamin D is a secosteroid hormone — its receptor (VDR) is present in virtually every cell. It regulates over 200 genes involved in immunity, cell differentiation, inflammation, insulin secretion, blood pressure regulation, and calcium homeostasis. Deficiency is a global pandemic — affecting 1 billion people.</div>\n    <table class=\"tbl\"><thead><tr><th>25(OH)D Level</th><th>Status</th><th>Clinical Effects</th></tr></thead><tbody>\n      <tr><td>&lt;25 nmol/L (&lt;10 ng/mL)</td><td>Severe deficiency</td><td>Rickets (children), osteomalacia (adults), muscle weakness, bone pain, fractures</td></tr>\n      <tr><td>25–50 nmol/L (10–20 ng/mL)</td><td>Deficiency</td><td>Reduced immunity, fatigue, depression risk, muscle weakness, impaired calcium absorption</td></tr>\n      <tr><td>50–75 nmol/L (20–30 ng/mL)</td><td>Insufficiency</td><td>Suboptimal — bone density, immune function, mood may be affected</td></tr>\n      <tr><td>75–150 nmol/L (30–60 ng/mL)</td><td>Optimal ★</td><td>Target range for most clinical benefits. Cancer prevention, immune function, cardiovascular</td></tr>\n      <tr><td>&gt;250 nmol/L (&gt;100 ng/mL)</td><td>Toxicity risk</td><td>Hypercalcaemia, hypercalciuria. Rare — requires very high supplementation (&gt;40,000 IU/day chronic)</td></tr>\n    </tbody></table>\n    <table class=\"tbl\" style=\"margin-top:10px\"><thead><tr><th>Population</th><th>Dose for Maintenance</th><th>Loading Dose (if deficient)</th></tr></thead><tbody>\n      <tr><td>General adult</td><td>2000 IU/day</td><td>50,000 IU/week × 8 weeks (prescriptive) or 4000 IU/day × 3 months</td></tr>\n      <tr><td>Dark skin / low-sun regions</td><td>3000–4000 IU/day</td><td>As above</td></tr>\n      <tr><td>Obesity (BMI &gt;30)</td><td>4000–6000 IU/day (adipose tissue sequesters Vit D)</td><td>Higher loading needed</td></tr>\n      <tr><td>Elderly (&gt;65)</td><td>4000 IU/day (skin synthesis ↓ 75% vs young)</td><td>As above</td></tr>\n      <tr><td>Pregnancy</td><td>4000 IU/day (target &gt;100 nmol/L)</td><td>As above</td></tr>\n      <tr><td>Autoimmune disease</td><td>4000–10,000 IU/day with monitoring</td><td>Under supervision — target 125–175 nmol/L (Coimbra protocol in MS, vitiligo)</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 D3 + K2 + Mg — The Triad</div><div class=\"pt\">Vitamin D3 should always be combined with: K2 (MK-7) 100–200mcg — directs calcium to bone (osteocalcin carboxylation) and arteries (matrix Gla protein activation), preventing vascular calcification from high-dose Vit D. Magnesium 300–400mg — required for Vit D activation (25-OH-D → 1,25-OH2-D requires Mg-dependent enzyme CYP27B1). Low magnesium blocks Vit D conversion — patients who take Vit D without Mg may not respond adequately. D3 without K2 at high doses can raise serum calcium and deposit it in soft tissues — always prescribe together.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-vits-b-vitamins-complete-clinical-guide",
+      "title": "B Vitamins — Complete Clinical Guide",
+      "badge": "Essential ★",
+      "category": "vits",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Vitamin",
+              "Key Function",
+              "Deficiency Signs",
+              "Clinical Protocol"
+            ],
+            "rows": [
+              [
+                "B1 (Thiamine)",
+                "Pyruvate dehydrogenase cofactor — glucose → energy. Nerve membrane maintenance.",
+                "Wet beriberi (cardiac, oedema). Dry beriberi (peripheral neuropathy). Wernicke's encephalopathy (alcoholics) — MEDICAL EMERGENCY: confusion + ophthalmoplegia + ataxia.",
+                "Wernicke's: IV thiamine 500mg TID × 3 days BEFORE glucose (giving glucose first precipitates Wernicke's in deficient patients). Maintenance: 50–100mg/day. High-risk: alcoholics, bariatric surgery, anorexia."
+              ],
+              [
+                "B2 (Riboflavin)",
+                "FAD/FMN cofactor — electron transport. Activates B6, folate, B12. Antioxidant (glutathione reductase).",
+                "Angular cheilitis, magenta tongue, photophobia, seborrhoea, normocytic anaemia. Worsens with oral contraceptives (common depletion).",
+                "Migraine prophylaxis ★★★ 400mg/day — mitochondrial energy enhancement. Maintenance: 10–50mg. Food: eggs, liver, dairy, almonds."
+              ],
+              [
+                "B3 (Niacin/Niacinamide)",
+                "NAD+/NADP+ (central metabolism). Niacin: vasodilation, lipids. Niacinamide: DNA repair, longevity (NAD+ precursor), skin barrier.",
+                "Pellagra: 4 Ds — Dermatitis (sun-exposed), Diarrhoea, Dementia, Death. Common in: corn-dependent diets, alcoholism, Hartnup disease.",
+                "Niacin (flush): lipids — 1–3g/day (cardiovascular). Niacinamide (no-flush): acne 4–5% topical ★★★, anxiety 500–1000mg, NAD+ support (combined with NR). Tryptophan → niacin (60:1 ratio — 60mg tryptophan = 1mg niacin)."
+              ],
+              [
+                "B5 (Pantothenic acid)",
+                "Coenzyme A synthesis — fatty acid metabolism, steroid hormone synthesis, acetylcholine. \"Anti-stress vitamin\" — adrenal support.",
+                "Burning feet syndrome. Deficiency rare — found in most foods. Seen in: severe malnutrition, alcoholism, some anti-HIV drugs.",
+                "HPA axis support: 500mg BD. Adrenal recovery protocol. Wound healing (topical dexpanthenol — Bepanthen). Acne: pantothenic acid 10g/day in some protocols (large dose)."
+              ],
+              [
+                "B6 (Pyridoxine → P5P)",
+                "Amino acid metabolism, neurotransmitter synthesis (serotonin, dopamine, GABA, histamine). PLP (active P5P form) essential for 100+ enzymes.",
+                "Depression, peripheral neuropathy (painful), glossitis, dermatitis, microcytic anaemia. Depleted by: OCP ★★★, isoniazid, penicillamine, theophylline.",
+                "OCP-related depression/PMS: P5P 25–50mg BD ★★★. Morning sickness in pregnancy: B6 25mg TID ★★★ (first-line WHO recommendation). Neurotransmitter support: P5P (active form — superior to pyridoxine). Toxicity: >200mg/day long-term → peripheral neuropathy (paradoxically). Use P5P not pyridoxine for chronic use."
+              ],
+              [
+                "B7 (Biotin)",
+                "Carboxylase cofactor — fatty acid synthesis, gluconeogenesis. Gene expression regulation. Keratin production.",
+                "Hair thinning (most common presenting complaint — though biotin deficiency is overdiagnosed). Brittle nails, seborrhoeic dermatitis, conjunctivitis.",
+                "Hair/nail: 2.5–5mg/day. Note: biotin supplementation falsely elevates thyroid tests and troponin on immunoassay — advise patients to stop biotin 48–72hrs before blood tests. Raw egg whites contain avidin which binds biotin (cooking destroys avidin)."
+              ],
+              [
+                "B9 (Folate/Methylfolate)",
+                "1-carbon metabolism, DNA synthesis, methylation. Neural tube development. Homocysteine remethylation.",
+                "Megaloblastic anaemia. Neural tube defects (maternal deficiency → spina bifida). Elevated homocysteine. Depression.",
+                "Pregnancy prevention: 400–800mcg methylfolate (NOT folic acid in MTHFR — see below). Megaloblastic anaemia: 5mg/day AFTER confirming B12 adequate. MTHFR C677T/A1298C: use L-methylfolate (5-MTHF) not folic acid."
+              ],
+              [
+                "B12 (Cobalamin)",
+                "Myelin synthesis (methylcobalamin). DNA synthesis (adenosylcobalamin). Methylation cycle.",
+                "Megaloblastic anaemia, subacute combined degeneration of cord (posterior columns + lateral), peripheral neuropathy, depression, cognitive decline. Serum B12 lab range is too low (>150 pmol/L) — functional deficiency at 150–300 pmol/L.",
+                "Methylcobalamin preferred (over cyanocobalamin — active form, no cyanide metabolite). Oral: 1000mcg/day. IM hydroxycobalamin: monthly if severe deficiency or absorption failure (atrophic gastritis, gastrectomy, Crohn's, metformin use)."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Vitamin</th><th>Key Function</th><th>Deficiency Signs</th><th>Clinical Protocol</th></tr></thead><tbody>\n      <tr><td><strong>B1 (Thiamine)</strong></td><td>Pyruvate dehydrogenase cofactor — glucose → energy. Nerve membrane maintenance.</td><td>Wet beriberi (cardiac, oedema). Dry beriberi (peripheral neuropathy). Wernicke's encephalopathy (alcoholics) — MEDICAL EMERGENCY: confusion + ophthalmoplegia + ataxia.</td><td>Wernicke's: IV thiamine 500mg TID × 3 days BEFORE glucose (giving glucose first precipitates Wernicke's in deficient patients). Maintenance: 50–100mg/day. High-risk: alcoholics, bariatric surgery, anorexia.</td></tr>\n      <tr><td><strong>B2 (Riboflavin)</strong></td><td>FAD/FMN cofactor — electron transport. Activates B6, folate, B12. Antioxidant (glutathione reductase).</td><td>Angular cheilitis, magenta tongue, photophobia, seborrhoea, normocytic anaemia. Worsens with oral contraceptives (common depletion).</td><td>Migraine prophylaxis ★★★ 400mg/day — mitochondrial energy enhancement. Maintenance: 10–50mg. Food: eggs, liver, dairy, almonds.</td></tr>\n      <tr><td><strong>B3 (Niacin/Niacinamide)</strong></td><td>NAD+/NADP+ (central metabolism). Niacin: vasodilation, lipids. Niacinamide: DNA repair, longevity (NAD+ precursor), skin barrier.</td><td>Pellagra: 4 Ds — Dermatitis (sun-exposed), Diarrhoea, Dementia, Death. Common in: corn-dependent diets, alcoholism, Hartnup disease.</td><td>Niacin (flush): lipids — 1–3g/day (cardiovascular). Niacinamide (no-flush): acne 4–5% topical ★★★, anxiety 500–1000mg, NAD+ support (combined with NR). Tryptophan → niacin (60:1 ratio — 60mg tryptophan = 1mg niacin).</td></tr>\n      <tr><td><strong>B5 (Pantothenic acid)</strong></td><td>Coenzyme A synthesis — fatty acid metabolism, steroid hormone synthesis, acetylcholine. \"Anti-stress vitamin\" — adrenal support.</td><td>Burning feet syndrome. Deficiency rare — found in most foods. Seen in: severe malnutrition, alcoholism, some anti-HIV drugs.</td><td>HPA axis support: 500mg BD. Adrenal recovery protocol. Wound healing (topical dexpanthenol — Bepanthen). Acne: pantothenic acid 10g/day in some protocols (large dose).</td></tr>\n      <tr><td><strong>B6 (Pyridoxine → P5P)</strong></td><td>Amino acid metabolism, neurotransmitter synthesis (serotonin, dopamine, GABA, histamine). PLP (active P5P form) essential for 100+ enzymes.</td><td>Depression, peripheral neuropathy (painful), glossitis, dermatitis, microcytic anaemia. Depleted by: OCP ★★★, isoniazid, penicillamine, theophylline.</td><td>OCP-related depression/PMS: P5P 25–50mg BD ★★★. Morning sickness in pregnancy: B6 25mg TID ★★★ (first-line WHO recommendation). Neurotransmitter support: P5P (active form — superior to pyridoxine). Toxicity: &gt;200mg/day long-term → peripheral neuropathy (paradoxically). Use P5P not pyridoxine for chronic use.</td></tr>\n      <tr><td><strong>B7 (Biotin)</strong></td><td>Carboxylase cofactor — fatty acid synthesis, gluconeogenesis. Gene expression regulation. Keratin production.</td><td>Hair thinning (most common presenting complaint — though biotin deficiency is overdiagnosed). Brittle nails, seborrhoeic dermatitis, conjunctivitis.</td><td>Hair/nail: 2.5–5mg/day. Note: biotin supplementation falsely elevates thyroid tests and troponin on immunoassay — advise patients to stop biotin 48–72hrs before blood tests. Raw egg whites contain avidin which binds biotin (cooking destroys avidin).</td></tr>\n      <tr><td><strong>B9 (Folate/Methylfolate)</strong></td><td>1-carbon metabolism, DNA synthesis, methylation. Neural tube development. Homocysteine remethylation.</td><td>Megaloblastic anaemia. Neural tube defects (maternal deficiency → spina bifida). Elevated homocysteine. Depression.</td><td>Pregnancy prevention: 400–800mcg methylfolate (NOT folic acid in MTHFR — see below). Megaloblastic anaemia: 5mg/day AFTER confirming B12 adequate. MTHFR C677T/A1298C: use L-methylfolate (5-MTHF) not folic acid.</td></tr>\n      <tr><td><strong>B12 (Cobalamin)</strong></td><td>Myelin synthesis (methylcobalamin). DNA synthesis (adenosylcobalamin). Methylation cycle.</td><td>Megaloblastic anaemia, subacute combined degeneration of cord (posterior columns + lateral), peripheral neuropathy, depression, cognitive decline. Serum B12 lab range is too low (&gt;150 pmol/L) — functional deficiency at 150–300 pmol/L.</td><td>Methylcobalamin preferred (over cyanocobalamin — active form, no cyanide metabolite). Oral: 1000mcg/day. IM hydroxycobalamin: monthly if severe deficiency or absorption failure (atrophic gastritis, gastrectomy, Crohn's, metformin use).</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "nutbio-vits-genomic-nutrition-mthfr-variants",
+      "title": "Genomic Nutrition — MTHFR & Variants",
+      "badge": "Functional",
+      "category": "vits",
+      "section": "nutbio",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Nutrigenomics — Personalised Nutrition Based on Genetics",
+            "text": "Individual genetic variants (SNPs — single nucleotide polymorphisms) alter nutrient metabolism, requirements, and risk of deficiency-related disease. MTHFR is the most clinically actionable example — but other variants (COMT, APOE, VDR, BCMO1) are increasingly relevant in naturopathic practice."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Gene/Variant",
+              "Enzyme/Protein",
+              "Effect",
+              "Clinical Implication"
+            ],
+            "rows": [
+              [
+                "MTHFR C677T",
+                "Methylenetetrahydrofolate reductase — converts folic acid to 5-MTHF (active methylfolate)",
+                "Homozygous (TT): enzyme activity ↓ 70%. Heterozygous (CT): ↓ 40%. High homocysteine if folate/B12/B6 insufficient.",
+                "Use L-methylfolate (5-MTHF) — NOT folic acid (cannot convert). B12 methylcobalamin. Riboflavin (B2 is MTHFR enzyme cofactor). Check homocysteine. Affects: cardiovascular risk, NTD risk, depression, recurrent miscarriage, treatment-resistant depression."
+              ],
+              [
+                "MTHFR A1298C",
+                "Same enzyme — different site",
+                "Less severe effect than C677T alone. Compound heterozygous (C677T + A1298C): significant impairment.",
+                "Same approach as C677T. Compound heterozygotes: more aggressive methylfolate protocol. May need B2 co-factor supplementation."
+              ],
+              [
+                "COMT (Val158Met)",
+                "Catechol-O-methyltransferase — degrades catecholamines (dopamine, adrenaline, noradrenaline) and oestrogen metabolites",
+                "Val/Val (fast COMT): rapid catecholamine breakdown → less anxious, lower oestrogen metabolites. Met/Met (slow COMT): slow breakdown → higher dopamine (better working memory but higher anxiety), elevated 4-OH oestrogen (breast cancer risk).",
+                "Slow COMT + high oestrogen: DIM 200mg, calcium D-glucarate, Vit B2 (COMT requires SAMe and B2 as cofactors). High dopamine from slow COMT: may explain caffeine sensitivity, stress reactivity. Avoid: catechol-rich herbs (green tea, quercetin in excess) in slow COMT."
+              ],
+              [
+                "APOE (ε4 variant)",
+                "Apolipoprotein E — lipid transport, neuronal repair, amyloid clearance",
+                "APOE4: 1 copy = 3× Alzheimer's risk. 2 copies = 12× risk. Also: ↑ LDL, ↑ cardiovascular risk, ↑ omega-3 requirements (needs more DHA for neurological benefit)",
+                "APOE4 carriers: DHA 3g/day (brain protection — APOE4 impairs DHA transport to brain). Curcumin 2g/day (amyloid-clearing). Fasting (ketone bodies bypass impaired glucose metabolism). Avoid: excessive saturated fat (↑ LDL dramatically in APOE4). Ketogenic diet benefit controversial in APOE4."
+              ],
+              [
+                "VDR (Vitamin D Receptor)",
+                "Vit D receptor — determines responsiveness to Vit D",
+                "Multiple VDR variants (FokI, BsmI, TaqI, ApaI). Some variants: ↓ receptor affinity → higher Vit D doses needed for same response. VDR variants associated with: Hashimoto's, MS, T1DM, some cancers.",
+                "Patients with VDR variants may need 5000–10,000 IU Vit D to achieve adequate 25(OH)D levels. Test 25(OH)D and titrate by blood level — not by dose alone."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 MTHFR Testing — Practical Guidance",
+            "text": "MTHFR testing: available through NivoFit, HealthifyMe, SRL Diagnostics, and direct-to-consumer services in India. Cost: ₹2000–5000. More meaningful than testing: serum homocysteine (functional marker of methylation pathway efficiency — target <9 µmol/L). Elevated homocysteine + unexplained cardiovascular risk + depression + recurrent miscarriage + treatment-resistant depression = MTHFR testing and methylation protocol beneficial. Patient communication: \"Your body needs a pre-activated form of folate — it's like your body's GPS needing the right format of map.\" Avoid catastrophising — MTHFR is a SNP, not a disease. With appropriate supplementation, outcomes are excellent."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Nutrigenomics — Personalised Nutrition Based on Genetics</div>Individual genetic variants (SNPs — single nucleotide polymorphisms) alter nutrient metabolism, requirements, and risk of deficiency-related disease. MTHFR is the most clinically actionable example — but other variants (COMT, APOE, VDR, BCMO1) are increasingly relevant in naturopathic practice.</div>\n    <table class=\"tbl\"><thead><tr><th>Gene/Variant</th><th>Enzyme/Protein</th><th>Effect</th><th>Clinical Implication</th></tr></thead><tbody>\n      <tr><td><strong>MTHFR C677T</strong></td><td>Methylenetetrahydrofolate reductase — converts folic acid to 5-MTHF (active methylfolate)</td><td>Homozygous (TT): enzyme activity ↓ 70%. Heterozygous (CT): ↓ 40%. High homocysteine if folate/B12/B6 insufficient.</td><td>Use L-methylfolate (5-MTHF) — NOT folic acid (cannot convert). B12 methylcobalamin. Riboflavin (B2 is MTHFR enzyme cofactor). Check homocysteine. Affects: cardiovascular risk, NTD risk, depression, recurrent miscarriage, treatment-resistant depression.</td></tr>\n      <tr><td><strong>MTHFR A1298C</strong></td><td>Same enzyme — different site</td><td>Less severe effect than C677T alone. Compound heterozygous (C677T + A1298C): significant impairment.</td><td>Same approach as C677T. Compound heterozygotes: more aggressive methylfolate protocol. May need B2 co-factor supplementation.</td></tr>\n      <tr><td><strong>COMT (Val158Met)</strong></td><td>Catechol-O-methyltransferase — degrades catecholamines (dopamine, adrenaline, noradrenaline) and oestrogen metabolites</td><td>Val/Val (fast COMT): rapid catecholamine breakdown → less anxious, lower oestrogen metabolites. Met/Met (slow COMT): slow breakdown → higher dopamine (better working memory but higher anxiety), elevated 4-OH oestrogen (breast cancer risk).</td><td>Slow COMT + high oestrogen: DIM 200mg, calcium D-glucarate, Vit B2 (COMT requires SAMe and B2 as cofactors). High dopamine from slow COMT: may explain caffeine sensitivity, stress reactivity. Avoid: catechol-rich herbs (green tea, quercetin in excess) in slow COMT.</td></tr>\n      <tr><td><strong>APOE (ε4 variant)</strong></td><td>Apolipoprotein E — lipid transport, neuronal repair, amyloid clearance</td><td>APOE4: 1 copy = 3× Alzheimer's risk. 2 copies = 12× risk. Also: ↑ LDL, ↑ cardiovascular risk, ↑ omega-3 requirements (needs more DHA for neurological benefit)</td><td>APOE4 carriers: DHA 3g/day (brain protection — APOE4 impairs DHA transport to brain). Curcumin 2g/day (amyloid-clearing). Fasting (ketone bodies bypass impaired glucose metabolism). Avoid: excessive saturated fat (↑ LDL dramatically in APOE4). Ketogenic diet benefit controversial in APOE4.</td></tr>\n      <tr><td><strong>VDR (Vitamin D Receptor)</strong></td><td>Vit D receptor — determines responsiveness to Vit D</td><td>Multiple VDR variants (FokI, BsmI, TaqI, ApaI). Some variants: ↓ receptor affinity → higher Vit D doses needed for same response. VDR variants associated with: Hashimoto's, MS, T1DM, some cancers.</td><td>Patients with VDR variants may need 5000–10,000 IU Vit D to achieve adequate 25(OH)D levels. Test 25(OH)D and titrate by blood level — not by dose alone.</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 MTHFR Testing — Practical Guidance</div><div class=\"pt\">MTHFR testing: available through NivoFit, HealthifyMe, SRL Diagnostics, and direct-to-consumer services in India. Cost: ₹2000–5000. More meaningful than testing: serum homocysteine (functional marker of methylation pathway efficiency — target &lt;9 µmol/L). Elevated homocysteine + unexplained cardiovascular risk + depression + recurrent miscarriage + treatment-resistant depression = MTHFR testing and methylation protocol beneficial. Patient communication: \"Your body needs a pre-activated form of folate — it's like your body's GPS needing the right format of map.\" Avoid catastrophising — MTHFR is a SNP, not a disease. With appropriate supplementation, outcomes are excellent.</div></div>",
+      "_review": false
+    }
+  ]
+}
