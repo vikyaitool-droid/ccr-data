@@ -1,10 +1,388 @@
 {
+  "schemaVersion": "1.0",
+  "section": "signseponyms",
+  "generatedAt": "2026-04-13T11:50:02.816Z",
+  "cardCount": 4,
   "cards": [
     {
-      "title": "Clinical Signs & Eponyms",
-      "badge": "",
+      "id": "signseponyms-sgn-classic-clinical-signs-cardiovascular-respiratory",
+      "title": "Classic Clinical Signs — Cardiovascular & Respiratory",
+      "badge": "Essential",
       "category": "sgn",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Cardiovascular: Corrigan, Duroziez, De Musset (AR); Kussmaul (cardiac tamponade)</li><li>GI: Murphy (cholecystitis), Rovsing (appendicitis), Cullen & Grey-Turner (pancreatitis)</li><li>Neuro: Kernig, Brudzinski (meningitis); Babinski (UMN)</li><li>Naturopathic: Tongue (coating, colour), Nails (Beau lines, clubbing, Muehrcke)</li></ul></div>"
+      "section": "signseponyms",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Sign",
+              "Description",
+              "Condition",
+              "Sensitivity"
+            ],
+            "rows": [
+              [
+                "Corrigan's pulse",
+                "Bounding, collapsing water-hammer pulse",
+                "Aortic regurgitation",
+                "Moderate"
+              ],
+              [
+                "Duroziez's sign",
+                "Systolic + diastolic murmur over femoral artery",
+                "Aortic regurgitation",
+                "High specificity"
+              ],
+              [
+                "Quincke's sign",
+                "Visible nail bed capillary pulsation",
+                "Aortic regurgitation",
+                "Low"
+              ],
+              [
+                "Ewart's sign",
+                "Dullness + bronchial breathing below left scapula",
+                "Pericardial effusion",
+                "Moderate"
+              ],
+              [
+                "Kussmaul's sign",
+                "JVP rises on inspiration (paradox)",
+                "Constrictive pericarditis, RHF",
+                "High for constrictive"
+              ],
+              [
+                "Trousseau's sign",
+                "Carpal spasm on BP cuff inflation (3 min)",
+                "Hypocalcaemia",
+                "94%"
+              ],
+              [
+                "Chvostek's sign",
+                "Facial twitch on tapping CN VII",
+                "Hypocalcaemia",
+                "29% (low — many false positives)"
+              ],
+              [
+                "Pemberton's sign",
+                "Facial congestion + arm raise (SVC obstruction)",
+                "Retrosternal goitre, mediastinal mass",
+                "High specificity"
+              ],
+              [
+                "Hamman's sign",
+                "Crunching sound synchronous with heartbeat",
+                "Pneumomediastinum",
+                "High specificity"
+              ],
+              [
+                "Tracheal tug (Oliver's)",
+                "Downward tracheal movement on inspiration",
+                "Aortic aneurysm",
+                "Low sensitivity"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Pearl — Trousseau vs Chvostek",
+            "text": "Trousseau's sign (95% sensitive) is FAR more reliable than Chvostek's (29% sensitive, 70% false positive rate — present in 10-25% of normal people). If you suspect hypocalcaemia, rely on Trousseau's: inflate BP cuff 20mmHg above systolic for 3 minutes — carpopedal spasm (main en accoucheur position) = positive."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Sign</th><th>Description</th><th>Condition</th><th>Sensitivity</th></tr></thead><tbody>\n      <tr><td>Corrigan's pulse</td><td>Bounding, collapsing water-hammer pulse</td><td>Aortic regurgitation</td><td>Moderate</td></tr>\n      <tr><td>Duroziez's sign</td><td>Systolic + diastolic murmur over femoral artery</td><td>Aortic regurgitation</td><td>High specificity</td></tr>\n      <tr><td>Quincke's sign</td><td>Visible nail bed capillary pulsation</td><td>Aortic regurgitation</td><td>Low</td></tr>\n      <tr><td>Ewart's sign</td><td>Dullness + bronchial breathing below left scapula</td><td>Pericardial effusion</td><td>Moderate</td></tr>\n      <tr><td>Kussmaul's sign</td><td>JVP rises on inspiration (paradox)</td><td>Constrictive pericarditis, RHF</td><td>High for constrictive</td></tr>\n      <tr><td>Trousseau's sign</td><td>Carpal spasm on BP cuff inflation (3 min)</td><td>Hypocalcaemia</td><td>94%</td></tr>\n      <tr><td>Chvostek's sign</td><td>Facial twitch on tapping CN VII</td><td>Hypocalcaemia</td><td>29% (low — many false positives)</td></tr>\n      <tr><td>Pemberton's sign</td><td>Facial congestion + arm raise (SVC obstruction)</td><td>Retrosternal goitre, mediastinal mass</td><td>High specificity</td></tr>\n      <tr><td>Hamman's sign</td><td>Crunching sound synchronous with heartbeat</td><td>Pneumomediastinum</td><td>High specificity</td></tr>\n      <tr><td>Tracheal tug (Oliver's)</td><td>Downward tracheal movement on inspiration</td><td>Aortic aneurysm</td><td>Low sensitivity</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Pearl — Trousseau vs Chvostek</div><div class=\"pt\">Trousseau's sign (95% sensitive) is FAR more reliable than Chvostek's (29% sensitive, 70% false positive rate — present in 10-25% of normal people). If you suspect hypocalcaemia, rely on Trousseau's: inflate BP cuff 20mmHg above systolic for 3 minutes — carpopedal spasm (main en accoucheur position) = positive.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "signseponyms-sgn-classic-clinical-signs-gi-abdominal",
+      "title": "Classic Clinical Signs — GI & Abdominal",
+      "badge": "Essential",
+      "category": "sgn",
+      "section": "signseponyms",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Sign",
+              "Description",
+              "Condition"
+            ],
+            "rows": [
+              [
+                "Murphy's sign ★",
+                "Inspiratory arrest on deep palpation RUQ",
+                "Acute cholecystitis (97% sensitive)"
+              ],
+              [
+                "McBurney's sign",
+                "Tenderness at 1/3 from ASIS to umbilicus",
+                "Acute appendicitis"
+              ],
+              [
+                "Rovsing's sign",
+                "RIF pain on LIF palpation",
+                "Acute appendicitis"
+              ],
+              [
+                "Psoas sign",
+                "RIF pain on right hip extension",
+                "Retrocaecal appendicitis"
+              ],
+              [
+                "Obturator sign",
+                "RIF pain on internal hip rotation (flexed)",
+                "Pelvic appendicitis"
+              ],
+              [
+                "Cullen's sign",
+                "Periumbilical bruising",
+                "Haemoperitoneum, severe pancreatitis"
+              ],
+              [
+                "Grey Turner's sign",
+                "Flank bruising",
+                "Retroperitoneal haemorrhage, pancreatitis"
+              ],
+              [
+                "Courvoisier's sign",
+                "Palpable non-tender gallbladder + jaundice",
+                "Pancreatic head cancer (NOT stones)"
+              ],
+              [
+                "Sister Mary Joseph's nodule",
+                "Umbilical nodule",
+                "Intra-abdominal malignancy — poor prognosis"
+              ],
+              [
+                "Shifting dullness",
+                "Dullness shifts with position change",
+                "Ascites (>1500ml)"
+              ],
+              [
+                "Fluid thrill",
+                "Transmitted impulse through ascites",
+                "Tense ascites (>2000ml)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Sign</th><th>Description</th><th>Condition</th></tr></thead><tbody>\n      <tr><td>Murphy's sign ★</td><td>Inspiratory arrest on deep palpation RUQ</td><td>Acute cholecystitis (97% sensitive)</td></tr>\n      <tr><td>McBurney's sign</td><td>Tenderness at 1/3 from ASIS to umbilicus</td><td>Acute appendicitis</td></tr>\n      <tr><td>Rovsing's sign</td><td>RIF pain on LIF palpation</td><td>Acute appendicitis</td></tr>\n      <tr><td>Psoas sign</td><td>RIF pain on right hip extension</td><td>Retrocaecal appendicitis</td></tr>\n      <tr><td>Obturator sign</td><td>RIF pain on internal hip rotation (flexed)</td><td>Pelvic appendicitis</td></tr>\n      <tr><td>Cullen's sign</td><td>Periumbilical bruising</td><td>Haemoperitoneum, severe pancreatitis</td></tr>\n      <tr><td>Grey Turner's sign</td><td>Flank bruising</td><td>Retroperitoneal haemorrhage, pancreatitis</td></tr>\n      <tr><td>Courvoisier's sign</td><td>Palpable non-tender gallbladder + jaundice</td><td>Pancreatic head cancer (NOT stones)</td></tr>\n      <tr><td>Sister Mary Joseph's nodule</td><td>Umbilical nodule</td><td>Intra-abdominal malignancy — poor prognosis</td></tr>\n      <tr><td>Shifting dullness</td><td>Dullness shifts with position change</td><td>Ascites (&gt;1500ml)</td></tr>\n      <tr><td>Fluid thrill</td><td>Transmitted impulse through ascites</td><td>Tense ascites (&gt;2000ml)</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "signseponyms-sgn-neurological-msk-clinical-signs",
+      "title": "Neurological & MSK Clinical Signs",
+      "badge": "Essential",
+      "category": "sgn",
+      "section": "signseponyms",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Sign",
+              "Test",
+              "Positive Finding",
+              "Condition"
+            ],
+            "rows": [
+              [
+                "Babinski's sign ★",
+                "Stroke lateral sole of foot",
+                "Upgoing hallux (extensor plantar)",
+                "UMN lesion (normal in infants <2yr)"
+              ],
+              [
+                "Romberg's sign",
+                "Stand feet together, eyes closed",
+                "Swaying/falling with eyes closed only",
+                "Posterior column lesion, sensory ataxia"
+              ],
+              [
+                "Kernig's sign",
+                "Hip flexed 90°, extend knee",
+                "Resistance/pain at <135° extension",
+                "Meningeal irritation, meningitis"
+              ],
+              [
+                "Brudzinski's sign",
+                "Passive neck flexion",
+                "Involuntary hip/knee flexion",
+                "Meningeal irritation"
+              ],
+              [
+                "Lhermitte's sign",
+                "Neck flexion",
+                "Electric shock down spine",
+                "Multiple sclerosis, cervical myelopathy"
+              ],
+              [
+                "Lasègue's sign (SLR)",
+                "Straight leg raise 30–70°",
+                "Radicular pain below knee",
+                "L4/L5/S1 disc herniation (80% sensitive)"
+              ],
+              [
+                "Spurling's test",
+                "Neck extension + lateral bend + axial load",
+                "Ipsilateral arm radiculopathy",
+                "Cervical nerve root compression"
+              ],
+              [
+                "Phalen's sign",
+                "Wrist flexion held 60 sec",
+                "Paraesthesia in median nerve distribution",
+                "Carpal tunnel syndrome (75% sensitive)"
+              ],
+              [
+                "Tinel's sign",
+                "Percussion over carpal tunnel",
+                "Tingling in median nerve distribution",
+                "Carpal tunnel (67% sensitive)"
+              ],
+              [
+                "Finkelstein's test",
+                "Thumb tucked, ulnar deviation wrist",
+                "Severe radial wrist pain",
+                "De Quervain's tenosynovitis"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 UMN vs LMN Signs",
+            "text": "UMN (above spinal cord): spasticity, hyperreflexia, upgoing plantar, clonus, no wasting. LMN (at or below cord): flaccidity, hyporeflexia, downgoing plantar, fasciculations, wasting. Babinski's positive = UMN lesion ANYWHERE above L1. In isolation after stroke: ipsilateral weakness + contralateral Babinski = crossed signs = brainstem lesion."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Sign</th><th>Test</th><th>Positive Finding</th><th>Condition</th></tr></thead><tbody>\n      <tr><td>Babinski's sign ★</td><td>Stroke lateral sole of foot</td><td>Upgoing hallux (extensor plantar)</td><td>UMN lesion (normal in infants &lt;2yr)</td></tr>\n      <tr><td>Romberg's sign</td><td>Stand feet together, eyes closed</td><td>Swaying/falling with eyes closed only</td><td>Posterior column lesion, sensory ataxia</td></tr>\n      <tr><td>Kernig's sign</td><td>Hip flexed 90°, extend knee</td><td>Resistance/pain at &lt;135° extension</td><td>Meningeal irritation, meningitis</td></tr>\n      <tr><td>Brudzinski's sign</td><td>Passive neck flexion</td><td>Involuntary hip/knee flexion</td><td>Meningeal irritation</td></tr>\n      <tr><td>Lhermitte's sign</td><td>Neck flexion</td><td>Electric shock down spine</td><td>Multiple sclerosis, cervical myelopathy</td></tr>\n      <tr><td>Lasègue's sign (SLR)</td><td>Straight leg raise 30–70°</td><td>Radicular pain below knee</td><td>L4/L5/S1 disc herniation (80% sensitive)</td></tr>\n      <tr><td>Spurling's test</td><td>Neck extension + lateral bend + axial load</td><td>Ipsilateral arm radiculopathy</td><td>Cervical nerve root compression</td></tr>\n      <tr><td>Phalen's sign</td><td>Wrist flexion held 60 sec</td><td>Paraesthesia in median nerve distribution</td><td>Carpal tunnel syndrome (75% sensitive)</td></tr>\n      <tr><td>Tinel's sign</td><td>Percussion over carpal tunnel</td><td>Tingling in median nerve distribution</td><td>Carpal tunnel (67% sensitive)</td></tr>\n      <tr><td>Finkelstein's test</td><td>Thumb tucked, ulnar deviation wrist</td><td>Severe radial wrist pain</td><td>De Quervain's tenosynovitis</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 UMN vs LMN Signs</div><div class=\"pt\">UMN (above spinal cord): spasticity, hyperreflexia, upgoing plantar, clonus, no wasting. LMN (at or below cord): flaccidity, hyporeflexia, downgoing plantar, fasciculations, wasting. Babinski's positive = UMN lesion ANYWHERE above L1. In isolation after stroke: ipsilateral weakness + contralateral Babinski = crossed signs = brainstem lesion.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "signseponyms-sgn-naturopathic-diagnostic-signs-tongue-nail-eye",
+      "title": "Naturopathic Diagnostic Signs — Tongue, Nail & Eye",
+      "badge": "BNYS Specific",
+      "category": "sgn",
+      "section": "signseponyms",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Finding",
+              "Location",
+              "Naturopathic Significance",
+              "Consider"
+            ],
+            "rows": [
+              [
+                "Pale tongue",
+                "Whole tongue",
+                "Blood deficiency, anaemia, cold",
+                "Iron, B12, folate deficiency"
+              ],
+              [
+                "Red tongue, no coat",
+                "Whole tongue",
+                "Yin deficiency, heat excess",
+                "Dehydration, fever, hyperthyroidism"
+              ],
+              [
+                "Geographic tongue",
+                "Patchy coating loss",
+                "Digestive weakness, stress",
+                "Nutritional deficiency, IBS"
+              ],
+              [
+                "Thick white coat",
+                "Posterior tongue",
+                "Dampness, digestive accumulation",
+                "Candida, SIBO, low HCl"
+              ],
+              [
+                "Yellow coat",
+                "Posterior tongue",
+                "Heat, liver/gallbladder stress",
+                "Hepatobiliary issue, infection"
+              ],
+              [
+                "Cracks/fissures",
+                "Centre of tongue",
+                "Stomach Yin deficiency",
+                "Chronic gastritis, stress"
+              ],
+              [
+                "Koilonychia",
+                "Spoon-shaped nails",
+                "Iron deficiency anaemia",
+                "Ferritin, CBC"
+              ],
+              [
+                "Leukonychia",
+                "White spots/bands",
+                "Zinc deficiency (popular belief — evidence weak)",
+                "Zinc, minor trauma"
+              ],
+              [
+                "Beau's lines",
+                "Transverse ridges",
+                "Systemic illness, severe stress, malnutrition",
+                "Timeline: 1mm = 1 month of growth"
+              ],
+              [
+                "Clubbing",
+                "Nail angle >180°",
+                "Chronic hypoxia, liver disease",
+                "CXR, LFTs, SpO2 — refer"
+              ],
+              [
+                "Arcus senilis",
+                "Grey ring around iris",
+                "Lipid deposition — cardiovascular risk",
+                "Fasting lipid profile if <50 years"
+              ],
+              [
+                "Xanthelasma",
+                "Yellow plaques eyelids",
+                "Hypercholesterolaemia",
+                "Lipid profile — 50% have dyslipidaemia"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Finding</th><th>Location</th><th>Naturopathic Significance</th><th>Consider</th></tr></thead><tbody>\n      <tr><td>Pale tongue</td><td>Whole tongue</td><td>Blood deficiency, anaemia, cold</td><td>Iron, B12, folate deficiency</td></tr>\n      <tr><td>Red tongue, no coat</td><td>Whole tongue</td><td>Yin deficiency, heat excess</td><td>Dehydration, fever, hyperthyroidism</td></tr>\n      <tr><td>Geographic tongue</td><td>Patchy coating loss</td><td>Digestive weakness, stress</td><td>Nutritional deficiency, IBS</td></tr>\n      <tr><td>Thick white coat</td><td>Posterior tongue</td><td>Dampness, digestive accumulation</td><td>Candida, SIBO, low HCl</td></tr>\n      <tr><td>Yellow coat</td><td>Posterior tongue</td><td>Heat, liver/gallbladder stress</td><td>Hepatobiliary issue, infection</td></tr>\n      <tr><td>Cracks/fissures</td><td>Centre of tongue</td><td>Stomach Yin deficiency</td><td>Chronic gastritis, stress</td></tr>\n      <tr><td>Koilonychia</td><td>Spoon-shaped nails</td><td>Iron deficiency anaemia</td><td>Ferritin, CBC</td></tr>\n      <tr><td>Leukonychia</td><td>White spots/bands</td><td>Zinc deficiency (popular belief — evidence weak)</td><td>Zinc, minor trauma</td></tr>\n      <tr><td>Beau's lines</td><td>Transverse ridges</td><td>Systemic illness, severe stress, malnutrition</td><td>Timeline: 1mm = 1 month of growth</td></tr>\n      <tr><td>Clubbing</td><td>Nail angle &gt;180°</td><td>Chronic hypoxia, liver disease</td><td>CXR, LFTs, SpO2 — refer</td></tr>\n      <tr><td>Arcus senilis</td><td>Grey ring around iris</td><td>Lipid deposition — cardiovascular risk</td><td>Fasting lipid profile if &lt;50 years</td></tr>\n      <tr><td>Xanthelasma</td><td>Yellow plaques eyelids</td><td>Hypercholesterolaemia</td><td>Lipid profile — 50% have dyslipidaemia</td></tr>\n    </tbody></table>",
+      "_review": false
     }
   ]
 }
