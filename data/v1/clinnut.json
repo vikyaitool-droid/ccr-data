@@ -1,0 +1,720 @@
+{
+  "schemaVersion": "1.0",
+  "section": "clinnut",
+  "generatedAt": "2026-04-13T11:55:50.026Z",
+  "cardCount": 9,
+  "cards": [
+    {
+      "id": "clinnut-nut-therapeutic-diets-overview-selection",
+      "title": "Therapeutic Diets — Overview & Selection",
+      "badge": "Foundation",
+      "category": "nut",
+      "section": "clinnut",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Core Principle",
+            "text": "Diet is the most powerful tool in naturopathic medicine. The right therapeutic diet can reverse disease; the wrong one can worsen it. Selection must be based on diagnosis, constitution, digestive capacity, and patient preference."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Diet",
+              "Primary Use",
+              "Key Feature",
+              "Duration"
+            ],
+            "rows": [
+              [
+                "Anti-inflammatory",
+                "Autoimmune, arthritis, CVD, cancer prevention",
+                "Omega-3 rich, colourful vegetables, spices",
+                "Lifelong"
+              ],
+              [
+                "Elimination diet",
+                "Food allergy/intolerance, IBS, eczema, migraine",
+                "Remove gluten, dairy, eggs, soy, nuts sequentially",
+                "3–6 weeks + reintroduction"
+              ],
+              [
+                "Ketogenic",
+                "Epilepsy, T2DM, obesity, PCOS, NAFLD",
+                "<50g carbs/day, 70% fat, ketosis",
+                "3–6 months supervised"
+              ],
+              [
+                "GAPS diet",
+                "Autism, IBS, leaky gut, psychiatric conditions",
+                "Bone broth, ferments, removes grains/sugar",
+                "6–24 months"
+              ],
+              [
+                "Low-FODMAP",
+                "IBS, SIBO, IBD, functional bloating",
+                "Eliminates fermentable carbohydrates",
+                "6–8 weeks restriction + reintroduction"
+              ],
+              [
+                "Mediterranean",
+                "CVD, T2DM, MetS, depression, longevity",
+                "Olive oil, fish, vegetables, legumes, whole grains",
+                "Lifelong"
+              ],
+              [
+                "Plant-based/vegan",
+                "CVD, T2DM, obesity, cancer prevention",
+                "No animal products — supplement B12, D3, omega-3",
+                "Lifelong"
+              ],
+              [
+                "Renal diet",
+                "CKD stages 3–5",
+                "Low potassium, phosphorus, sodium, protein",
+                "Ongoing with monitoring"
+              ],
+              [
+                "Diabetic diet",
+                "T1DM, T2DM, gestational diabetes",
+                "Low GI, consistent carbs, high fibre",
+                "Lifelong"
+              ],
+              [
+                "Cardiac diet",
+                "Post-MI, heart failure, hyperlipidaemia",
+                "Low saturated fat, sodium <2g/day, soluble fibre",
+                "Lifelong"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Core Principle</div>Diet is the most powerful tool in naturopathic medicine. The right therapeutic diet can reverse disease; the wrong one can worsen it. Selection must be based on diagnosis, constitution, digestive capacity, and patient preference.</div>\n    <table class=\"tbl\"><thead><tr><th>Diet</th><th>Primary Use</th><th>Key Feature</th><th>Duration</th></tr></thead><tbody>\n      <tr><td>Anti-inflammatory</td><td>Autoimmune, arthritis, CVD, cancer prevention</td><td>Omega-3 rich, colourful vegetables, spices</td><td>Lifelong</td></tr>\n      <tr><td>Elimination diet</td><td>Food allergy/intolerance, IBS, eczema, migraine</td><td>Remove gluten, dairy, eggs, soy, nuts sequentially</td><td>3–6 weeks + reintroduction</td></tr>\n      <tr><td>Ketogenic</td><td>Epilepsy, T2DM, obesity, PCOS, NAFLD</td><td>&lt;50g carbs/day, 70% fat, ketosis</td><td>3–6 months supervised</td></tr>\n      <tr><td>GAPS diet</td><td>Autism, IBS, leaky gut, psychiatric conditions</td><td>Bone broth, ferments, removes grains/sugar</td><td>6–24 months</td></tr>\n      <tr><td>Low-FODMAP</td><td>IBS, SIBO, IBD, functional bloating</td><td>Eliminates fermentable carbohydrates</td><td>6–8 weeks restriction + reintroduction</td></tr>\n      <tr><td>Mediterranean</td><td>CVD, T2DM, MetS, depression, longevity</td><td>Olive oil, fish, vegetables, legumes, whole grains</td><td>Lifelong</td></tr>\n      <tr><td>Plant-based/vegan</td><td>CVD, T2DM, obesity, cancer prevention</td><td>No animal products — supplement B12, D3, omega-3</td><td>Lifelong</td></tr>\n      <tr><td>Renal diet</td><td>CKD stages 3–5</td><td>Low potassium, phosphorus, sodium, protein</td><td>Ongoing with monitoring</td></tr>\n      <tr><td>Diabetic diet</td><td>T1DM, T2DM, gestational diabetes</td><td>Low GI, consistent carbs, high fibre</td><td>Lifelong</td></tr>\n      <tr><td>Cardiac diet</td><td>Post-MI, heart failure, hyperlipidaemia</td><td>Low saturated fat, sodium &lt;2g/day, soluble fibre</td><td>Lifelong</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "clinnut-nut-anti-inflammatory-diet-clinical-protocol",
+      "title": "Anti-Inflammatory Diet — Clinical Protocol",
+      "badge": "Most Used",
+      "category": "nut",
+      "section": "clinnut",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Category",
+              "Include (daily)",
+              "Reduce/Avoid"
+            ],
+            "rows": [
+              [
+                "Fats",
+                "Extra virgin olive oil, avocado, walnuts, flaxseed",
+                "Trans fats, refined vegetable oils (sunflower, corn)"
+              ],
+              [
+                "Protein",
+                "Oily fish (salmon, sardines, mackerel) 3x/week, legumes, tofu",
+                "Processed meat, red meat >2x/week"
+              ],
+              [
+                "Carbohydrates",
+                "Whole grains, sweet potato, quinoa, oats",
+                "White flour, white rice, sugary foods, soft drinks"
+              ],
+              [
+                "Vegetables",
+                "5+ servings colourful veg (broccoli, spinach, beetroot, turmeric)",
+                "Deep-fried vegetables"
+              ],
+              [
+                "Fruits",
+                "Berries (blueberry, pomegranate), citrus, papaya, amla",
+                "Fruit juices, canned fruits in syrup"
+              ],
+              [
+                "Spices ★",
+                "Turmeric 1tsp + black pepper daily, ginger, cinnamon, garlic",
+                "Excess salt (>5g/day)"
+              ],
+              [
+                "Drinks",
+                "Green tea 2–3 cups, water 2.5–3L, herbal teas",
+                "Alcohol, cola, excessive coffee"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Pearl — Turmeric Protocol",
+            "text": "Curcumin bioavailability is only 1% alone. Must combine with: (1) Black pepper (piperine) — increases absorption 2000%. (2) Fat — dissolves in lipids. (3) Heat — improves solubility. Standard clinical dose: 500–1000mg curcumin with piperine and fat-containing meal. Equivalent food dose: 1 tsp turmeric powder in golden milk with black pepper and coconut milk."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Category</th><th>Include (daily)</th><th>Reduce/Avoid</th></tr></thead><tbody>\n      <tr><td>Fats</td><td>Extra virgin olive oil, avocado, walnuts, flaxseed</td><td>Trans fats, refined vegetable oils (sunflower, corn)</td></tr>\n      <tr><td>Protein</td><td>Oily fish (salmon, sardines, mackerel) 3x/week, legumes, tofu</td><td>Processed meat, red meat &gt;2x/week</td></tr>\n      <tr><td>Carbohydrates</td><td>Whole grains, sweet potato, quinoa, oats</td><td>White flour, white rice, sugary foods, soft drinks</td></tr>\n      <tr><td>Vegetables</td><td>5+ servings colourful veg (broccoli, spinach, beetroot, turmeric)</td><td>Deep-fried vegetables</td></tr>\n      <tr><td>Fruits</td><td>Berries (blueberry, pomegranate), citrus, papaya, amla</td><td>Fruit juices, canned fruits in syrup</td></tr>\n      <tr><td>Spices ★</td><td>Turmeric 1tsp + black pepper daily, ginger, cinnamon, garlic</td><td>Excess salt (&gt;5g/day)</td></tr>\n      <tr><td>Drinks</td><td>Green tea 2–3 cups, water 2.5–3L, herbal teas</td><td>Alcohol, cola, excessive coffee</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Pearl — Turmeric Protocol</div><div class=\"pt\">Curcumin bioavailability is only 1% alone. Must combine with: (1) Black pepper (piperine) — increases absorption 2000%. (2) Fat — dissolves in lipids. (3) Heat — improves solubility. Standard clinical dose: 500–1000mg curcumin with piperine and fat-containing meal. Equivalent food dose: 1 tsp turmeric powder in golden milk with black pepper and coconut milk.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "clinnut-nut-elimination-diet-step-by-step-protocol",
+      "title": "Elimination Diet — Step-by-Step Protocol",
+      "badge": "IBS · Allergy",
+      "category": "nut",
+      "section": "clinnut",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [],
+        "pearls": [
+          {
+            "label": "🟡 Pearl",
+            "text": "Herxheimer reaction (detox reaction) is common in first 3–7 days: headache, fatigue, irritability, skin breakouts, loose stools. Warn patients beforehand. It typically resolves by day 5–7 and is a sign of detoxification, not intolerance. Ensure 3L water/day and adequate fibre during this phase."
+          }
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Phase 1 — Elimination (3 weeks)",
+            "text": "Remove ALL of: gluten (wheat, rye, barley), dairy, eggs, soy, corn, peanuts, tree nuts, shellfish, nightshades (tomato, pepper, potato, eggplant), alcohol, caffeine, processed food, refined sugar."
+          },
+          {
+            "n": 2,
+            "title": "Safe Foods During Elimination",
+            "text": "Rice, millet, sweet potato, all vegetables (except nightshades), most fruits, chicken, fish (non-shellfish), lamb, olive oil, coconut oil, rice milk, herbal teas."
+          },
+          {
+            "n": 3,
+            "title": "Phase 2 — Reintroduction (1 food every 3 days)",
+            "text": "Reintroduce one eliminated food every 3 days. Eat it 2–3x on day 1, then observe days 2–3. Document: digestive symptoms, skin changes, energy, mood, joint pain, nasal symptoms."
+          },
+          {
+            "n": 4,
+            "title": "Reintroduction Order",
+            "text": "Least allergenic first: gluten-free grains → legumes → nightshades → eggs → dairy → nuts → gluten. Leave gluten and dairy last as most commonly reactive."
+          },
+          {
+            "n": 5,
+            "title": "Phase 3 — Personalised Diet",
+            "text": "Create patient-specific diet excluding identified reactive foods. Review every 6 months — some intolerances are temporary (leaky gut, dysbiosis-related) and resolve with gut healing."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">1</div><div class=\"st\"><span class=\"sh\">Phase 1 — Elimination (3 weeks)</span> Remove ALL of: gluten (wheat, rye, barley), dairy, eggs, soy, corn, peanuts, tree nuts, shellfish, nightshades (tomato, pepper, potato, eggplant), alcohol, caffeine, processed food, refined sugar.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">2</div><div class=\"st\"><span class=\"sh\">Safe Foods During Elimination</span> Rice, millet, sweet potato, all vegetables (except nightshades), most fruits, chicken, fish (non-shellfish), lamb, olive oil, coconut oil, rice milk, herbal teas.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">3</div><div class=\"st\"><span class=\"sh\">Phase 2 — Reintroduction (1 food every 3 days)</span> Reintroduce one eliminated food every 3 days. Eat it 2–3x on day 1, then observe days 2–3. Document: digestive symptoms, skin changes, energy, mood, joint pain, nasal symptoms.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">4</div><div class=\"st\"><span class=\"sh\">Reintroduction Order</span> Least allergenic first: gluten-free grains → legumes → nightshades → eggs → dairy → nuts → gluten. Leave gluten and dairy last as most commonly reactive.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">5</div><div class=\"st\"><span class=\"sh\">Phase 3 — Personalised Diet</span> Create patient-specific diet excluding identified reactive foods. Review every 6 months — some intolerances are temporary (leaky gut, dysbiosis-related) and resolve with gut healing.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Pearl</div><div class=\"pt\">Herxheimer reaction (detox reaction) is common in first 3–7 days: headache, fatigue, irritability, skin breakouts, loose stools. Warn patients beforehand. It typically resolves by day 5–7 and is a sign of detoxification, not intolerance. Ensure 3L water/day and adequate fibre during this phase.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "clinnut-nut-low-fodmap-diet-clinical-guide",
+      "title": "Low-FODMAP Diet — Clinical Guide",
+      "badge": "IBS · SIBO",
+      "category": "nut",
+      "section": "clinnut",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "FODMAP = Fermentable Oligosaccharides Disaccharides Monosaccharides And Polyols",
+            "text": "These are short-chain carbohydrates that are poorly absorbed in small intestine → fermented by gut bacteria → gas, bloating, pain, altered bowel habit."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "FODMAP Type",
+              "High (Avoid)",
+              "Low (Safe)"
+            ],
+            "rows": [
+              [
+                "Oligosaccharides (fructans/GOS)",
+                "Wheat, garlic, onion, legumes, cashews",
+                "Rice, oats (GF), quinoa, canned/rinsed chickpeas"
+              ],
+              [
+                "Disaccharides (lactose)",
+                "Milk, yoghurt, soft cheese, ice cream",
+                "Hard cheese, lactose-free milk, almond milk"
+              ],
+              [
+                "Monosaccharides (fructose)",
+                "Apple, mango, honey, HFCS, asparagus",
+                "Banana, blueberry, strawberry, orange, maple syrup"
+              ],
+              [
+                "Polyols (sorbitol/mannitol)",
+                "Stone fruits (peach, plum), mushrooms, cauliflower, sugar-free gum",
+                "Carrot, cucumber, zucchini, pineapple"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Key Pearl",
+            "text": "Garlic and onion are the most common FODMAP triggers — even small amounts cause symptoms. Safe alternatives: garlic-infused oil (FODMAP does not leach into oil), chives, green onion tops only (not the white bulb). Low-FODMAP reduces IBS symptoms in 70–75% of patients within 2 weeks. Always reintroduce after 6–8 weeks — lifelong restriction causes dysbiosis."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">FODMAP = Fermentable Oligosaccharides Disaccharides Monosaccharides And Polyols</div>These are short-chain carbohydrates that are poorly absorbed in small intestine → fermented by gut bacteria → gas, bloating, pain, altered bowel habit.</div>\n    <table class=\"tbl\"><thead><tr><th>FODMAP Type</th><th>High (Avoid)</th><th>Low (Safe)</th></tr></thead><tbody>\n      <tr><td>Oligosaccharides (fructans/GOS)</td><td>Wheat, garlic, onion, legumes, cashews</td><td>Rice, oats (GF), quinoa, canned/rinsed chickpeas</td></tr>\n      <tr><td>Disaccharides (lactose)</td><td>Milk, yoghurt, soft cheese, ice cream</td><td>Hard cheese, lactose-free milk, almond milk</td></tr>\n      <tr><td>Monosaccharides (fructose)</td><td>Apple, mango, honey, HFCS, asparagus</td><td>Banana, blueberry, strawberry, orange, maple syrup</td></tr>\n      <tr><td>Polyols (sorbitol/mannitol)</td><td>Stone fruits (peach, plum), mushrooms, cauliflower, sugar-free gum</td><td>Carrot, cucumber, zucchini, pineapple</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Key Pearl</div><div class=\"pt\">Garlic and onion are the most common FODMAP triggers — even small amounts cause symptoms. Safe alternatives: garlic-infused oil (FODMAP does not leach into oil), chives, green onion tops only (not the white bulb). Low-FODMAP reduces IBS symptoms in 70–75% of patients within 2 weeks. Always reintroduce after 6–8 weeks — lifelong restriction causes dysbiosis.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "clinnut-nut-ketogenic-plant-based-diets-clinical-protocols",
+      "title": "Ketogenic & Plant-Based Diets — Clinical Protocols",
+      "badge": "Therapeutic Diet",
+      "category": "nut",
+      "section": "clinnut",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Keto Macros: 70–75% fat, 20–25% protein, 5% carbs (<50g/day)",
+            "text": "Induces nutritional ketosis (0.5–3.0 mmol/L) within 2–7 days. Fat = primary fuel."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Indication",
+              "Evidence",
+              "Protocol Note"
+            ],
+            "rows": [
+              [
+                "Epilepsy (drug-resistant) ★",
+                "★★★★ Grade A — 50% seizure reduction in 50%",
+                "4:1 fat:protein+carb. Strict supervision: neurologist + dietitian."
+              ],
+              [
+                "Type 2 Diabetes",
+                "★★★★ Strong",
+                "<30g carbs/day. Monitor medications — hypoglycaemia risk."
+              ],
+              [
+                "Obesity/Metabolic syndrome",
+                "★★★★ Short-term strong. Long-term adherence challenging.",
+                "Whole-foods approach. Not processed \"keto snacks\"."
+              ],
+              [
+                "PCOS",
+                "★★★ Good",
+                "6 months supervised. Reduces androgens, restores ovulation."
+              ],
+              [
+                "NAFLD",
+                "★★★ Good",
+                "Significant hepatic fat loss within 2 weeks. Monitor LFTs."
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Nutrient",
+              "Risk",
+              "Supplement Protocol"
+            ],
+            "rows": [
+              [
+                "B12 ★",
+                "HIGH — only in animal foods",
+                "Methylcobalamin 1000mcg/day sublingual — ESSENTIAL, never optional"
+              ],
+              [
+                "Omega-3 DHA/EPA",
+                "HIGH — ALA converts only 5–10%",
+                "Algae-derived DHA+EPA 250–500mg/day (preferred over fish oil)"
+              ],
+              [
+                "Iron",
+                "MODERATE — non-haem less bioavailable",
+                "Monitor ferritin annually. Bisglycinate 25mg + Vit C if ferritin <40"
+              ],
+              [
+                "Zinc",
+                "MODERATE — phytates reduce absorption",
+                "Zinc bisglycinate 15–25mg/day if deficient"
+              ],
+              [
+                "Iodine",
+                "HIGH — dairy was major source",
+                "Iodine supplement 150mcg/day (avoid variable kelp)"
+              ],
+              [
+                "Vit D3",
+                "HIGH",
+                "Lichen-derived D3 (vegan) 2000–4000 IU/day"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Keto Flu (Days 1–7) Management",
+            "text": "Electrolyte loss causes: headache, fatigue, muscle cramps. Prevention: sodium 3–5g/day (salt generously or bouillon broth), potassium from avocado/leafy greens, magnesium glycinate 400mg/day, 3L water/day. Contraindications: pyruvate carboxylase deficiency, porphyria, fat oxidation disorders, CKD (high protein load), pancreatitis, eating disorder history."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div style=\"font-weight:700;color:var(--em-dk);margin-bottom:6px\">KETOGENIC DIET</div>\n    <div class=\"alert a-grn\"><div class=\"a-label\">Keto Macros: 70–75% fat, 20–25% protein, 5% carbs (&lt;50g/day)</div>Induces nutritional ketosis (0.5–3.0 mmol/L) within 2–7 days. Fat = primary fuel.</div>\n    <table class=\"tbl\"><thead><tr><th>Indication</th><th>Evidence</th><th>Protocol Note</th></tr></thead><tbody>\n      <tr><td>Epilepsy (drug-resistant) ★</td><td>★★★★ Grade A — 50% seizure reduction in 50%</td><td>4:1 fat:protein+carb. Strict supervision: neurologist + dietitian.</td></tr>\n      <tr><td>Type 2 Diabetes</td><td>★★★★ Strong</td><td>&lt;30g carbs/day. Monitor medications — hypoglycaemia risk.</td></tr>\n      <tr><td>Obesity/Metabolic syndrome</td><td>★★★★ Short-term strong. Long-term adherence challenging.</td><td>Whole-foods approach. Not processed \"keto snacks\".</td></tr>\n      <tr><td>PCOS</td><td>★★★ Good</td><td>6 months supervised. Reduces androgens, restores ovulation.</td></tr>\n      <tr><td>NAFLD</td><td>★★★ Good</td><td>Significant hepatic fat loss within 2 weeks. Monitor LFTs.</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Keto Flu (Days 1–7) Management</div><div class=\"pt\">Electrolyte loss causes: headache, fatigue, muscle cramps. Prevention: sodium 3–5g/day (salt generously or bouillon broth), potassium from avocado/leafy greens, magnesium glycinate 400mg/day, 3L water/day. Contraindications: pyruvate carboxylase deficiency, porphyria, fat oxidation disorders, CKD (high protein load), pancreatitis, eating disorder history.</div></div>\n    <div style=\"font-weight:700;color:var(--em-dk);margin:12px 0 6px\">PLANT-BASED / VEGAN DIET — Essential Supplements</div>\n    <table class=\"tbl\"><thead><tr><th>Nutrient</th><th>Risk</th><th>Supplement Protocol</th></tr></thead><tbody>\n      <tr><td>B12 ★</td><td>HIGH — only in animal foods</td><td>Methylcobalamin 1000mcg/day sublingual — ESSENTIAL, never optional</td></tr>\n      <tr><td>Omega-3 DHA/EPA</td><td>HIGH — ALA converts only 5–10%</td><td>Algae-derived DHA+EPA 250–500mg/day (preferred over fish oil)</td></tr>\n      <tr><td>Iron</td><td>MODERATE — non-haem less bioavailable</td><td>Monitor ferritin annually. Bisglycinate 25mg + Vit C if ferritin &lt;40</td></tr>\n      <tr><td>Zinc</td><td>MODERATE — phytates reduce absorption</td><td>Zinc bisglycinate 15–25mg/day if deficient</td></tr>\n      <tr><td>Iodine</td><td>HIGH — dairy was major source</td><td>Iodine supplement 150mcg/day (avoid variable kelp)</td></tr>\n      <tr><td>Vit D3</td><td>HIGH</td><td>Lichen-derived D3 (vegan) 2000–4000 IU/day</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "clinnut-nut-renal-cardiac-diabetic-therapeutic-diets",
+      "title": "Renal, Cardiac & Diabetic Therapeutic Diets",
+      "badge": "Therapeutic Diet",
+      "category": "nut",
+      "section": "clinnut",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Nutrient",
+              "Target",
+              "Practical Guidance"
+            ],
+            "rows": [
+              [
+                "Protein",
+                "0.6–0.8g/kg/day",
+                "Emphasise plant protein — less phosphate, less acid load. Avoid high-protein supplements."
+              ],
+              [
+                "Potassium ★",
+                "<2000mg/day",
+                "AVOID: banana, potato skin, tomato, orange, dried fruits. SAFE: apple, grapes, white rice, bread."
+              ],
+              [
+                "Phosphorus ★",
+                "<800mg/day",
+                "Avoid: dairy, cola drinks, processed foods (phosphate additives E338–341), nuts, seeds."
+              ],
+              [
+                "Sodium",
+                "<2g/day",
+                "No added salt. Avoid processed foods, canned foods, pickles, sauces."
+              ],
+              [
+                "Star fruit ★",
+                "ABSOLUTELY CONTRAINDICATED",
+                "Fatal neurotoxicity in CKD patients — even a small amount can cause death."
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Target",
+              "Intervention"
+            ],
+            "rows": [
+              [
+                "Sodium",
+                "<2g/day (HF: <1.5g/day). Hidden sodium: bread, processed meats, sauces, restaurant food."
+              ],
+              [
+                "Omega-3",
+                "Oily fish 2–3x/week (salmon, sardines, mackerel) or EPA+DHA 1–4g/day supplement"
+              ],
+              [
+                "Fibre",
+                "25–35g soluble fibre (oats, legumes, psyllium) — LDL ↓ 5–10%"
+              ],
+              [
+                "Plant sterols",
+                "2g/day from fortified foods or supplements — LDL ↓ 10–15%"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Plate Method",
+            "text": "Half plate = non-starchy vegetables. Quarter plate = lean protein (fish, chicken, legumes, tofu). Quarter plate = complex carbs (brown rice, quinoa, sweet potato, oats). Eat protein and fat BEFORE carbs at each meal — slows glucose absorption significantly. Post-meal 15-min walk reduces postprandial glucose 30%. Avoid: sugary drinks (single most impactful elimination), white rice and bread, processed food, fruit juices. Consistent carbohydrate distribution across meals. Intermittent fasting 16:8 (not if on insulin — hypoglycaemia risk)."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div style=\"font-weight:700;color:var(--em-dk);margin-bottom:6px\">RENAL DIET (CKD Stages 3–5)</div>\n    <table class=\"tbl\"><thead><tr><th>Nutrient</th><th>Target</th><th>Practical Guidance</th></tr></thead><tbody>\n      <tr><td>Protein</td><td>0.6–0.8g/kg/day</td><td>Emphasise plant protein — less phosphate, less acid load. Avoid high-protein supplements.</td></tr>\n      <tr><td>Potassium ★</td><td>&lt;2000mg/day</td><td>AVOID: banana, potato skin, tomato, orange, dried fruits. SAFE: apple, grapes, white rice, bread.</td></tr>\n      <tr><td>Phosphorus ★</td><td>&lt;800mg/day</td><td>Avoid: dairy, cola drinks, processed foods (phosphate additives E338–341), nuts, seeds.</td></tr>\n      <tr><td>Sodium</td><td>&lt;2g/day</td><td>No added salt. Avoid processed foods, canned foods, pickles, sauces.</td></tr>\n      <tr><td>Star fruit ★</td><td>ABSOLUTELY CONTRAINDICATED</td><td>Fatal neurotoxicity in CKD patients — even a small amount can cause death.</td></tr>\n    </tbody></table>\n    <div style=\"font-weight:700;color:var(--em-dk);margin:10px 0 6px\">CARDIAC DIET</div>\n    <table class=\"tbl\"><thead><tr><th>Target</th><th>Intervention</th></tr></thead><tbody>\n      <tr><td>Sodium</td><td>&lt;2g/day (HF: &lt;1.5g/day). Hidden sodium: bread, processed meats, sauces, restaurant food.</td></tr>\n      <tr><td>Omega-3</td><td>Oily fish 2–3x/week (salmon, sardines, mackerel) or EPA+DHA 1–4g/day supplement</td></tr>\n      <tr><td>Fibre</td><td>25–35g soluble fibre (oats, legumes, psyllium) — LDL ↓ 5–10%</td></tr>\n      <tr><td>Plant sterols</td><td>2g/day from fortified foods or supplements — LDL ↓ 10–15%</td></tr>\n    </tbody></table>\n    <div style=\"font-weight:700;color:var(--em-dk);margin:10px 0 6px\">DIABETIC DIET — PLATE METHOD</div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Plate Method</div><div class=\"pt\">Half plate = non-starchy vegetables. Quarter plate = lean protein (fish, chicken, legumes, tofu). Quarter plate = complex carbs (brown rice, quinoa, sweet potato, oats). Eat protein and fat BEFORE carbs at each meal — slows glucose absorption significantly. Post-meal 15-min walk reduces postprandial glucose 30%. Avoid: sugary drinks (single most impactful elimination), white rice and bread, processed food, fruit juices. Consistent carbohydrate distribution across meals. Intermittent fasting 16:8 (not if on insulin — hypoglycaemia risk).</div></div>",
+      "_review": false
+    },
+    {
+      "id": "clinnut-nut-ketogenic-diet-clinical-protocol",
+      "title": "Ketogenic Diet — Clinical Protocol",
+      "badge": "Therapeutic Diet",
+      "category": "nut",
+      "section": "clinnut",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Ketogenic Diet",
+            "text": "Classical keto: 70-75% fat, 20-25% protein, 5% carbohydrate (under 50g net carbs/day). Induces nutritional ketosis (blood ketones 0.5-3.0 mmol/L) within 2-7 days."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Indication",
+              "Evidence",
+              "Protocol Notes"
+            ],
+            "rows": [
+              [
+                "Drug-resistant epilepsy",
+                "Grade A — 50% seizure reduction in 50% of patients",
+                "Classical 4:1 ratio under neurologist and dietitian supervision"
+              ],
+              [
+                "Type 2 Diabetes",
+                "Strong — significant HbA1c reduction",
+                "Monitor medications closely — hypoglycaemia risk on insulin/sulphonylureas"
+              ],
+              [
+                "Obesity and metabolic syndrome",
+                "Strong short-term. Adherence challenging long-term.",
+                "Under 50g net carbs. Whole foods approach — not processed keto products."
+              ],
+              [
+                "PCOS",
+                "Good — reduces androgens, restores ovulation",
+                "6-month trial with physician monitoring. Inositol compatible adjunct."
+              ],
+              [
+                "NAFLD",
+                "Good — rapid reduction in hepatic fat within 2 weeks",
+                "3-6 months supervised. Monitor LFTs regularly."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Contraindications to Keto",
+            "text": "Absolute: pyruvate carboxylase deficiency, porphyria, fat oxidation disorders. Relative: kidney disease, pancreatitis history, gallbladder disease, eating disorder history. Medications needing monitoring: insulin (reduce dose), SGLT2 inhibitors (euglycaemic DKA risk — stop before starting keto), warfarin (INR shifts with dietary change)."
+          }
+        ],
+        "steps": [
+          {
+            "n": 0,
+            "title": "Keto Flu Prevention (Days 1-7)",
+            "text": "Sodium 3-5g/day (salt food or bouillon), potassium 1-3g/day (avocado, leafy greens), magnesium glycinate 400mg/day, hydration 3L/day. Most patients recover by day 5-7 and report significantly improved energy."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Ketogenic Diet</div>Classical keto: 70-75% fat, 20-25% protein, 5% carbohydrate (under 50g net carbs/day). Induces nutritional ketosis (blood ketones 0.5-3.0 mmol/L) within 2-7 days.</div>\n    <table class=\"tbl\"><thead><tr><th>Indication</th><th>Evidence</th><th>Protocol Notes</th></tr></thead><tbody>\n      <tr><td>Drug-resistant epilepsy</td><td>Grade A — 50% seizure reduction in 50% of patients</td><td>Classical 4:1 ratio under neurologist and dietitian supervision</td></tr>\n      <tr><td>Type 2 Diabetes</td><td>Strong — significant HbA1c reduction</td><td>Monitor medications closely — hypoglycaemia risk on insulin/sulphonylureas</td></tr>\n      <tr><td>Obesity and metabolic syndrome</td><td>Strong short-term. Adherence challenging long-term.</td><td>Under 50g net carbs. Whole foods approach — not processed keto products.</td></tr>\n      <tr><td>PCOS</td><td>Good — reduces androgens, restores ovulation</td><td>6-month trial with physician monitoring. Inositol compatible adjunct.</td></tr>\n      <tr><td>NAFLD</td><td>Good — rapid reduction in hepatic fat within 2 weeks</td><td>3-6 months supervised. Monitor LFTs regularly.</td></tr>\n    </tbody></table>\n    <div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#b45309\">K</div><div class=\"st\"><span class=\"sh\">Keto Flu Prevention (Days 1-7)</span> Sodium 3-5g/day (salt food or bouillon), potassium 1-3g/day (avocado, leafy greens), magnesium glycinate 400mg/day, hydration 3L/day. Most patients recover by day 5-7 and report significantly improved energy.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Contraindications to Keto</div><div class=\"pt\">Absolute: pyruvate carboxylase deficiency, porphyria, fat oxidation disorders. Relative: kidney disease, pancreatitis history, gallbladder disease, eating disorder history. Medications needing monitoring: insulin (reduce dose), SGLT2 inhibitors (euglycaemic DKA risk — stop before starting keto), warfarin (INR shifts with dietary change).</div></div>",
+      "_review": false
+    },
+    {
+      "id": "clinnut-nut-mediterranean-plant-based-diets-clinical-guide",
+      "title": "Mediterranean & Plant-Based Diets — Clinical Guide",
+      "badge": "Therapeutic Diet",
+      "category": "nut",
+      "section": "clinnut",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Component",
+              "Daily",
+              "Weekly",
+              "Rarely"
+            ],
+            "rows": [
+              [
+                "Core foods",
+                "Olive oil 30ml+, vegetables 5+ servings, whole grains, legumes, fruits, nuts",
+                "Fish 2-3x, poultry 2x, eggs 2-4x, dairy moderate",
+                "Red meat under 1x/week, processed food, sugary drinks"
+              ],
+              [
+                "Evidence",
+                "PREDIMED trial: CVD down 30%, T2DM down 52%, Alzheimer's down 53%, breast cancer down 26%, overall mortality down 20% vs low-fat diet"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Nutrient",
+              "Risk",
+              "Supplement"
+            ],
+            "rows": [
+              [
+                "Vitamin B12",
+                "HIGH — only in animal foods",
+                "Methylcobalamin 1000mcg/day sublingual — ESSENTIAL, never optional"
+              ],
+              [
+                "Omega-3 DHA/EPA",
+                "HIGH — plant ALA converts poorly",
+                "Algae-derived DHA+EPA 250-500mg/day"
+              ],
+              [
+                "Iron",
+                "MODERATE — non-haem less bioavailable",
+                "Monitor ferritin annually. Iron bisglycinate 25mg if under 40 µg/L"
+              ],
+              [
+                "Zinc",
+                "MODERATE — phytates reduce absorption",
+                "Zinc bisglycinate 15-25mg/day if deficient"
+              ],
+              [
+                "Calcium",
+                "MODERATE if no fortified foods",
+                "Calcium citrate 500mg/day if dietary sources insufficient"
+              ],
+              [
+                "Vitamin D",
+                "HIGH — little dietary source",
+                "Lichen-derived D3 2000-4000 IU/day"
+              ],
+              [
+                "Iodine",
+                "HIGH — dairy was major source",
+                "Iodine 150mcg/day (avoid high-dose kelp — content too variable)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div style=\"font-weight:700;color:var(--em-dk);margin-bottom:6px\">MEDITERRANEAN DIET</div>\n    <table class=\"tbl\"><thead><tr><th>Component</th><th>Daily</th><th>Weekly</th><th>Rarely</th></tr></thead><tbody>\n      <tr><td>Core foods</td><td>Olive oil 30ml+, vegetables 5+ servings, whole grains, legumes, fruits, nuts</td><td>Fish 2-3x, poultry 2x, eggs 2-4x, dairy moderate</td><td>Red meat under 1x/week, processed food, sugary drinks</td></tr>\n      <tr><td>Evidence</td><td colspan=\"3\">PREDIMED trial: CVD down 30%, T2DM down 52%, Alzheimer's down 53%, breast cancer down 26%, overall mortality down 20% vs low-fat diet</td></tr>\n    </tbody></table>\n    <div style=\"font-weight:700;color:var(--em-dk);margin:10px 0 6px\">PLANT-BASED / VEGAN DIET — Essential Nutrients</div>\n    <table class=\"tbl\"><thead><tr><th>Nutrient</th><th>Risk</th><th>Supplement</th></tr></thead><tbody>\n      <tr><td>Vitamin B12</td><td>HIGH — only in animal foods</td><td>Methylcobalamin 1000mcg/day sublingual — ESSENTIAL, never optional</td></tr>\n      <tr><td>Omega-3 DHA/EPA</td><td>HIGH — plant ALA converts poorly</td><td>Algae-derived DHA+EPA 250-500mg/day</td></tr>\n      <tr><td>Iron</td><td>MODERATE — non-haem less bioavailable</td><td>Monitor ferritin annually. Iron bisglycinate 25mg if under 40 µg/L</td></tr>\n      <tr><td>Zinc</td><td>MODERATE — phytates reduce absorption</td><td>Zinc bisglycinate 15-25mg/day if deficient</td></tr>\n      <tr><td>Calcium</td><td>MODERATE if no fortified foods</td><td>Calcium citrate 500mg/day if dietary sources insufficient</td></tr>\n      <tr><td>Vitamin D</td><td>HIGH — little dietary source</td><td>Lichen-derived D3 2000-4000 IU/day</td></tr>\n      <tr><td>Iodine</td><td>HIGH — dairy was major source</td><td>Iodine 150mcg/day (avoid high-dose kelp — content too variable)</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "clinnut-nut-renal-cardiac-diabetic-diets-clinical-guide",
+      "title": "Renal, Cardiac & Diabetic Diets — Clinical Guide",
+      "badge": "Therapeutic Diet",
+      "category": "nut",
+      "section": "clinnut",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Nutrient",
+              "Target",
+              "Practical Guidance"
+            ],
+            "rows": [
+              [
+                "Protein",
+                "0.6-0.8g/kg/day",
+                "Emphasise plant protein — less acidogenic, less phosphate load than animal"
+              ],
+              [
+                "Potassium",
+                "Under 2000mg/day (Stage 3-4+)",
+                "AVOID: banana, potato, tomato, orange, dried fruits, chocolate. SAFE: apple, grapes, white rice, white bread"
+              ],
+              [
+                "Phosphorus",
+                "Under 800mg/day",
+                "Avoid: dairy, cola drinks, processed foods (phosphate additives), nuts, seeds"
+              ],
+              [
+                "Sodium",
+                "Under 2g/day",
+                "No added salt. Avoid: processed foods, canned foods, pickles, sauces"
+              ],
+              [
+                "Absolute CI",
+                "Star fruit — NEVER in CKD",
+                "Fatal neurotoxicity even in small amounts in CKD patients"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Target",
+              "Key Changes"
+            ],
+            "rows": [
+              [
+                "Sodium",
+                "Under 2g/day (HF: under 1.5g/day). Check hidden sodium in bread, processed meats, sauces."
+              ],
+              [
+                "Saturated fat",
+                "Under 7% total calories. Replace with unsaturated fats (olive oil, nuts, avocado)"
+              ],
+              [
+                "Omega-3",
+                "Oily fish 2-3x/week (salmon, sardines, mackerel) or supplement 1-4g/day"
+              ],
+              [
+                "Fibre",
+                "25-35g/day soluble fibre (oats, legumes, psyllium) — LDL down 5-10%"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Plate Method",
+            "text": "Half plate non-starchy vegetables. Quarter plate lean protein (fish, chicken, legumes, tofu). Quarter plate complex carbs (brown rice, quinoa, sweet potato). Consistent carbohydrate distribution across meals. Eat protein and fat BEFORE carbs — slows glucose absorption significantly. Post-meal 15-minute walk reduces postprandial glucose 30%. Avoid: sugary drinks, white rice, refined flour, processed food. Small frequent meals every 3 hours."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div style=\"font-weight:700;color:var(--em-dk);margin-bottom:6px\">RENAL DIET — CKD Stages 3-5</div>\n    <table class=\"tbl\"><thead><tr><th>Nutrient</th><th>Target</th><th>Practical Guidance</th></tr></thead><tbody>\n      <tr><td>Protein</td><td>0.6-0.8g/kg/day</td><td>Emphasise plant protein — less acidogenic, less phosphate load than animal</td></tr>\n      <tr><td>Potassium</td><td>Under 2000mg/day (Stage 3-4+)</td><td>AVOID: banana, potato, tomato, orange, dried fruits, chocolate. SAFE: apple, grapes, white rice, white bread</td></tr>\n      <tr><td>Phosphorus</td><td>Under 800mg/day</td><td>Avoid: dairy, cola drinks, processed foods (phosphate additives), nuts, seeds</td></tr>\n      <tr><td>Sodium</td><td>Under 2g/day</td><td>No added salt. Avoid: processed foods, canned foods, pickles, sauces</td></tr>\n      <tr><td>Absolute CI</td><td>Star fruit — NEVER in CKD</td><td>Fatal neurotoxicity even in small amounts in CKD patients</td></tr>\n    </tbody></table>\n    <div style=\"font-weight:700;color:var(--em-dk);margin:10px 0 6px\">CARDIAC DIET — Post-MI and Heart Failure</div>\n    <table class=\"tbl\"><thead><tr><th>Target</th><th>Key Changes</th></tr></thead><tbody>\n      <tr><td>Sodium</td><td>Under 2g/day (HF: under 1.5g/day). Check hidden sodium in bread, processed meats, sauces.</td></tr>\n      <tr><td>Saturated fat</td><td>Under 7% total calories. Replace with unsaturated fats (olive oil, nuts, avocado)</td></tr>\n      <tr><td>Omega-3</td><td>Oily fish 2-3x/week (salmon, sardines, mackerel) or supplement 1-4g/day</td></tr>\n      <tr><td>Fibre</td><td>25-35g/day soluble fibre (oats, legumes, psyllium) — LDL down 5-10%</td></tr>\n    </tbody></table>\n    <div style=\"font-weight:700;color:var(--em-dk);margin:10px 0 6px\">DIABETIC DIET — Plate Method</div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Plate Method</div><div class=\"pt\">Half plate non-starchy vegetables. Quarter plate lean protein (fish, chicken, legumes, tofu). Quarter plate complex carbs (brown rice, quinoa, sweet potato). Consistent carbohydrate distribution across meals. Eat protein and fat BEFORE carbs — slows glucose absorption significantly. Post-meal 15-minute walk reduces postprandial glucose 30%. Avoid: sugary drinks, white rice, refined flour, processed food. Small frequent meals every 3 hours.</div></div>",
+      "_review": false
+    }
+  ]
+}
