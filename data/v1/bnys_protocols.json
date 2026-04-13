@@ -1,0 +1,22 @@
+{
+  "cards": [
+    {
+      "title": "CVD & Respiratory Protocols",
+      "badge": "",
+      "category": "dp1",
+      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Hypertension Protocol: Hip bath (35°C) + yoga (Shavasana) + DASH diet + CoQ10</li><li>Asthma Protocol: Steam inhalation + Pranayama (Anulom-Vilom) + omega-3 + elimination diet</li><li>Heart failure: Low-sodium diet + gentle yoga + hawthorn extract</li><li>Hyperlipidaemia: Plant sterols + omega-3 + red yeast rice</li></ul></div>"
+    },
+    {
+      "title": "Gut, Anxiety & Neurological Protocols",
+      "badge": "",
+      "category": "dp2",
+      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>IBS Protocol: Low-FODMAP + gut-directed hypnotherapy + peppermint oil EC</li><li>Anxiety Protocol: Ashwagandha 600mg + yoga Nidra + L-theanine + CBT-i</li><li>Insomnia: CBT-I + melatonin 0.5mg + magnesium glycinate + sleep hygiene</li><li>Depression: Exercise 150 min/wk + omega-3 EPA >1g + St. John's Wort (mild-mod)</li></ul></div>"
+    },
+    {
+      "title": "Metabolic & Skin Protocols",
+      "badge": "",
+      "category": "dp3",
+      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>T2DM Protocol: Berberine 500mg TID + low GI diet + resistance exercise + Bitter melon</li><li>PCOS Protocol: Inositol (Myo:D-chiro 40:1) + spearmint tea + low GI + Vitex</li><li>Acne Protocol: Zinc 30mg + omega-3 + low GI diet + probiotic + niacinamide topical</li><li>Hypothyroidism: Selenium 200µg + iodine foods + Ashwagandha + stress management</li></ul></div>"
+    }
+  ]
+}
