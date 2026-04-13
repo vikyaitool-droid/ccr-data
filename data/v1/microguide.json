@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.0",
+  "section": "microguide",
+  "generatedAt": "2026-04-13T11:56:38.843Z",
+  "cardCount": 3,
+  "cards": [
+    {
+      "id": "microguide-micro-microbiology-common-pathogens-infections",
+      "title": "Microbiology — Common Pathogens & Infections",
+      "badge": "Foundation",
+      "category": "micro",
+      "section": "microguide",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Microbiology in Clinical Practice",
+            "text": "Microbiology guides antibiotic selection, infection control, and understanding of pathogenesis. BNYS practitioners must recognise when infection requires immediate referral, understand culture reports, and know which herbs/supplements have evidence-based antimicrobial or immunomodulatory activity that can complement or bridge conventional treatment."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Infection Site",
+              "Common Pathogens",
+              "First-Line Antibiotic (India)",
+              "Naturopathic Adjunct"
+            ],
+            "rows": [
+              [
+                "Community Pneumonia (CAP)",
+                "S. pneumoniae ★, H. influenzae, Mycoplasma (atypical), Klebsiella (India — alcohol/DM)",
+                "Amoxicillin-clavulanate + azithromycin. Severe: ceftriaxone + azithromycin",
+                "Vit D 50,000IU single dose (deficiency = ↑ CAP risk). Elderberry (antiviral if viral CAP). NAC 600mg BD (mucolytic). Steam inhalation + postural drainage."
+              ],
+              [
+                "UTI (uncomplicated)",
+                "E. coli ★ (80%), Klebsiella, Staphylococcus saprophyticus (young women)",
+                "Nitrofurantoin 100mg BD × 5 days (India: resistance to cotrimoxazole high). Fosfomycin 3g single dose.",
+                "D-mannose 2g BD (prevents E. coli adhesion ★★★). Cranberry extract (PAC content — prophylaxis). Uva ursi 250mg TID (antiseptic). Hydration 2L/day. Probiotics (Lactobacillus reuteri RC-14)."
+              ],
+              [
+                "Skin & Soft Tissue Infection (SSTI)",
+                "S. aureus ★ (MRSA in community), Streptococcus pyogenes, Gram-negatives (diabetics)",
+                "Cloxacillin 500mg QID (MSSA). MRSA: co-trimoxazole + rifampicin (community). Diabetic foot: amoxicillin-clavulanate + metronidazole.",
+                "Manuka honey dressing (MRSA active ★★★). Tea tree oil 5–10% (antiseptic). Turmeric paste (anti-inflammatory). Refer urgently: spreading cellulitis, crepitus, systemic features."
+              ],
+              [
+                "Gastroenteritis (acute)",
+                "Viral: Norovirus ★, Rotavirus (children). Bacterial: Salmonella, Shigella, Campylobacter, E. coli (ETEC travellers), V. cholerae (epidemic)",
+                "Most viral/mild bacterial: supportive only (ORS). Severe/systemic: ciprofloxacin 500mg BD × 3d. Cholera: doxycycline single dose.",
+                "ORS (WHO formula: 1L water + 6 tsp sugar + ½ tsp salt). Zinc 20mg/day × 10 days ★★★ (reduces severity + duration in children). Saccharomyces boulardii 500mg BD. Probiotic post-infection. Avoid antidiarrhoeals in bloody diarrhoea (may worsen)."
+              ],
+              [
+                "Tuberculosis (TB)",
+                "Mycobacterium tuberculosis. Drug-resistant TB (MDR/XDR) increasing in India.",
+                "DOTS: Isoniazid + Rifampicin + Pyrazinamide + Ethambutol × 2 months; then INH + RIF × 4 months. Never naturopathic-only management.",
+                "Nutritional support critical: protein 1.5g/kg, zinc 30mg, selenium 200mcg, Vit D 4000IU (deficiency = ↑ TB reactivation risk ★★★). Pyridoxine 50mg/day to prevent INH neuropathy. Milk thistle (rifampicin hepatotoxicity protection — consult)."
+              ],
+              [
+                "Dengue Fever",
+                "Dengue virus (DENV 1–4), Aedes aegypti mosquito",
+                "No specific antiviral. Supportive: paracetamol only (NO aspirin/ibuprofen — platelet dysfunction). IV fluids if severe. Monitor platelet count daily.",
+                "Carica papaya leaf extract ★★★ (RCT India: ↑ platelet count significantly in dengue thrombocytopenia). Vit C IV (antioxidant, antiviral). Giloy (Tinospora cordifolia) — immunomodulatory. Adequate hydration. NO NSAIDs."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Microbiology in Clinical Practice</div>Microbiology guides antibiotic selection, infection control, and understanding of pathogenesis. BNYS practitioners must recognise when infection requires immediate referral, understand culture reports, and know which herbs/supplements have evidence-based antimicrobial or immunomodulatory activity that can complement or bridge conventional treatment.</div>\n    <table class=\"tbl\"><thead><tr><th>Infection Site</th><th>Common Pathogens</th><th>First-Line Antibiotic (India)</th><th>Naturopathic Adjunct</th></tr></thead><tbody>\n      <tr><td><strong>Community Pneumonia (CAP)</strong></td><td>S. pneumoniae ★, H. influenzae, Mycoplasma (atypical), Klebsiella (India — alcohol/DM)</td><td>Amoxicillin-clavulanate + azithromycin. Severe: ceftriaxone + azithromycin</td><td>Vit D 50,000IU single dose (deficiency = ↑ CAP risk). Elderberry (antiviral if viral CAP). NAC 600mg BD (mucolytic). Steam inhalation + postural drainage.</td></tr>\n      <tr><td><strong>UTI (uncomplicated)</strong></td><td>E. coli ★ (80%), Klebsiella, Staphylococcus saprophyticus (young women)</td><td>Nitrofurantoin 100mg BD × 5 days (India: resistance to cotrimoxazole high). Fosfomycin 3g single dose.</td><td>D-mannose 2g BD (prevents E. coli adhesion ★★★). Cranberry extract (PAC content — prophylaxis). Uva ursi 250mg TID (antiseptic). Hydration 2L/day. Probiotics (Lactobacillus reuteri RC-14).</td></tr>\n      <tr><td><strong>Skin & Soft Tissue Infection (SSTI)</strong></td><td>S. aureus ★ (MRSA in community), Streptococcus pyogenes, Gram-negatives (diabetics)</td><td>Cloxacillin 500mg QID (MSSA). MRSA: co-trimoxazole + rifampicin (community). Diabetic foot: amoxicillin-clavulanate + metronidazole.</td><td>Manuka honey dressing (MRSA active ★★★). Tea tree oil 5–10% (antiseptic). Turmeric paste (anti-inflammatory). Refer urgently: spreading cellulitis, crepitus, systemic features.</td></tr>\n      <tr><td><strong>Gastroenteritis (acute)</strong></td><td>Viral: Norovirus ★, Rotavirus (children). Bacterial: Salmonella, Shigella, Campylobacter, E. coli (ETEC travellers), V. cholerae (epidemic)</td><td>Most viral/mild bacterial: supportive only (ORS). Severe/systemic: ciprofloxacin 500mg BD × 3d. Cholera: doxycycline single dose.</td><td>ORS (WHO formula: 1L water + 6 tsp sugar + ½ tsp salt). Zinc 20mg/day × 10 days ★★★ (reduces severity + duration in children). Saccharomyces boulardii 500mg BD. Probiotic post-infection. Avoid antidiarrhoeals in bloody diarrhoea (may worsen).</td></tr>\n      <tr><td><strong>Tuberculosis (TB)</strong></td><td>Mycobacterium tuberculosis. Drug-resistant TB (MDR/XDR) increasing in India.</td><td>DOTS: Isoniazid + Rifampicin + Pyrazinamide + Ethambutol × 2 months; then INH + RIF × 4 months. Never naturopathic-only management.</td><td>Nutritional support critical: protein 1.5g/kg, zinc 30mg, selenium 200mcg, Vit D 4000IU (deficiency = ↑ TB reactivation risk ★★★). Pyridoxine 50mg/day to prevent INH neuropathy. Milk thistle (rifampicin hepatotoxicity protection — consult).</td></tr>\n      <tr><td><strong>Dengue Fever</strong></td><td>Dengue virus (DENV 1–4), Aedes aegypti mosquito</td><td>No specific antiviral. Supportive: paracetamol only (NO aspirin/ibuprofen — platelet dysfunction). IV fluids if severe. Monitor platelet count daily.</td><td>Carica papaya leaf extract ★★★ (RCT India: ↑ platelet count significantly in dengue thrombocytopenia). Vit C IV (antioxidant, antiviral). Giloy (Tinospora cordifolia) — immunomodulatory. Adequate hydration. NO NSAIDs.</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "microguide-micro-antibiotic-guide-empirical-treatment-india-specific",
+      "title": "Antibiotic Guide — Empirical Treatment (India-Specific)",
+      "badge": "Prescribing",
+      "category": "micro",
+      "section": "microguide",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "danger",
+            "label": "Antibiotic Stewardship — The BNYS Practitioner's Role",
+            "text": "India has among the highest rates of antibiotic resistance globally. BNYS practitioners play a critical role in stewardship: (1) Never prescribe antibiotics for viral URTI. (2) Educate patients about course completion. (3) Identify when antibiotics are truly needed vs when naturopathic management suffices. (4) Recognise resistance patterns — local antibiograms differ from textbooks."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Antibiotic Class",
+              "Key Examples",
+              "Spectrum",
+              "Key Side Effects",
+              "Naturopathic Mitigation"
+            ],
+            "rows": [
+              [
+                "Penicillins",
+                "Amoxicillin, ampicillin, cloxacillin, amoxicillin-clavulanate",
+                "Gram-positive ★, some Gram-negative (amox-clav)",
+                "GI upset, allergic reactions (1:10,000 anaphylaxis), C.diff (rare)",
+                "Probiotics 2hrs from dose. Allergy: always ask before prescribing. PCN allergy → cephalosporins (10% cross-reactivity — use with caution)."
+              ],
+              [
+                "Fluoroquinolones",
+                "Ciprofloxacin, levofloxacin, moxifloxacin, ofloxacin",
+                "Broad-spectrum G+ and G-. Atypicals. UTI, respiratory, GI",
+                "Tendinopathy/rupture ★ (Achilles), QT prolongation, photosensitivity, C.diff, dysbiosis, peripheral neuropathy (rare but serious)",
+                "Avoid with Mg/Ca/Zn/Al (chelation — ↓ absorption). Photosensitivity: SPF 50. Tendon pain → STOP and refer. Gut: probiotics + glutamine post-course."
+              ],
+              [
+                "Macrolides",
+                "Azithromycin, clarithromycin, erythromycin",
+                "Atypicals (Mycoplasma, Chlamydia, Legionella), S. pneumoniae, H. pylori (clarithromycin)",
+                "QT prolongation (azithromycin — ★ caution with other QT drugs), GI (erythromycin — worst GI), hepatotoxicity (clarithromycin)",
+                "CYP3A4 inhibitor (clarithromycin) — check drug interactions. Avoid with cardiac history + QT prolonging drugs."
+              ],
+              [
+                "Tetracyclines",
+                "Doxycycline, tetracycline, minocycline",
+                "Rickettsia ★, Chlamydia, Mycoplasma, Brucella, Lyme, acne, malaria prophylaxis",
+                "Photosensitivity ★★★ (doxycycline), oesophageal ulceration (take with full glass of water, remain upright 30 min), GI, teeth discolouration (children <8 — avoid)",
+                "Photosensitivity: SPF 50, long sleeves. Take with food (not dairy — chelation). Avoid antacids, iron, Ca within 2hrs (chelation → ↓ absorption)."
+              ],
+              [
+                "Metronidazole",
+                "Metronidazole, tinidazole",
+                "Anaerobes ★★★, protozoa (Giardia, Trichomonas, Entamoeba), H. pylori (triple therapy)",
+                "Metallic taste, nausea, peripheral neuropathy (prolonged), DISULFIRAM REACTION with alcohol (avoid alcohol strictly during and 48hrs after)",
+                "Probiotics (essential — profound dysbiosis). B vitamins (neuropathy prevention). Alcohol education — critical safety point."
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">Antibiotic Stewardship — The BNYS Practitioner's Role</div>India has among the highest rates of antibiotic resistance globally. BNYS practitioners play a critical role in stewardship: (1) Never prescribe antibiotics for viral URTI. (2) Educate patients about course completion. (3) Identify when antibiotics are truly needed vs when naturopathic management suffices. (4) Recognise resistance patterns — local antibiograms differ from textbooks.</div>\n    <table class=\"tbl\"><thead><tr><th>Antibiotic Class</th><th>Key Examples</th><th>Spectrum</th><th>Key Side Effects</th><th>Naturopathic Mitigation</th></tr></thead><tbody>\n      <tr><td>Penicillins</td><td>Amoxicillin, ampicillin, cloxacillin, amoxicillin-clavulanate</td><td>Gram-positive ★, some Gram-negative (amox-clav)</td><td>GI upset, allergic reactions (1:10,000 anaphylaxis), C.diff (rare)</td><td>Probiotics 2hrs from dose. Allergy: always ask before prescribing. PCN allergy → cephalosporins (10% cross-reactivity — use with caution).</td></tr>\n      <tr><td>Fluoroquinolones</td><td>Ciprofloxacin, levofloxacin, moxifloxacin, ofloxacin</td><td>Broad-spectrum G+ and G-. Atypicals. UTI, respiratory, GI</td><td>Tendinopathy/rupture ★ (Achilles), QT prolongation, photosensitivity, C.diff, dysbiosis, peripheral neuropathy (rare but serious)</td><td>Avoid with Mg/Ca/Zn/Al (chelation — ↓ absorption). Photosensitivity: SPF 50. Tendon pain → STOP and refer. Gut: probiotics + glutamine post-course.</td></tr>\n      <tr><td>Macrolides</td><td>Azithromycin, clarithromycin, erythromycin</td><td>Atypicals (Mycoplasma, Chlamydia, Legionella), S. pneumoniae, H. pylori (clarithromycin)</td><td>QT prolongation (azithromycin — ★ caution with other QT drugs), GI (erythromycin — worst GI), hepatotoxicity (clarithromycin)</td><td>CYP3A4 inhibitor (clarithromycin) — check drug interactions. Avoid with cardiac history + QT prolonging drugs.</td></tr>\n      <tr><td>Tetracyclines</td><td>Doxycycline, tetracycline, minocycline</td><td>Rickettsia ★, Chlamydia, Mycoplasma, Brucella, Lyme, acne, malaria prophylaxis</td><td>Photosensitivity ★★★ (doxycycline), oesophageal ulceration (take with full glass of water, remain upright 30 min), GI, teeth discolouration (children &lt;8 — avoid)</td><td>Photosensitivity: SPF 50, long sleeves. Take with food (not dairy — chelation). Avoid antacids, iron, Ca within 2hrs (chelation → ↓ absorption).</td></tr>\n      <tr><td>Metronidazole</td><td>Metronidazole, tinidazole</td><td>Anaerobes ★★★, protozoa (Giardia, Trichomonas, Entamoeba), H. pylori (triple therapy)</td><td>Metallic taste, nausea, peripheral neuropathy (prolonged), DISULFIRAM REACTION with alcohol (avoid alcohol strictly during and 48hrs after)</td><td>Probiotics (essential — profound dysbiosis). B vitamins (neuropathy prevention). Alcohol education — critical safety point.</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "microguide-micro-culture-reports-how-to-interpret",
+      "title": "Culture Reports — How to Interpret",
+      "badge": "Diagnostic",
+      "category": "micro",
+      "section": "microguide",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [],
+        "pearls": [
+          {
+            "label": "🟡 MRSA in India — Growing Concern",
+            "text": "Community-acquired MRSA (CA-MRSA) is increasing in India — no longer confined to hospitals. Suspect MRSA when: skin infection fails to respond to cloxacillin within 48hrs, recurrent furuncles, household cluster of skin infections. Local antibiogram data essential — resistance patterns vary dramatically between cities. Treatment: co-trimoxazole DS (most CA-MRSA sensitive) + rifampicin for decolonisation. Hospitalised MRSA: glycopeptide (vancomycin/teicoplanin) or linezolid. BNYS role: manuka honey dressing is MRSA-active — legitimate adjunct for surface wounds."
+          }
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Reading a Urine Culture Report",
+            "text": "Colony count: ≥10⁵ CFU/mL = significant bacteriuria (symptomatic UTI). 10³–10⁵ = uncertain — repeat if symptomatic. <10³ = likely contamination. Organism identified: E. coli, Klebsiella, Proteus, Enterococcus most common. Sensitivity panel: S = Sensitive (drug works), I = Intermediate (high dose may work), R = Resistant (drug fails). Choose S antibiotic with narrowest spectrum first (antibiotic stewardship)."
+          },
+          {
+            "n": 2,
+            "title": "Blood Culture Report",
+            "text": "Two sets = 4 bottles. Positive: organism + sensitivity. Time to positivity: bacteraemia (faster) vs contamination (slower — >72hrs, coagulase-negative staph alone often = skin contaminant). True bacteraemia: same organism in multiple bottles, grows early. Common contaminants: coagulase-negative Staph (Staphylococcus epidermidis), Corynebacterium, Bacillus — significance depends on clinical context and source."
+          },
+          {
+            "n": 3,
+            "title": "Stool Culture — India-Specific",
+            "text": "Pathogens sought: Salmonella, Shigella, Campylobacter, V. cholerae, E. coli (ETEC, EHEC). Ova and parasites (O&P): Giardia ★ (most common), Entamoeba histolytica, Strongyloides, hookworm. H. pylori stool antigen (SAT): sensitivity 94%, specificity 97% — best non-invasive test for active infection and post-treatment confirmation. Sensitivity report: check before treating — increasing quinolone resistance in India."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#064E3B\">1</div><div class=\"st\"><span class=\"sh\">Reading a Urine Culture Report</span> Colony count: ≥10⁵ CFU/mL = significant bacteriuria (symptomatic UTI). 10³–10⁵ = uncertain — repeat if symptomatic. &lt;10³ = likely contamination. Organism identified: E. coli, Klebsiella, Proteus, Enterococcus most common. Sensitivity panel: S = Sensitive (drug works), I = Intermediate (high dose may work), R = Resistant (drug fails). Choose S antibiotic with narrowest spectrum first (antibiotic stewardship).</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#064E3B\">2</div><div class=\"st\"><span class=\"sh\">Blood Culture Report</span> Two sets = 4 bottles. Positive: organism + sensitivity. Time to positivity: bacteraemia (faster) vs contamination (slower — &gt;72hrs, coagulase-negative staph alone often = skin contaminant). True bacteraemia: same organism in multiple bottles, grows early. Common contaminants: coagulase-negative Staph (Staphylococcus epidermidis), Corynebacterium, Bacillus — significance depends on clinical context and source.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#064E3B\">3</div><div class=\"st\"><span class=\"sh\">Stool Culture — India-Specific</span> Pathogens sought: Salmonella, Shigella, Campylobacter, V. cholerae, E. coli (ETEC, EHEC). Ova and parasites (O&P): Giardia ★ (most common), Entamoeba histolytica, Strongyloides, hookworm. H. pylori stool antigen (SAT): sensitivity 94%, specificity 97% — best non-invasive test for active infection and post-treatment confirmation. Sensitivity report: check before treating — increasing quinolone resistance in India.</div></div>\n    </div>\n    <div class=\"pearl\"><div class=\"pl\">🟡 MRSA in India — Growing Concern</div><div class=\"pt\">Community-acquired MRSA (CA-MRSA) is increasing in India — no longer confined to hospitals. Suspect MRSA when: skin infection fails to respond to cloxacillin within 48hrs, recurrent furuncles, household cluster of skin infections. Local antibiogram data essential — resistance patterns vary dramatically between cities. Treatment: co-trimoxazole DS (most CA-MRSA sensitive) + rifampicin for decolonisation. Hospitalised MRSA: glycopeptide (vancomycin/teicoplanin) or linezolid. BNYS role: manuka honey dressing is MRSA-active — legitimate adjunct for surface wounds.</div></div>",
+      "_review": false
+    }
+  ]
+}
