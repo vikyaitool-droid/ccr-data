@@ -1,16 +1,225 @@
 {
+  "schemaVersion": "1.0",
+  "section": "oraldent",
+  "generatedAt": "2026-04-13T11:50:18.381Z",
+  "cardCount": 4,
   "cards": [
     {
-      "title": "Oral-Systemic Links & Microbiome",
-      "badge": "",
-      "category": "osys",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Periodontal disease → CVD: C-reactive protein, endotoxaemia</li><li>Oral-gut axis: Pathobionts migrating to gut</li><li>Cavitations & root canals: Biological dentistry perspective</li><li>Salivary biomarkers for systemic disease</li></ul></div>"
+      "id": "oraldent-oral-oral-systemic-connection-overview",
+      "title": "Oral-Systemic Connection — Overview",
+      "badge": "Foundation",
+      "category": "oral",
+      "section": "oraldent",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "The Mouth as a Window to Systemic Health",
+            "text": "The oral cavity is intimately connected to systemic health through: shared microbiomes (oral → gut axis), systemic inflammatory load (periodontal disease → ↑ CRP, IL-6 → cardiovascular disease, diabetes complications), shared developmental embryology (oral and cardiac structures share neural crest origin), and as a diagnostic window (nutritional deficiencies, autoimmune disease, cancer, diabetes, HIV all manifest orally first)."
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Oral Condition",
+              "Systemic Association",
+              "Mechanism",
+              "Evidence"
+            ],
+            "rows": [
+              [
+                "Periodontal Disease",
+                "Cardiovascular disease, T2DM, adverse pregnancy outcomes, Alzheimer's, RA, COPD",
+                "Gram-negative anaerobes → bacteraemia → systemic inflammation (CRP ↑, IL-6 ↑, fibrinogen ↑) + molecular mimicry (Pg antibodies cross-react with cardiac tissue)",
+                "★★★ Periodontal treatment reduces HbA1c by 0.4% in T2DM (comparable to adding second antidiabetic drug)"
+              ],
+              [
+                "Oral Dysbiosis",
+                "Colorectal cancer (Fusobacterium nucleatum), IBD, pancreatic cancer",
+                "Fusobacterium migrates to colorectal tumours — promotes tumour growth via E-cadherin/Wnt signalling. Found in 90% of CRC tumours",
+                "★★★ F. nucleatum abundance in stool correlates with CRC risk — emerging diagnostic marker"
+              ],
+              [
+                "Tooth Loss",
+                "Dementia, malnutrition, cardiovascular disease, frailty",
+                "Reduced chewing → ↓ hippocampal stimulation (jaw movement activates memory circuits), dietary restriction → nutritional deficiency, social isolation",
+                "★★★ Edentulous adults have 2× dementia risk — especially when tooth loss occurs before 65"
+              ],
+              [
+                "Obstructive Sleep Apnoea (OSA)",
+                "Hypertension, T2DM, atrial fibrillation, stroke, depression",
+                "Intermittent hypoxia → sympathetic activation, oxidative stress, endothelial dysfunction → cardiovascular cascade",
+                "★★★ OSA: 2× cardiovascular risk, 3× hypertension risk. Mandibular advancement devices — effective OSA treatment (dental appliances)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">The Mouth as a Window to Systemic Health</div>The oral cavity is intimately connected to systemic health through: shared microbiomes (oral → gut axis), systemic inflammatory load (periodontal disease → ↑ CRP, IL-6 → cardiovascular disease, diabetes complications), shared developmental embryology (oral and cardiac structures share neural crest origin), and as a diagnostic window (nutritional deficiencies, autoimmune disease, cancer, diabetes, HIV all manifest orally first).</div>\n    <table class=\"tbl\"><thead><tr><th>Oral Condition</th><th>Systemic Association</th><th>Mechanism</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td><strong>Periodontal Disease</strong></td><td>Cardiovascular disease, T2DM, adverse pregnancy outcomes, Alzheimer's, RA, COPD</td><td>Gram-negative anaerobes → bacteraemia → systemic inflammation (CRP ↑, IL-6 ↑, fibrinogen ↑) + molecular mimicry (Pg antibodies cross-react with cardiac tissue)</td><td>★★★ Periodontal treatment reduces HbA1c by 0.4% in T2DM (comparable to adding second antidiabetic drug)</td></tr>\n      <tr><td><strong>Oral Dysbiosis</strong></td><td>Colorectal cancer (Fusobacterium nucleatum), IBD, pancreatic cancer</td><td>Fusobacterium migrates to colorectal tumours — promotes tumour growth via E-cadherin/Wnt signalling. Found in 90% of CRC tumours</td><td>★★★ F. nucleatum abundance in stool correlates with CRC risk — emerging diagnostic marker</td></tr>\n      <tr><td><strong>Tooth Loss</strong></td><td>Dementia, malnutrition, cardiovascular disease, frailty</td><td>Reduced chewing → ↓ hippocampal stimulation (jaw movement activates memory circuits), dietary restriction → nutritional deficiency, social isolation</td><td>★★★ Edentulous adults have 2× dementia risk — especially when tooth loss occurs before 65</td></tr>\n      <tr><td><strong>Obstructive Sleep Apnoea (OSA)</strong></td><td>Hypertension, T2DM, atrial fibrillation, stroke, depression</td><td>Intermittent hypoxia → sympathetic activation, oxidative stress, endothelial dysfunction → cardiovascular cascade</td><td>★★★ OSA: 2× cardiovascular risk, 3× hypertension risk. Mandibular advancement devices — effective OSA treatment (dental appliances)</td></tr>\n    </tbody></table>",
+      "_review": false
     },
     {
-      "title": "Naturopathic Oral Health Protocols",
-      "badge": "",
-      "category": "oprot",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Oil pulling: 20 mL sesame oil, 20 min, morning</li><li>Xylitol: 6–10g/day for cavity prevention</li><li>Remineralising toothpaste: Hydroxyapatite > fluoride (new evidence)</li><li>Periodontal herbs: CoQ10, vitamin C, green tea EGCG</li></ul></div>"
+      "id": "oraldent-oral-naturopathic-oral-hygiene-microbiome",
+      "title": "Naturopathic Oral Hygiene & Microbiome",
+      "badge": "Clinical",
+      "category": "oral",
+      "section": "oraldent",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [],
+        "pearls": [],
+        "steps": [
+          {
+            "n": 1,
+            "title": "Oil Pulling (Kavala / Gandush)",
+            "text": "Traditional Ayurvedic practice with growing evidence. Swish 1 tablespoon sesame or coconut oil in mouth for 10–20 minutes (do not swallow — contains accumulated bacteria). Spit into bin (not drain — clogs pipes). Rinse with warm saline. Perform before breakfast, before tooth brushing. Evidence: ★★★ Reduces Streptococcus mutans (caries bacteria) comparable to chlorhexidine mouthwash. Reduces plaque and gingivitis scores in RCTs. Coconut oil: additional antifungal effect (against Candida)."
+          },
+          {
+            "n": 2,
+            "title": "Tongue Scraping",
+            "text": "Use copper or stainless steel tongue scraper on waking. Gentle strokes from posterior to anterior (5–10 strokes). Removes: ama (Ayurvedic — undigested metabolic waste), bacteria, volatile sulphur compounds (VSCs — primary cause of halitosis). Evidence: significant reduction in VSCs and halitosis ★★. Copper tongue scraper: additional antimicrobial benefit from copper ions. Tongue coating assessment is an important naturopathic diagnostic tool (thick white = gut dysbiosis/candida; yellow = excess heat/liver burden)."
+          },
+          {
+            "n": 3,
+            "title": "Oral Probiotic Therapy",
+            "text": "Streptococcus salivarius K12 (BLIS K12) ★★★ — reduces pharyngitis frequency, inhibits pathogenic oral bacteria. Lactobacillus reuteri DSM 17938 ★★ — reduces gingival bleeding, plaque, and gingivitis. Lactobacillus acidophilus — reduces caries-causing S. mutans. Protocol: lozenge formulations preferred over capsules for oral cavity colonisation. Use after antibiotic course to restore oral microbiome. Avoid: immediately after antiseptic mouthwash (kills probiotic bacteria)."
+          },
+          {
+            "n": 4,
+            "title": "Herbal Oral Care",
+            "text": "Neem (Azadirachta indica) chew sticks or toothpaste ★★★ — comparable to chlorhexidine for plaque reduction. Anti-Streptococcus, antibiofilm. Clove oil (eugenol) — analgesic, antimicrobial, antifungal. Dilute (5% in carrier oil) for direct application to mouth ulcers or dental pain. Myrrh (Commiphora) — antiseptic, wound healing, oral mucositis. Calendula — oral ulcer healing. Propolis (bee resin) ★★ — broad-spectrum antimicrobial, promotes oral wound healing, reduces plaque (comparable to triclosan)."
+          }
+        ],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0f766e\">1</div><div class=\"st\"><span class=\"sh\">Oil Pulling (Kavala / Gandush)</span> Traditional Ayurvedic practice with growing evidence. Swish 1 tablespoon sesame or coconut oil in mouth for 10–20 minutes (do not swallow — contains accumulated bacteria). Spit into bin (not drain — clogs pipes). Rinse with warm saline. Perform before breakfast, before tooth brushing. Evidence: ★★★ Reduces Streptococcus mutans (caries bacteria) comparable to chlorhexidine mouthwash. Reduces plaque and gingivitis scores in RCTs. Coconut oil: additional antifungal effect (against Candida).</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0f766e\">2</div><div class=\"st\"><span class=\"sh\">Tongue Scraping</span> Use copper or stainless steel tongue scraper on waking. Gentle strokes from posterior to anterior (5–10 strokes). Removes: ama (Ayurvedic — undigested metabolic waste), bacteria, volatile sulphur compounds (VSCs — primary cause of halitosis). Evidence: significant reduction in VSCs and halitosis ★★. Copper tongue scraper: additional antimicrobial benefit from copper ions. Tongue coating assessment is an important naturopathic diagnostic tool (thick white = gut dysbiosis/candida; yellow = excess heat/liver burden).</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0f766e\">3</div><div class=\"st\"><span class=\"sh\">Oral Probiotic Therapy</span> Streptococcus salivarius K12 (BLIS K12) ★★★ — reduces pharyngitis frequency, inhibits pathogenic oral bacteria. Lactobacillus reuteri DSM 17938 ★★ — reduces gingival bleeding, plaque, and gingivitis. Lactobacillus acidophilus — reduces caries-causing S. mutans. Protocol: lozenge formulations preferred over capsules for oral cavity colonisation. Use after antibiotic course to restore oral microbiome. Avoid: immediately after antiseptic mouthwash (kills probiotic bacteria).</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#0f766e\">4</div><div class=\"st\"><span class=\"sh\">Herbal Oral Care</span> Neem (Azadirachta indica) chew sticks or toothpaste ★★★ — comparable to chlorhexidine for plaque reduction. Anti-Streptococcus, antibiofilm. Clove oil (eugenol) — analgesic, antimicrobial, antifungal. Dilute (5% in carrier oil) for direct application to mouth ulcers or dental pain. Myrrh (Commiphora) — antiseptic, wound healing, oral mucositis. Calendula — oral ulcer healing. Propolis (bee resin) ★★ — broad-spectrum antimicrobial, promotes oral wound healing, reduces plaque (comparable to triclosan).</div></div>\n    </div>",
+      "_review": false
+    },
+    {
+      "id": "oraldent-oral-common-oral-conditions-naturopathic-management",
+      "title": "Common Oral Conditions — Naturopathic Management",
+      "badge": "Clinical",
+      "category": "oral",
+      "section": "oraldent",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Condition",
+              "Key Features",
+              "Naturopathic Protocol",
+              "When to Refer"
+            ],
+            "rows": [
+              [
+                "Dental Caries (Prevention)",
+                "S. mutans colonisation + dietary sugar → acid dissolution of enamel",
+                "Xylitol 6–10g/day (inhibits S. mutans ★★★ — use xylitol gum after meals). Reduce sugar frequency (not just amount — acid attack duration matters). Oil pulling. Green tea catechins (anti-S. mutans). Calcium + Vit D for enamel remineralisation. Fluoride: evidence-based conventional adjunct (naturopathic practitioners may prefer alternatives — xylitol + remineralisation pastes)",
+                "Established caries: dental referral for filling/treatment. Abscesses: urgent dental referral"
+              ],
+              [
+                "Gingivitis / Periodontitis",
+                "Gum inflammation (gingivitis — reversible) → bone loss (periodontitis — irreversible without treatment)",
+                "CoQ10 100–300mg/day ★★★ (gingival tissue has highest CoQ10 density — deficiency → periodontitis). Vit C 500mg–1g/day (collagen synthesis for periodontal ligament). Vit D 2000IU/day ★★★ (immunomodulatory — reduces pocket depth). Folic acid rinse ★★. Neem toothpaste. Oil pulling. Professional cleaning (SRP) is essential — naturopathy is adjunct",
+                "Pocket depth >4mm, bone loss on X-ray, tooth mobility: periodontist referral essential"
+              ],
+              [
+                "Aphthous Ulcers (Canker Sores)",
+                "Painful oral ulcers 3–10mm, grey base, erythematous halo, recurrent",
+                "Vit B12 1000mcg/day ★★★ (RCT: reduces frequency, duration, pain even in non-deficient patients). Zinc 30mg/day ★★. Iron + folate if deficient. Identify triggers: SLS (sodium lauryl sulphate in toothpaste — switch to SLS-free), food triggers (nuts, tomato, chocolate). Aloe vera gel topical ★★. Liquorice root (DGL) — promotes mucosal healing",
+                "Recurrent major ulcers (>1cm), failure to heal >3 weeks: rule out Behçet's, Crohn's, coeliac, haematological malignancy"
+              ],
+              [
+                "Oral Candidiasis (Thrush)",
+                "White plaques (removable) on buccal mucosa, tongue. Common in: immunosuppressed, denture wearers, inhaled corticosteroid users, post-antibiotics",
+                "Coconut oil pulling (caprylic acid — antifungal), diluted tea tree oil rinse (0.5% — antifungal), probiotic Lactobacillus (repopulate normal flora), Vit D (immune support), xylitol (reduces Candida adhesion), caprylic acid 1–2g with meals. Remove trigger (antibiotics if possible, clean dentures, spacer for inhaled steroids)",
+                "Immunocompromised patients: fluconazole referral. Oesophageal involvement (dysphagia): urgent referral"
+              ],
+              [
+                "Bruxism (Teeth Grinding)",
+                "Nocturnal grinding/clenching → enamel wear, TMJ pain, headache, disrupted sleep",
+                "Magnesium glycinate 400mg before bed ★★ (muscle relaxant, reduces nocturnal bruxism frequency). B vitamins (stress-related bruxism). Mindfulness + stress reduction ★★. Yoga Nidra for sleep relaxation. Address underlying anxiety/sleep disorders. Occlusal splint (dental — protects teeth): refer to dentist",
+                "Significant enamel wear, TMJ dysfunction, trismus: dental/maxillofacial referral"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Condition</th><th>Key Features</th><th>Naturopathic Protocol</th><th>When to Refer</th></tr></thead><tbody>\n      <tr><td><strong>Dental Caries (Prevention)</strong></td><td>S. mutans colonisation + dietary sugar → acid dissolution of enamel</td><td>Xylitol 6–10g/day (inhibits S. mutans ★★★ — use xylitol gum after meals). Reduce sugar frequency (not just amount — acid attack duration matters). Oil pulling. Green tea catechins (anti-S. mutans). Calcium + Vit D for enamel remineralisation. Fluoride: evidence-based conventional adjunct (naturopathic practitioners may prefer alternatives — xylitol + remineralisation pastes)</td><td>Established caries: dental referral for filling/treatment. Abscesses: urgent dental referral</td></tr>\n      <tr><td><strong>Gingivitis / Periodontitis</strong></td><td>Gum inflammation (gingivitis — reversible) → bone loss (periodontitis — irreversible without treatment)</td><td>CoQ10 100–300mg/day ★★★ (gingival tissue has highest CoQ10 density — deficiency → periodontitis). Vit C 500mg–1g/day (collagen synthesis for periodontal ligament). Vit D 2000IU/day ★★★ (immunomodulatory — reduces pocket depth). Folic acid rinse ★★. Neem toothpaste. Oil pulling. Professional cleaning (SRP) is essential — naturopathy is adjunct</td><td>Pocket depth &gt;4mm, bone loss on X-ray, tooth mobility: periodontist referral essential</td></tr>\n      <tr><td><strong>Aphthous Ulcers (Canker Sores)</strong></td><td>Painful oral ulcers 3–10mm, grey base, erythematous halo, recurrent</td><td>Vit B12 1000mcg/day ★★★ (RCT: reduces frequency, duration, pain even in non-deficient patients). Zinc 30mg/day ★★. Iron + folate if deficient. Identify triggers: SLS (sodium lauryl sulphate in toothpaste — switch to SLS-free), food triggers (nuts, tomato, chocolate). Aloe vera gel topical ★★. Liquorice root (DGL) — promotes mucosal healing</td><td>Recurrent major ulcers (&gt;1cm), failure to heal &gt;3 weeks: rule out Behçet's, Crohn's, coeliac, haematological malignancy</td></tr>\n      <tr><td><strong>Oral Candidiasis (Thrush)</strong></td><td>White plaques (removable) on buccal mucosa, tongue. Common in: immunosuppressed, denture wearers, inhaled corticosteroid users, post-antibiotics</td><td>Coconut oil pulling (caprylic acid — antifungal), diluted tea tree oil rinse (0.5% — antifungal), probiotic Lactobacillus (repopulate normal flora), Vit D (immune support), xylitol (reduces Candida adhesion), caprylic acid 1–2g with meals. Remove trigger (antibiotics if possible, clean dentures, spacer for inhaled steroids)</td><td>Immunocompromised patients: fluconazole referral. Oesophageal involvement (dysphagia): urgent referral</td></tr>\n      <tr><td><strong>Bruxism (Teeth Grinding)</strong></td><td>Nocturnal grinding/clenching → enamel wear, TMJ pain, headache, disrupted sleep</td><td>Magnesium glycinate 400mg before bed ★★ (muscle relaxant, reduces nocturnal bruxism frequency). B vitamins (stress-related bruxism). Mindfulness + stress reduction ★★. Yoga Nidra for sleep relaxation. Address underlying anxiety/sleep disorders. Occlusal splint (dental — protects teeth): refer to dentist</td><td>Significant enamel wear, TMJ dysfunction, trismus: dental/maxillofacial referral</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "oraldent-oral-dental-anxiety-oral-health-in-special-populations",
+      "title": "Dental Anxiety & Oral Health in Special Populations",
+      "badge": "Clinical",
+      "category": "oral",
+      "section": "oraldent",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Special Population",
+              "Key Considerations",
+              "Naturopathic Support"
+            ],
+            "rows": [
+              [
+                "Pregnancy",
+                "Gingivitis in 40–70% of pregnancies (progesterone-driven vascular changes). Pregnancy epulis. Morning sickness → enamel erosion. Dental treatment safe in 2nd trimester.",
+                "Rinsing with water + baking soda after vomiting (neutralises acid before tooth erosion occurs — wait 30 min before brushing). Calcium 1000mg + Vit D 2000IU. Probiotic for oral microbiome. Periodontal treatment reduces preterm birth risk ★★."
+              ],
+              [
+                "Elderly",
+                "Dry mouth (xerostomia) from polypharmacy (100+ drugs cause it). Root caries. Denture-related candidiasis. Reduced enamel remineralisation.",
+                "Xylitol lozenges for dry mouth (stimulates saliva). Oral hydration. Saliva substitutes (naturopathic: aloe vera gel as mucosal coating). Vit D + calcium for jaw bone density. Review polypharmacy with physician (reduce xerogenic drugs where possible)."
+              ],
+              [
+                "Diabetes",
+                "Bidirectional relationship: DM → ↑ periodontitis severity (3× risk). Periodontitis → ↑ HbA1c (inflammatory load). Treatment of periodontitis reduces HbA1c ★★★.",
+                "Periodontal care as integral part of diabetes management. Vit D, CoQ10, zinc for oral immunity. Control blood glucose (naturopathic DM protocol) — directly reduces periodontal disease activity."
+              ],
+              [
+                "Eating Disorders",
+                "Bulimia → severe enamel erosion (lingual surfaces), parotid swelling, loss of tooth structure. Anorexia → bone density loss (including jaw).",
+                "Supportive, non-judgemental approach. Rinsing with baking soda water after purging (reduces acid erosion). Calcium + Vit D. Refer: eating disorder team + gastroenterologist + dentist collaboratively. Fluoride varnish (dental) to protect remaining enamel."
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Mercury Amalgam — Clinical Guidance",
+            "text": "Silver amalgam fillings contain 50% mercury by weight. WHO and EU have moved toward phasing out dental amalgam. Biological dentists offer mercury-safe removal using SMART protocol (Smoke Evacuation, Mercury separator, Amalgam pieces in large chunks, Rubber dam, Tablet of activated charcoal before/after). Naturopathic support during and after amalgam removal: activated charcoal 2g 30 min before appointment (binds swallowed mercury particles), chlorella 5g/day, vitamin C 2g/day, NAC 600mg BD (glutathione support). Note: amalgam-related mercury toxicity is controversial — most studies show blood mercury levels within safe range in people with amalgam fillings. Refer to biological dentist for patient-centred decision-making."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Special Population</th><th>Key Considerations</th><th>Naturopathic Support</th></tr></thead><tbody>\n      <tr><td><strong>Pregnancy</strong></td><td>Gingivitis in 40–70% of pregnancies (progesterone-driven vascular changes). Pregnancy epulis. Morning sickness → enamel erosion. Dental treatment safe in 2nd trimester.</td><td>Rinsing with water + baking soda after vomiting (neutralises acid before tooth erosion occurs — wait 30 min before brushing). Calcium 1000mg + Vit D 2000IU. Probiotic for oral microbiome. Periodontal treatment reduces preterm birth risk ★★.</td></tr>\n      <tr><td><strong>Elderly</strong></td><td>Dry mouth (xerostomia) from polypharmacy (100+ drugs cause it). Root caries. Denture-related candidiasis. Reduced enamel remineralisation.</td><td>Xylitol lozenges for dry mouth (stimulates saliva). Oral hydration. Saliva substitutes (naturopathic: aloe vera gel as mucosal coating). Vit D + calcium for jaw bone density. Review polypharmacy with physician (reduce xerogenic drugs where possible).</td></tr>\n      <tr><td><strong>Diabetes</strong></td><td>Bidirectional relationship: DM → ↑ periodontitis severity (3× risk). Periodontitis → ↑ HbA1c (inflammatory load). Treatment of periodontitis reduces HbA1c ★★★.</td><td>Periodontal care as integral part of diabetes management. Vit D, CoQ10, zinc for oral immunity. Control blood glucose (naturopathic DM protocol) — directly reduces periodontal disease activity.</td></tr>\n      <tr><td><strong>Eating Disorders</strong></td><td>Bulimia → severe enamel erosion (lingual surfaces), parotid swelling, loss of tooth structure. Anorexia → bone density loss (including jaw).</td><td>Supportive, non-judgemental approach. Rinsing with baking soda water after purging (reduces acid erosion). Calcium + Vit D. Refer: eating disorder team + gastroenterologist + dentist collaboratively. Fluoride varnish (dental) to protect remaining enamel.</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Mercury Amalgam — Clinical Guidance</div><div class=\"pt\">Silver amalgam fillings contain 50% mercury by weight. WHO and EU have moved toward phasing out dental amalgam. Biological dentists offer mercury-safe removal using SMART protocol (Smoke Evacuation, Mercury separator, Amalgam pieces in large chunks, Rubber dam, Tablet of activated charcoal before/after). Naturopathic support during and after amalgam removal: activated charcoal 2g 30 min before appointment (binds swallowed mercury particles), chlorella 5g/day, vitamin C 2g/day, NAC 600mg BD (glutathione support). Note: amalgam-related mercury toxicity is controversial — most studies show blood mercury levels within safe range in people with amalgam fillings. Refer to biological dentist for patient-centred decision-making.</div></div>",
+      "_review": false
     }
   ]
 }
