@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-13T17:43:23.802Z",
+  "generatedAt": "2026-04-13T17:44:30.571Z",
   "sections": [
     {
-      "id": "herb_drug_interactions",
-      "file": "herb_drug_interactions.json",
-      "cardCount": 108,
-      "sizeKb": "121.1",
+      "id": "clinicmgt",
+      "file": "clinicmgt.json",
+      "cardCount": 4,
+      "sizeKb": "24.1",
       "priority": "lazy",
       "lastUpdated": "2026-04-13",
-      "etag": "3b8492e2f287"
+      "etag": "589ef3e4d486"
     }
   ]
 }
