@@ -1,64 +1,1358 @@
 {
+  "schemaVersion": "1.0",
+  "section": "anatomy",
+  "generatedAt": "2026-04-13T11:50:40.801Z",
+  "cardCount": 23,
   "cards": [
     {
-      "title": "Cardiovascular System",
-      "badge": "",
+      "id": "anatomy-cvs-cardiovascular-structural-anatomy",
+      "title": "Cardiovascular — Structural Anatomy",
+      "badge": "Anatomy",
       "category": "cvs",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Heart anatomy: 4 chambers, valves (tricuspid, pulmonary, mitral, aortic)</li><li>Cardiac cycle: Systole (0.3s) + Diastole (0.5s) = 0.8s</li><li>Blood pressure regulation: Baroreceptors, RAAS, ANP</li><li>Coronary arteries: LAD, LCX, RCA territories</li></ul></div>"
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Structure",
+              "Description",
+              "Clinical Correlation"
+            ],
+            "rows": [
+              [
+                "Heart",
+                "Cone-shaped, ~250–350g. Located in mediastinum, 2/3 left of midline. Pericardium: fibrous (outer) + serous parietal + visceral (epicardium). 15–20 mL pericardial fluid",
+                "Cardiac tamponade: fluid → ↓CO. Beck's Triad: ↓BP + ↑JVP + muffled heart sounds. Pulsus paradoxus >10 mmHg"
+              ],
+              [
+                "Chambers",
+                "RA + LA: thin-walled receivers. RV + LV: thick-walled pumps. LV wall 3× thicker than RV. Interventricular septum. Fossa ovalis (remnant of foramen ovale)",
+                "LVH in HTN: eccentric (volume) vs concentric (pressure) hypertrophy. Sokolow-Lyon criterion: SV1 + RV5/V6 >35mm"
+              ],
+              [
+                "Valves",
+                "AV valves: Tricuspid (RA→RV, 3 leaflets, chordae tendineae, papillary muscles) + Mitral (LA→LV, 2 leaflets). Semilunar: Pulmonary (RV→PA) + Aortic (LV→Aorta, 3 cusps). Valves prevent backflow",
+                "Mitral stenosis: commonest rheumatic valve disease in India. Opening snap + mid-diastolic murmur at apex. Aortic stenosis: commonest valve disease in elderly"
+              ],
+              [
+                "Coronary Arteries",
+                "LCA → LAD (anterior LV, septum, apex) + LCx (lateral LV, marginal branches). RCA → posterior LV, SA node (60%), AV node (85%), RV. Right dominant circulation: 85% of population",
+                "LAD occlusion → anterior MI (most common, worst prognosis). RCA → inferior MI (↓HR, ↓BP — Bezold–Jarisch reflex). LCx → lateral MI"
+              ],
+              [
+                "Great Vessels",
+                "Ascending aorta → Aortic arch (brachiocephalic, L common carotid, L subclavian) → Descending thoracic → Abdominal. PA trunk (anterior, right of aorta) → R+L PAs. 4 pulmonary veins → LA. SVC + IVC → RA",
+                "Coarctation: commonly just distal to L subclavian (post-ductal). Rib notching on CXR. BP difference: arms > legs"
+              ],
+              [
+                "Conduction System",
+                "SA node (crista terminalis, RA, right coronary artery supply) → Internodal pathways → AV node (AV junction, delay 0.12s) → Bundle of His → L+R bundle branches → Purkinje fibres",
+                "SA node: primary pacemaker 60–100/min. AV node: 40–60/min escape. Purkinje: 20–40/min. AV block severity: 1° (↑PR), 2° Mobitz I/II, 3° complete (no relationship P:QRS)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Structure</th><th>Description</th><th>Clinical Correlation</th></tr></thead><tbody>\n      <tr><td>Heart</td><td>Cone-shaped, ~250–350g. Located in mediastinum, 2/3 left of midline. Pericardium: fibrous (outer) + serous parietal + visceral (epicardium). 15–20 mL pericardial fluid</td><td>Cardiac tamponade: fluid → ↓CO. Beck's Triad: ↓BP + ↑JVP + muffled heart sounds. Pulsus paradoxus &gt;10 mmHg</td></tr>\n      <tr><td>Chambers</td><td>RA + LA: thin-walled receivers. RV + LV: thick-walled pumps. LV wall 3× thicker than RV. Interventricular septum. Fossa ovalis (remnant of foramen ovale)</td><td>LVH in HTN: eccentric (volume) vs concentric (pressure) hypertrophy. Sokolow-Lyon criterion: SV1 + RV5/V6 &gt;35mm</td></tr>\n      <tr><td>Valves</td><td>AV valves: Tricuspid (RA→RV, 3 leaflets, chordae tendineae, papillary muscles) + Mitral (LA→LV, 2 leaflets). Semilunar: Pulmonary (RV→PA) + Aortic (LV→Aorta, 3 cusps). Valves prevent backflow</td><td>Mitral stenosis: commonest rheumatic valve disease in India. Opening snap + mid-diastolic murmur at apex. Aortic stenosis: commonest valve disease in elderly</td></tr>\n      <tr><td>Coronary Arteries</td><td>LCA → LAD (anterior LV, septum, apex) + LCx (lateral LV, marginal branches). RCA → posterior LV, SA node (60%), AV node (85%), RV. Right dominant circulation: 85% of population</td><td>LAD occlusion → anterior MI (most common, worst prognosis). RCA → inferior MI (↓HR, ↓BP — Bezold–Jarisch reflex). LCx → lateral MI</td></tr>\n      <tr><td>Great Vessels</td><td>Ascending aorta → Aortic arch (brachiocephalic, L common carotid, L subclavian) → Descending thoracic → Abdominal. PA trunk (anterior, right of aorta) → R+L PAs. 4 pulmonary veins → LA. SVC + IVC → RA</td><td>Coarctation: commonly just distal to L subclavian (post-ductal). Rib notching on CXR. BP difference: arms &gt; legs</td></tr>\n      <tr><td>Conduction System</td><td>SA node (crista terminalis, RA, right coronary artery supply) → Internodal pathways → AV node (AV junction, delay 0.12s) → Bundle of His → L+R bundle branches → Purkinje fibres</td><td>SA node: primary pacemaker 60–100/min. AV node: 40–60/min escape. Purkinje: 20–40/min. AV block severity: 1° (↑PR), 2° Mobitz I/II, 3° complete (no relationship P:QRS)</td></tr>\n    </tbody></table>",
+      "_review": false
     },
     {
-      "title": "Respiratory System",
-      "badge": "",
+      "id": "anatomy-cvs-cardiac-physiology-output-cycle-frank-starling",
+      "title": "Cardiac Physiology — Output, Cycle & Frank-Starling",
+      "badge": "Physiology",
+      "category": "cvs",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Core Formula",
+            "text": "Cardiac Output (CO) = Heart Rate × Stroke Volume. Normal CO = 5 L/min. Cardiac Index = CO ÷ BSA (normal 2.5–4 L/min/m²). SV determined by: Preload · Afterload · Contractility"
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Parameter",
+              "Normal",
+              "Mechanism & Significance"
+            ],
+            "rows": [
+              [
+                "Stroke Volume",
+                "70 mL/beat",
+                "Preload (EDV): ↑filling → ↑SV (Frank-Starling). Afterload (SVR/aortic pressure): ↑afterload → ↓SV. Contractility (inotropy): Ca²⁺-dependent. Adrenaline ↑, acidosis ↓"
+              ],
+              [
+                "Ejection Fraction",
+                "55–70%",
+                "EF = SV/EDV × 100. EF <40% = HFrEF (systolic failure). EF ≥50% = HFpEF (diastolic failure). Normal EF with symptoms = HFmrEF (40–49%). Gold standard: cardiac MRI"
+              ],
+              [
+                "Cardiac Pressures",
+                "RA: 0–8 mmHg · RV: 25/5 · PA: 25/10 · LA: 8–12 · LV: 120/8 · Aorta: 120/80",
+                "LA pressure ↑ in mitral stenosis → pulmonary HTN → RV failure. Pulmonary HTN: mean PA >20 mmHg. PCWP (wedge pressure) estimates LA pressure"
+              ],
+              [
+                "Cardiac Cycle",
+                "Systole ~0.3s · Diastole ~0.5s (HR 70bpm). Total = 0.8s",
+                "Isovolumetric contraction: all valves closed, pressure ↑. Ejection: aortic opens. Isovolumetric relaxation: all valves closed, pressure ↓. Filling: mitral opens. Tachycardia preferentially shortens diastole → ↓filling → ↓CO"
+              ],
+              [
+                "Frank-Starling Law",
+                "↑preload → ↑SV (up to optimum)",
+                "Muscle stretched → more cross-bridges formed → ↑force. Ascending limb (normal): ↑EDV → ↑SV. Descending limb (severe HF): overstretched → ↓contractility. IV fluid challenge exploits this law"
+              ],
+              [
+                "Laplace's Law",
+                "T = P × r / 2h",
+                "Wall tension (T) ∝ pressure × radius. ↑radius (dilated HF) → ↑wall stress → ↑O₂ demand → worsens ischaemia. Explains why dilated cardiomyopathy is progressive"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Cardiac Action Potential — Phase by Phase",
+            "text": "Phase 0: Rapid depolarisation — voltage-gated Na⁺ channels open (upstroke). Phase 1: Early repolarisation — K⁺ channels open transiently. Phase 2: Plateau — Ca²⁺ (L-type) influx = excitation-contraction coupling (contracts the muscle). Phase 3: Repolarisation — K⁺ efflux, Ca²⁺ channels close. Phase 4: Resting. SA/AV node: no true Phase 1/2, slow Ca²⁺-dependent upstroke (Phase 0 via funny If current + Ca²⁺) — target of verapamil/diltiazem. Na⁺ channels in ventricle → blocked by lidocaine, amiodarone."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Core Formula</div>Cardiac Output (CO) = Heart Rate × Stroke Volume. Normal CO = 5 L/min. Cardiac Index = CO ÷ BSA (normal 2.5–4 L/min/m²). SV determined by: Preload · Afterload · Contractility</div>\n    <table class=\"tbl\"><thead><tr><th>Parameter</th><th>Normal</th><th>Mechanism & Significance</th></tr></thead><tbody>\n      <tr><td>Stroke Volume</td><td>70 mL/beat</td><td>Preload (EDV): ↑filling → ↑SV (Frank-Starling). Afterload (SVR/aortic pressure): ↑afterload → ↓SV. Contractility (inotropy): Ca²⁺-dependent. Adrenaline ↑, acidosis ↓</td></tr>\n      <tr><td>Ejection Fraction</td><td>55–70%</td><td>EF = SV/EDV × 100. EF &lt;40% = HFrEF (systolic failure). EF ≥50% = HFpEF (diastolic failure). Normal EF with symptoms = HFmrEF (40–49%). Gold standard: cardiac MRI</td></tr>\n      <tr><td>Cardiac Pressures</td><td>RA: 0–8 mmHg · RV: 25/5 · PA: 25/10 · LA: 8–12 · LV: 120/8 · Aorta: 120/80</td><td>LA pressure ↑ in mitral stenosis → pulmonary HTN → RV failure. Pulmonary HTN: mean PA &gt;20 mmHg. PCWP (wedge pressure) estimates LA pressure</td></tr>\n      <tr><td>Cardiac Cycle</td><td>Systole ~0.3s · Diastole ~0.5s (HR 70bpm). Total = 0.8s</td><td>Isovolumetric contraction: all valves closed, pressure ↑. Ejection: aortic opens. Isovolumetric relaxation: all valves closed, pressure ↓. Filling: mitral opens. Tachycardia preferentially shortens diastole → ↓filling → ↓CO</td></tr>\n      <tr><td>Frank-Starling Law</td><td>↑preload → ↑SV (up to optimum)</td><td>Muscle stretched → more cross-bridges formed → ↑force. Ascending limb (normal): ↑EDV → ↑SV. Descending limb (severe HF): overstretched → ↓contractility. IV fluid challenge exploits this law</td></tr>\n      <tr><td>Laplace's Law</td><td>T = P × r / 2h</td><td>Wall tension (T) ∝ pressure × radius. ↑radius (dilated HF) → ↑wall stress → ↑O₂ demand → worsens ischaemia. Explains why dilated cardiomyopathy is progressive</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Cardiac Action Potential — Phase by Phase</div><div class=\"pt\">Phase 0: Rapid depolarisation — voltage-gated Na⁺ channels open (upstroke). Phase 1: Early repolarisation — K⁺ channels open transiently. Phase 2: Plateau — Ca²⁺ (L-type) influx = excitation-contraction coupling (contracts the muscle). Phase 3: Repolarisation — K⁺ efflux, Ca²⁺ channels close. Phase 4: Resting. SA/AV node: no true Phase 1/2, slow Ca²⁺-dependent upstroke (Phase 0 via funny If current + Ca²⁺) — target of verapamil/diltiazem. Na⁺ channels in ventricle → blocked by lidocaine, amiodarone.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-cvs-blood-pressure-regulation-vascular-physiology",
+      "title": "Blood Pressure Regulation & Vascular Physiology",
+      "badge": "Physiology",
+      "category": "cvs",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Mechanism",
+              "Timeframe",
+              "Detail"
+            ],
+            "rows": [
+              [
+                "Baroreceptor Reflex",
+                "Seconds",
+                "Carotid sinus (CN IX) + aortic arch (CN X) baroreceptors. ↑stretch → ↑afferent firing → NTS (medulla) → ↑vagal + ↓sympathetic → ↓HR + ↓SVR. Orthostatic hypotension: failure to activate reflex on standing"
+              ],
+              [
+                "RAAS",
+                "Minutes–hours",
+                "↓BP or ↓Na⁺ delivery → renin (JG cells) → Angiotensin I (from angiotensinogen) → ACE (lung) → Angiotensin II → vasoconstriction + aldosterone (↑Na⁺/H₂O retention) + ADH release + sympathetic activation"
+              ],
+              [
+                "ADH (Vasopressin)",
+                "Minutes–hours",
+                "Posterior pituitary. Stimuli: ↑plasma osmolality (osmoreceptors, hypothalamus) + ↓blood volume (baroreceptors). V2 receptors: ↑AQP2 → ↑H₂O reabsorption (CD). V1a: vasoconstriction. SIADH: ↑↑ADH → dilutional hyponatraemia"
+              ],
+              [
+                "ANP / BNP",
+                "Hours",
+                "ANP: atrial stretch → natriuresis + vasodilation. BNP: ventricular stress → same + ↓aldosterone. Used diagnostically: BNP >400 pg/mL = HF likely. NT-proBNP >900. Both inhibit RAAS. Sacubitril blocks neprilysin (BNP degrader)"
+              ],
+              [
+                "Poiseuille's Law",
+                "Continuous",
+                "Flow ∝ r⁴ × ΔP / (viscosity × length). Resistance ∝ 1/r⁴. Arterioles (resistance vessels): small change in radius = huge change in SVR. Sympathetic stimulation → arteriolar constriction → ↑BP"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Mechanism</th><th>Timeframe</th><th>Detail</th></tr></thead><tbody>\n      <tr><td>Baroreceptor Reflex</td><td>Seconds</td><td>Carotid sinus (CN IX) + aortic arch (CN X) baroreceptors. ↑stretch → ↑afferent firing → NTS (medulla) → ↑vagal + ↓sympathetic → ↓HR + ↓SVR. Orthostatic hypotension: failure to activate reflex on standing</td></tr>\n      <tr><td>RAAS</td><td>Minutes–hours</td><td>↓BP or ↓Na⁺ delivery → renin (JG cells) → Angiotensin I (from angiotensinogen) → ACE (lung) → Angiotensin II → vasoconstriction + aldosterone (↑Na⁺/H₂O retention) + ADH release + sympathetic activation</td></tr>\n      <tr><td>ADH (Vasopressin)</td><td>Minutes–hours</td><td>Posterior pituitary. Stimuli: ↑plasma osmolality (osmoreceptors, hypothalamus) + ↓blood volume (baroreceptors). V2 receptors: ↑AQP2 → ↑H₂O reabsorption (CD). V1a: vasoconstriction. SIADH: ↑↑ADH → dilutional hyponatraemia</td></tr>\n      <tr><td>ANP / BNP</td><td>Hours</td><td>ANP: atrial stretch → natriuresis + vasodilation. BNP: ventricular stress → same + ↓aldosterone. Used diagnostically: BNP &gt;400 pg/mL = HF likely. NT-proBNP &gt;900. Both inhibit RAAS. Sacubitril blocks neprilysin (BNP degrader)</td></tr>\n      <tr><td>Poiseuille's Law</td><td>Continuous</td><td>Flow ∝ r⁴ × ΔP / (viscosity × length). Resistance ∝ 1/r⁴. Arterioles (resistance vessels): small change in radius = huge change in SVR. Sympathetic stimulation → arteriolar constriction → ↑BP</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-resp-respiratory-airways-lung-anatomy",
+      "title": "Respiratory — Airways & Lung Anatomy",
+      "badge": "Anatomy",
       "category": "resp",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Lung volumes: TV 500mL, IRV 3000mL, ERV 1000mL, RV 1200mL</li><li>Surfactant: Type II pneumocytes, lecithin:sphingomyelin ratio</li><li>V/Q ratio: Normal 0.8, V/Q mismatch in PE/pneumonia</li><li>Mechanics: Diaphragm (70%), intercostals (30%)</li></ul></div>"
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Structure",
+              "Description",
+              "Clinical Correlation"
+            ],
+            "rows": [
+              [
+                "Upper Airways",
+                "Nose → Nasopharynx → Oropharynx → Larynx (vocal cords: true VCs = vocalis muscle). Epiglottis protects airway during swallowing. Nasal turbinates: ↑surface area for humidification + filtration",
+                "Epiglottitis (H. influenzae type b): muffled voice, drooling, tripod position. Do NOT examine throat — risk of airway obstruction. Emergency airway management"
+              ],
+              [
+                "Trachea & Bronchi",
+                "Trachea: 10–11 cm, 16–20 C-shaped cartilages (open posteriorly — trachealis muscle). Bifurcates at carina (T4/T5 = sternal angle = Louis). R main bronchus: shorter, wider, more vertical (25°) → aspirated objects go right",
+                "Carina: most sensitive cough trigger point. Tracheal deviation: away from tension pneumothorax, towards collapse/consolidation"
+              ],
+              [
+                "Bronchial Tree — 23 Generations",
+                "Gen 1–16 (Conducting zone): no gas exchange. Dead space = 150 mL. Gen 17–19: respiratory bronchioles (some alveoli). Gen 20–23 (Respiratory zone): alveolar ducts + sacs. Respiratory unit = acinus",
+                "Asthma: ↑resistance in small airways (Gen 4–16). Emphysema: destruction of respiratory zone (Gen 17+). Air trapping → barrel chest + ↑RV"
+              ],
+              [
+                "Lungs",
+                "Right: 3 lobes (upper, middle, lower) — RUL, RML, RLL. Left: 2 lobes (upper, lower) + lingula (equivalent of RML). Oblique fissure (both): separates lower from upper/middle. Horizontal fissure (right only): separates RUL from RML",
+                "RML syndrome: prone to collapse (acute angle of RML bronchus). Lingula: left lower lobe aspirations go here (supine, head turned right)"
+              ],
+              [
+                "Alveoli",
+                "~300 million. Total SA ~70 m². Type I pneumocytes (95% surface): gas exchange (thin). Type II (5% surface, cuboidal): surfactant synthesis + progenitor cells. Alveolar macrophages: first-line immune defence",
+                "Surfactant (DPPC, dipalmitoylphosphatidylcholine): reduces surface tension → prevents collapse at end-expiration. Deficiency in prematurity → IRDS. Corticosteroids accelerate Type II cell maturation"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Structure</th><th>Description</th><th>Clinical Correlation</th></tr></thead><tbody>\n      <tr><td>Upper Airways</td><td>Nose → Nasopharynx → Oropharynx → Larynx (vocal cords: true VCs = vocalis muscle). Epiglottis protects airway during swallowing. Nasal turbinates: ↑surface area for humidification + filtration</td><td>Epiglottitis (H. influenzae type b): muffled voice, drooling, tripod position. Do NOT examine throat — risk of airway obstruction. Emergency airway management</td></tr>\n      <tr><td>Trachea & Bronchi</td><td>Trachea: 10–11 cm, 16–20 C-shaped cartilages (open posteriorly — trachealis muscle). Bifurcates at carina (T4/T5 = sternal angle = Louis). R main bronchus: shorter, wider, more vertical (25°) → aspirated objects go right</td><td>Carina: most sensitive cough trigger point. Tracheal deviation: away from tension pneumothorax, towards collapse/consolidation</td></tr>\n      <tr><td>Bronchial Tree — 23 Generations</td><td>Gen 1–16 (Conducting zone): no gas exchange. Dead space = 150 mL. Gen 17–19: respiratory bronchioles (some alveoli). Gen 20–23 (Respiratory zone): alveolar ducts + sacs. Respiratory unit = acinus</td><td>Asthma: ↑resistance in small airways (Gen 4–16). Emphysema: destruction of respiratory zone (Gen 17+). Air trapping → barrel chest + ↑RV</td></tr>\n      <tr><td>Lungs</td><td>Right: 3 lobes (upper, middle, lower) — RUL, RML, RLL. Left: 2 lobes (upper, lower) + lingula (equivalent of RML). Oblique fissure (both): separates lower from upper/middle. Horizontal fissure (right only): separates RUL from RML</td><td>RML syndrome: prone to collapse (acute angle of RML bronchus). Lingula: left lower lobe aspirations go here (supine, head turned right)</td></tr>\n      <tr><td>Alveoli</td><td>~300 million. Total SA ~70 m². Type I pneumocytes (95% surface): gas exchange (thin). Type II (5% surface, cuboidal): surfactant synthesis + progenitor cells. Alveolar macrophages: first-line immune defence</td><td>Surfactant (DPPC, dipalmitoylphosphatidylcholine): reduces surface tension → prevents collapse at end-expiration. Deficiency in prematurity → IRDS. Corticosteroids accelerate Type II cell maturation</td></tr>\n    </tbody></table>",
+      "_review": false
     },
     {
-      "title": "Nervous System",
-      "badge": "",
+      "id": "anatomy-resp-ventilation-perfusion-gas-exchange",
+      "title": "Ventilation, Perfusion & Gas Exchange",
+      "badge": "Physiology",
+      "category": "resp",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "V/Q Ratio = Ventilation / Perfusion",
+            "text": "Normal V/Q = 4L/5L = 0.8. Apex: V/Q ↑ (ventilation >> perfusion). Base: V/Q ↓ (perfusion >> ventilation). V/Q mismatch = commonest cause of hypoxaemia in clinical practice"
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Volume/Capacity",
+              "Normal",
+              "Significance"
+            ],
+            "rows": [
+              [
+                "Tidal Volume (TV)",
+                "500 mL",
+                "Volume per normal breath. Alveolar ventilation = (TV − dead space) × RR = (500−150) × 14 = 4,900 mL/min. ↑RR more effective than ↑TV for ↑alveolar ventilation"
+              ],
+              [
+                "FRC (ERV + RV)",
+                "2500 mL",
+                "Volume after passive expiration. Maintained by chest wall outward recoil vs lung inward recoil. ↓ in obesity, supine, ARDS, anaesthesia → atelectasis. ↑ in emphysema (lost elastic recoil)"
+              ],
+              [
+                "FEV₁/FVC ratio",
+                "≥0.70",
+                "Obstructive: FEV₁/FVC <0.70, FEV₁ ↓↓ (asthma, COPD). Restrictive: both ↓ but ratio normal or ↑ (ILD, kyphoscoliosis, pleural effusion, NMD). Fixed obstruction: no bronchodilator response"
+              ],
+              [
+                "DLCO",
+                "25 mL/min/mmHg",
+                "Measures diffusion capacity (uses CO + Hb affinity). ↓ in: emphysema (↓SA), ILD (↑thickness), anaemia (↓Hb), PE (↓perfusion). ↑ in: polycythaemia, early LHF (↑capillary blood)"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "Hypoxaemia Cause",
+              "PaO₂",
+              "PaCO₂",
+              "A-a Gradient",
+              "Response to O₂"
+            ],
+            "rows": [
+              [
+                "Hypoventilation",
+                "↓",
+                "↑",
+                "Normal",
+                "Good"
+              ],
+              [
+                "V/Q mismatch (low V/Q)",
+                "↓",
+                "Normal/↓",
+                "↑",
+                "Good"
+              ],
+              [
+                "Diffusion limitation",
+                "↓",
+                "Normal",
+                "↑",
+                "Good"
+              ],
+              [
+                "Shunt (R→L)",
+                "↓↓",
+                "Normal/↓",
+                "↑↑",
+                "Poor (hallmark)"
+              ],
+              [
+                "High altitude",
+                "↓",
+                "↓ (hyperventilation)",
+                "Normal",
+                "Good"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Oxyhaemoglobin Dissociation Curve",
+            "text": "Sigmoid shape. P₅₀ = 26 mmHg (partial pressure at which Hb is 50% saturated). Right shift (↓O₂ affinity, ↑O₂ release to tissues): ↑CO₂, ↑H⁺, ↑temp, ↑2,3-DPG, exercise. Left shift (↑O₂ affinity, ↓O₂ delivery): ↑pH, ↓temp, ↓CO₂, CO poisoning, HbF (fetal Hb). CO competes with O₂ for Hb (200× affinity) AND causes left shift of remaining Hb → double insult."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">V/Q Ratio = Ventilation / Perfusion</div>Normal V/Q = 4L/5L = 0.8. Apex: V/Q ↑ (ventilation &gt;&gt; perfusion). Base: V/Q ↓ (perfusion &gt;&gt; ventilation). V/Q mismatch = commonest cause of hypoxaemia in clinical practice</div>\n    <table class=\"tbl\"><thead><tr><th>Volume/Capacity</th><th>Normal</th><th>Significance</th></tr></thead><tbody>\n      <tr><td>Tidal Volume (TV)</td><td>500 mL</td><td>Volume per normal breath. Alveolar ventilation = (TV − dead space) × RR = (500−150) × 14 = 4,900 mL/min. ↑RR more effective than ↑TV for ↑alveolar ventilation</td></tr>\n      <tr><td>FRC (ERV + RV)</td><td>2500 mL</td><td>Volume after passive expiration. Maintained by chest wall outward recoil vs lung inward recoil. ↓ in obesity, supine, ARDS, anaesthesia → atelectasis. ↑ in emphysema (lost elastic recoil)</td></tr>\n      <tr><td>FEV₁/FVC ratio</td><td>≥0.70</td><td>Obstructive: FEV₁/FVC &lt;0.70, FEV₁ ↓↓ (asthma, COPD). Restrictive: both ↓ but ratio normal or ↑ (ILD, kyphoscoliosis, pleural effusion, NMD). Fixed obstruction: no bronchodilator response</td></tr>\n      <tr><td>DLCO</td><td>25 mL/min/mmHg</td><td>Measures diffusion capacity (uses CO + Hb affinity). ↓ in: emphysema (↓SA), ILD (↑thickness), anaemia (↓Hb), PE (↓perfusion). ↑ in: polycythaemia, early LHF (↑capillary blood)</td></tr>\n    </tbody></table>\n    <table class=\"tbl\" style=\"margin-top:12px\"><thead><tr><th>Hypoxaemia Cause</th><th>PaO₂</th><th>PaCO₂</th><th>A-a Gradient</th><th>Response to O₂</th></tr></thead><tbody>\n      <tr><td>Hypoventilation</td><td>↓</td><td>↑</td><td>Normal</td><td>Good</td></tr>\n      <tr><td>V/Q mismatch (low V/Q)</td><td>↓</td><td>Normal/↓</td><td>↑</td><td>Good</td></tr>\n      <tr><td>Diffusion limitation</td><td>↓</td><td>Normal</td><td>↑</td><td>Good</td></tr>\n      <tr><td>Shunt (R→L)</td><td>↓↓</td><td>Normal/↓</td><td>↑↑</td><td>Poor (hallmark)</td></tr>\n      <tr><td>High altitude</td><td>↓</td><td>↓ (hyperventilation)</td><td>Normal</td><td>Good</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Oxyhaemoglobin Dissociation Curve</div><div class=\"pt\">Sigmoid shape. P₅₀ = 26 mmHg (partial pressure at which Hb is 50% saturated). Right shift (↓O₂ affinity, ↑O₂ release to tissues): ↑CO₂, ↑H⁺, ↑temp, ↑2,3-DPG, exercise. Left shift (↑O₂ affinity, ↓O₂ delivery): ↑pH, ↓temp, ↓CO₂, CO poisoning, HbF (fetal Hb). CO competes with O₂ for Hb (200× affinity) AND causes left shift of remaining Hb → double insult.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-resp-respiratory-control-breathing-mechanics",
+      "title": "Respiratory Control & Breathing Mechanics",
+      "badge": "Physiology",
+      "category": "resp",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Component",
+              "Detail"
+            ],
+            "rows": [
+              [
+                "Central Respiratory Controllers",
+                "DRG (Dorsal Resp Group, medulla): basic inspiratory rhythm. VRG (Ventral): forced inspiration + active expiration. Pre-Bötzinger complex: primary rhythm generator. Pneumotaxic centre (pons): limits inspiration duration. Apneustic centre (pons): prolongs inspiration (inhibited by Hering-Breuer reflex)"
+              ],
+              [
+                "Central Chemoreceptors",
+                "Ventral medulla surface. Respond to ↑CO₂ → ↑H₂CO₃ → ↑H⁺ in CSF (CO₂ crosses BBB freely, H⁺ does not). Primary drive for ventilation. Do NOT respond directly to hypoxia"
+              ],
+              [
+                "Peripheral Chemoreceptors",
+                "Carotid bodies (CN IX, primary in humans) + aortic bodies (CN X). Respond to: ↓PaO₂ <60 mmHg (hypoxic drive), ↑PaCO₂, ↑H⁺, ↓BP. In COPD with chronic hypercapnia: central receptors reset → hypoxic drive becomes primary. Caution with high-flow O₂"
+              ],
+              [
+                "Mechanics of Breathing",
+                "Inspiration (active): diaphragm (main, CN phrenic C3–5) + external intercostals. Forced inspiration: scalenes + SCM + pectorals. Expiration: passive (elastic recoil) at rest. Forced: internal intercostals + abdominals. Intrapleural pressure: −5 cmH₂O (resting) → −8 cmH₂O (inspiration)"
+              ],
+              [
+                "Compliance & Resistance",
+                "Compliance = ΔV/ΔP. ↑ in emphysema (lost elastic recoil). ↓ in fibrosis, pulmonary oedema, ARDS. Airway resistance: ↑ in asthma, COPD, foreign body. Resistance ∝ 1/r⁴ — small changes in airway radius → large resistance changes"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Component</th><th>Detail</th></tr></thead><tbody>\n      <tr><td>Central Respiratory Controllers</td><td>DRG (Dorsal Resp Group, medulla): basic inspiratory rhythm. VRG (Ventral): forced inspiration + active expiration. Pre-Bötzinger complex: primary rhythm generator. Pneumotaxic centre (pons): limits inspiration duration. Apneustic centre (pons): prolongs inspiration (inhibited by Hering-Breuer reflex)</td></tr>\n      <tr><td>Central Chemoreceptors</td><td>Ventral medulla surface. Respond to ↑CO₂ → ↑H₂CO₃ → ↑H⁺ in CSF (CO₂ crosses BBB freely, H⁺ does not). Primary drive for ventilation. Do NOT respond directly to hypoxia</td></tr>\n      <tr><td>Peripheral Chemoreceptors</td><td>Carotid bodies (CN IX, primary in humans) + aortic bodies (CN X). Respond to: ↓PaO₂ &lt;60 mmHg (hypoxic drive), ↑PaCO₂, ↑H⁺, ↓BP. In COPD with chronic hypercapnia: central receptors reset → hypoxic drive becomes primary. Caution with high-flow O₂</td></tr>\n      <tr><td>Mechanics of Breathing</td><td>Inspiration (active): diaphragm (main, CN phrenic C3–5) + external intercostals. Forced inspiration: scalenes + SCM + pectorals. Expiration: passive (elastic recoil) at rest. Forced: internal intercostals + abdominals. Intrapleural pressure: −5 cmH₂O (resting) → −8 cmH₂O (inspiration)</td></tr>\n      <tr><td>Compliance & Resistance</td><td>Compliance = ΔV/ΔP. ↑ in emphysema (lost elastic recoil). ↓ in fibrosis, pulmonary oedema, ARDS. Airway resistance: ↑ in asthma, COPD, foreign body. Resistance ∝ 1/r⁴ — small changes in airway radius → large resistance changes</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-neuro-nervous-system-cns-anatomy-cerebral-lobes",
+      "title": "Nervous System — CNS Anatomy & Cerebral Lobes",
+      "badge": "Anatomy",
       "category": "neuro",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>CNS: Brain (1400g) + Spinal cord (45cm)</li><li>Neurotransmitters: ACh, dopamine, serotonin, GABA, glutamate</li><li>BBB: Tight junctions, astrocyte end-feet</li><li>Resting membrane potential: -70mV (Na+/K+ ATPase)</li></ul></div>"
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Region",
+              "Structure & Function",
+              "Clinical Correlation"
+            ],
+            "rows": [
+              [
+                "Cerebral Cortex — Frontal Lobe",
+                "Primary motor cortex (precentral gyrus, area 4): voluntary movement, homunculus (face + hand = large area). Premotor + supplementary motor areas (area 6). Broca's area (IFG, area 44/45, dominant L hemisphere): speech production (expressive). Prefrontal: executive function, personality, judgment",
+                "Broca's aphasia: non-fluent speech, understands, frustrated. Frontal lobe tumour: personality change, disinhibition, ↓executive function. Frontal eye field (area 8): conjugate gaze"
+              ],
+              [
+                "Parietal Lobe",
+                "Primary somatosensory cortex (postcentral gyrus): touch, pain, temp, proprioception. Association areas: spatial awareness, body schema. Gerstmann syndrome (dominant inferior parietal): acalculia + agraphia + finger agnosia + L/R disorientation",
+                "Non-dominant parietal damage: hemineglect, constructional apraxia, dressing apraxia. Dominant damage: ideomotor apraxia, Gerstmann"
+              ],
+              [
+                "Temporal Lobe",
+                "Primary auditory cortex (Heschl's gyrus, area 41/42). Wernicke's area (posterior STG, area 22, dominant): speech comprehension. Medial temporal: hippocampus (memory consolidation), amygdala (emotion, fear). Uncus: olfactory cortex",
+                "Wernicke's aphasia: fluent but nonsensical speech (jargon), poor comprehension. Hippocampal damage → anterograde amnesia (Korsakoff). Temporal lobe epilepsy: aura (déjà vu, olfactory), automatisms"
+              ],
+              [
+                "Occipital Lobe",
+                "Primary visual cortex (V1, area 17, calcarine sulcus): retinotopic mapping, macular representation at posterior pole (preserved in PCA stroke). Association areas: V2–V5 (motion, colour, form)",
+                "Homonymous hemianopia: optic tract/radiation/cortex lesion. Macular sparing: dual blood supply (MCA + PCA) to occipital pole"
+              ],
+              [
+                "Brainstem & Cranial Nerves",
+                "Midbrain: CN III (oculomotor), CN IV (trochlear — only CN to exit dorsally). Pons: CN V (trigeminal), VI (abducens), VII (facial), VIII (vestibulocochlear). Medulla: CN IX (glossopharyngeal), X (vagus), XI (accessory), XII (hypoglossal)",
+                "Weber syndrome (midbrain): ipsilateral CN III palsy + contralateral hemiplegia. Wallenberg syndrome (lateral medulla, PICA): ipsilateral face + contralateral body loss of pain/temp + dysphagia + ataxia"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Region</th><th>Structure & Function</th><th>Clinical Correlation</th></tr></thead><tbody>\n      <tr><td>Cerebral Cortex — Frontal Lobe</td><td>Primary motor cortex (precentral gyrus, area 4): voluntary movement, homunculus (face + hand = large area). Premotor + supplementary motor areas (area 6). Broca's area (IFG, area 44/45, dominant L hemisphere): speech production (expressive). Prefrontal: executive function, personality, judgment</td><td>Broca's aphasia: non-fluent speech, understands, frustrated. Frontal lobe tumour: personality change, disinhibition, ↓executive function. Frontal eye field (area 8): conjugate gaze</td></tr>\n      <tr><td>Parietal Lobe</td><td>Primary somatosensory cortex (postcentral gyrus): touch, pain, temp, proprioception. Association areas: spatial awareness, body schema. Gerstmann syndrome (dominant inferior parietal): acalculia + agraphia + finger agnosia + L/R disorientation</td><td>Non-dominant parietal damage: hemineglect, constructional apraxia, dressing apraxia. Dominant damage: ideomotor apraxia, Gerstmann</td></tr>\n      <tr><td>Temporal Lobe</td><td>Primary auditory cortex (Heschl's gyrus, area 41/42). Wernicke's area (posterior STG, area 22, dominant): speech comprehension. Medial temporal: hippocampus (memory consolidation), amygdala (emotion, fear). Uncus: olfactory cortex</td><td>Wernicke's aphasia: fluent but nonsensical speech (jargon), poor comprehension. Hippocampal damage → anterograde amnesia (Korsakoff). Temporal lobe epilepsy: aura (déjà vu, olfactory), automatisms</td></tr>\n      <tr><td>Occipital Lobe</td><td>Primary visual cortex (V1, area 17, calcarine sulcus): retinotopic mapping, macular representation at posterior pole (preserved in PCA stroke). Association areas: V2–V5 (motion, colour, form)</td><td>Homonymous hemianopia: optic tract/radiation/cortex lesion. Macular sparing: dual blood supply (MCA + PCA) to occipital pole</td></tr>\n      <tr><td>Brainstem & Cranial Nerves</td><td>Midbrain: CN III (oculomotor), CN IV (trochlear — only CN to exit dorsally). Pons: CN V (trigeminal), VI (abducens), VII (facial), VIII (vestibulocochlear). Medulla: CN IX (glossopharyngeal), X (vagus), XI (accessory), XII (hypoglossal)</td><td>Weber syndrome (midbrain): ipsilateral CN III palsy + contralateral hemiplegia. Wallenberg syndrome (lateral medulla, PICA): ipsilateral face + contralateral body loss of pain/temp + dysphagia + ataxia</td></tr>\n    </tbody></table>",
+      "_review": false
     },
     {
-      "title": "Musculoskeletal System",
-      "badge": "",
+      "id": "anatomy-neuro-neurophysiology-action-potentials-synapses-ans",
+      "title": "Neurophysiology — Action Potentials, Synapses & ANS",
+      "badge": "Physiology",
+      "category": "neuro",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Topic",
+              "Detail"
+            ],
+            "rows": [
+              [
+                "Resting Membrane Potential",
+                "−70 mV in neurons. Determined by K⁺ permeability (K⁺ diffuses out down concentration gradient). Na⁺/K⁺-ATPase pump (3Na⁺ out : 2K⁺ in) maintains concentration gradients. Nernst equation: E = (RT/zF) × ln([ion]o/[ion]i)"
+              ],
+              [
+                "Action Potential",
+                "Threshold: −55 mV. Phase 1 (Depolarisation): voltage-gated Na⁺ channels open rapidly (upstroke to +30 mV). Phase 2 (Repolarisation): Na⁺ inactivate, voltage-gated K⁺ open. Phase 3 (Hyperpolarisation): K⁺ channels slow to close. Absolute refractory: Na⁺ channels inactivated (no AP possible). Relative refractory: large stimulus only"
+              ],
+              [
+                "Conduction Velocity",
+                "Myelinated (saltatory conduction at Nodes of Ranvier): Aα 70–120 m/s (proprioception, motor). Aβ 30–70 m/s (touch, pressure). Aδ 5–30 m/s (fast pain, temp). Unmyelinated C fibres: 0.5–2 m/s (slow pain, temp, postganglionic ANS). Demyelination: MS, Guillain-Barré → slowed NCV"
+              ],
+              [
+                "Neuromuscular Junction",
+                "AP → Ca²⁺ influx (VGCC, P/Q type) at presynaptic terminal → ACh vesicle fusion → ACh into synaptic cleft → nAChR (nicotinic) → endplate potential → muscle AP → contraction. AChE degrades ACh. Myasthenia gravis: anti-AChR antibodies → fatigable weakness. Lambert-Eaton: anti-VGCC (presynaptic)"
+              ],
+              [
+                "ANS Summary",
+                "Sympathetic (T1–L2): short preganglionic (ACh/nAChR) → paravertebral/prevertebral ganglia → long postganglionic (NE/adrenergic receptors). Adrenal medulla = modified ganglion → Epi (80%) + NE (20%). Parasympathetic (CN III, VII, IX, X + S2–4): long preganglionic → intramural ganglia → short postganglionic (ACh/mAChR). All preganglionic = ACh/nicotinic. Sweat glands: sympathetic but cholinergic"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Spinal Cord Tracts — Which Crosses Where?",
+            "text": "Dorsal columns (DCML): Vibration + proprioception + fine touch — travel ipsilateral in dorsal columns, decussate in medulla (gracile + cuneate nuclei → contralateral thalamus). Corticospinal tract: decussates in pyramidal decussation (medulla). Spinothalamic: pain + temperature + crude touch — decussates within 1–2 spinal cord levels of entry. Clinically: Brown-Séquard = ipsilateral UMN + proprioception loss + contralateral pain/temp loss below lesion."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Topic</th><th>Detail</th></tr></thead><tbody>\n      <tr><td>Resting Membrane Potential</td><td>−70 mV in neurons. Determined by K⁺ permeability (K⁺ diffuses out down concentration gradient). Na⁺/K⁺-ATPase pump (3Na⁺ out : 2K⁺ in) maintains concentration gradients. Nernst equation: E = (RT/zF) × ln([ion]o/[ion]i)</td></tr>\n      <tr><td>Action Potential</td><td>Threshold: −55 mV. Phase 1 (Depolarisation): voltage-gated Na⁺ channels open rapidly (upstroke to +30 mV). Phase 2 (Repolarisation): Na⁺ inactivate, voltage-gated K⁺ open. Phase 3 (Hyperpolarisation): K⁺ channels slow to close. Absolute refractory: Na⁺ channels inactivated (no AP possible). Relative refractory: large stimulus only</td></tr>\n      <tr><td>Conduction Velocity</td><td>Myelinated (saltatory conduction at Nodes of Ranvier): Aα 70–120 m/s (proprioception, motor). Aβ 30–70 m/s (touch, pressure). Aδ 5–30 m/s (fast pain, temp). Unmyelinated C fibres: 0.5–2 m/s (slow pain, temp, postganglionic ANS). Demyelination: MS, Guillain-Barré → slowed NCV</td></tr>\n      <tr><td>Neuromuscular Junction</td><td>AP → Ca²⁺ influx (VGCC, P/Q type) at presynaptic terminal → ACh vesicle fusion → ACh into synaptic cleft → nAChR (nicotinic) → endplate potential → muscle AP → contraction. AChE degrades ACh. Myasthenia gravis: anti-AChR antibodies → fatigable weakness. Lambert-Eaton: anti-VGCC (presynaptic)</td></tr>\n      <tr><td>ANS Summary</td><td>Sympathetic (T1–L2): short preganglionic (ACh/nAChR) → paravertebral/prevertebral ganglia → long postganglionic (NE/adrenergic receptors). Adrenal medulla = modified ganglion → Epi (80%) + NE (20%). Parasympathetic (CN III, VII, IX, X + S2–4): long preganglionic → intramural ganglia → short postganglionic (ACh/mAChR). All preganglionic = ACh/nicotinic. Sweat glands: sympathetic but cholinergic</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Spinal Cord Tracts — Which Crosses Where?</div><div class=\"pt\">Dorsal columns (DCML): Vibration + proprioception + fine touch — travel ipsilateral in dorsal columns, decussate in medulla (gracile + cuneate nuclei → contralateral thalamus). Corticospinal tract: decussates in pyramidal decussation (medulla). Spinothalamic: pain + temperature + crude touch — decussates within 1–2 spinal cord levels of entry. Clinically: Brown-Séquard = ipsilateral UMN + proprioception loss + contralateral pain/temp loss below lesion.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-neuro-csf-meninges-blood-brain-barrier",
+      "title": "CSF, Meninges & Blood-Brain Barrier",
+      "badge": "Physiology",
+      "category": "neuro",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Topic",
+              "Detail"
+            ],
+            "rows": [
+              [
+                "Meninges",
+                "Dura mater (periosteal + meningeal layers; separated by epidural space, contains venous sinuses in falx/tentorium). Arachnoid mater (avascular, CSF in subarachnoid space). Pia mater (adherent to brain surface). Bridging veins (from cortex → superior sagittal sinus) — torn in head injury → subdural haematoma"
+              ],
+              [
+                "CSF Production & Circulation",
+                "Choroid plexus (lateral ventricles → III → IV → Foramina of Luschka (lateral) + Magendie (medial) → subarachnoid space → arachnoid granulations → venous sinuses. Volume: 150 mL total. Production: 500 mL/day (3–4× daily turnover). ICP normal: 7–15 cmH₂O"
+              ],
+              [
+                "Normal CSF Values",
+                "Appearance: crystal clear. Protein: 15–45 mg/dL. Glucose: 60–70% of plasma (2.5–4.4 mmol/L). Cells: <5 lymphocytes/mm³. Pressure: 10–18 cmH₂O. Xanthochromia (yellow): bilirubin from SAH — appears at 2h, persists 2 weeks"
+              ],
+              [
+                "CSF in Disease",
+                "Bacterial meningitis: turbid, ↑↑neutrophils, ↑protein, ↓glucose (bacteria + WBC consume glucose). Viral (aseptic): clear, ↑lymphocytes, normal/↑protein, normal glucose. TB meningitis: clear/straw, ↑lymphocytes, ↑↑protein, ↓↓glucose, fibrin web. SAH: bloody → xanthochromic after centrifuge"
+              ],
+              [
+                "Blood-Brain Barrier",
+                "Tight junctions (occludin, claudin) between cerebral endothelial cells + astrocyte end-feet + pericytes. Freely permeable: O₂, CO₂, ethanol, lipid-soluble drugs, anaesthetics, steroids. Glucose: GLUT1 transporter. Blocked: large molecules, charged ions, most antibiotics, proteins. Areas without BBB: circumventricular organs (area postrema, OVLT, subfornical organ, pineal gland)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Topic</th><th>Detail</th></tr></thead><tbody>\n      <tr><td>Meninges</td><td>Dura mater (periosteal + meningeal layers; separated by epidural space, contains venous sinuses in falx/tentorium). Arachnoid mater (avascular, CSF in subarachnoid space). Pia mater (adherent to brain surface). Bridging veins (from cortex → superior sagittal sinus) — torn in head injury → subdural haematoma</td></tr>\n      <tr><td>CSF Production & Circulation</td><td>Choroid plexus (lateral ventricles → III → IV → Foramina of Luschka (lateral) + Magendie (medial) → subarachnoid space → arachnoid granulations → venous sinuses. Volume: 150 mL total. Production: 500 mL/day (3–4× daily turnover). ICP normal: 7–15 cmH₂O</td></tr>\n      <tr><td>Normal CSF Values</td><td>Appearance: crystal clear. Protein: 15–45 mg/dL. Glucose: 60–70% of plasma (2.5–4.4 mmol/L). Cells: &lt;5 lymphocytes/mm³. Pressure: 10–18 cmH₂O. Xanthochromia (yellow): bilirubin from SAH — appears at 2h, persists 2 weeks</td></tr>\n      <tr><td>CSF in Disease</td><td>Bacterial meningitis: turbid, ↑↑neutrophils, ↑protein, ↓glucose (bacteria + WBC consume glucose). Viral (aseptic): clear, ↑lymphocytes, normal/↑protein, normal glucose. TB meningitis: clear/straw, ↑lymphocytes, ↑↑protein, ↓↓glucose, fibrin web. SAH: bloody → xanthochromic after centrifuge</td></tr>\n      <tr><td>Blood-Brain Barrier</td><td>Tight junctions (occludin, claudin) between cerebral endothelial cells + astrocyte end-feet + pericytes. Freely permeable: O₂, CO₂, ethanol, lipid-soluble drugs, anaesthetics, steroids. Glucose: GLUT1 transporter. Blocked: large molecules, charged ions, most antibiotics, proteins. Areas without BBB: circumventricular organs (area postrema, OVLT, subfornical organ, pineal gland)</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-msk-musculoskeletal-bone-structure-remodelling",
+      "title": "Musculoskeletal — Bone Structure & Remodelling",
+      "badge": "Anatomy",
       "category": "msk",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Muscle types: Skeletal (voluntary), cardiac, smooth (involuntary)</li><li>Sliding filament theory: Actin + myosin, ATP dependent</li><li>Bone remodeling: Osteoblasts (formation), osteoclasts (resorption)</li><li>Joint types: Fibrous, cartilaginous, synovial</li></ul></div>"
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Topic",
+              "Detail",
+              "Clinical Correlation"
+            ],
+            "rows": [
+              [
+                "Bone Composition",
+                "Organic matrix (30%): type I collagen (90%) + proteoglycans + osteocalcin. Mineral (70%): hydroxyapatite [Ca₁₀(PO₄)₆(OH)₂]. Cortical (compact, 80%): Haversian systems (osteons) — long bone shafts. Cancellous (trabecular, 20%): at epiphyses — metabolically active, remodels faster",
+                "Osteoporosis: ↓BMD (T-score <−2.5 on DEXA). Preferentially affects trabecular bone first → vertebral crush, distal radius, femoral neck fractures"
+              ],
+              [
+                "Bone Cells",
+                "Osteoblasts: bone formation, alkaline phosphatase marker, synthesise type I collagen + osteocalcin. Osteoclasts: bone resorption, multinucleated, RANK-L activated, tartrate-resistant acid phosphatase (TRAP), dissolve mineral with H⁺ + lysosomal enzymes. Osteocytes: mechanosensors in lacunae, regulate remodelling via sclerostin. Osteoprogenitor: periosteum + endosteum → osteoblast source",
+                "Bisphosphonates: inhibit osteoclast (bind hydroxyapatite → taken up → ↓farnesyl pyrophosphate → osteoclast apoptosis). Denosumab: anti-RANKL antibody → ↓osteoclast maturation"
+              ],
+              [
+                "Bone Remodelling",
+                "BMU (Basic Multicellular Unit): 3–4 month cycle. 1. Activation (RANKL/OPG ratio). 2. Resorption: osteoclasts form resorption pit (Howship's lacuna). 3. Reversal. 4. Formation: osteoblasts fill pit. Key regulators: PTH (↑resorption acutely, anabolic if pulsatile), Calcitonin (↓resorption), Vit D (↑mineralisation), Oestrogen (↓osteoclast = most important anti-resorptive), Mechanical loading",
+                "Post-menopausal: ↓oestrogen → ↑RANKL/OPG → ↑osteoclast activity → 3–5% bone loss/year for first 5–10 years. Paget's disease: ↑↑turnover, ↑↑ALP (osteoblastic), normal Ca²⁺"
+              ],
+              [
+                "Fracture Healing",
+                "1. Haematoma (days 1–3): clot + inflammatory mediators. 2. Soft callus (1–2 weeks): periosteal osteoprogenitors + fibrocartilage bridge. 3. Hard callus (3–6 weeks): woven bone replaces cartilage (endochondral ossification). 4. Remodelling (months–years): woven → lamellar bone, Haversian remodelling",
+                "Impaired healing: smoking (↓osteoblast function), diabetes (↓collagen), NSAIDs (↓prostaglandin-mediated repair), corticosteroids (↓osteoblast), ↓Vit D/Ca²⁺, poor blood supply (scaphoid, femoral head)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Topic</th><th>Detail</th><th>Clinical Correlation</th></tr></thead><tbody>\n      <tr><td>Bone Composition</td><td>Organic matrix (30%): type I collagen (90%) + proteoglycans + osteocalcin. Mineral (70%): hydroxyapatite [Ca₁₀(PO₄)₆(OH)₂]. Cortical (compact, 80%): Haversian systems (osteons) — long bone shafts. Cancellous (trabecular, 20%): at epiphyses — metabolically active, remodels faster</td><td>Osteoporosis: ↓BMD (T-score &lt;−2.5 on DEXA). Preferentially affects trabecular bone first → vertebral crush, distal radius, femoral neck fractures</td></tr>\n      <tr><td>Bone Cells</td><td>Osteoblasts: bone formation, alkaline phosphatase marker, synthesise type I collagen + osteocalcin. Osteoclasts: bone resorption, multinucleated, RANK-L activated, tartrate-resistant acid phosphatase (TRAP), dissolve mineral with H⁺ + lysosomal enzymes. Osteocytes: mechanosensors in lacunae, regulate remodelling via sclerostin. Osteoprogenitor: periosteum + endosteum → osteoblast source</td><td>Bisphosphonates: inhibit osteoclast (bind hydroxyapatite → taken up → ↓farnesyl pyrophosphate → osteoclast apoptosis). Denosumab: anti-RANKL antibody → ↓osteoclast maturation</td></tr>\n      <tr><td>Bone Remodelling</td><td>BMU (Basic Multicellular Unit): 3–4 month cycle. 1. Activation (RANKL/OPG ratio). 2. Resorption: osteoclasts form resorption pit (Howship's lacuna). 3. Reversal. 4. Formation: osteoblasts fill pit. Key regulators: PTH (↑resorption acutely, anabolic if pulsatile), Calcitonin (↓resorption), Vit D (↑mineralisation), Oestrogen (↓osteoclast = most important anti-resorptive), Mechanical loading</td><td>Post-menopausal: ↓oestrogen → ↑RANKL/OPG → ↑osteoclast activity → 3–5% bone loss/year for first 5–10 years. Paget's disease: ↑↑turnover, ↑↑ALP (osteoblastic), normal Ca²⁺</td></tr>\n      <tr><td>Fracture Healing</td><td>1. Haematoma (days 1–3): clot + inflammatory mediators. 2. Soft callus (1–2 weeks): periosteal osteoprogenitors + fibrocartilage bridge. 3. Hard callus (3–6 weeks): woven bone replaces cartilage (endochondral ossification). 4. Remodelling (months–years): woven → lamellar bone, Haversian remodelling</td><td>Impaired healing: smoking (↓osteoblast function), diabetes (↓collagen), NSAIDs (↓prostaglandin-mediated repair), corticosteroids (↓osteoblast), ↓Vit D/Ca²⁺, poor blood supply (scaphoid, femoral head)</td></tr>\n    </tbody></table>",
+      "_review": false
     },
     {
-      "title": "GI & Hepatic Anatomy",
-      "badge": "",
+      "id": "anatomy-msk-muscle-joint-physiology",
+      "title": "Muscle & Joint Physiology",
+      "badge": "Physiology",
+      "category": "msk",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Topic",
+              "Detail"
+            ],
+            "rows": [
+              [
+                "Sliding Filament Theory",
+                "AP → T-tubules → ryanodine receptor opens → Ca²⁺ release from SR → Ca²⁺ binds troponin C → conformational change → tropomyosin moves off actin binding site → myosin head binds actin (cross-bridge) → power stroke (ADP+Pi released) → ATP binds → cross-bridge detachment → cycle repeats. Relaxation: SERCA pump returns Ca²⁺ to SR (ATP-dependent). Rigor mortis: ATP depletion → permanent cross-bridges"
+              ],
+              [
+                "Muscle Fibre Types",
+                "Type I (Slow-twitch, oxidative): red (myoglobin), fatigue-resistant, aerobic metabolism, many mitochondria. Soleus, postural muscles. Type IIa (Fast-twitch oxidative): intermediate. Type IIb (Fast-twitch glycolytic): white, powerful, fatigues quickly, anaerobic. Gastrocnemius, sprinters. Training shifts IIb→IIa"
+              ],
+              [
+                "Motor Unit Recruitment",
+                "Motor unit = 1 α motor neuron + all muscle fibres it innervates. Ratio: small muscles (intrinsic hand: 1:3) → fine control. Large muscles (quadriceps: 1:2000) → power. Henneman's size principle: smallest motor units (type I) recruited first, largest (type IIb) last. All-or-none law: motor unit fires fully or not at all. Graded force via summation (temporal) + recruitment"
+              ],
+              [
+                "Joint Classification",
+                "Fibrous (no synovial cavity): sutures (skull), syndesmosis (tibiofibular). Cartilaginous: Primary (growth plates, hyaline cartilage — no movement) + Secondary/symphyses (fibrocartilage — limited movement). Synovial (freely movable): articular cartilage + synovial membrane + synovial fluid (hyaluronate + ultrafiltrate of plasma, lubricates + nourishes avascular cartilage)"
+              ],
+              [
+                "Muscle Proprioceptors",
+                "Muscle spindle (intrafusal fibres, Ia + II afferents): detects stretch rate + magnitude → monosynaptic reflex (Ia → α motor neuron → extrafusal contraction = stretch reflex). Dynamic (Ia): rate of stretch. Static (II + Ia): sustained stretch. Golgi tendon organ (Ib afferents, in series with muscle): detects tension → disynaptic inhibition of α motor neuron → autogenic inhibition (protects against overload)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Topic</th><th>Detail</th></tr></thead><tbody>\n      <tr><td>Sliding Filament Theory</td><td>AP → T-tubules → ryanodine receptor opens → Ca²⁺ release from SR → Ca²⁺ binds troponin C → conformational change → tropomyosin moves off actin binding site → myosin head binds actin (cross-bridge) → power stroke (ADP+Pi released) → ATP binds → cross-bridge detachment → cycle repeats. Relaxation: SERCA pump returns Ca²⁺ to SR (ATP-dependent). Rigor mortis: ATP depletion → permanent cross-bridges</td></tr>\n      <tr><td>Muscle Fibre Types</td><td>Type I (Slow-twitch, oxidative): red (myoglobin), fatigue-resistant, aerobic metabolism, many mitochondria. Soleus, postural muscles. Type IIa (Fast-twitch oxidative): intermediate. Type IIb (Fast-twitch glycolytic): white, powerful, fatigues quickly, anaerobic. Gastrocnemius, sprinters. Training shifts IIb→IIa</td></tr>\n      <tr><td>Motor Unit Recruitment</td><td>Motor unit = 1 α motor neuron + all muscle fibres it innervates. Ratio: small muscles (intrinsic hand: 1:3) → fine control. Large muscles (quadriceps: 1:2000) → power. Henneman's size principle: smallest motor units (type I) recruited first, largest (type IIb) last. All-or-none law: motor unit fires fully or not at all. Graded force via summation (temporal) + recruitment</td></tr>\n      <tr><td>Joint Classification</td><td>Fibrous (no synovial cavity): sutures (skull), syndesmosis (tibiofibular). Cartilaginous: Primary (growth plates, hyaline cartilage — no movement) + Secondary/symphyses (fibrocartilage — limited movement). Synovial (freely movable): articular cartilage + synovial membrane + synovial fluid (hyaluronate + ultrafiltrate of plasma, lubricates + nourishes avascular cartilage)</td></tr>\n      <tr><td>Muscle Proprioceptors</td><td>Muscle spindle (intrafusal fibres, Ia + II afferents): detects stretch rate + magnitude → monosynaptic reflex (Ia → α motor neuron → extrafusal contraction = stretch reflex). Dynamic (Ia): rate of stretch. Static (II + Ia): sustained stretch. Golgi tendon organ (Ib afferents, in series with muscle): detects tension → disynaptic inhibition of α motor neuron → autogenic inhibition (protects against overload)</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-gi-gi-tract-anatomy-wall-layers",
+      "title": "GI Tract — Anatomy & Wall Layers",
+      "badge": "Anatomy",
       "category": "gi",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>GI layers: Mucosa, submucosa, muscularis, serosa</li><li>Liver: Dual blood supply (portal 75%, hepatic artery 25%)</li><li>Enterohepatic circulation: Bile acids recycled 6–10×/day</li><li>Pancreas: Exocrine (enzymes) + endocrine (islets of Langerhans)</li></ul></div>"
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Layer",
+              "Structure",
+              "Clinical Correlation"
+            ],
+            "rows": [
+              [
+                "Mucosa",
+                "Epithelium (lining) + Lamina propria (capillaries, lymphatics, immune cells) + Muscularis mucosae (thin smooth muscle). Stomach: rugae. Small intestine: villi + microvilli (brush border) increase SA ~600×. Large intestine: crypts of Lieberkühn only (no villi)",
+                "Coeliac disease: blunted villi + crypt hyperplasia. Villous atrophy → malabsorption. Duodenal biopsy gold standard. Anti-tTG IgA + total IgA"
+              ],
+              [
+                "Submucosa",
+                "Dense connective tissue. Submucosal plexus (Meissner's): parasympathetic, controls secretion. Brunner's glands (duodenum): alkaline mucus secretion. Peyer's patches (ileum): lymphoid aggregates (MALT). SMAS (submucosal arterial plexus)",
+                "Brunner's gland hyperplasia: nodular mucosa, associated with Zollinger-Ellison syndrome (↑gastrin → ↑acid → Brunner's hyperplastic). Peyer's patches: Salmonella entry point in typhoid"
+              ],
+              [
+                "Muscularis Externa",
+                "Inner circular + outer longitudinal smooth muscle layers. Myenteric plexus (Auerbach's): between layers, controls motility. Stomach: additional oblique layer (3 layers). Oesophagus: upper 1/3 = striated, middle = mixed, lower 1/3 = smooth",
+                "Achalasia: degeneration of Auerbach's plexus at LOS → aperistalsis + failure of LOS relaxation → progressive dysphagia solids + liquids. Hirschsprung: absent ganglia → functional obstruction"
+              ],
+              [
+                "Serosa vs Adventitia",
+                "Serosa (peritoneum-covered, intraperitoneal): stomach, jejunum, ileum, transverse colon, sigmoid. Adventitia (retroperitoneal, no peritoneal covering): oesophagus, D2–D4 duodenum, ascending + descending colon, rectum below peritoneal reflection, pancreas",
+                "Retroperitoneal organs: SADPUCKER — Suprarenal, Aorta/IVC, Duodenum (D2–4), Pancreas, Ureters, Colon (ascending/descending), Kidneys, Oesophagus, Rectum"
+              ]
+            ]
+          },
+          {
+            "caption": null,
+            "headers": [
+              "GI Segment",
+              "Key Anatomy Points"
+            ],
+            "rows": [
+              [
+                "Oesophagus",
+                "25 cm. 3 physiological constrictions: cricopharyngeal (UOS, C5–6), aortic arch (T4), LOS (T10–11). Z-line = squamocolumnar junction at GEJ. Barrett's: metaplasia from squamous → columnar (intestinal type) → adenocarcinoma risk"
+              ],
+              [
+                "Stomach",
+                "Regions: Fundus (upper), Body, Antrum, Pylorus. Parietal cells (body + fundus): HCl + intrinsic factor. Chief cells (body): pepsinogen. G cells (antrum): gastrin. Blood supply: left gastric (coeliac axis). Gastric ulcer: lesser curvature. Duodenal ulcer: D1 (anterior: perforation; posterior: bleeds into GDA = haematemesis)"
+              ],
+              [
+                "Small Intestine",
+                "Total 6 m. Duodenum (25 cm, C-shaped, retroperitoneal D2–D4): ampulla of Vater (D2, bile + pancreatic duct). Jejunum (proximal 2/5): tall villi, plicae circulares, main absorption. Ileum (distal 3/5): Peyer's patches, ICV, absorbs B12 + bile salts. Blood: SMA"
+              ],
+              [
+                "Large Intestine",
+                "1.5 m. Distinguishers: taeniae coli (3 bands longitudinal muscle), haustra, appendices epiploicae. Caecum + appendix (RIF). Ascending (retroperitoneal), Transverse (intraperitoneal), Descending (retroperitoneal), Sigmoid, Rectum. Blood: SMA (to splenic flexure) + IMA (to rectum)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Layer</th><th>Structure</th><th>Clinical Correlation</th></tr></thead><tbody>\n      <tr><td>Mucosa</td><td>Epithelium (lining) + Lamina propria (capillaries, lymphatics, immune cells) + Muscularis mucosae (thin smooth muscle). Stomach: rugae. Small intestine: villi + microvilli (brush border) increase SA ~600×. Large intestine: crypts of Lieberkühn only (no villi)</td><td>Coeliac disease: blunted villi + crypt hyperplasia. Villous atrophy → malabsorption. Duodenal biopsy gold standard. Anti-tTG IgA + total IgA</td></tr>\n      <tr><td>Submucosa</td><td>Dense connective tissue. Submucosal plexus (Meissner's): parasympathetic, controls secretion. Brunner's glands (duodenum): alkaline mucus secretion. Peyer's patches (ileum): lymphoid aggregates (MALT). SMAS (submucosal arterial plexus)</td><td>Brunner's gland hyperplasia: nodular mucosa, associated with Zollinger-Ellison syndrome (↑gastrin → ↑acid → Brunner's hyperplastic). Peyer's patches: Salmonella entry point in typhoid</td></tr>\n      <tr><td>Muscularis Externa</td><td>Inner circular + outer longitudinal smooth muscle layers. Myenteric plexus (Auerbach's): between layers, controls motility. Stomach: additional oblique layer (3 layers). Oesophagus: upper 1/3 = striated, middle = mixed, lower 1/3 = smooth</td><td>Achalasia: degeneration of Auerbach's plexus at LOS → aperistalsis + failure of LOS relaxation → progressive dysphagia solids + liquids. Hirschsprung: absent ganglia → functional obstruction</td></tr>\n      <tr><td>Serosa vs Adventitia</td><td>Serosa (peritoneum-covered, intraperitoneal): stomach, jejunum, ileum, transverse colon, sigmoid. Adventitia (retroperitoneal, no peritoneal covering): oesophagus, D2–D4 duodenum, ascending + descending colon, rectum below peritoneal reflection, pancreas</td><td>Retroperitoneal organs: SADPUCKER — Suprarenal, Aorta/IVC, Duodenum (D2–4), Pancreas, Ureters, Colon (ascending/descending), Kidneys, Oesophagus, Rectum</td></tr>\n    </tbody></table>\n    <table class=\"tbl\" style=\"margin-top:12px\"><thead><tr><th>GI Segment</th><th>Key Anatomy Points</th></tr></thead><tbody>\n      <tr><td>Oesophagus</td><td>25 cm. 3 physiological constrictions: cricopharyngeal (UOS, C5–6), aortic arch (T4), LOS (T10–11). Z-line = squamocolumnar junction at GEJ. Barrett's: metaplasia from squamous → columnar (intestinal type) → adenocarcinoma risk</td></tr>\n      <tr><td>Stomach</td><td>Regions: Fundus (upper), Body, Antrum, Pylorus. Parietal cells (body + fundus): HCl + intrinsic factor. Chief cells (body): pepsinogen. G cells (antrum): gastrin. Blood supply: left gastric (coeliac axis). Gastric ulcer: lesser curvature. Duodenal ulcer: D1 (anterior: perforation; posterior: bleeds into GDA = haematemesis)</td></tr>\n      <tr><td>Small Intestine</td><td>Total 6 m. Duodenum (25 cm, C-shaped, retroperitoneal D2–D4): ampulla of Vater (D2, bile + pancreatic duct). Jejunum (proximal 2/5): tall villi, plicae circulares, main absorption. Ileum (distal 3/5): Peyer's patches, ICV, absorbs B12 + bile salts. Blood: SMA</td></tr>\n      <tr><td>Large Intestine</td><td>1.5 m. Distinguishers: taeniae coli (3 bands longitudinal muscle), haustra, appendices epiploicae. Caecum + appendix (RIF). Ascending (retroperitoneal), Transverse (intraperitoneal), Descending (retroperitoneal), Sigmoid, Rectum. Blood: SMA (to splenic flexure) + IMA (to rectum)</td></tr>\n    </tbody></table>",
+      "_review": false
     },
     {
-      "title": "Endocrine System",
-      "badge": "",
+      "id": "anatomy-gi-gi-physiology-secretion-digestion-absorption",
+      "title": "GI Physiology — Secretion, Digestion & Absorption",
+      "badge": "Physiology",
+      "category": "gi",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Topic",
+              "Detail"
+            ],
+            "rows": [
+              [
+                "Gastric Secretion",
+                "Parietal cells: H⁺ via H⁺/K⁺-ATPase (proton pump, luminal) + Cl⁻ channel. HCl: pH 1–2. Stimulated by: ACh (vagus), gastrin (gastric phase), histamine (H2). Inhibited by: somatostatin (D cells), secretin, PPI (irreversibly blocks pump). Intrinsic factor: needed for B12 absorption (terminal ileum)"
+              ],
+              [
+                "Phases of Gastric Secretion",
+                "Cephalic phase (30%): sight/smell/taste → vagal → ACh → parietal + G cells. Gastric phase (60%): gastric distension + protein → gastrin (G cells) → ↑HCl. Intestinal phase (10%): initial duodenal stimulation → brief ↑gastrin, then inhibition (secretin, CCK, GIP) as acid + fat enter duodenum"
+              ],
+              [
+                "Intestinal Hormones",
+                "CCK (I cells, duodenum/jejunum): ↑pancreatic enzymes + ↑bile secretion, ↓gastric emptying, satiety signal. Secretin (S cells): ↑pancreatic HCO₃⁻ (neutralises acid in duodenum). GIP (K cells): ↑insulin (incretin), ↓gastric acid. GLP-1 (L cells, ileum): ↑insulin, ↓glucagon, ↓gastric emptying (target of GLP-1 RAs). VIP: ↑intestinal secretion"
+              ],
+              [
+                "Nutrient Absorption",
+                "Carbohydrates: salivary + pancreatic amylase → disaccharides → brush border enzymes (lactase, sucrase, maltase) → monosaccharides → SGLT1 (glucose, galactose) or GLUT5 (fructose). Proteins: pepsin (stomach) + pancreatic proteases (trypsin, chymotrypsin, elastase, carboxypeptidase) → AA + di/tripeptides → PepT1. Fats: lingual + pancreatic lipase + bile salts (emulsification) → micelles → FA + MAG → enterocyte → TGs → chylomicrons → lacteals → thoracic duct"
+              ],
+              [
+                "Liver — Key Functions",
+                "Metabolic: glycogenesis, glycogenolysis, gluconeogenesis, β-oxidation, lipogenesis, urea cycle (NH₃→urea), amino acid transamination. Synthetic: albumin, clotting factors (II, VII, IX, X, protein C/S — all Vit K-dependent except I), fibrinogen, complement proteins. Bile production: 600–1000 mL/day. Detoxification: CYP450 Phase I (oxidation) + Phase II (conjugation). Iron storage (ferritin). Vitamin storage (A, D, B12)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Bilirubin Metabolism — From Haem to Stool",
+            "text": "RBC breakdown → Haem → Haem oxygenase → Biliverdin → Biliverdin reductase → Unconjugated bilirubin (UCB, water-insoluble, bound to albumin) → Liver: UDP-glucuronosyltransferase (UGT1A1) → Conjugated bilirubin (CB, water-soluble) → Bile duct → Duodenum → Gut bacteria → Urobilinogen → Stercobilinogen (stercobilin → brown stools). Some urobilinogen reabsorbed (enterohepatic) → kidney → urobilinogen in urine. Pre-hepatic jaundice: ↑UCB, dark urine (urobilinogen) absent/normal. Hepatic: ↑both. Post-hepatic: ↑CB, dark urine (bilirubin), pale stools (no stercobilin), pruritis (bile salts)."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Topic</th><th>Detail</th></tr></thead><tbody>\n      <tr><td>Gastric Secretion</td><td>Parietal cells: H⁺ via H⁺/K⁺-ATPase (proton pump, luminal) + Cl⁻ channel. HCl: pH 1–2. Stimulated by: ACh (vagus), gastrin (gastric phase), histamine (H2). Inhibited by: somatostatin (D cells), secretin, PPI (irreversibly blocks pump). Intrinsic factor: needed for B12 absorption (terminal ileum)</td></tr>\n      <tr><td>Phases of Gastric Secretion</td><td>Cephalic phase (30%): sight/smell/taste → vagal → ACh → parietal + G cells. Gastric phase (60%): gastric distension + protein → gastrin (G cells) → ↑HCl. Intestinal phase (10%): initial duodenal stimulation → brief ↑gastrin, then inhibition (secretin, CCK, GIP) as acid + fat enter duodenum</td></tr>\n      <tr><td>Intestinal Hormones</td><td>CCK (I cells, duodenum/jejunum): ↑pancreatic enzymes + ↑bile secretion, ↓gastric emptying, satiety signal. Secretin (S cells): ↑pancreatic HCO₃⁻ (neutralises acid in duodenum). GIP (K cells): ↑insulin (incretin), ↓gastric acid. GLP-1 (L cells, ileum): ↑insulin, ↓glucagon, ↓gastric emptying (target of GLP-1 RAs). VIP: ↑intestinal secretion</td></tr>\n      <tr><td>Nutrient Absorption</td><td>Carbohydrates: salivary + pancreatic amylase → disaccharides → brush border enzymes (lactase, sucrase, maltase) → monosaccharides → SGLT1 (glucose, galactose) or GLUT5 (fructose). Proteins: pepsin (stomach) + pancreatic proteases (trypsin, chymotrypsin, elastase, carboxypeptidase) → AA + di/tripeptides → PepT1. Fats: lingual + pancreatic lipase + bile salts (emulsification) → micelles → FA + MAG → enterocyte → TGs → chylomicrons → lacteals → thoracic duct</td></tr>\n      <tr><td>Liver — Key Functions</td><td>Metabolic: glycogenesis, glycogenolysis, gluconeogenesis, β-oxidation, lipogenesis, urea cycle (NH₃→urea), amino acid transamination. Synthetic: albumin, clotting factors (II, VII, IX, X, protein C/S — all Vit K-dependent except I), fibrinogen, complement proteins. Bile production: 600–1000 mL/day. Detoxification: CYP450 Phase I (oxidation) + Phase II (conjugation). Iron storage (ferritin). Vitamin storage (A, D, B12)</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Bilirubin Metabolism — From Haem to Stool</div><div class=\"pt\">RBC breakdown → Haem → Haem oxygenase → Biliverdin → Biliverdin reductase → Unconjugated bilirubin (UCB, water-insoluble, bound to albumin) → Liver: UDP-glucuronosyltransferase (UGT1A1) → Conjugated bilirubin (CB, water-soluble) → Bile duct → Duodenum → Gut bacteria → Urobilinogen → Stercobilinogen (stercobilin → brown stools). Some urobilinogen reabsorbed (enterohepatic) → kidney → urobilinogen in urine. Pre-hepatic jaundice: ↑UCB, dark urine (urobilinogen) absent/normal. Hepatic: ↑both. Post-hepatic: ↑CB, dark urine (bilirubin), pale stools (no stercobilin), pruritis (bile salts).</div></div>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-endo-endocrine-glands-anatomy-hormone-overview",
+      "title": "Endocrine Glands — Anatomy & Hormone Overview",
+      "badge": "Anatomy",
       "category": "endo",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Hypothalamus-pituitary axis: Tropic hormones, feedback loops</li><li>Insulin: Anabolic, glucose uptake (GLUT4), fat storage</li><li>Thyroid hormone: T4 (inactive) → T3 (active, via deiodinase)</li><li>Adrenal: Cortex (steroids: cortisol, aldosterone, DHEA), Medulla (catecholamines)</li></ul></div>"
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Gland",
+              "Location & Structure",
+              "Key Hormones"
+            ],
+            "rows": [
+              [
+                "Hypothalamus",
+                "Diencephalon, floor of 3rd ventricle. Nuclei: supraoptic (ADH + OXT synthesis), paraventricular (ADH + OXT + CRH). Connected to pituitary via infundibular stalk. Hypothalamic-pituitary portal system carries releasing hormones",
+                "TRH, CRH, GnRH, GHRH, Somatostatin (inhibits GH + TSH + insulin), Dopamine (inhibits PRL), ADH (AVP), Oxytocin"
+              ],
+              [
+                "Anterior Pituitary (Adenohypophysis)",
+                "Sella turcica (sphenoid bone). Cell types: Somatotrophs (50%: GH), Corticotrophs (20%: ACTH from POMC), Thyrotrophs (5%: TSH), Gonadotrophs (10%: LH, FSH), Lactotrophs (15%: PRL). Blood supply: portal system from median eminence",
+                "GH, TSH, ACTH, LH, FSH, PRL (+ MSH, β-endorphin from POMC cleavage)"
+              ],
+              [
+                "Posterior Pituitary (Neurohypophysis)",
+                "Axon terminals of magnocellular neurons from hypothalamus. NOT a secretory gland — stores + releases ADH (AVP) and Oxytocin synthesised in hypothalamus",
+                "ADH (V2: renal H₂O reabsorption; V1a: vasoconstriction). Oxytocin (uterine contraction + lactation + bonding)"
+              ],
+              [
+                "Thyroid",
+                "Bilobed, 20–30g, C5–T1 level. 2 lobes + isthmus (level of 2nd–3rd tracheal ring). Follicles (colloid = thyroglobulin storage). C cells (parafollicular): calcitonin. Blood supply: superior + inferior thyroid arteries. Parathyroids (4): posterior surface of each thyroid lobe",
+                "T4 (80% secreted, prohormone) + T3 (20% secreted, active, 3-4× potency). Calcitonin (C cells). PTH (parathyroids)"
+              ],
+              [
+                "Adrenal Glands",
+                "Retroperitoneal, superior to kidneys. Cortex (90%, 3 zones): Zona Glomerulosa (outermost, mineralocorticoids), Zona Fasciculata (largest, glucocorticoids), Zona Reticularis (innermost, androgens). Medulla (10%): chromaffin cells (catecholamines). Mnemonic: GFR — from outside in",
+                "ZG: Aldosterone (RAAS-regulated). ZF: Cortisol (ACTH-regulated). ZR: DHEA + androstenedione. Medulla: Epinephrine (80%) + Norepinephrine (20%)"
+              ],
+              [
+                "Endocrine Pancreas (Islets of Langerhans)",
+                "1–2% of pancreatic mass. ~1 million islets. α cells (25%): glucagon. β cells (65%): insulin + amylin + C-peptide. δ cells (10%): somatostatin. PP cells: pancreatic polypeptide. Rich blood supply; nutrients reach β cells directly via portal system",
+                "Insulin: β cells. Glucagon: α cells. Somatostatin: paracrine inhibition of both"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Gland</th><th>Location & Structure</th><th>Key Hormones</th></tr></thead><tbody>\n      <tr><td>Hypothalamus</td><td>Diencephalon, floor of 3rd ventricle. Nuclei: supraoptic (ADH + OXT synthesis), paraventricular (ADH + OXT + CRH). Connected to pituitary via infundibular stalk. Hypothalamic-pituitary portal system carries releasing hormones</td><td>TRH, CRH, GnRH, GHRH, Somatostatin (inhibits GH + TSH + insulin), Dopamine (inhibits PRL), ADH (AVP), Oxytocin</td></tr>\n      <tr><td>Anterior Pituitary (Adenohypophysis)</td><td>Sella turcica (sphenoid bone). Cell types: Somatotrophs (50%: GH), Corticotrophs (20%: ACTH from POMC), Thyrotrophs (5%: TSH), Gonadotrophs (10%: LH, FSH), Lactotrophs (15%: PRL). Blood supply: portal system from median eminence</td><td>GH, TSH, ACTH, LH, FSH, PRL (+ MSH, β-endorphin from POMC cleavage)</td></tr>\n      <tr><td>Posterior Pituitary (Neurohypophysis)</td><td>Axon terminals of magnocellular neurons from hypothalamus. NOT a secretory gland — stores + releases ADH (AVP) and Oxytocin synthesised in hypothalamus</td><td>ADH (V2: renal H₂O reabsorption; V1a: vasoconstriction). Oxytocin (uterine contraction + lactation + bonding)</td></tr>\n      <tr><td>Thyroid</td><td>Bilobed, 20–30g, C5–T1 level. 2 lobes + isthmus (level of 2nd–3rd tracheal ring). Follicles (colloid = thyroglobulin storage). C cells (parafollicular): calcitonin. Blood supply: superior + inferior thyroid arteries. Parathyroids (4): posterior surface of each thyroid lobe</td><td>T4 (80% secreted, prohormone) + T3 (20% secreted, active, 3-4× potency). Calcitonin (C cells). PTH (parathyroids)</td></tr>\n      <tr><td>Adrenal Glands</td><td>Retroperitoneal, superior to kidneys. Cortex (90%, 3 zones): Zona Glomerulosa (outermost, mineralocorticoids), Zona Fasciculata (largest, glucocorticoids), Zona Reticularis (innermost, androgens). Medulla (10%): chromaffin cells (catecholamines). Mnemonic: GFR — from outside in</td><td>ZG: Aldosterone (RAAS-regulated). ZF: Cortisol (ACTH-regulated). ZR: DHEA + androstenedione. Medulla: Epinephrine (80%) + Norepinephrine (20%)</td></tr>\n      <tr><td>Endocrine Pancreas (Islets of Langerhans)</td><td>1–2% of pancreatic mass. ~1 million islets. α cells (25%): glucagon. β cells (65%): insulin + amylin + C-peptide. δ cells (10%): somatostatin. PP cells: pancreatic polypeptide. Rich blood supply; nutrients reach β cells directly via portal system</td><td>Insulin: β cells. Glucagon: α cells. Somatostatin: paracrine inhibition of both</td></tr>\n    </tbody></table>",
+      "_review": false
     },
     {
-      "title": "Renal System",
-      "badge": "",
+      "id": "anatomy-endo-hormone-physiology-mechanisms-axes-calcium",
+      "title": "Hormone Physiology — Mechanisms, Axes & Calcium",
+      "badge": "Physiology",
+      "category": "endo",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Topic",
+              "Detail"
+            ],
+            "rows": [
+              [
+                "Hormone Receptor Classes",
+                "Peptide hormones (insulin, GH, PTH, glucagon): water-soluble, cell surface receptors. Tyrosine kinase (insulin, IGF-1, GH → JAK/STAT). GPCR (glucagon, PTH, TSH, LH, FSH → cAMP/PKA or Gq/PLC). Steroid hormones (cortisol, aldosterone, sex hormones, Vit D): lipid-soluble → nuclear receptors → gene transcription (slow, hours). Thyroid hormones: lipid-soluble → nuclear receptors (similar to steroids)"
+              ],
+              [
+                "HPA Axis",
+                "Stress → CRH (hypothalamus) → ACTH (anterior pituitary, from POMC) → Cortisol (zona fasciculata). Cortisol peak: 8am (circadian, driven by SCN). Actions: ↑gluconeogenesis, ↑lipolysis, ↑protein catabolism, anti-inflammatory (↓NF-κB, ↓arachidonic acid), immunosuppressive, ↑BP (↑catecholamine sensitivity). Negative feedback: cortisol inhibits CRH + ACTH (short + long loop)"
+              ],
+              [
+                "HPT Axis",
+                "TRH → TSH (glycoprotein, α+β subunits — α shared with LH, FSH, hCG) → T3/T4. Thyroid peroxidase: oxidises I⁻, couples DIT (diiodotyrosine) + MIT (monoiodotyrosine) → T3/T4 on thyroglobulin scaffold. T4 → T3 by 5'-deiodinase (liver, kidney, pituitary) — T3 is 3–4× more potent. T3 actions: ↑BMR + thermogenesis (↑Na⁺/K⁺-ATPase), ↑cardiac output + HR, ↑CNS development (critical in fetus + neonate), ↑GI motility, ↑bone turnover"
+              ],
+              [
+                "Insulin Physiology",
+                "Glucose → β cell GLUT2 uptake → ↑ATP/ADP ratio → K_ATP channel closes → membrane depolarises → L-type Ca²⁺ opens → Ca²⁺ triggers insulin exocytosis. Insulin actions: GLUT4 translocation (muscle + fat) → ↑glucose uptake. ↑glycogenesis. ↓gluconeogenesis + lipolysis + ketogenesis. ↑protein synthesis. Counter-regulatory hormones (glucagon, adrenaline, cortisol, GH): ↑blood glucose"
+              ],
+              [
+                "Calcium Regulation",
+                "PTH (parathyroid chief cells): ↑Ca²⁺ by: ↑renal Ca²⁺ reabsorption (DCT), ↑bone resorption, ↑1α-hydroxylase (→ active Vit D 1,25-OH₂D₃). PTH: ↓PO₄ (↑renal excretion). Calcitonin (C cells, thyroid): ↓Ca²⁺ (↓osteoclast). Vit D (1,25-OH₂D₃): ↑intestinal Ca²⁺ + PO₄ absorption. Hypocalcaemia: Trousseau's sign (carpal spasm, BP cuff) + Chvostek's (facial twitch)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Topic</th><th>Detail</th></tr></thead><tbody>\n      <tr><td>Hormone Receptor Classes</td><td>Peptide hormones (insulin, GH, PTH, glucagon): water-soluble, cell surface receptors. Tyrosine kinase (insulin, IGF-1, GH → JAK/STAT). GPCR (glucagon, PTH, TSH, LH, FSH → cAMP/PKA or Gq/PLC). Steroid hormones (cortisol, aldosterone, sex hormones, Vit D): lipid-soluble → nuclear receptors → gene transcription (slow, hours). Thyroid hormones: lipid-soluble → nuclear receptors (similar to steroids)</td></tr>\n      <tr><td>HPA Axis</td><td>Stress → CRH (hypothalamus) → ACTH (anterior pituitary, from POMC) → Cortisol (zona fasciculata). Cortisol peak: 8am (circadian, driven by SCN). Actions: ↑gluconeogenesis, ↑lipolysis, ↑protein catabolism, anti-inflammatory (↓NF-κB, ↓arachidonic acid), immunosuppressive, ↑BP (↑catecholamine sensitivity). Negative feedback: cortisol inhibits CRH + ACTH (short + long loop)</td></tr>\n      <tr><td>HPT Axis</td><td>TRH → TSH (glycoprotein, α+β subunits — α shared with LH, FSH, hCG) → T3/T4. Thyroid peroxidase: oxidises I⁻, couples DIT (diiodotyrosine) + MIT (monoiodotyrosine) → T3/T4 on thyroglobulin scaffold. T4 → T3 by 5'-deiodinase (liver, kidney, pituitary) — T3 is 3–4× more potent. T3 actions: ↑BMR + thermogenesis (↑Na⁺/K⁺-ATPase), ↑cardiac output + HR, ↑CNS development (critical in fetus + neonate), ↑GI motility, ↑bone turnover</td></tr>\n      <tr><td>Insulin Physiology</td><td>Glucose → β cell GLUT2 uptake → ↑ATP/ADP ratio → K_ATP channel closes → membrane depolarises → L-type Ca²⁺ opens → Ca²⁺ triggers insulin exocytosis. Insulin actions: GLUT4 translocation (muscle + fat) → ↑glucose uptake. ↑glycogenesis. ↓gluconeogenesis + lipolysis + ketogenesis. ↑protein synthesis. Counter-regulatory hormones (glucagon, adrenaline, cortisol, GH): ↑blood glucose</td></tr>\n      <tr><td>Calcium Regulation</td><td>PTH (parathyroid chief cells): ↑Ca²⁺ by: ↑renal Ca²⁺ reabsorption (DCT), ↑bone resorption, ↑1α-hydroxylase (→ active Vit D 1,25-OH₂D₃). PTH: ↓PO₄ (↑renal excretion). Calcitonin (C cells, thyroid): ↓Ca²⁺ (↓osteoclast). Vit D (1,25-OH₂D₃): ↑intestinal Ca²⁺ + PO₄ absorption. Hypocalcaemia: Trousseau's sign (carpal spasm, BP cuff) + Chvostek's (facial twitch)</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-renal-kidney-anatomy-nephron-structure",
+      "title": "Kidney — Anatomy & Nephron Structure",
+      "badge": "Anatomy",
       "category": "renal",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Nephron: Glomerulus, PCT, loop of Henle, DCT, collecting duct</li><li>GFR: 125 mL/min, filtration fraction 20%</li><li>RAAS: Renin → Angiotensin I → ACE → Ang II → aldosterone</li><li>ADH (vasopressin): Aquaporin insertion in collecting duct</li></ul></div>"
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Structure",
+              "Description",
+              "Clinical Correlation"
+            ],
+            "rows": [
+              [
+                "Gross Anatomy",
+                "Retroperitoneal. Dimensions: 11 × 6 × 3 cm, ~150g. Right kidney: slightly lower (liver). Left kidney: slightly higher. Hilum contents (anterior → posterior): renal vein → renal artery → ureter (VAU). Fat: perirenal fat (Gerota's fascia) + pararenal fat",
+                "Horseshoe kidney (1:400): fused at lower poles, crosses L3/L4 (inferior mesenteric artery). ↑risk: UPJ obstruction, renal calculi, Wilms tumour, renal carcinoma"
+              ],
+              [
+                "Internal Structure",
+                "Cortex (outer, 1–1.5 cm): glomeruli + PCT + DCT. Medulla: renal pyramids (8–12, papillae point into minor calyces → major calyces → renal pelvis → ureter). Columns of Bertin: cortical tissue between pyramids. Medullary rays extend from pyramids into cortex",
+                "Medullary sponge kidney: dilated collecting ducts → calculi, nephrocalcinosis, haematuria. Renal cell carcinoma: arises from PCT (clear cell 80%). Wilms tumour (nephroblastoma): commonest renal tumour in children"
+              ],
+              [
+                "Nephron Structure",
+                "~1 million per kidney. Renal corpuscle (glomerulus in Bowman's capsule) → PCT (convoluted → straight in medullary ray) → Loop of Henle (thin descending → thin ascending → thick ascending) → DCT → Connecting tubule → Collecting duct (cortical → medullary → papillary). Cortical nephrons (80%): short loop. Juxtamedullary nephrons (20%): long loop → medullary concentration gradient",
+                "Juxtamedullary nephrons essential for urine concentration (ADH-dependent). Absent in nephrotic syndrome papillary tip lesions. Diabetic nephropathy: glomerulosclerosis (Kimmelstiel-Wilson nodules in advanced disease)"
+              ],
+              [
+                "Glomerular Filtration Barrier",
+                "3-layer barrier: 1. Fenestrated endothelium (70–100 nm pores, size barrier). 2. Glomerular basement membrane (GBM: type IV collagen + laminin + heparan sulphate — charge barrier, negatively charged → repels albumin). 3. Podocytes: foot processes + slit diaphragm (nephrin, podocin)",
+                "Nephrotic: loss of charge barrier → proteinuria >3.5g/day. Minimal change disease: effacement of foot processes on EM. Nephritic: inflammatory disruption → haematuria + ↑protein (lesser than nephrotic)"
+              ],
+              [
+                "Juxtaglomerular Apparatus",
+                "Macula densa: specialised DCT cells at returning limb entering glomerulus. Detects tubular Na⁺ + Cl⁻ concentration → tubuloglomerular feedback (↓Na⁺ → ↑GFR + ↑renin). JG cells (modified smooth muscle of afferent arteriole): renin-secreting. Extraglomerular mesangial cells: signal integration",
+                "↓Na⁺ delivery → macula densa → ↑renin → ↑RAAS → renovascular HTN. ACE inhibitors: ↓Angiotensin II → efferent dilation → ↓GFR in stenosed kidney (creatinine ↑ if bilateral RAS)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Structure</th><th>Description</th><th>Clinical Correlation</th></tr></thead><tbody>\n      <tr><td>Gross Anatomy</td><td>Retroperitoneal. Dimensions: 11 × 6 × 3 cm, ~150g. Right kidney: slightly lower (liver). Left kidney: slightly higher. Hilum contents (anterior → posterior): renal vein → renal artery → ureter (VAU). Fat: perirenal fat (Gerota's fascia) + pararenal fat</td><td>Horseshoe kidney (1:400): fused at lower poles, crosses L3/L4 (inferior mesenteric artery). ↑risk: UPJ obstruction, renal calculi, Wilms tumour, renal carcinoma</td></tr>\n      <tr><td>Internal Structure</td><td>Cortex (outer, 1–1.5 cm): glomeruli + PCT + DCT. Medulla: renal pyramids (8–12, papillae point into minor calyces → major calyces → renal pelvis → ureter). Columns of Bertin: cortical tissue between pyramids. Medullary rays extend from pyramids into cortex</td><td>Medullary sponge kidney: dilated collecting ducts → calculi, nephrocalcinosis, haematuria. Renal cell carcinoma: arises from PCT (clear cell 80%). Wilms tumour (nephroblastoma): commonest renal tumour in children</td></tr>\n      <tr><td>Nephron Structure</td><td>~1 million per kidney. Renal corpuscle (glomerulus in Bowman's capsule) → PCT (convoluted → straight in medullary ray) → Loop of Henle (thin descending → thin ascending → thick ascending) → DCT → Connecting tubule → Collecting duct (cortical → medullary → papillary). Cortical nephrons (80%): short loop. Juxtamedullary nephrons (20%): long loop → medullary concentration gradient</td><td>Juxtamedullary nephrons essential for urine concentration (ADH-dependent). Absent in nephrotic syndrome papillary tip lesions. Diabetic nephropathy: glomerulosclerosis (Kimmelstiel-Wilson nodules in advanced disease)</td></tr>\n      <tr><td>Glomerular Filtration Barrier</td><td>3-layer barrier: 1. Fenestrated endothelium (70–100 nm pores, size barrier). 2. Glomerular basement membrane (GBM: type IV collagen + laminin + heparan sulphate — charge barrier, negatively charged → repels albumin). 3. Podocytes: foot processes + slit diaphragm (nephrin, podocin)</td><td>Nephrotic: loss of charge barrier → proteinuria &gt;3.5g/day. Minimal change disease: effacement of foot processes on EM. Nephritic: inflammatory disruption → haematuria + ↑protein (lesser than nephrotic)</td></tr>\n      <tr><td>Juxtaglomerular Apparatus</td><td>Macula densa: specialised DCT cells at returning limb entering glomerulus. Detects tubular Na⁺ + Cl⁻ concentration → tubuloglomerular feedback (↓Na⁺ → ↑GFR + ↑renin). JG cells (modified smooth muscle of afferent arteriole): renin-secreting. Extraglomerular mesangial cells: signal integration</td><td>↓Na⁺ delivery → macula densa → ↑renin → ↑RAAS → renovascular HTN. ACE inhibitors: ↓Angiotensin II → efferent dilation → ↓GFR in stenosed kidney (creatinine ↑ if bilateral RAS)</td></tr>\n    </tbody></table>",
+      "_review": false
     },
     {
-      "title": "Reproductive System",
-      "badge": "",
+      "id": "anatomy-renal-renal-physiology-gfr-tubular-transport-acid-base",
+      "title": "Renal Physiology — GFR, Tubular Transport & Acid-Base",
+      "badge": "Physiology",
+      "category": "renal",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "GFR = Kf × (Pgc − Pbs − πgc + πbs)",
+            "text": "Normal GFR = 125 mL/min. Filtered 180 L/day → 1.5 L urine. Measured: inulin clearance (gold standard), creatinine clearance (overestimates ~10%), eGFR (CKD-EPI equation in clinical use)"
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Tubular Segment",
+              "Transport & Processes",
+              "Drug Target"
+            ],
+            "rows": [
+              [
+                "PCT",
+                "Reabsorbs: 67% Na⁺ (Na⁺/K⁺-ATPase basolateral), 100% glucose (SGLT2, Tm ~300 mg/min), 100% amino acids (PepT1/2), 85% HCO₃⁻ (H⁺ secretion + carbonic anhydrase), 50% urea, 100% proteins (endocytosis → lysosomal degradation), 80% PO₄ (PTH inhibits). Isosmotic reabsorption. Organic acid secretion (PAH, uric acid)",
+                "SGLT2 inhibitors (gliflozins): block glucose reabsorption → glycosuria → ↓glucose, ↓HbA1c, ↓weight, ↓BP, renoprotective. Acetazolamide: CA inhibitor → ↓HCO₃⁻ reabsorption"
+              ],
+              [
+                "Loop of Henle",
+                "Descending thin: H₂O permeable only → fluid concentrates (osmolality ↑ from 300 to 1200 mOsm at papillary tip). Thick ascending (TAL): Na⁺/K⁺/2Cl⁻ (NKCC2) cotransporter. Impermeable to H₂O → tubular fluid dilutes. Lumen-positive potential → paracellular reabsorption of Ca²⁺, Mg²⁺. Countercurrent multiplication creates medullary gradient",
+                "Loop diuretics (furosemide, bumetanide): block NKCC2 → ↑NaCl, K⁺, Ca²⁺, Mg²⁺, H₂O excretion. ADRs: hypokalaemia, hyponatraemia, metabolic alkalosis, hypocalcaemia, hypomagnesaemia, ototoxicity"
+              ],
+              [
+                "DCT",
+                "Na⁺ reabsorption via NCC (thiazide-sensitive Na⁺/Cl⁻ cotransporter). Impermeable to H₂O → further dilution. Ca²⁺ reabsorption (PTH + Vit D → TRPV5 channels). Mg²⁺ reabsorption (TRPM6)",
+                "Thiazides: block NCC → ↑Ca²⁺ reabsorption (hypocalciuria, use in hypercalciuria + stones). ↑uric acid (gout risk). ADRs: hypokalaemia, hyponatraemia (dilutional), metabolic alkalosis, hyperglycaemia, hyperlipidaemia"
+              ],
+              [
+                "Collecting Duct",
+                "ADH (vasopressin, V2 receptor): cAMP → AQP2 channel insertion into apical membrane → ↑H₂O reabsorption → concentrated urine (max 1200 mOsm). Without ADH: AQP2 removed → dilute urine. Aldosterone: ↑ENaC (Na⁺ reabsorption) + ↑ROMK (K⁺ secretion) + ↑H⁺ secretion (intercalated cells). Principal cells: ADH + aldosterone target. α-Intercalated: H⁺ secretion",
+                "K-sparing diuretics: spironolactone (aldosterone antagonist), amiloride (ENaC blocker). Lithium toxicity: blocks AQP2 → nephrogenic DI. Desmopressin (DDAVP): ADH analogue for central DI"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Acid-Base — Renal Compensation",
+            "text": "Metabolic acidosis (↓pH, ↓HCO₃⁻): kidney ↑H⁺ secretion + ↑NH₄⁺ excretion (glutamine → NH₄⁺ in PCT) + ↑HCO₃⁻ reabsorption. Takes 3–5 days. Metabolic alkalosis (↑pH, ↑HCO₃⁻): ↓H⁺ secretion + ↑HCO₃⁻ excretion. RTA Type 1 (distal): ↓H⁺ secretion → hyperchloraemic metabolic acidosis, ↑urine pH, nephrocalcinosis. RTA Type 2 (proximal): ↓HCO₃⁻ reabsorption → self-limiting as plasma HCO₃⁻ falls to new equilibrium."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">GFR = Kf × (Pgc − Pbs − πgc + πbs)</div>Normal GFR = 125 mL/min. Filtered 180 L/day → 1.5 L urine. Measured: inulin clearance (gold standard), creatinine clearance (overestimates ~10%), eGFR (CKD-EPI equation in clinical use)</div>\n    <table class=\"tbl\"><thead><tr><th>Tubular Segment</th><th>Transport & Processes</th><th>Drug Target</th></tr></thead><tbody>\n      <tr><td>PCT</td><td>Reabsorbs: 67% Na⁺ (Na⁺/K⁺-ATPase basolateral), 100% glucose (SGLT2, Tm ~300 mg/min), 100% amino acids (PepT1/2), 85% HCO₃⁻ (H⁺ secretion + carbonic anhydrase), 50% urea, 100% proteins (endocytosis → lysosomal degradation), 80% PO₄ (PTH inhibits). Isosmotic reabsorption. Organic acid secretion (PAH, uric acid)</td><td>SGLT2 inhibitors (gliflozins): block glucose reabsorption → glycosuria → ↓glucose, ↓HbA1c, ↓weight, ↓BP, renoprotective. Acetazolamide: CA inhibitor → ↓HCO₃⁻ reabsorption</td></tr>\n      <tr><td>Loop of Henle</td><td>Descending thin: H₂O permeable only → fluid concentrates (osmolality ↑ from 300 to 1200 mOsm at papillary tip). Thick ascending (TAL): Na⁺/K⁺/2Cl⁻ (NKCC2) cotransporter. Impermeable to H₂O → tubular fluid dilutes. Lumen-positive potential → paracellular reabsorption of Ca²⁺, Mg²⁺. Countercurrent multiplication creates medullary gradient</td><td>Loop diuretics (furosemide, bumetanide): block NKCC2 → ↑NaCl, K⁺, Ca²⁺, Mg²⁺, H₂O excretion. ADRs: hypokalaemia, hyponatraemia, metabolic alkalosis, hypocalcaemia, hypomagnesaemia, ototoxicity</td></tr>\n      <tr><td>DCT</td><td>Na⁺ reabsorption via NCC (thiazide-sensitive Na⁺/Cl⁻ cotransporter). Impermeable to H₂O → further dilution. Ca²⁺ reabsorption (PTH + Vit D → TRPV5 channels). Mg²⁺ reabsorption (TRPM6)</td><td>Thiazides: block NCC → ↑Ca²⁺ reabsorption (hypocalciuria, use in hypercalciuria + stones). ↑uric acid (gout risk). ADRs: hypokalaemia, hyponatraemia (dilutional), metabolic alkalosis, hyperglycaemia, hyperlipidaemia</td></tr>\n      <tr><td>Collecting Duct</td><td>ADH (vasopressin, V2 receptor): cAMP → AQP2 channel insertion into apical membrane → ↑H₂O reabsorption → concentrated urine (max 1200 mOsm). Without ADH: AQP2 removed → dilute urine. Aldosterone: ↑ENaC (Na⁺ reabsorption) + ↑ROMK (K⁺ secretion) + ↑H⁺ secretion (intercalated cells). Principal cells: ADH + aldosterone target. α-Intercalated: H⁺ secretion</td><td>K-sparing diuretics: spironolactone (aldosterone antagonist), amiloride (ENaC blocker). Lithium toxicity: blocks AQP2 → nephrogenic DI. Desmopressin (DDAVP): ADH analogue for central DI</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Acid-Base — Renal Compensation</div><div class=\"pt\">Metabolic acidosis (↓pH, ↓HCO₃⁻): kidney ↑H⁺ secretion + ↑NH₄⁺ excretion (glutamine → NH₄⁺ in PCT) + ↑HCO₃⁻ reabsorption. Takes 3–5 days. Metabolic alkalosis (↑pH, ↑HCO₃⁻): ↓H⁺ secretion + ↑HCO₃⁻ excretion. RTA Type 1 (distal): ↓H⁺ secretion → hyperchloraemic metabolic acidosis, ↑urine pH, nephrocalcinosis. RTA Type 2 (proximal): ↓HCO₃⁻ reabsorption → self-limiting as plasma HCO₃⁻ falls to new equilibrium.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-repro-reproductive-anatomy-male-female",
+      "title": "Reproductive Anatomy — Male & Female",
+      "badge": "Anatomy",
       "category": "repro",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Female: HPO axis, ovarian cycle (follicular + luteal)</li><li>Male: Spermatogenesis (74 days), testosterone from Leydig cells</li><li>Placenta: Hormone production (hCG, progesterone, oestrogen)</li><li>Fetal circulation: Ductus arteriosus, foramen ovale, ductus venosus</li></ul></div>"
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Structure",
+              "Male",
+              "Female"
+            ],
+            "rows": [
+              [
+                "Gonads",
+                "Testes: ovoid, ~25 mL. Tunica albuginea → septa → lobules → seminiferous tubules (spermatogenesis, Sertoli cells + Leydig cells in interstitium). Epididymis: maturation + storage, 12 days transit. Vas deferens (3 cm muscular, empties into ejaculatory duct)",
+                "Ovaries: almond-shaped, 3 × 2 × 1 cm. Cortex (follicles at different stages) + Medulla (vessels). Blood supply: ovarian artery (from aorta, L2) + uterine artery. Ligaments: mesovarium, infundibulopelvic, ovarian"
+              ],
+              [
+                "Accessory Structures",
+                "Seminal vesicles (posterior to bladder, fructose + prostaglandins, 70% semen volume). Prostate (walnut-shaped, 20g, PSA + citric acid + zinc, 25%). Bulbourethral/Cowper's glands (pea-sized, mucus, pre-ejaculation). Ejaculatory ducts: vas deferens + seminal vesicle duct → opens into prostatic urethra",
+                "—"
+              ],
+              [
+                "Uterus",
+                "—",
+                "Pear-shaped, 7.5 × 5 × 2.5 cm (nulliparous). Layers: Endometrium (functional + basal layers) + Myometrium (3 layers smooth muscle, thickest) + Perimetrium (serosa). Positions: anteflexed + anteverted (normal), retroflexed, retroverted. Blood: uterine artery (internal iliac) crosses ureter at cervix (\"water under the bridge\" — ureter at risk during hysterectomy)"
+              ],
+              [
+                "Fallopian Tubes",
+                "—",
+                "10–12 cm. Segments: Interstitial (in uterine wall) → Isthmus (narrow, near uterus) → Ampulla (widest, site of fertilisation) → Infundibulum (funnel-shaped, fimbriae). Ectopic: 95% tubal (ampulla most common 80%). Risk: PID, endometriosis, previous tubal surgery, IUD"
+              ],
+              [
+                "Pelvic Floor",
+                "Levator ani: puborectalis (maintains anorectal angle, faecal continence) + pubococcygeus + iliococcygeus. Coccygeus (posterior). Forms pelvic diaphragm. Nerve: pudendal (S2–4). Hiatus transmits: urethra, vagina, rectum. Injury in childbirth → prolapse, stress urinary incontinence"
+              ],
+              [
+                "Breast",
+                "—",
+                "15–20 lobules → lobes of glandular tissue. Acini → lactiferous ducts → ampullae → nipple (15–20 openings). Cooper's ligaments: suspensory bands from dermis to fascia (tethered in breast cancer → peau d'orange). Tail of Spence: axillary extension. Lymphatics: 75% to axillary nodes (levels I, II, III around pectoralis minor)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Structure</th><th>Male</th><th>Female</th></tr></thead><tbody>\n      <tr><td>Gonads</td><td>Testes: ovoid, ~25 mL. Tunica albuginea → septa → lobules → seminiferous tubules (spermatogenesis, Sertoli cells + Leydig cells in interstitium). Epididymis: maturation + storage, 12 days transit. Vas deferens (3 cm muscular, empties into ejaculatory duct)</td><td>Ovaries: almond-shaped, 3 × 2 × 1 cm. Cortex (follicles at different stages) + Medulla (vessels). Blood supply: ovarian artery (from aorta, L2) + uterine artery. Ligaments: mesovarium, infundibulopelvic, ovarian</td></tr>\n      <tr><td>Accessory Structures</td><td>Seminal vesicles (posterior to bladder, fructose + prostaglandins, 70% semen volume). Prostate (walnut-shaped, 20g, PSA + citric acid + zinc, 25%). Bulbourethral/Cowper's glands (pea-sized, mucus, pre-ejaculation). Ejaculatory ducts: vas deferens + seminal vesicle duct → opens into prostatic urethra</td><td>—</td></tr>\n      <tr><td>Uterus</td><td>—</td><td>Pear-shaped, 7.5 × 5 × 2.5 cm (nulliparous). Layers: Endometrium (functional + basal layers) + Myometrium (3 layers smooth muscle, thickest) + Perimetrium (serosa). Positions: anteflexed + anteverted (normal), retroflexed, retroverted. Blood: uterine artery (internal iliac) crosses ureter at cervix (\"water under the bridge\" — ureter at risk during hysterectomy)</td></tr>\n      <tr><td>Fallopian Tubes</td><td>—</td><td>10–12 cm. Segments: Interstitial (in uterine wall) → Isthmus (narrow, near uterus) → Ampulla (widest, site of fertilisation) → Infundibulum (funnel-shaped, fimbriae). Ectopic: 95% tubal (ampulla most common 80%). Risk: PID, endometriosis, previous tubal surgery, IUD</td></tr>\n      <tr><td>Pelvic Floor</td><td colspan=\"2\">Levator ani: puborectalis (maintains anorectal angle, faecal continence) + pubococcygeus + iliococcygeus. Coccygeus (posterior). Forms pelvic diaphragm. Nerve: pudendal (S2–4). Hiatus transmits: urethra, vagina, rectum. Injury in childbirth → prolapse, stress urinary incontinence</td></tr>\n      <tr><td>Breast</td><td>—</td><td>15–20 lobules → lobes of glandular tissue. Acini → lactiferous ducts → ampullae → nipple (15–20 openings). Cooper's ligaments: suspensory bands from dermis to fascia (tethered in breast cancer → peau d'orange). Tail of Spence: axillary extension. Lymphatics: 75% to axillary nodes (levels I, II, III around pectoralis minor)</td></tr>\n    </tbody></table>",
+      "_review": false
     },
     {
-      "title": "Immune & Lymphatic System",
-      "badge": "",
+      "id": "anatomy-repro-reproductive-physiology-hpg-axis-menstrual-cycle",
+      "title": "Reproductive Physiology — HPG Axis & Menstrual Cycle",
+      "badge": "Physiology",
+      "category": "repro",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "HPG Axis",
+            "text": "GnRH (hypothalamus, pulsatile: frequency encodes LH vs amplitude encodes FSH) → LH + FSH (anterior pituitary) → Gonadal hormones → Negative feedback. Exception: oestrogen mid-cycle → positive feedback → LH surge → ovulation"
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Phase",
+              "Days",
+              "Key Events",
+              "Hormones"
+            ],
+            "rows": [
+              [
+                "Menstrual",
+                "1–5",
+                "↓Progesterone + ↓Oestrogen → PGF2α → spiral artery vasoconstriction → endometrial ischaemia → shedding. Clots: fibrinolysis normally prevents, absent → clots. Normal blood loss: 30–80 mL",
+                "↓E₂, ↓P. FSH ↑ starts (lost inhibin B)"
+              ],
+              [
+                "Follicular / Proliferative",
+                "1–14",
+                "FSH recruits follicular cohort → dominant follicle (Graafian) emerges → ↑oestradiol (E₂). Endometrium: ↑thickness (from 2mm → 10–14mm), ↑glands + ↑stroma, ↑vascularity. Cervical mucus: thin, watery, fern pattern",
+                "↑FSH initially, ↑E₂. LH surge day 13"
+              ],
+              [
+                "Ovulation",
+                "Day 14",
+                "E₂ peak → positive feedback → LH surge (releases within 36h). Prostaglandins + protease-mediated follicular rupture → oocyte (secondary oocyte, arrested at meiosis II) + cumulus oophorus released. BBT ↑0.5°C (progesterone). Mittleschmerz: mid-cycle pain",
+                "LH surge (6-fold ↑). ↑E₂ peak then slight ↓"
+              ],
+              [
+                "Luteal / Secretory",
+                "15–28",
+                "Corpus luteum (granulosa + theca cells → luteinised) → ↑Progesterone + ↑E₂. Endometrium: secretory glands, ↑glycogen, decidualisation. Cervical mucus: thick, hostile to sperm. If no fertilisation → luteolysis (day 23–24) → ↓P + ↓E → menstruation",
+                "↑Progesterone (peak day 21), ↑E₂ (smaller peak). If pregnancy: hCG from trophoblast rescues corpus luteum"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Spermatogenesis — Key Facts",
+            "text": "Location: seminiferous tubules. Duration: 74 days (spermatogonia → spermatozoa) + 12 days epididymal maturation. Sertoli cells: blood-testis barrier (tight junctions), nourish spermatids, secrete inhibin (↓FSH) + androgen-binding protein (concentrates testosterone). Leydig cells: testosterone synthesis (LH-stimulated). Temperature: 2–3°C below body temp (scrotum). Cryptorchidism: ↑temp → infertility + ↑seminoma risk. Semen analysis: WHO 2021 criteria — volume ≥1.4 mL, count ≥16 million/mL, motility ≥42%, morphology ≥4% normal forms."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">HPG Axis</div>GnRH (hypothalamus, pulsatile: frequency encodes LH vs amplitude encodes FSH) → LH + FSH (anterior pituitary) → Gonadal hormones → Negative feedback. Exception: oestrogen mid-cycle → positive feedback → LH surge → ovulation</div>\n    <table class=\"tbl\"><thead><tr><th>Phase</th><th>Days</th><th>Key Events</th><th>Hormones</th></tr></thead><tbody>\n      <tr><td>Menstrual</td><td>1–5</td><td>↓Progesterone + ↓Oestrogen → PGF2α → spiral artery vasoconstriction → endometrial ischaemia → shedding. Clots: fibrinolysis normally prevents, absent → clots. Normal blood loss: 30–80 mL</td><td>↓E₂, ↓P. FSH ↑ starts (lost inhibin B)</td></tr>\n      <tr><td>Follicular / Proliferative</td><td>1–14</td><td>FSH recruits follicular cohort → dominant follicle (Graafian) emerges → ↑oestradiol (E₂). Endometrium: ↑thickness (from 2mm → 10–14mm), ↑glands + ↑stroma, ↑vascularity. Cervical mucus: thin, watery, fern pattern</td><td>↑FSH initially, ↑E₂. LH surge day 13</td></tr>\n      <tr><td>Ovulation</td><td>Day 14</td><td>E₂ peak → positive feedback → LH surge (releases within 36h). Prostaglandins + protease-mediated follicular rupture → oocyte (secondary oocyte, arrested at meiosis II) + cumulus oophorus released. BBT ↑0.5°C (progesterone). Mittleschmerz: mid-cycle pain</td><td>LH surge (6-fold ↑). ↑E₂ peak then slight ↓</td></tr>\n      <tr><td>Luteal / Secretory</td><td>15–28</td><td>Corpus luteum (granulosa + theca cells → luteinised) → ↑Progesterone + ↑E₂. Endometrium: secretory glands, ↑glycogen, decidualisation. Cervical mucus: thick, hostile to sperm. If no fertilisation → luteolysis (day 23–24) → ↓P + ↓E → menstruation</td><td>↑Progesterone (peak day 21), ↑E₂ (smaller peak). If pregnancy: hCG from trophoblast rescues corpus luteum</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Spermatogenesis — Key Facts</div><div class=\"pt\">Location: seminiferous tubules. Duration: 74 days (spermatogonia → spermatozoa) + 12 days epididymal maturation. Sertoli cells: blood-testis barrier (tight junctions), nourish spermatids, secrete inhibin (↓FSH) + androgen-binding protein (concentrates testosterone). Leydig cells: testosterone synthesis (LH-stimulated). Temperature: 2–3°C below body temp (scrotum). Cryptorchidism: ↑temp → infertility + ↑seminoma risk. Semen analysis: WHO 2021 criteria — volume ≥1.4 mL, count ≥16 million/mL, motility ≥42%, morphology ≥4% normal forms.</div></div>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-immune-immune-system-anatomy-innate-immunity",
+      "title": "Immune System — Anatomy & Innate Immunity",
+      "badge": "Anatomy",
       "category": "immune",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>Primary lymphoid: Bone marrow (B cells), thymus (T cells)</li><li>Secondary lymphoid: Lymph nodes, spleen, MALT</li><li>Immunoglobulins: IgA (mucosal), IgG (most abundant), IgE (allergy), IgM (first response)</li><li>Complement system: Classical, lectin, alternative pathways</li></ul></div>"
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Structure",
+              "Description",
+              "Clinical Correlation"
+            ],
+            "rows": [
+              [
+                "Primary Lymphoid Organs",
+                "Bone marrow: haematopoiesis + B cell maturation (V(D)J recombination, positive/negative selection). Thymus: T cell education — positive selection (recognise self-MHC), negative selection (delete self-reactive clones). Involution after puberty. Located in anterior mediastinum",
+                "DiGeorge syndrome: 22q11.2 deletion → thymic aplasia + parathyroid aplasia → absent T cells + hypocalcaemia. Thymoma: associated with myasthenia gravis"
+              ],
+              [
+                "Secondary Lymphoid Organs",
+                "Lymph nodes: capsule → subcapsular sinus → cortex (B cell follicles, primary/secondary with germinal centres) → paracortex (T cells, HEV, APC interaction) → medulla (plasma cells, sinuses). Spleen: red pulp (RBC destruction, blood filtration, reservoir) + white pulp (lymphoid tissue around central arteriole — PALS: T zone, marginal zone: B cells). MALT: tonsils, Peyer's patches, appendix",
+                "Asplenia (functional/surgical): ↑risk encapsulated bacteria — S. pneumoniae, H. influenzae type b, N. meningitidis (SHiN). Vaccines + penicillin prophylaxis required. Gaucher's: splenomegaly due to glucocerebroside accumulation"
+              ],
+              [
+                "Innate Immunity",
+                "Non-specific, immediate (minutes to hours). Barriers: skin (acidic pH, keratin), mucus + cilia, gastric acid. Cells: Neutrophils (1st responders, phagocytosis + respiratory burst). Macrophages (phagocytosis, APC, cytokines). NK cells (kill viral-infected + tumour cells via missing self — absent MHC-I). Mast cells + basophils (IgE-mediated). Eosinophils (parasites + allergy). Dendritic cells (bridge innate-adaptive)",
+                "CGD (Chronic Granulomatous Disease): NADPH oxidase mutation → ↓respiratory burst → catalase-positive organisms (S. aureus, Aspergillus, Nocardia, E. coli). NBT test negative. ↑DHR flow cytometry"
+              ],
+              [
+                "Complement Pathways",
+                "Classical: IgG/IgM-Ag complexes → C1q. Lectin: MBL binds mannose on pathogens. Alternative: spontaneous C3b. All converge at C3 convertase → C3a (anaphylatoxin, mast cell degranulation) + C3b (opsonisation) → C5a (anaphylatoxin, neutrophil chemotaxis) + C5b → MAC (C5b-9, pore → cell lysis)",
+                "C3 deficiency: ↑↑recurrent encapsulated bacteria. C5–C9 deficiency: ↑Neisseria. Hereditary angioedema: C1-INH deficiency → ↑bradykinin → non-pitting facial/laryngeal oedema (no urticaria). C4d: marker of antibody-mediated rejection in transplant"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Structure</th><th>Description</th><th>Clinical Correlation</th></tr></thead><tbody>\n      <tr><td>Primary Lymphoid Organs</td><td>Bone marrow: haematopoiesis + B cell maturation (V(D)J recombination, positive/negative selection). Thymus: T cell education — positive selection (recognise self-MHC), negative selection (delete self-reactive clones). Involution after puberty. Located in anterior mediastinum</td><td>DiGeorge syndrome: 22q11.2 deletion → thymic aplasia + parathyroid aplasia → absent T cells + hypocalcaemia. Thymoma: associated with myasthenia gravis</td></tr>\n      <tr><td>Secondary Lymphoid Organs</td><td>Lymph nodes: capsule → subcapsular sinus → cortex (B cell follicles, primary/secondary with germinal centres) → paracortex (T cells, HEV, APC interaction) → medulla (plasma cells, sinuses). Spleen: red pulp (RBC destruction, blood filtration, reservoir) + white pulp (lymphoid tissue around central arteriole — PALS: T zone, marginal zone: B cells). MALT: tonsils, Peyer's patches, appendix</td><td>Asplenia (functional/surgical): ↑risk encapsulated bacteria — S. pneumoniae, H. influenzae type b, N. meningitidis (SHiN). Vaccines + penicillin prophylaxis required. Gaucher's: splenomegaly due to glucocerebroside accumulation</td></tr>\n      <tr><td>Innate Immunity</td><td>Non-specific, immediate (minutes to hours). Barriers: skin (acidic pH, keratin), mucus + cilia, gastric acid. Cells: Neutrophils (1st responders, phagocytosis + respiratory burst). Macrophages (phagocytosis, APC, cytokines). NK cells (kill viral-infected + tumour cells via missing self — absent MHC-I). Mast cells + basophils (IgE-mediated). Eosinophils (parasites + allergy). Dendritic cells (bridge innate-adaptive)</td><td>CGD (Chronic Granulomatous Disease): NADPH oxidase mutation → ↓respiratory burst → catalase-positive organisms (S. aureus, Aspergillus, Nocardia, E. coli). NBT test negative. ↑DHR flow cytometry</td></tr>\n      <tr><td>Complement Pathways</td><td>Classical: IgG/IgM-Ag complexes → C1q. Lectin: MBL binds mannose on pathogens. Alternative: spontaneous C3b. All converge at C3 convertase → C3a (anaphylatoxin, mast cell degranulation) + C3b (opsonisation) → C5a (anaphylatoxin, neutrophil chemotaxis) + C5b → MAC (C5b-9, pore → cell lysis)</td><td>C3 deficiency: ↑↑recurrent encapsulated bacteria. C5–C9 deficiency: ↑Neisseria. Hereditary angioedema: C1-INH deficiency → ↑bradykinin → non-pitting facial/laryngeal oedema (no urticaria). C4d: marker of antibody-mediated rejection in transplant</td></tr>\n    </tbody></table>",
+      "_review": false
     },
     {
-      "title": "Blood & Haematology",
-      "badge": "",
+      "id": "anatomy-immune-adaptive-immunity-t-cells-b-cells-cytokines",
+      "title": "Adaptive Immunity — T Cells, B Cells & Cytokines",
+      "badge": "Physiology",
+      "category": "immune",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Component",
+              "Detail"
+            ],
+            "rows": [
+              [
+                "T Helper Cell Subsets",
+                "Th1 (IL-12 → IFN-γ + TNF-α): activate macrophages → intracellular bacteria + viruses + tumour. Th2 (IL-4 → IL-4, IL-5, IL-13): B cell activation, IgE class switching, eosinophil maturation → parasites + allergy. Th17 (TGF-β + IL-6 → IL-17): neutrophil recruitment → extracellular bacteria + fungi. Treg (TGF-β + IL-2 → IL-10 + TGF-β): suppress immune response → prevent autoimmunity. Tfh (T follicular helper): in germinal centres → B cell affinity maturation"
+              ],
+              [
+                "CD8⁺ Cytotoxic T Cells",
+                "Restricted to MHC-I (on all nucleated cells). Kill via: 1. Perforin + Granzymes (pore → apoptosis). 2. Fas-FasL (apoptosis induction). 3. Cytokines (IFN-γ, TNF). Require activation by CD4⁺ T cells + APC + IL-2. Memory CTLs patrol tissues long-term"
+              ],
+              [
+                "B Cells & Antibodies",
+                "Germinal centre reaction: B cell + antigen + Tfh → proliferation → somatic hypermutation (VDJ regions) → affinity selection → class switching (IgM → IgG/IgA/IgE) → plasma cells (short-lived in spleen + long-lived in BM) + memory B cells. IgM: first response, pentamer, activates complement. IgG: most abundant, crosses placenta (after 32 weeks), secondary response, opsonisation. IgA: secretory (dimer + secretory component), mucosal immunity. IgE: type I hypersensitivity, parasites"
+              ],
+              [
+                "MHC (HLA) System",
+                "MHC-I (HLA-A, B, C): on all nucleated cells. Presents endogenous peptides (viral, tumour) to CD8⁺ TCR. MHC-II (HLA-DR, DP, DQ): on APCs (macrophages, DCs, B cells, activated T cells). Presents exogenous peptides to CD4⁺ TCR. Cross-presentation: DCs can present exogenous antigens on MHC-I → activate CD8⁺ (crucial for anti-tumour immunity). HLA associations: B27 (ankylosing spondylitis), DR3+DR4 (T1DM), DR4 (RA), DQ2/DQ8 (coeliac)"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Key Cytokines Quick Reference",
+            "text": "IL-1: fever (prostaglandin-mediated) + acute phase response + synovitis (target in RA: anakinra). IL-2: T cell proliferation. IL-4: Th2 differentiation + IgE + IgG4 (target: dupilumab in asthma). IL-5: eosinophil maturation (target: mepolizumab in asthma). IL-6: fever + CRP (target: tocilizumab in RA, COVID cytokine storm). IL-8 (CXCL8): neutrophil chemotaxis. IL-10: anti-inflammatory. IL-12: Th1 + NK activation. IL-17: Th17 effector (target: secukinumab in psoriasis). IFN-γ: macrophage activation. TNF-α: fever + cachexia + septic shock + ↑adhesion molecules (target: adalimumab, infliximab in RA, IBD)."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Component</th><th>Detail</th></tr></thead><tbody>\n      <tr><td>T Helper Cell Subsets</td><td>Th1 (IL-12 → IFN-γ + TNF-α): activate macrophages → intracellular bacteria + viruses + tumour. Th2 (IL-4 → IL-4, IL-5, IL-13): B cell activation, IgE class switching, eosinophil maturation → parasites + allergy. Th17 (TGF-β + IL-6 → IL-17): neutrophil recruitment → extracellular bacteria + fungi. Treg (TGF-β + IL-2 → IL-10 + TGF-β): suppress immune response → prevent autoimmunity. Tfh (T follicular helper): in germinal centres → B cell affinity maturation</td></tr>\n      <tr><td>CD8⁺ Cytotoxic T Cells</td><td>Restricted to MHC-I (on all nucleated cells). Kill via: 1. Perforin + Granzymes (pore → apoptosis). 2. Fas-FasL (apoptosis induction). 3. Cytokines (IFN-γ, TNF). Require activation by CD4⁺ T cells + APC + IL-2. Memory CTLs patrol tissues long-term</td></tr>\n      <tr><td>B Cells & Antibodies</td><td>Germinal centre reaction: B cell + antigen + Tfh → proliferation → somatic hypermutation (VDJ regions) → affinity selection → class switching (IgM → IgG/IgA/IgE) → plasma cells (short-lived in spleen + long-lived in BM) + memory B cells. IgM: first response, pentamer, activates complement. IgG: most abundant, crosses placenta (after 32 weeks), secondary response, opsonisation. IgA: secretory (dimer + secretory component), mucosal immunity. IgE: type I hypersensitivity, parasites</td></tr>\n      <tr><td>MHC (HLA) System</td><td>MHC-I (HLA-A, B, C): on all nucleated cells. Presents endogenous peptides (viral, tumour) to CD8⁺ TCR. MHC-II (HLA-DR, DP, DQ): on APCs (macrophages, DCs, B cells, activated T cells). Presents exogenous peptides to CD4⁺ TCR. Cross-presentation: DCs can present exogenous antigens on MHC-I → activate CD8⁺ (crucial for anti-tumour immunity). HLA associations: B27 (ankylosing spondylitis), DR3+DR4 (T1DM), DR4 (RA), DQ2/DQ8 (coeliac)</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Key Cytokines Quick Reference</div><div class=\"pt\">IL-1: fever (prostaglandin-mediated) + acute phase response + synovitis (target in RA: anakinra). IL-2: T cell proliferation. IL-4: Th2 differentiation + IgE + IgG4 (target: dupilumab in asthma). IL-5: eosinophil maturation (target: mepolizumab in asthma). IL-6: fever + CRP (target: tocilizumab in RA, COVID cytokine storm). IL-8 (CXCL8): neutrophil chemotaxis. IL-10: anti-inflammatory. IL-12: Th1 + NK activation. IL-17: Th17 effector (target: secukinumab in psoriasis). IFN-γ: macrophage activation. TNF-α: fever + cachexia + septic shock + ↑adhesion molecules (target: adalimumab, infliximab in RA, IBD).</div></div>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-blood-haematology-blood-cells-bone-marrow",
+      "title": "Haematology — Blood Cells & Bone Marrow",
+      "badge": "Anatomy",
       "category": "blood",
-      "_legacyHtml": "<div class=\"alert a-info\" style=\"margin-bottom:10px\"><span class=\"a-label\">📋 Content Coming Soon</span>This card will contain: <ul style=\"margin:6px 0 0 16px;line-height:1.8\"><li>RBC lifespan: 120 days; degraded in spleen</li><li>Haemostasis: Primary (platelet plug) + Secondary (coagulation cascade)</li><li>Blood groups: ABO (H antigen), Rh system</li><li>Clotting factors: Extrinsic (VII), Intrinsic (VIII, IX, XI, XII), Common (X, V, II, I)</li></ul></div>"
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [
+          {
+            "type": "info",
+            "label": "Haematopoiesis",
+            "text": "All blood cells from haematopoietic stem cell (HSC): CD34⁺ Lin⁻ Sca1⁺. HSC → CMP (common myeloid progenitor) → RBC, platelets, granulocytes, monocytes. HSC → CLP (common lymphoid progenitor) → T cells, B cells, NK cells. Sites: fetal — yolk sac (week 3) → liver (month 2–7) → bone marrow (month 6 onwards). Adult: axial skeleton (pelvis, vertebrae, sternum, ribs, skull)"
+          }
+        ],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Cell",
+              "Production & Lifespan",
+              "Normal Range & Function"
+            ],
+            "rows": [
+              [
+                "Erythrocytes",
+                "BFU-E → CFU-E → proerythroblast → reticulocyte (BM 2–3 days, still has RNA, 1–2% of RBCs in blood) → mature RBC (no nucleus, no mitochondria). Lifespan: 120 days. Removed: splenic macrophages (Küpffer cells in liver also)",
+                "4.5–5.5 ×10¹²/L (M); 3.8–4.8 (F). Hb: 13.5–17.5 (M); 11.5–16 g/dL (F). O₂ transport (Hb), CO₂ transport (carbonic anhydrase → HCO₃⁻), buffering (Hb as buffer)"
+              ],
+              [
+                "Platelets",
+                "Megakaryocytes (BM): cytoplasmic fragmentation into ~2000–3000 platelets/megakaryocyte. TPO (thrombopoietin, liver): main regulator. Lifespan: 8–10 days. Removed: splenic macrophages",
+                "150–400 ×10⁹/L. <150: thrombocytopenia. <50: ↑spontaneous bleeding risk. <20: prophylactic transfusion. Dense granules: ADP, Ca²⁺, serotonin, ATP. α-granules: fibrinogen, VWF, P-selectin, factor V. GpIb-IX: VWF receptor. GpIIb/IIIa (αIIbβ₃): fibrinogen receptor"
+              ],
+              [
+                "Neutrophils",
+                "BM → segmented neutrophil (6–8 lobes: hypersegmented = B12 deficiency). Released after ~14 days maturation. Peripheral half-life: 6–10h. Tissue: 1–2 days. First cell recruited to infection site (CXCL8/IL-8)",
+                "2.0–7.5 ×10⁹/L (50–70%). Phagocytosis: opsonisation (IgG, C3b). Respiratory burst: NADPH oxidase → O₂⁻ → H₂O₂ → HOCl (most microbicidal). NETs (Neutrophil Extracellular Traps). Neutropenia <1.5 ×10⁹ → ↑infection risk. <0.5 = severe"
+              ],
+              [
+                "Eosinophils",
+                "IL-5-dependent maturation. Tissue-dwelling (gut, skin, lung). Blood lifespan 8–12h → tissue 8–12 days",
+                "0.05–0.5 ×10⁹/L (1–4%). Antiparasitic (major basic protein + eosinophil peroxidase). Allergy + asthma amplification. Eosinophilia (>0.5): parasite infestation, atopy, drug reaction, Addison's, malignancy (lymphoma)"
+              ],
+              [
+                "Monocytes → Macrophages",
+                "BM → peripheral blood (circulate 1–3 days) → tissue → macrophages (months–years). Tissue-specific names: Küpffer (liver), microglia (CNS), alveolar macrophages, Langerhans (skin), osteoclasts",
+                "0.2–0.8 ×10⁹/L (2–8%). Phagocytosis + intracellular killing. APC function (MHC-II). Cytokine production (TNF, IL-1, IL-6, IL-12). Granuloma formation (TB, sarcoid): macrophage + CD4⁺ T cell co-operation"
+              ]
+            ]
+          }
+        ],
+        "pearls": [],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Haematopoiesis</div>All blood cells from haematopoietic stem cell (HSC): CD34⁺ Lin⁻ Sca1⁺. HSC → CMP (common myeloid progenitor) → RBC, platelets, granulocytes, monocytes. HSC → CLP (common lymphoid progenitor) → T cells, B cells, NK cells. Sites: fetal — yolk sac (week 3) → liver (month 2–7) → bone marrow (month 6 onwards). Adult: axial skeleton (pelvis, vertebrae, sternum, ribs, skull)</div>\n    <table class=\"tbl\"><thead><tr><th>Cell</th><th>Production & Lifespan</th><th>Normal Range & Function</th></tr></thead><tbody>\n      <tr><td>Erythrocytes</td><td>BFU-E → CFU-E → proerythroblast → reticulocyte (BM 2–3 days, still has RNA, 1–2% of RBCs in blood) → mature RBC (no nucleus, no mitochondria). Lifespan: 120 days. Removed: splenic macrophages (Küpffer cells in liver also)</td><td>4.5–5.5 ×10¹²/L (M); 3.8–4.8 (F). Hb: 13.5–17.5 (M); 11.5–16 g/dL (F). O₂ transport (Hb), CO₂ transport (carbonic anhydrase → HCO₃⁻), buffering (Hb as buffer)</td></tr>\n      <tr><td>Platelets</td><td>Megakaryocytes (BM): cytoplasmic fragmentation into ~2000–3000 platelets/megakaryocyte. TPO (thrombopoietin, liver): main regulator. Lifespan: 8–10 days. Removed: splenic macrophages</td><td>150–400 ×10⁹/L. &lt;150: thrombocytopenia. &lt;50: ↑spontaneous bleeding risk. &lt;20: prophylactic transfusion. Dense granules: ADP, Ca²⁺, serotonin, ATP. α-granules: fibrinogen, VWF, P-selectin, factor V. GpIb-IX: VWF receptor. GpIIb/IIIa (αIIbβ₃): fibrinogen receptor</td></tr>\n      <tr><td>Neutrophils</td><td>BM → segmented neutrophil (6–8 lobes: hypersegmented = B12 deficiency). Released after ~14 days maturation. Peripheral half-life: 6–10h. Tissue: 1–2 days. First cell recruited to infection site (CXCL8/IL-8)</td><td>2.0–7.5 ×10⁹/L (50–70%). Phagocytosis: opsonisation (IgG, C3b). Respiratory burst: NADPH oxidase → O₂⁻ → H₂O₂ → HOCl (most microbicidal). NETs (Neutrophil Extracellular Traps). Neutropenia &lt;1.5 ×10⁹ → ↑infection risk. &lt;0.5 = severe</td></tr>\n      <tr><td>Eosinophils</td><td>IL-5-dependent maturation. Tissue-dwelling (gut, skin, lung). Blood lifespan 8–12h → tissue 8–12 days</td><td>0.05–0.5 ×10⁹/L (1–4%). Antiparasitic (major basic protein + eosinophil peroxidase). Allergy + asthma amplification. Eosinophilia (&gt;0.5): parasite infestation, atopy, drug reaction, Addison's, malignancy (lymphoma)</td></tr>\n      <tr><td>Monocytes → Macrophages</td><td>BM → peripheral blood (circulate 1–3 days) → tissue → macrophages (months–years). Tissue-specific names: Küpffer (liver), microglia (CNS), alveolar macrophages, Langerhans (skin), osteoclasts</td><td>0.2–0.8 ×10⁹/L (2–8%). Phagocytosis + intracellular killing. APC function (MHC-II). Cytokine production (TNF, IL-1, IL-6, IL-12). Granuloma formation (TB, sarcoid): macrophage + CD4⁺ T cell co-operation</td></tr>\n    </tbody></table>",
+      "_review": false
+    },
+    {
+      "id": "anatomy-blood-haemostasis-coagulation-cascade-haemoglobin",
+      "title": "Haemostasis, Coagulation Cascade & Haemoglobin",
+      "badge": "Physiology",
+      "category": "blood",
+      "section": "anatomy",
+      "version": 1,
+      "lastUpdated": "2026-04-13",
+      "content": {
+        "summary": null,
+        "alerts": [],
+        "tables": [
+          {
+            "caption": null,
+            "headers": [
+              "Stage",
+              "Mechanism",
+              "Tests & Drugs"
+            ],
+            "rows": [
+              [
+                "Primary Haemostasis",
+                "Vessel injury → vasoconstriction (TXA₂, endothelin, reflex) → VWF (from endothelium) binds subendothelial collagen → platelet adhesion (GpIb–VWF) → platelet activation (shape change, TXA₂ + ADP secretion) → GpIIb/IIIa activation → fibrinogen bridges → platelet plug. Stable in 1–3 min (primary). Endothelium: PGI₂ + NO + TFPI + thrombomodulin = anticoagulant",
+                "Bleeding time (prolonged in platelet disorders + VWD). Aspirin: irreversible COX inhibition → ↓TXA₂. Clopidogrel: P2Y12 receptor antagonist → ↓ADP response. GpIIb/IIIa inhibitors (abciximab, eptifibatide)"
+              ],
+              [
+                "Secondary Haemostasis (Coagulation)",
+                "Extrinsic: TF (tissue factor, expressed on damaged endothelium) + VIIa → Xa (+ IXa). Intrinsic: XII → XI → IX + VIII → Xa. Common: Xa + Va → prothrombinase → Prothrombin → Thrombin (IIa). Thrombin: fibrinogen → fibrin + activates FXIII → cross-linked fibrin clot. Amplification: thrombin activates V, VIII, XI → positive feedback",
+                "PT/INR: extrinsic + common (VII, X, V, II). APTT: intrinsic + common (XII, XI, IX, VIII, X, V, II). Warfarin: ↓Vit K-dependent factors (II, VII, IX, X + protein C/S). Heparin: ↑ATIII → inhibits IIa + Xa. DOACs: rivaroxaban (Xa), apixaban (Xa), dabigatran (IIa)"
+              ],
+              [
+                "Fibrinolysis",
+                "tPA + uPA → Plasminogen → Plasmin. Plasmin degrades fibrin → FDPs + D-dimers. PAI-1: inhibits tPA. α₂-antiplasmin: inhibits plasmin. D-dimer ↑ in: DVT/PE, DIC, pregnancy, infection, malignancy — sensitive but not specific",
+                "Thrombolytics (alteplase, streptokinase): ↑plasmin → dissolve clot. TXA (tranexamic acid): inhibits plasminogen activation → antifibrinolytic. Used in trauma, PPH, haemophilia"
+              ],
+              [
+                "Haemoglobin Structure & Variants",
+                "HbA: 2α + 2β chains, 97%. HbA₂: 2α + 2δ, 2.5% (↑ in β-thal). HbF: 2α + 2γ, <1% adult (↑ O₂ affinity, left shift — ideal for transplacental O₂ transfer). Each chain: haem prosthetic group (iron-porphyrin ring, Fe²⁺). Cooperativity: binding of 1 O₂ ↑affinity for next (T→R state) — basis of sigmoid curve. HbS: Glu→Val (β6) → deoxyHbS polymerises → sickling in hypoxia/dehydration/acidosis",
+                "Thalassaemias: ↓globin chain synthesis (α: 4-gene, β: 2-gene loci). β-thal major: HbA absent, HbF + HbA₂ dominant, transfusion-dependent. HbH disease (3 α-gene deletion): chronic haemolytic anaemia"
+              ]
+            ]
+          }
+        ],
+        "pearls": [
+          {
+            "label": "🟡 Anaemia — Diagnostic Framework",
+            "text": "MCV-based: Microcytic (↓MCV <80): IDA (↓ferritin ★, ↓serum Fe, ↑TIBC), β-thalassaemia (↑HbA₂, target cells), Anaemia of CKD, lead poisoning. Normocytic (MCV 80–100): ACD (normal/↑ferritin, ↓TIBC), acute blood loss, haemolytic (↑LDH, ↓haptoglobin, ↑reticulocytes), aplastic anaemia. Macrocytic (↑MCV >100): Megaloblastic — B12 (↑homocysteine + methylmalonic acid, glossitis, subacute combined degeneration of cord) + Folate (↑homocysteine only). Non-megaloblastic: alcohol, liver disease, hypothyroidism, reticulocytosis."
+          }
+        ],
+        "steps": [],
+        "references": []
+      },
+      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Stage</th><th>Mechanism</th><th>Tests & Drugs</th></tr></thead><tbody>\n      <tr><td>Primary Haemostasis</td><td>Vessel injury → vasoconstriction (TXA₂, endothelin, reflex) → VWF (from endothelium) binds subendothelial collagen → platelet adhesion (GpIb–VWF) → platelet activation (shape change, TXA₂ + ADP secretion) → GpIIb/IIIa activation → fibrinogen bridges → platelet plug. Stable in 1–3 min (primary). Endothelium: PGI₂ + NO + TFPI + thrombomodulin = anticoagulant</td><td>Bleeding time (prolonged in platelet disorders + VWD). Aspirin: irreversible COX inhibition → ↓TXA₂. Clopidogrel: P2Y12 receptor antagonist → ↓ADP response. GpIIb/IIIa inhibitors (abciximab, eptifibatide)</td></tr>\n      <tr><td>Secondary Haemostasis (Coagulation)</td><td>Extrinsic: TF (tissue factor, expressed on damaged endothelium) + VIIa → Xa (+ IXa). Intrinsic: XII → XI → IX + VIII → Xa. Common: Xa + Va → prothrombinase → Prothrombin → Thrombin (IIa). Thrombin: fibrinogen → fibrin + activates FXIII → cross-linked fibrin clot. Amplification: thrombin activates V, VIII, XI → positive feedback</td><td>PT/INR: extrinsic + common (VII, X, V, II). APTT: intrinsic + common (XII, XI, IX, VIII, X, V, II). Warfarin: ↓Vit K-dependent factors (II, VII, IX, X + protein C/S). Heparin: ↑ATIII → inhibits IIa + Xa. DOACs: rivaroxaban (Xa), apixaban (Xa), dabigatran (IIa)</td></tr>\n      <tr><td>Fibrinolysis</td><td>tPA + uPA → Plasminogen → Plasmin. Plasmin degrades fibrin → FDPs + D-dimers. PAI-1: inhibits tPA. α₂-antiplasmin: inhibits plasmin. D-dimer ↑ in: DVT/PE, DIC, pregnancy, infection, malignancy — sensitive but not specific</td><td>Thrombolytics (alteplase, streptokinase): ↑plasmin → dissolve clot. TXA (tranexamic acid): inhibits plasminogen activation → antifibrinolytic. Used in trauma, PPH, haemophilia</td></tr>\n      <tr><td>Haemoglobin Structure & Variants</td><td>HbA: 2α + 2β chains, 97%. HbA₂: 2α + 2δ, 2.5% (↑ in β-thal). HbF: 2α + 2γ, &lt;1% adult (↑ O₂ affinity, left shift — ideal for transplacental O₂ transfer). Each chain: haem prosthetic group (iron-porphyrin ring, Fe²⁺). Cooperativity: binding of 1 O₂ ↑affinity for next (T→R state) — basis of sigmoid curve. HbS: Glu→Val (β6) → deoxyHbS polymerises → sickling in hypoxia/dehydration/acidosis</td><td>Thalassaemias: ↓globin chain synthesis (α: 4-gene, β: 2-gene loci). β-thal major: HbA absent, HbF + HbA₂ dominant, transfusion-dependent. HbH disease (3 α-gene deletion): chronic haemolytic anaemia</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Anaemia — Diagnostic Framework</div><div class=\"pt\">MCV-based: Microcytic (↓MCV &lt;80): IDA (↓ferritin ★, ↓serum Fe, ↑TIBC), β-thalassaemia (↑HbA₂, target cells), Anaemia of CKD, lead poisoning. Normocytic (MCV 80–100): ACD (normal/↑ferritin, ↓TIBC), acute blood loss, haemolytic (↑LDH, ↓haptoglobin, ↑reticulocytes), aplastic anaemia. Macrocytic (↑MCV &gt;100): Megaloblastic — B12 (↑homocysteine + methylmalonic acid, glossitis, subacute combined degeneration of cord) + Folate (↑homocysteine only). Non-megaloblastic: alcohol, liver disease, hypothyroidism, reticulocytosis.</div></div>",
+      "_review": false
     }
   ]
 }
