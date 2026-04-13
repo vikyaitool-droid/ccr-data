@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T17:47:26.410Z",
+  "generatedAt": "2026-04-13T11:50:45.585Z",
   "cards": [
     {
       "id": "lab-cbc-haemoglobin",
@@ -4418,60 +4418,364 @@
       "summary": null
     },
     {
-      "id": "bnysprotocols-dis-hypertension-bnys-complete-protocol",
+      "id": "bnysprotocols-dp1-hypertension-bnys-complete-protocol",
       "title": "Hypertension — BNYS Complete Protocol",
       "badge": "Priority",
       "section": "bnysprotocols",
-      "category": "dis",
+      "category": "dp1",
       "summary": null
     },
     {
-      "id": "bnysprotocols-dis-asthma-bnys-protocol",
+      "id": "bnysprotocols-dp1-asthma-bnys-protocol",
       "title": "Asthma — BNYS Protocol",
       "badge": "Core",
       "section": "bnysprotocols",
-      "category": "dis",
+      "category": "dp1",
       "summary": null
     },
     {
-      "id": "bnysprotocols-dis-ibs-bnys-protocol",
+      "id": "bnysprotocols-dp2-ibs-bnys-protocol",
       "title": "IBS — BNYS Protocol",
       "badge": "Core",
       "section": "bnysprotocols",
-      "category": "dis",
+      "category": "dp2",
       "summary": null
     },
     {
-      "id": "bnysprotocols-dis-anxiety-bnys-protocol",
+      "id": "bnysprotocols-dp2-anxiety-bnys-protocol",
       "title": "Anxiety — BNYS Protocol",
       "badge": "Core",
       "section": "bnysprotocols",
-      "category": "dis",
+      "category": "dp2",
       "summary": null
     },
     {
-      "id": "bnysprotocols-dis-t2dm-pcos-migraine-bnys-protocols",
+      "id": "bnysprotocols-dp3-t2dm-pcos-migraine-bnys-protocols",
       "title": "T2DM, PCOS & Migraine — BNYS Protocols",
       "badge": "BNYS Protocol",
       "section": "bnysprotocols",
-      "category": "dis",
+      "category": "dp3",
       "summary": null
     },
     {
-      "id": "bnysprotocols-dis-nafld-arthritis-psoriasis-thyroid-bnys-protocols",
+      "id": "bnysprotocols-dp3-nafld-arthritis-psoriasis-thyroid-bnys-protocols",
       "title": "NAFLD, Arthritis, Psoriasis & Thyroid — BNYS Protocols",
       "badge": "BNYS Protocol",
       "section": "bnysprotocols",
-      "category": "dis",
+      "category": "dp3",
       "summary": null
     },
     {
-      "id": "bnysprotocols-dis-insomnia-obesity-ckd-bnys-protocols",
+      "id": "bnysprotocols-dp3-insomnia-obesity-ckd-bnys-protocols",
       "title": "Insomnia, Obesity & CKD — BNYS Protocols",
       "badge": "BNYS Protocol",
       "section": "bnysprotocols",
-      "category": "dis",
+      "category": "dp3",
       "summary": null
+    },
+    {
+      "id": "anatomy-cvs-cardiovascular-structural-anatomy",
+      "title": "Cardiovascular — Structural Anatomy",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "cvs",
+      "summary": null
+    },
+    {
+      "id": "anatomy-cvs-cardiac-physiology-output-cycle-frank-starling",
+      "title": "Cardiac Physiology — Output, Cycle & Frank-Starling",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "cvs",
+      "summary": null
+    },
+    {
+      "id": "anatomy-cvs-blood-pressure-regulation-vascular-physiology",
+      "title": "Blood Pressure Regulation & Vascular Physiology",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "cvs",
+      "summary": null
+    },
+    {
+      "id": "anatomy-resp-respiratory-airways-lung-anatomy",
+      "title": "Respiratory — Airways & Lung Anatomy",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "resp",
+      "summary": null
+    },
+    {
+      "id": "anatomy-resp-ventilation-perfusion-gas-exchange",
+      "title": "Ventilation, Perfusion & Gas Exchange",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "resp",
+      "summary": null
+    },
+    {
+      "id": "anatomy-resp-respiratory-control-breathing-mechanics",
+      "title": "Respiratory Control & Breathing Mechanics",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "resp",
+      "summary": null
+    },
+    {
+      "id": "anatomy-neuro-nervous-system-cns-anatomy-cerebral-lobes",
+      "title": "Nervous System — CNS Anatomy & Cerebral Lobes",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "anatomy-neuro-neurophysiology-action-potentials-synapses-ans",
+      "title": "Neurophysiology — Action Potentials, Synapses & ANS",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "anatomy-neuro-csf-meninges-blood-brain-barrier",
+      "title": "CSF, Meninges & Blood-Brain Barrier",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "neuro",
+      "summary": null
+    },
+    {
+      "id": "anatomy-msk-musculoskeletal-bone-structure-remodelling",
+      "title": "Musculoskeletal — Bone Structure & Remodelling",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "msk",
+      "summary": null
+    },
+    {
+      "id": "anatomy-msk-muscle-joint-physiology",
+      "title": "Muscle & Joint Physiology",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "msk",
+      "summary": null
+    },
+    {
+      "id": "anatomy-gi-gi-tract-anatomy-wall-layers",
+      "title": "GI Tract — Anatomy & Wall Layers",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "gi",
+      "summary": null
+    },
+    {
+      "id": "anatomy-gi-gi-physiology-secretion-digestion-absorption",
+      "title": "GI Physiology — Secretion, Digestion & Absorption",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "gi",
+      "summary": null
+    },
+    {
+      "id": "anatomy-endo-endocrine-glands-anatomy-hormone-overview",
+      "title": "Endocrine Glands — Anatomy & Hormone Overview",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "endo",
+      "summary": null
+    },
+    {
+      "id": "anatomy-endo-hormone-physiology-mechanisms-axes-calcium",
+      "title": "Hormone Physiology — Mechanisms, Axes & Calcium",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "endo",
+      "summary": null
+    },
+    {
+      "id": "anatomy-renal-kidney-anatomy-nephron-structure",
+      "title": "Kidney — Anatomy & Nephron Structure",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "renal",
+      "summary": null
+    },
+    {
+      "id": "anatomy-renal-renal-physiology-gfr-tubular-transport-acid-base",
+      "title": "Renal Physiology — GFR, Tubular Transport & Acid-Base",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "renal",
+      "summary": null
+    },
+    {
+      "id": "anatomy-repro-reproductive-anatomy-male-female",
+      "title": "Reproductive Anatomy — Male & Female",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "repro",
+      "summary": null
+    },
+    {
+      "id": "anatomy-repro-reproductive-physiology-hpg-axis-menstrual-cycle",
+      "title": "Reproductive Physiology — HPG Axis & Menstrual Cycle",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "repro",
+      "summary": null
+    },
+    {
+      "id": "anatomy-immune-immune-system-anatomy-innate-immunity",
+      "title": "Immune System — Anatomy & Innate Immunity",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "immune",
+      "summary": null
+    },
+    {
+      "id": "anatomy-immune-adaptive-immunity-t-cells-b-cells-cytokines",
+      "title": "Adaptive Immunity — T Cells, B Cells & Cytokines",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "immune",
+      "summary": null
+    },
+    {
+      "id": "anatomy-blood-haematology-blood-cells-bone-marrow",
+      "title": "Haematology — Blood Cells & Bone Marrow",
+      "badge": "Anatomy",
+      "section": "anatomy",
+      "category": "blood",
+      "summary": null
+    },
+    {
+      "id": "anatomy-blood-haemostasis-coagulation-cascade-haemoglobin",
+      "title": "Haemostasis, Coagulation Cascade & Haemoglobin",
+      "badge": "Physiology",
+      "section": "anatomy",
+      "category": "blood",
+      "summary": null
+    },
+    {
+      "id": "pearls-mud-therapy-abdominal-mud-pack",
+      "title": "Abdominal Mud Pack",
+      "badge": "Mud Therapy",
+      "section": "pearls",
+      "category": "mud-therapy",
+      "summary": "Most commonly prescribed mud application in BNYS. Indication: constipation, IBS, indigestion, hyperacidity. Apply cool mud pack from navel to pubic symphysis for 20–30 minutes, morning before breakfas"
+    },
+    {
+      "id": "pearls-yoga-sciences-breath-holding-time-bht",
+      "title": "Breath-Holding Time (BHT)",
+      "badge": "Yoga Sciences",
+      "section": "pearls",
+      "category": "yoga-sciences",
+      "summary": "Simple clinical marker of respiratory and cardiovascular health. Normal: 25–40 seconds. <20 sec = significant dysfunction (poor parasympathetic tone). >40 sec = good cardiovascular fitness. Measure: n"
+    },
+    {
+      "id": "pearls-yoga-sciences-yoga-nidra-therapeutic-goldmine",
+      "title": "Yoga Nidra — Therapeutic Goldmine",
+      "badge": "Yoga Sciences",
+      "section": "pearls",
+      "category": "yoga-sciences",
+      "summary": "30 minutes = 2–3 hours of deep sleep physiologically. Induces theta brainwave state (4–8 Hz). Evidence: ↓ cortisol, ↓ sympathetic tone, ↑ DHEA, ↓ PTSD symptoms, ↓ chronic pain scores. Prescription: 30"
+    },
+    {
+      "id": "pearls-clinical-skills-bathe-technique-5-min-psychosocial-screen",
+      "title": "BATHE Technique — 5-min Psychosocial Screen",
+      "badge": "Clinical Skills",
+      "section": "pearls",
+      "category": "clinical-skills",
+      "summary": "B — Background: 'What is going on in your life?' A — Affect: 'How do you feel?' T — Trouble: 'What troubles you most?' H — Handling: 'How are you handling it?' E — Empathy: 'That must be very difficul"
+    },
+    {
+      "id": "pearls-clinical-skills-the-90-second-rule",
+      "title": "The 90-Second Rule",
+      "badge": "Clinical Skills",
+      "section": "pearls",
+      "category": "clinical-skills",
+      "summary": "Doctors interrupt patients on average within 18 seconds. If allowed to speak uninterrupted, 80% finish in under 90 seconds — and reveal the real reason for the consultation. The first 90 seconds shoul"
+    },
+    {
+      "id": "pearls-yoga-sciences-sequence-of-yoga-practice",
+      "title": "Sequence of Yoga Practice",
+      "badge": "Yoga Sciences",
+      "section": "pearls",
+      "category": "yoga-sciences",
+      "summary": "Correct order: Asanas → Pranayama → Meditation/Yoga Nidra → Shavasana. Never reverse. Asanas prepare the body for pranayama; pranayama prepares the mind for meditation. Pranayama on an unprepared body"
+    },
+    {
+      "id": "pearls-nutrition-alkaline-vs-acid-forming-foods",
+      "title": "Alkaline vs Acid-Forming Foods",
+      "badge": "Nutrition",
+      "section": "pearls",
+      "category": "nutrition",
+      "summary": "Alkaline-forming (eat freely): all fruits (even citrus — alkaline ASH), all vegetables, sprouts, millet, seeds, nuts, coconut water. Acid-forming (limit): meat, fish, eggs, dairy, refined grains, suga"
+    },
+    {
+      "id": "pearls-fasting-therapy-healing-crisis-during-fasting",
+      "title": "Healing Crisis During Fasting",
+      "badge": "Fasting Therapy",
+      "section": "pearls",
+      "category": "fasting-therapy",
+      "summary": "Expect on days 1–2: headache, fatigue, irritability, bad breath, coated tongue, body odour — signs of active detoxification, not side effects. Dangerous symptoms: severe hypoglycaemia, cardiac palpita"
+    },
+    {
+      "id": "pearls-acupressure-deqi-sensation-in-acupressure",
+      "title": "Deqi Sensation in Acupressure",
+      "badge": "Acupressure",
+      "section": "pearls",
+      "category": "acupressure",
+      "summary": "The therapeutic sensation at a correctly stimulated acupoint: dull ache, heaviness, tingling, warmth, or electric-like sensation radiating along the meridian. Absence of Deqi = incorrect location, ins"
+    },
+    {
+      "id": "pearls-oil-therapy-self-abhyanga-prescription",
+      "title": "Self-Abhyanga Prescription",
+      "badge": "Oil Therapy",
+      "section": "pearls",
+      "category": "oil-therapy",
+      "summary": "Daily self-abhyanga is one of the most powerful preventive practices. Warm sesame oil, 10–15 min before morning shower. Start at crown, work down. Let oil absorb 5 min, then shower with warm water. Re"
+    },
+    {
+      "id": "pearls-clinical-skills-documentation-principle",
+      "title": "Documentation Principle",
+      "badge": "Clinical Skills",
+      "section": "pearls",
+      "category": "clinical-skills",
+      "summary": "'If it isn't written, it didn't happen.' Good documentation protects the patient (continuity of care), protects you (medico-legal), and improves outcomes. Write legibly in black ink. Date and sign eve"
+    },
+    {
+      "id": "pearls-clinical-examination-inspection-before-palpation",
+      "title": "Inspection Before Palpation",
+      "badge": "Clinical Examination",
+      "section": "pearls",
+      "category": "clinical-examination",
+      "summary": "Always. The end-of-bed assessment gives you the gestalt of how sick the patient is. A patient who looks well despite abnormal observations is different from one who looks unwell with normal observatio"
+    },
+    {
+      "id": "pearls-cardiovascular-jvp-window-to-the-right-atrium",
+      "title": "JVP — Window to the Right Atrium",
+      "badge": "Cardiovascular",
+      "section": "pearls",
+      "category": "cardiovascular",
+      "summary": "A raised JVP is one of the earliest signs of right heart failure. In cardiac tamponade: Beck's triad — raised JVP + hypotension + muffled heart sounds. Pulsus paradoxus also present. Always check JVP "
+    },
+    {
+      "id": "pearls-oil-therapy-therapeutic-oils-in-bnys",
+      "title": "Therapeutic Oils in BNYS",
+      "badge": "Oil Therapy",
+      "section": "pearls",
+      "category": "oil-therapy",
+      "summary": "Sesame oil: warming, anti-Vata, best for dry skin and joints. Coconut oil: cooling, anti-inflammatory, best for Pitta and skin. Mustard oil: deeply warming — cold/flu, arthritis. Neem oil: antimicrobi"
+    },
+    {
+      "id": "pearls-mud-therapy-ideal-mud-for-therapy",
+      "title": "Ideal Mud for Therapy",
+      "badge": "Mud Therapy",
+      "section": "pearls",
+      "category": "mud-therapy",
+      "summary": "Best therapeutic mud: black cotton soil or fullers earth (multani mitti) — high mineral content, fine texture. Collect from 3–4 feet depth (free of contaminants). Sun-dry, powder, sieve, store in eart"
     }
   ]
 }
