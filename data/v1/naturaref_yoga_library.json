@@ -1,0 +1,2597 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "title": "NaturaRef Yoga Asana Library",
+    "subtitle": "Therapeutic Yoga Reference for BNYS Clinical Practice",
+    "totalAsanas": 60,
+    "lastUpdated": "2026-04",
+    "author": "NaturaRef — Dr. Vikranth BNYS",
+    "categories": [
+      { "id": "standing", "label": "Standing Poses", "tamil": "நிற்கும் ஆசனங்கள்", "count": 8 },
+      { "id": "seated", "label": "Seated Poses", "tamil": "அமர்ந்திருக்கும் ஆசனங்கள்", "count": 10 },
+      { "id": "prone", "label": "Prone Poses", "tamil": "குப்புறே படுக்கும் ஆசனங்கள்", "count": 7 },
+      { "id": "supine", "label": "Supine Poses", "tamil": "மல்லாந்து படுக்கும் ஆசனங்கள்", "count": 9 },
+      { "id": "inverted", "label": "Inverted & Advanced", "tamil": "தலைகீழ் ஆசனங்கள்", "count": 5 },
+      { "id": "core", "label": "Core & Dynamic", "tamil": "கோர் ஆசனங்கள்", "count": 3 },
+      { "id": "additional", "label": "Additional Poses", "tamil": "கூடுதல் ஆசனங்கள்", "count": 5 },
+      { "id": "pranayama", "label": "Pranayama", "tamil": "பிராணாயாமம்", "count": 12 },
+      { "id": "additional_standing", "label": "Additional Standing", "tamil": "கூடுதல் நிற்கும் ஆசனங்கள்", "count": 1 }
+    ],
+    "difficultyLevels": ["beginner", "intermediate", "advanced"],
+    "therapeuticSystems": [
+      "musculoskeletal", "respiratory", "digestive", "endocrine",
+      "nervous", "cardiovascular", "urogenital", "lymphatic", "reproductive"
+    ]
+  },
+  "asanas": [
+
+    {
+      "id": "yoga_001",
+      "sanskrit": "Tadasana",
+      "english": "Mountain Pose",
+      "tamil": "தாடாசனம்",
+      "category": "standing",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "30–60 seconds",
+        "repetitions": "3–5 times",
+        "sessionTime": "3–5 minutes"
+      },
+      "instructions": [
+        "Stand erect with feet together, big toes touching, heels slightly apart.",
+        "Distribute body weight evenly on all four corners of each foot.",
+        "Engage thigh muscles, lift kneecaps without locking knees.",
+        "Lengthen the tailbone toward the floor, engage the core gently.",
+        "Roll shoulders back and down; chest broad, arms by sides, palms facing forward.",
+        "Elongate the neck, chin parallel to floor, gaze forward.",
+        "Breathe steadily for 30–60 seconds."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Corrects postural imbalances and scoliosis", "Strengthens thighs, knees, ankles", "Improves spinal alignment"],
+        "respiratory": ["Opens chest, improves breathing capacity"],
+        "digestive": ["Stimulates digestive awareness through core engagement"],
+        "endocrine": [],
+        "nervous": ["Calms the mind, improves concentration and body awareness"],
+        "cardiovascular": ["Mild improvement in circulation through lower limbs"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["postural correction", "flat feet", "sciatica prevention", "anxiety", "low back pain", "scoliosis"],
+      "contraindications": {
+        "absolute": ["acute dizziness", "vertigo"],
+        "relative": ["headache — avoid eyes-closed variation", "low blood pressure — supervise"]
+      },
+      "modifications": {
+        "elderly": "Stand with feet hip-width apart; use wall for support if balance is impaired.",
+        "obese": "Feet hip-width apart to reduce strain on ankles and knees.",
+        "beginners": "Practice near a wall; place fingers lightly on wall for balance.",
+        "pregnancy": "After first trimester, widen stance to hip-width; avoid closed-eye variation."
+      },
+      "searchTags": ["standing", "beginner", "postural", "spine", "balance", "alignment"]
+    },
+
+    {
+      "id": "yoga_002",
+      "sanskrit": "Vrikshasana",
+      "english": "Tree Pose",
+      "tamil": "விருட்சாசனம்",
+      "category": "standing",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "30–60 seconds each side",
+        "repetitions": "2–3 times each side",
+        "sessionTime": "5–7 minutes"
+      },
+      "instructions": [
+        "Begin in Tadasana. Shift weight to the left foot.",
+        "Bend right knee, place right foot on inner left thigh (above or below knee, never on knee joint).",
+        "Press foot and thigh into each other for stability.",
+        "Bring palms together at chest (Anjali mudra) or raise arms overhead.",
+        "Fix gaze on a stationary point (drishti) at eye level.",
+        "Hold for 30–60 seconds, breathing steadily.",
+        "Release and repeat on opposite side."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strengthens ankles, calves, thighs, and spine", "Improves proprioception and neuromuscular coordination", "Corrects genu valgum (knock knee)"],
+        "respiratory": ["Encourages diaphragmatic breathing"],
+        "digestive": [],
+        "endocrine": [],
+        "nervous": ["Improves concentration, reduces anxiety", "Develops vestibular function"],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["balance disorders", "flat feet", "anxiety", "ADHD", "knee rehabilitation", "osteoporosis prevention"],
+      "contraindications": {
+        "absolute": ["acute vertigo", "severe arthritis of hip or knee"],
+        "relative": ["recent ankle sprain — use lower foot placement", "hypertension — avoid raised arm variation"]
+      },
+      "modifications": {
+        "elderly": "Place foot on inner calf instead of thigh; keep fingertips on wall.",
+        "obese": "Place foot on inner calf or ankle; use chair back for support.",
+        "beginners": "Stand near wall; start with toe touching floor for balance.",
+        "pregnancy": "Use wall support; avoid deep hip rotation in third trimester."
+      },
+      "searchTags": ["standing", "balance", "beginner", "proprioception", "ankle", "knee"]
+    },
+
+    {
+      "id": "yoga_003",
+      "sanskrit": "Trikonasana",
+      "english": "Triangle Pose",
+      "tamil": "திரிகோணாசனம்",
+      "category": "standing",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "30–60 seconds each side",
+        "repetitions": "2–3 each side",
+        "sessionTime": "5–7 minutes"
+      },
+      "instructions": [
+        "Stand with feet 3–3.5 feet apart; right foot out 90°, left foot in 15°.",
+        "Arms extended parallel to floor at shoulder height.",
+        "Inhale; on exhale, extend trunk sideways over right leg, hinging at hip.",
+        "Place right hand on shin, ankle, or block (not forcing).",
+        "Extend left arm straight up, palm forward; gaze toward raised hand.",
+        "Keep both sides of the trunk equally long; do not collapse chest.",
+        "Hold 30–60 seconds. Inhale to come up, repeat left side."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Stretches hamstrings, groins, hips, IT band", "Strengthens thighs, knees, ankles", "Relieves neck and low back stiffness"],
+        "respiratory": ["Opens intercostal muscles, improves lateral chest expansion"],
+        "digestive": ["Stimulates abdominal organs, aids constipation"],
+        "endocrine": [],
+        "nervous": ["Reduces stress and anxiety"],
+        "cardiovascular": ["Improves circulation in lower limbs"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["low back pain", "sciatica", "constipation", "indigestion", "stress", "hip tightness", "IT band syndrome"],
+      "contraindications": {
+        "absolute": ["acute low back pain — avoid deep lateral bend"],
+        "relative": ["cervical spondylosis — keep neck neutral (do not look up)", "cardiac disorders — avoid holding breath", "diarrhoea"]
+      },
+      "modifications": {
+        "elderly": "Use a block under lower hand; reduce range of motion.",
+        "obese": "Use tall block or chair seat under lower hand.",
+        "beginners": "Place lower hand on shin or use block; focus on trunk lengthening over depth.",
+        "pregnancy": "Widen stance; use block support; avoid compressing belly."
+      },
+      "searchTags": ["standing", "lateral", "hamstring", "back pain", "sciatica", "digestion"]
+    },
+
+    {
+      "id": "yoga_004",
+      "sanskrit": "Virabhadrasana I",
+      "english": "Warrior I",
+      "tamil": "வீரபத்திராசனம் I",
+      "category": "standing",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "20–45 seconds each side",
+        "repetitions": "2–3 each side",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "From Tadasana, step left foot back 4–4.5 feet.",
+        "Rotate left foot in 45–60° inward; right foot points forward.",
+        "Square hips to face front as much as possible.",
+        "Bend right knee to 90° (knee over ankle, not beyond toes).",
+        "Raise arms overhead, palms facing each other or joined.",
+        "Lift chest, lengthen spine; slight backbend if comfortable.",
+        "Hold 20–45 seconds. Return to Tadasana, repeat other side."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strengthens quadriceps, glutes, calves, spine", "Stretches hip flexors (psoas), chest, lungs", "Improves hip mobility and spinal extension"],
+        "respiratory": ["Opens chest and rib cage, improves lung capacity"],
+        "digestive": [],
+        "endocrine": ["Stimulates adrenal response, builds energy"],
+        "nervous": ["Builds confidence, courage; reduces anxiety"],
+        "cardiovascular": ["Increases heart rate mildly; good warm-up for cardiovascular system"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["hip flexor tightness", "frozen shoulder", "low back weakness", "anxiety", "fatigue", "respiratory conditions"],
+      "contraindications": {
+        "absolute": ["acute knee injury", "recent hip surgery"],
+        "relative": ["hypertension — avoid arms overhead", "heart disease — reduce hold time", "shoulder impingement — keep hands on hips"]
+      },
+      "modifications": {
+        "elderly": "Shorten stance; use wall for balance; keep arms on hips if shoulder issues.",
+        "obese": "Shorter stance; hands on thighs for support.",
+        "beginners": "Use wall at back for balance; shorten lunge depth.",
+        "pregnancy": "Shorten stance; avoid deep lunge in third trimester; keep hands on hips."
+      },
+      "searchTags": ["standing", "lunge", "hip flexor", "strength", "respiratory", "warrior"]
+    },
+
+    {
+      "id": "yoga_005",
+      "sanskrit": "Virabhadrasana II",
+      "english": "Warrior II",
+      "tamil": "வீரபத்திராசனம் II",
+      "category": "standing",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "30–60 seconds each side",
+        "repetitions": "2–3 each side",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Stand with feet 4–4.5 feet apart.",
+        "Right foot out 90°, left foot in 15°; align right heel with left arch.",
+        "Extend arms out to sides at shoulder height, parallel to floor.",
+        "Bend right knee to 90°; keep knee tracking over second toe.",
+        "Turn head to gaze over right fingertips.",
+        "Keep trunk upright (do not lean forward); shoulders relaxed.",
+        "Hold 30–60 seconds. Straighten leg, repeat left side."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strengthens legs, glutes, core", "Opens groins, hips, chest", "Tones arms and shoulders"],
+        "respiratory": ["Expands chest, improves breathing"],
+        "digestive": ["Stimulates abdominal organs"],
+        "endocrine": [],
+        "nervous": ["Builds mental stamina and focus"],
+        "cardiovascular": ["Good cardiovascular conditioning with regular practice"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["varicose veins", "osteoporosis", "infertility (opens hips)", "carpal tunnel (arm extension)", "fatigue", "diabetes (leg strengthening)"],
+      "contraindications": {
+        "absolute": ["acute knee injury"],
+        "relative": ["diarrhoea", "hypertension — steady breathing essential", "neck pain — keep neck neutral"]
+      },
+      "modifications": {
+        "elderly": "Shorten stance; use chair for partial support.",
+        "obese": "Shorten stance to reduce knee strain.",
+        "beginners": "Reduce bend depth; do not force knee to 90°.",
+        "pregnancy": "Widen stance; remove arm variation if shoulder fatigue."
+      },
+      "searchTags": ["standing", "strength", "hips", "cardiovascular", "diabetes", "warrior"]
+    },
+
+    {
+      "id": "yoga_006",
+      "sanskrit": "Utkatasana",
+      "english": "Chair Pose",
+      "tamil": "உட்கடாசனம்",
+      "category": "standing",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "20–40 seconds",
+        "repetitions": "3–5 times",
+        "sessionTime": "4–6 minutes"
+      },
+      "instructions": [
+        "Stand in Tadasana. Inhale, raise arms overhead, palms facing each other.",
+        "Exhale, bend knees as if sitting back into a chair.",
+        "Thighs as parallel to floor as possible; knees tracking over feet.",
+        "Trunk slightly forward of vertical; back lengthened, chest lifted.",
+        "Keep weight in heels; you should be able to lift toes.",
+        "Hold 20–40 seconds with steady breathing. Inhale, straighten legs. Exhale, lower arms."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strengthens quadriceps, gluteus maximus, calves", "Tones core and erector spinae", "Stimulates diaphragm and heart"],
+        "respiratory": ["Expands chest; improves respiratory muscle tone"],
+        "digestive": ["Massages abdominal organs"],
+        "endocrine": ["Stimulates metabolic rate"],
+        "nervous": ["Builds determination and mental focus"],
+        "cardiovascular": ["Raises heart rate; good cardiovascular conditioning"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["obesity", "diabetes", "flat feet", "knee rehabilitation (early stage)", "constipation", "low back strengthening"],
+      "contraindications": {
+        "absolute": ["acute knee pain or injury", "ankle sprain"],
+        "relative": ["insomnia — energising; avoid late evening", "headache", "low blood pressure"]
+      },
+      "modifications": {
+        "elderly": "Partial squat only; use chair back for support.",
+        "obese": "Hold chair back; reduce depth of bend; ensure knees do not go beyond toes.",
+        "beginners": "Stand near wall; lightly press back against wall to learn alignment.",
+        "pregnancy": "After first trimester, stand wider; use wall support; avoid deep squat."
+      },
+      "searchTags": ["standing", "strength", "quadriceps", "diabetes", "obesity", "flat feet"]
+    },
+
+    {
+      "id": "yoga_007",
+      "sanskrit": "Uttanasana",
+      "english": "Standing Forward Bend",
+      "tamil": "உத்தானாசனம்",
+      "category": "standing",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "30–60 seconds",
+        "repetitions": "3–5 times",
+        "sessionTime": "3–5 minutes"
+      },
+      "instructions": [
+        "Stand in Tadasana. Inhale, extend arms overhead.",
+        "Exhale, hinge forward at hips (not waist), leading with chest.",
+        "Place hands on floor, blocks, or shins — wherever they land with a straight spine.",
+        "Allow head to hang; relax neck completely.",
+        "With each exhale, fold deeper; knees may be slightly bent initially.",
+        "Hold 30–60 seconds. To come up: inhale, hands on hips, rise with flat back."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Stretches hamstrings, calves, hip flexors", "Relieves lumbar stiffness and disc compression (decompresses L4-S1)", "Stretches spinal muscles and ligaments"],
+        "respiratory": ["Calms nervous system when head is below heart"],
+        "digestive": ["Stimulates liver, kidneys, spleen; aids constipation"],
+        "endocrine": [],
+        "nervous": ["Relieves stress, mild anxiety, insomnia", "Reduces fatigue"],
+        "cardiovascular": ["Mild inversion effect; calms heart rate"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["low back pain", "hamstring tightness", "constipation", "stress", "insomnia", "headache", "osteoporosis prevention"],
+      "contraindications": {
+        "absolute": ["acute herniated disc with radiculopathy", "uncontrolled hypertension (with head below heart)"],
+        "relative": ["glaucoma — head should not go below heart level", "hamstring tear", "osteoporosis — use bent-knee variation"]
+      },
+      "modifications": {
+        "elderly": "Bend knees generously; use blocks under hands.",
+        "obese": "Use blocks; bend knees widely; avoid compressing abdomen.",
+        "beginners": "Bend knees to learn hip hinging; place hands on blocks.",
+        "pregnancy": "Not suitable in second/third trimester; use wide-leg variation only."
+      },
+      "searchTags": ["standing", "forward bend", "hamstring", "low back", "stress", "digestion", "insomnia"]
+    },
+
+    {
+      "id": "yoga_008",
+      "sanskrit": "Ardha Chandrasana",
+      "english": "Half Moon Pose",
+      "tamil": "அர்த்த சந்திராசனம்",
+      "category": "standing",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "20–30 seconds each side",
+        "repetitions": "2–3 each side",
+        "sessionTime": "5–7 minutes"
+      },
+      "instructions": [
+        "Begin in Trikonasana on right side.",
+        "Bend right knee, bring right hand to floor 12 inches ahead of right foot.",
+        "Shift weight onto right foot and hand; lift left leg parallel to floor.",
+        "Open hips; stack left hip over right. Extend left arm toward ceiling.",
+        "Gaze up toward left hand or straight ahead if balance is challenging.",
+        "Hold 20–30 seconds. Lower left foot to floor, return to Trikonasana. Repeat left."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strengthens ankles, thighs, glutes, spine", "Stretches groins, hamstrings, calves", "Improves balance and spatial awareness"],
+        "respiratory": ["Opens chest and shoulders"],
+        "digestive": ["Stimulates digestive organs"],
+        "endocrine": [],
+        "nervous": ["Improves concentration and proprioception"],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["balance rehabilitation", "sciatica", "low back pain", "osteoporosis", "menstrual disorders"],
+      "contraindications": {
+        "absolute": ["severe balance disorders", "acute vertigo"],
+        "relative": ["headache", "low blood pressure", "neck problems — keep neck neutral"]
+      },
+      "modifications": {
+        "elderly": "Use wall for back support; keep gaze forward.",
+        "obese": "Use block under lower hand; stay near wall.",
+        "beginners": "Use block at highest height; wall support.",
+        "pregnancy": "Not recommended in second/third trimester."
+      },
+      "searchTags": ["standing", "balance", "intermediate", "sciatica", "spine", "hip"]
+    },
+
+    {
+      "id": "yoga_009",
+      "sanskrit": "Sukhasana",
+      "english": "Easy Pose",
+      "tamil": "சுகாசனம்",
+      "category": "seated",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–20 minutes",
+        "repetitions": "1 time",
+        "sessionTime": "5–20 minutes"
+      },
+      "instructions": [
+        "Sit on folded blanket or mat. Cross legs comfortably in front of you.",
+        "Each foot rests beneath opposite knee; shins crossed.",
+        "Hands on knees, palms down (Jnana mudra or Chin mudra).",
+        "Sit erect; lengthen spine; relax shoulders down and back.",
+        "Close eyes, breathe naturally. Alternate crossing of legs at each sitting."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Opens hips, groin, outer thighs", "Lengthens spine when practiced correctly"],
+        "respiratory": ["Ideal base for pranayama and breathing practices"],
+        "digestive": [],
+        "endocrine": [],
+        "nervous": ["Calms mind, reduces anxiety and mental fatigue", "Foundation for meditation"],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["anxiety", "stress", "meditation practice", "pranayama base", "mild depression", "hypertension management (combined with pranayama)"],
+      "contraindications": {
+        "absolute": [],
+        "relative": ["acute knee injury — use Dandasana instead", "severe hip arthritis — use chair adaptation"]
+      },
+      "modifications": {
+        "elderly": "Sit on chair; feet flat on floor; hands on thighs.",
+        "obese": "Use thick folded blanket under hips to elevate pelvis.",
+        "beginners": "Sit with back against wall; use blanket under hips.",
+        "pregnancy": "Safe throughout; increase blanket height as pregnancy progresses."
+      },
+      "searchTags": ["seated", "beginner", "meditation", "pranayama", "anxiety", "stress", "hip opener"]
+    },
+
+    {
+      "id": "yoga_010",
+      "sanskrit": "Padmasana",
+      "english": "Lotus Pose",
+      "tamil": "பத்மாசனம்",
+      "category": "seated",
+      "difficulty": "advanced",
+      "duration": {
+        "hold": "1–30 minutes",
+        "repetitions": "1 time (alternate leg crossing)",
+        "sessionTime": "As per meditation practice"
+      },
+      "instructions": [
+        "Sit in Dandasana (legs extended). Bend right knee, bring right foot to left hip crease — sole facing up.",
+        "Bend left knee, lift left foot onto right thigh — sole facing up.",
+        "Both knees should ideally touch or near the floor.",
+        "Spine erect; hands in mudra on knees. Close eyes, breathe naturally.",
+        "Do not force — hip flexibility must be adequate before attempting."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Deep hip external rotator stretch", "Reduces lumbar lordosis", "Stretches ankle joints"],
+        "respiratory": ["Optimal posture for diaphragmatic breathing and pranayama"],
+        "digestive": ["Mild abdominal compression stimulates digestion"],
+        "endocrine": [],
+        "nervous": ["Deepest calming and meditative posture", "Reduces sympathetic arousal"],
+        "cardiovascular": ["Reduces blood pressure with regular meditative practice"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["meditation", "anxiety", "hypertension", "insomnia", "epilepsy (as meditative base)", "chronic stress"],
+      "contraindications": {
+        "absolute": ["knee injury or recent surgery", "severe hip arthritis", "sciatica — may aggravate"],
+        "relative": ["ankle injury — use Ardha Padmasana", "tight hips — never force"]
+      },
+      "modifications": {
+        "elderly": "Use Sukhasana; do not attempt full lotus with stiff joints.",
+        "obese": "Not appropriate; use Sukhasana or chair sitting.",
+        "beginners": "Ardha Padmasana (half lotus) first; progress over months.",
+        "pregnancy": "Sukhasana preferred; full lotus contraindicated after first trimester."
+      },
+      "searchTags": ["seated", "advanced", "meditation", "hip opener", "hypertension", "anxiety", "lotus"]
+    },
+
+    {
+      "id": "yoga_011",
+      "sanskrit": "Vajrasana",
+      "english": "Thunderbolt Pose / Diamond Pose",
+      "tamil": "வஜ்ராசனம்",
+      "category": "seated",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–15 minutes (especially after meals)",
+        "repetitions": "1 time",
+        "sessionTime": "5–15 minutes"
+      },
+      "instructions": [
+        "Kneel on mat, knees together, toes pointing back.",
+        "Lower hips to sit on heels; tops of feet flat on floor.",
+        "Sit erect with hands on thighs, palms down.",
+        "Keep spine straight; relax shoulders; breathe normally.",
+        "This is the only asana that can be practiced immediately after meals."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Stretches quadriceps, knees, ankles", "Strengthens back muscles", "Corrects posture"],
+        "respiratory": [],
+        "digestive": ["Significantly improves digestion — increases blood flow to pelvic and abdominal region", "Reduces gas, bloating, acidity, IBS symptoms", "Aids in Irritable Bowel Syndrome"],
+        "endocrine": [],
+        "nervous": ["Calming; good base for pranayama"],
+        "cardiovascular": [],
+        "urogenital": ["Strengthens pelvic floor; beneficial in urinary disorders"]
+      },
+      "therapeuticUses": ["indigestion", "IBS", "acidity", "constipation", "flatulence", "obesity", "diabetes", "urinary disorders", "knee rehabilitation (limited)"],
+      "contraindications": {
+        "absolute": ["severe knee arthritis or recent knee surgery", "severe ankle injury"],
+        "relative": ["varicose veins — short duration only", "pregnancy (third trimester) — may compress leg circulation"]
+      },
+      "modifications": {
+        "elderly": "Place folded blanket between calves and thighs; use thicker padding under knees.",
+        "obese": "Use thick blanket or block between hips and feet to reduce knee strain.",
+        "beginners": "Fold blanket and place between calves and thighs for comfort.",
+        "pregnancy": "Safe in first trimester; second trimester use blanket support; avoid in third trimester."
+      },
+      "searchTags": ["seated", "beginner", "digestion", "IBS", "acidity", "postmeal", "knee", "pelvic floor"]
+    },
+
+    {
+      "id": "yoga_012",
+      "sanskrit": "Baddha Konasana",
+      "english": "Butterfly / Bound Angle Pose",
+      "tamil": "பத்த கோணாசனம்",
+      "category": "seated",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "1–3 minutes",
+        "repetitions": "2–3 times",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Sit in Dandasana. Bend knees, bring soles of feet together, heels close to perineum.",
+        "Grasp feet or ankles with both hands.",
+        "Sitting tall, inhale; exhale, gently allow knees to lower toward floor.",
+        "Do not force knees down — inner groin releases passively over time.",
+        "Optionally flap knees gently like butterfly wings for dynamic variation.",
+        "Fold forward from hips (not waist) for deeper stretch."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Stretches inner thighs, groins, knees", "Opens hip joints and sacroiliac region"],
+        "respiratory": [],
+        "digestive": ["Stimulates bowel and intestinal motility"],
+        "endocrine": ["Stimulates ovaries and prostate gland"],
+        "nervous": ["Reduces anxiety, mild fatigue"],
+        "cardiovascular": ["Improves circulation in pelvic basin"],
+        "urogenital": ["Highly therapeutic for menstrual disorders, menopausal symptoms", "Assists in urinary tract health", "Benefits prostate conditions"]
+      },
+      "therapeuticUses": ["dysmenorrhoea", "PCOS", "menopause", "infertility", "prostate disorders", "urinary incontinence", "groin tightness", "sciatica"],
+      "contraindications": {
+        "absolute": ["acute groin or inner knee injury"],
+        "relative": ["knee injury — support knees with blankets"]
+      },
+      "modifications": {
+        "elderly": "Use blankets or blocks under each knee for support.",
+        "obese": "Sit on blanket; allow knees to stay high — do not force.",
+        "beginners": "Sit on blanket to elevate hips; support knees with blocks.",
+        "pregnancy": "Very beneficial; use blanket under knees; no forward fold with belly."
+      },
+      "searchTags": ["seated", "beginner", "groin", "hip opener", "PCOS", "menstrual", "urogenital", "prostate"]
+    },
+
+    {
+      "id": "yoga_013",
+      "sanskrit": "Paschimottanasana",
+      "english": "Seated Forward Bend",
+      "tamil": "பஸ்சிமோத்தாணாசனம்",
+      "category": "seated",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "1–3 minutes",
+        "repetitions": "3–5 times",
+        "sessionTime": "5–10 minutes"
+      },
+      "instructions": [
+        "Sit in Dandasana; legs together, fully extended.",
+        "Inhale, raise arms overhead, lengthen spine.",
+        "Exhale, hinge from hips (not waist) and fold forward.",
+        "Grasp feet, ankles, or shins — wherever you can without rounding the lower back excessively.",
+        "With each inhale, lengthen the spine; with each exhale, fold slightly deeper.",
+        "Hold 1–3 minutes. To exit: inhale, raise head and chest, uncurl spine."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Intense stretch for hamstrings, calves, lumbar spine", "Decompresses intervertebral discs"],
+        "respiratory": ["Calms respiratory rate"],
+        "digestive": ["Stimulates liver, kidneys, ovaries, uterus", "Relieves constipation, IBS"],
+        "endocrine": ["Stimulates adrenal glands and pancreas — beneficial for diabetes"],
+        "nervous": ["Reduces anxiety, fatigue; therapeutic in mild depression", "Calms sympathetic nervous system"],
+        "cardiovascular": ["Lowers blood pressure with regular practice"],
+        "urogenital": ["Tones kidneys; beneficial for urinary health"]
+      },
+      "therapeuticUses": ["diabetes", "hypertension", "low back pain", "constipation", "anxiety", "mild depression", "hamstring tightness", "menstrual disorders", "kidney health"],
+      "contraindications": {
+        "absolute": ["acute lumbar disc herniation", "acute hamstring tear"],
+        "relative": ["asthma — avoid prolonged forward fold", "pregnancy — avoid from second trimester onward", "diarrhoea"]
+      },
+      "modifications": {
+        "elderly": "Bend knees generously; use strap around feet; hold shins.",
+        "obese": "Use strap around feet; bend knees; no forced forward fold.",
+        "beginners": "Use strap; focus on hinging from hips not rounding the lower back.",
+        "pregnancy": "Contraindicated from second trimester; use wide-leg adaptation only."
+      },
+      "searchTags": ["seated", "forward bend", "hamstring", "diabetes", "hypertension", "digestion", "anxiety", "kidneys"]
+    },
+
+    {
+      "id": "yoga_014",
+      "sanskrit": "Ardha Matsyendrasana",
+      "english": "Half Lord of the Fishes / Half Spinal Twist",
+      "tamil": "அர்த்த மத்ஸ்யேந்திராசனம்",
+      "category": "seated",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "30–60 seconds each side",
+        "repetitions": "2–3 each side",
+        "sessionTime": "6–10 minutes"
+      },
+      "instructions": [
+        "Sit in Dandasana. Bend left knee; place left heel beside right hip.",
+        "Cross right foot over left leg and place it flat outside the left knee.",
+        "Inhale and lengthen the spine.",
+        "Exhale, twist to the right — left elbow against right knee as a lever.",
+        "Right hand behind the right hip; gaze over right shoulder.",
+        "Keep spine tall throughout. Breathe freely for 30–60 seconds.",
+        "Inhale to unwind; repeat on opposite side."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Mobilises entire spine (all vertebral segments)", "Stretches outer hips, chest, shoulders, neck"],
+        "respiratory": ["Alternates lung compression for improved respiratory capacity"],
+        "digestive": ["Massages abdominal organs — liver, kidneys, stomach, spleen", "Stimulates digestive juices; excellent for constipation and IBS"],
+        "endocrine": ["Massages adrenal glands and pancreas — key for diabetes management"],
+        "nervous": ["Tones spinal nerves and reduces nerve root compression"],
+        "cardiovascular": [],
+        "urogenital": ["Stimulates kidneys; beneficial for mild renal conditions"]
+      },
+      "therapeuticUses": ["diabetes", "constipation", "low back pain", "sciatica", "cervical spondylosis (gentle variation)", "IBS", "kidney health", "fatty liver"],
+      "contraindications": {
+        "absolute": ["acute herniated disc", "recent abdominal surgery", "peptic ulcer (active)"],
+        "relative": ["pregnancy — modify significantly", "hypertension — maintain steady breath"]
+      },
+      "modifications": {
+        "elderly": "Sit on blanket; reduce twist depth; keep lower leg extended.",
+        "obese": "Keep lower leg extended (Marichyasana variation); reduce twist intensity.",
+        "beginners": "Keep lower leg extended; use light hand placement not deep lever.",
+        "pregnancy": "Very gentle; avoid deep twist compressing abdomen; use open-belly variation."
+      },
+      "searchTags": ["seated", "twist", "spine", "digestion", "diabetes", "sciatica", "IBS", "pancreas", "liver"]
+    },
+
+    {
+      "id": "yoga_015",
+      "sanskrit": "Janu Sirsasana",
+      "english": "Head to Knee Pose",
+      "tamil": "ஜாநு சிரஷாசனம்",
+      "category": "seated",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "1–2 minutes each side",
+        "repetitions": "2–3 each side",
+        "sessionTime": "6–8 minutes"
+      },
+      "instructions": [
+        "Sit in Dandasana. Bend right knee, place right sole against inner left thigh.",
+        "Inhale, lengthen spine. Exhale, hinge forward from hips over left (extended) leg.",
+        "Grasp left foot, ankle, or use strap. Keep left leg straight.",
+        "With each exhale, elongate torso over leg; do not round lower back severely.",
+        "Hold 1–2 minutes. Return upright. Repeat with right leg extended."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Stretches hamstrings, calves, inner thigh of bent leg"],
+        "respiratory": ["Mild chest compression on exhale"],
+        "digestive": ["Stimulates liver, kidneys, spleen on forward side"],
+        "endocrine": ["Stimulates adrenal glands"],
+        "nervous": ["Calming; reduces mild anxiety and depression"],
+        "cardiovascular": ["Lowers blood pressure"],
+        "urogenital": ["Benefits kidney function"]
+      },
+      "therapeuticUses": ["hamstring tightness", "mild depression", "anxiety", "kidney health", "high blood pressure", "menstrual disorders", "insomnia"],
+      "contraindications": {
+        "absolute": ["acute hamstring or knee injury"],
+        "relative": ["asthma — hold time limited", "diarrhoea"]
+      },
+      "modifications": {
+        "elderly": "Use strap; slight knee bend in extended leg.",
+        "obese": "Use strap; bend extended knee generously.",
+        "beginners": "Use strap around foot; focus on hip hinge.",
+        "pregnancy": "Widen base; use strap; avoid from second trimester."
+      },
+      "searchTags": ["seated", "forward bend", "hamstring", "kidney", "mild depression", "anxiety"]
+    },
+
+    {
+      "id": "yoga_016",
+      "sanskrit": "Gomukhasana",
+      "english": "Cow Face Pose",
+      "tamil": "கோமுகாசனம்",
+      "category": "seated",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "1–2 minutes each side",
+        "repetitions": "2–3 each side",
+        "sessionTime": "6–8 minutes"
+      },
+      "instructions": [
+        "Sit with right leg crossed over left; stack right knee directly above left knee.",
+        "Feet pointed back on either side of hips; sit evenly on both sitting bones.",
+        "Raise right arm overhead, bend elbow, reach right hand down the back.",
+        "Bring left arm behind the back from below; reach left hand up.",
+        "Clasp fingers (use strap if hands don't meet).",
+        "Sit tall; breathe steadily. Hold 1–2 minutes. Release and repeat opposite side."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Deep stretch for outer hips, IT band, piriformis, triceps, chest", "Relieves shoulder impingement"],
+        "respiratory": ["Opens chest; improves shoulder mobility for better breathing mechanics"],
+        "digestive": [],
+        "endocrine": [],
+        "nervous": ["Reduces anxiety; calming posture"],
+        "cardiovascular": [],
+        "urogenital": ["Beneficial for kidney and renal function"]
+      },
+      "therapeuticUses": ["frozen shoulder", "shoulder impingement", "sciatica", "piriformis syndrome", "IT band syndrome", "chronic back pain", "kidney disorders"],
+      "contraindications": {
+        "absolute": ["acute shoulder injury", "rotator cuff tear"],
+        "relative": ["knee injury — use blanket support", "severe hip arthritis"]
+      },
+      "modifications": {
+        "elderly": "Use strap between hands; reduce hip crossing.",
+        "obese": "Sit on blanket; avoid full leg crossing if hip restriction present.",
+        "beginners": "Use strap; legs may not stack perfectly — allow difference.",
+        "pregnancy": "Arm variation only; skip leg crossing in second/third trimester."
+      },
+      "searchTags": ["seated", "hip opener", "shoulder", "IT band", "sciatica", "kidney", "frozen shoulder"]
+    },
+
+    {
+      "id": "yoga_017",
+      "sanskrit": "Navasana",
+      "english": "Boat Pose",
+      "tamil": "நாவாசனம்",
+      "category": "seated",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "15–30 seconds",
+        "repetitions": "3–5 times",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Sit in Dandasana. Bend knees, feet flat on floor.",
+        "Lean back slightly, lift feet off floor; shins parallel to floor (half boat).",
+        "Extend arms forward at shoulder height, parallel to floor.",
+        "For full boat: straighten knees, legs at 45° — forming a V shape.",
+        "Spine long, chest lifted — do not round excessively.",
+        "Engage core and hip flexors. Hold 15–30 seconds."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strengthens core (rectus abdominis, transversus abdominis), hip flexors", "Tones spinal extensors"],
+        "respiratory": [],
+        "digestive": ["Stimulates kidneys, prostate, intestines", "Aids digestion and relieves constipation"],
+        "endocrine": ["Stimulates thyroid"],
+        "nervous": ["Builds confidence; reduces anxiety"],
+        "cardiovascular": ["Stimulates heart function"],
+        "urogenital": ["Tones kidney and prostate"]
+      },
+      "therapeuticUses": ["core weakness", "low back pain prevention", "constipation", "obesity", "diabetes (core + metabolic activation)", "thyroid support"],
+      "contraindications": {
+        "absolute": ["acute diarrhoea", "herniated disc in lumbar region", "recent abdominal surgery"],
+        "relative": ["asthma — avoid breath holding", "heart conditions — avoid", "headache", "insomnia", "menstruation — avoid"]
+      },
+      "modifications": {
+        "elderly": "Half boat only (knees bent); use hands on floor for support.",
+        "obese": "Half boat; hands on floor behind hips; do not force leg straightening.",
+        "beginners": "Half boat with bent knees; work up to straight legs gradually.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["seated", "core", "abdominal", "obesity", "diabetes", "constipation", "thyroid"]
+    },
+
+    {
+      "id": "yoga_018",
+      "sanskrit": "Malasana",
+      "english": "Garland Pose / Deep Squat",
+      "tamil": "மாலாசனம்",
+      "category": "seated",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "1–3 minutes",
+        "repetitions": "2–3 times",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Stand with feet wider than hip-width, toes pointing out 45°.",
+        "Bend knees deeply into a squat; lower hips toward floor.",
+        "Bring palms together at chest; press elbows into inner thighs to open knees.",
+        "Keep spine long; heels on floor if possible (use blanket under heels if tight).",
+        "Hold 1–3 minutes, breathing steadily."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Deeply opens hip joints, groins, ankles", "Strengthens lower back", "Mobilises sacroiliac joint"],
+        "respiratory": [],
+        "digestive": ["Excellent for constipation; stimulates bowel peristalsis", "Reduces bloating and gas"],
+        "endocrine": [],
+        "nervous": ["Calming; grounds the nervous system"],
+        "cardiovascular": [],
+        "urogenital": ["Opens pelvic floor; beneficial for PCOS, menstrual health", "Supports pelvic organ prolapse prevention"]
+      },
+      "therapeuticUses": ["constipation", "PCOS", "pelvic floor disorders", "hip tightness", "low back pain", "prenatal yoga", "haemorrhoids"],
+      "contraindications": {
+        "absolute": ["acute knee injury", "recent hip replacement"],
+        "relative": ["ankle tightness — use blanket under heels", "knee arthritis — use partial squat with chair support"]
+      },
+      "modifications": {
+        "elderly": "Use chair for support; sit on edge of chair in squat-like position.",
+        "obese": "Use two blocks under sitting bones; hold chair for balance.",
+        "beginners": "Place blanket under heels; use wall for balance.",
+        "pregnancy": "Very beneficial — excellent for labour preparation; use wall support."
+      },
+      "searchTags": ["seated", "squat", "hip opener", "constipation", "pelvic floor", "PCOS", "prenatal"]
+    },
+
+    {
+      "id": "yoga_019",
+      "sanskrit": "Bhujangasana",
+      "english": "Cobra Pose",
+      "tamil": "புஜங்காசனம்",
+      "category": "prone",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "15–30 seconds",
+        "repetitions": "3–5 times",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Lie prone (face down). Feet together, toes pointing back.",
+        "Place palms flat on floor beside lower ribs; elbows close to body.",
+        "Inhale slowly; press hands gently and lift head, neck, chest off floor using back muscles primarily.",
+        "Elbows may be slightly bent or straightened based on flexibility.",
+        "Shoulders rolled back and down; pubic bone presses into floor.",
+        "Hold 15–30 seconds. Exhale and lower slowly."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strengthens entire spine, erector spinae muscles", "Relieves low back pain and kyphosis", "Stretches chest, shoulders, abdomen"],
+        "respiratory": ["Opens chest wall; excellent for asthma and bronchitis", "Improves lung volume and tidal breathing"],
+        "digestive": ["Stimulates abdominal organs; relieves constipation"],
+        "endocrine": ["Stimulates adrenal glands; mild thyroid stimulation"],
+        "nervous": ["Energising; reduces fatigue and mild depression"],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["asthma", "bronchitis", "low back pain", "kyphosis", "constipation", "fatigue", "mild depression", "scoliosis"],
+      "contraindications": {
+        "absolute": ["acute lumbar herniated disc", "recent abdominal surgery", "carpal tunnel syndrome (weight on palms)"],
+        "relative": ["pregnancy — avoid from first trimester onward", "hyperthyroidism — gentle variation only", "headache"]
+      },
+      "modifications": {
+        "elderly": "Sphinx variation (forearms on floor); minimal height.",
+        "obese": "Sphinx variation; avoid full cobra; limit to low baby cobra.",
+        "beginners": "Baby cobra (small lift); focus on spinal muscle engagement over hand push.",
+        "pregnancy": "Contraindicated; use Marjaryasana instead."
+      },
+      "searchTags": ["prone", "backbend", "asthma", "spine", "low back", "respiratory", "kyphosis", "cobra"]
+    },
+
+    {
+      "id": "yoga_020",
+      "sanskrit": "Shalabhasana",
+      "english": "Locust Pose",
+      "tamil": "சலபாசனம்",
+      "category": "prone",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "10–30 seconds",
+        "repetitions": "3–5 times",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Lie prone. Arms along body, palms facing down or up.",
+        "Forehead on floor initially. On inhale, lift head, chest, arms and both legs simultaneously.",
+        "Firm glutes; press pubic bone into mat.",
+        "Arms stretched back; gaze forward and slightly upward.",
+        "Hold 10–30 seconds. Exhale, lower everything slowly.",
+        "Progress: begin with alternate leg lifts, then full pose."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strongly strengthens the entire posterior chain: glutes, hamstrings, erector spinae", "Corrects kyphosis, reduces lumbar disc compression"],
+        "respiratory": ["Strengthens respiratory muscles; opens anterior chest"],
+        "digestive": ["Tones abdominal and digestive organs"],
+        "endocrine": ["Stimulates adrenal glands"],
+        "nervous": ["Energising; combats fatigue"],
+        "cardiovascular": [],
+        "urogenital": ["Tones pelvic floor and lower abdominal organs"]
+      },
+      "therapeuticUses": ["low back pain", "sciatica", "lumbar disc disorders (early)", "kyphosis", "flat back", "constipation", "fatigue"],
+      "contraindications": {
+        "absolute": ["acute lumbar disc herniation with radiculopathy", "recent abdominal surgery", "coronary artery disease"],
+        "relative": ["pregnancy — avoid", "hypertension — limit hold time", "peptic ulcer"]
+      },
+      "modifications": {
+        "elderly": "Alternate legs only; no full simultaneous lift.",
+        "obese": "Alternate legs; use pillow under abdomen for support.",
+        "beginners": "Alternate leg lifts first; add arm lifts; full pose over weeks.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["prone", "backbend", "low back", "sciatica", "posterior chain", "kyphosis", "core"]
+    },
+
+    {
+      "id": "yoga_021",
+      "sanskrit": "Dhanurasana",
+      "english": "Bow Pose",
+      "tamil": "தனுராசனம்",
+      "category": "prone",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "15–30 seconds",
+        "repetitions": "2–4 times",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Lie prone. Bend both knees; reach back and grasp ankles (not toes).",
+        "Inhale; simultaneously kick legs into hands while lifting chest off floor.",
+        "Body rests on abdomen; head lifted, gaze forward.",
+        "Thighs and chest should be equally lifted off floor.",
+        "Breathe steadily — the rocking motion on the abdomen massages organs.",
+        "Hold 15–30 seconds. Exhale, release ankles, lower slowly."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Full spinal extension; opens anterior body completely", "Strengthens back muscles and gluteals"],
+        "respiratory": ["Massages lungs; opens chest for asthma, bronchitis"],
+        "digestive": ["Abdominal pressure massage — stimulates liver, pancreas, intestines", "Highly effective for constipation and obesity"],
+        "endocrine": ["Stimulates pancreas — excellent for diabetes management", "Thyroid stimulation"],
+        "nervous": ["Energising; combats depression and fatigue"],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["diabetes", "constipation", "obesity", "asthma", "low back pain", "kyphosis", "fatigue", "thyroid disorders", "pancreatic disorders"],
+      "contraindications": {
+        "absolute": ["acute lumbar disc herniation", "peptic ulcer", "hernia", "recent abdominal surgery", "hypertension — significant"],
+        "relative": ["migraine", "pregnancy — avoid", "cardiac disorders — avoid"]
+      },
+      "modifications": {
+        "elderly": "Use strap around ankles; lift only one leg at a time (Ardha Dhanurasana).",
+        "obese": "Ardha Dhanurasana (half bow, one leg at a time); do not force.",
+        "beginners": "Ardha Dhanurasana first; ensure adequate shoulder and quadricep flexibility.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["prone", "backbend", "diabetes", "constipation", "obesity", "asthma", "pancreas", "thyroid"]
+    },
+
+    {
+      "id": "yoga_022",
+      "sanskrit": "Makarasana",
+      "english": "Crocodile Pose",
+      "tamil": "மகராசனம்",
+      "category": "prone",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–15 minutes",
+        "repetitions": "1–2 times",
+        "sessionTime": "5–15 minutes"
+      },
+      "instructions": [
+        "Lie prone. Place arms in front of body in a V-shape; rest forehead on crossed forearms.",
+        "OR: forehead on stacked hands. Legs apart, toes out or in (as comfortable).",
+        "Close eyes; completely relax entire body.",
+        "Observe natural breath; allow belly to expand into floor on each inhale.",
+        "The crocodile position activates the diaphragm optimally for belly breathing."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Complete decompression of spinal column", "Relieves acute and chronic low back pain naturally"],
+        "respiratory": ["Best position for diaphragmatic breathing retraining", "Reduces hyper-inflation in asthma and COPD"],
+        "digestive": [],
+        "endocrine": [],
+        "nervous": ["Deep relaxation of parasympathetic nervous system", "Reduces anxiety, hypertension via breath-body link"],
+        "cardiovascular": ["Lowers blood pressure with regular relaxed breathing"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["asthma", "COPD", "low back pain", "hypertension", "anxiety", "stress", "insomnia", "diaphragmatic breathing rehabilitation"],
+      "contraindications": {
+        "absolute": [],
+        "relative": ["pregnancy — second/third trimester avoid prone position; use left lateral", "breast tenderness — use pillow under chest"]
+      },
+      "modifications": {
+        "elderly": "Pillow under abdomen for comfort; blanket under feet.",
+        "obese": "Pillow under chest and head; legs wider.",
+        "beginners": "Ideal as a rest and breathing pose; no modification needed.",
+        "pregnancy": "First trimester only; use pillow support."
+      },
+      "searchTags": ["prone", "relaxation", "breathing", "diaphragm", "asthma", "low back", "hypertension", "COPD"]
+    },
+
+    {
+      "id": "yoga_023",
+      "sanskrit": "Balasana",
+      "english": "Child's Pose",
+      "tamil": "பாலாசனம்",
+      "category": "prone",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "1–5 minutes",
+        "repetitions": "As needed",
+        "sessionTime": "2–5 minutes (rest pose)"
+      },
+      "instructions": [
+        "Begin on hands and knees. Bring big toes together; knees apart or together.",
+        "Sit hips back toward heels (as far as comfortable).",
+        "Extend arms forward on mat OR arms alongside body, palms up.",
+        "Forehead rests on mat. Completely surrender and relax.",
+        "Breathe into the back of the body — feel the lower back expand."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Gently stretches low back, sacrum, hips, thighs", "Decompresses lumbar spine"],
+        "respiratory": ["Posterior lung breathing; excellent for COPD and anxiety"],
+        "digestive": ["Mild abdominal massage"],
+        "endocrine": [],
+        "nervous": ["Deep calming of the nervous system; reduces anxiety attacks", "Safe rest pose for beginners and elderly"],
+        "cardiovascular": ["Reduces blood pressure"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["low back pain", "hip tightness", "anxiety", "panic disorder", "stress", "insomnia", "fatigue"],
+      "contraindications": {
+        "absolute": ["knee injuries — severe"],
+        "relative": ["pregnancy — use wide-knee variation with bolster", "diarrhoea — compresses abdomen"]
+      },
+      "modifications": {
+        "elderly": "Wide knee variation; use folded blanket under hips.",
+        "obese": "Wide knee variation; bolster between thighs and chest.",
+        "beginners": "Ideal rest pose; no concern about depth.",
+        "pregnancy": "Wide-knee variation with bolster under chest — safe and comfortable."
+      },
+      "searchTags": ["prone", "beginner", "rest", "low back", "anxiety", "stress", "hip opener", "COPD"]
+    },
+
+    {
+      "id": "yoga_024",
+      "sanskrit": "Marjaryasana-Bitilasana",
+      "english": "Cat-Cow Pose",
+      "tamil": "பூனை-பசு ஆசனம்",
+      "category": "prone",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "Flow 10–20 cycles",
+        "repetitions": "2–3 sets of 10 cycles",
+        "sessionTime": "3–5 minutes"
+      },
+      "instructions": [
+        "Begin on hands and knees (tabletop position); wrists under shoulders, knees under hips.",
+        "COW (Bitilasana): Inhale, drop belly toward floor, lift chest and tailbone — gentle backbend. Gaze forward.",
+        "CAT (Marjaryasana): Exhale, round the spine toward ceiling, drop head, tuck tailbone — C-curve.",
+        "Flow between these two positions with each breath — 10–20 cycles.",
+        "Keep movement initiated from the tailbone and rippling up through the spine."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Mobilises entire spinal column — all segments including cervical", "Relieves back and neck stiffness", "Warms up the spine for more intensive practice"],
+        "respiratory": ["Coordinates breath with movement — retrains respiratory awareness"],
+        "digestive": ["Massages digestive organs rhythmically"],
+        "endocrine": [],
+        "nervous": ["Calming and grounding; synchronises nervous system"],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["low back pain", "cervical spondylosis (gentle)", "spinal stiffness", "sciatica (early)", "prenatal yoga", "fibromyalgia"],
+      "contraindications": {
+        "absolute": [],
+        "relative": ["acute wrist injury — use fists or forearms", "severe cervical disc herniation — minimal neck movement"]
+      },
+      "modifications": {
+        "elderly": "Seated on chair — alternate rounding and arching back.",
+        "obese": "Standard position; wrist blocks if wrist discomfort.",
+        "beginners": "Ideal warm-up pose; emphasise breath coordination.",
+        "pregnancy": "Excellent — safe throughout pregnancy; reduces back pain."
+      },
+      "searchTags": ["prone", "beginner", "spine", "warm-up", "cat cow", "cervical", "low back", "prenatal"]
+    },
+
+    {
+      "id": "yoga_025",
+      "sanskrit": "Adho Mukha Svanasana",
+      "english": "Downward Facing Dog",
+      "tamil": "அதோ முக சுவானாசனம்",
+      "category": "prone",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "30–90 seconds",
+        "repetitions": "3–5 times",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Begin in tabletop. Tuck toes; press into palms — spread fingers wide.",
+        "Exhale, lift knees off floor; push hips up and back, forming an inverted V.",
+        "Straighten legs (or keep slight bend in knees); press heels toward floor.",
+        "Head between arms, ears aligned with upper arms; gaze toward navel.",
+        "Arms strong, shoulders externally rotated — do not let arms cave inward.",
+        "Hold 30–90 seconds with steady breathing."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Stretches hamstrings, calves, shoulders, arches of feet", "Strengthens arms, shoulders, core", "Decompresses intervertebral discs"],
+        "respiratory": ["Mild inversion — calms respiration"],
+        "digestive": ["Stimulates digestive organs"],
+        "endocrine": [],
+        "nervous": ["Energising yet calming; reduces fatigue and mild depression"],
+        "cardiovascular": ["Mild inversion benefits — calms heart rate"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["low back pain", "hamstring tightness", "shoulder stiffness", "fatigue", "mild depression", "headache", "sciatica", "menopause symptoms"],
+      "contraindications": {
+        "absolute": ["carpal tunnel syndrome — severe", "uncontrolled hypertension"],
+        "relative": ["late pregnancy — use wall variation", "wrist injury — use dolphin variation (forearms)", "retinal detachment"]
+      },
+      "modifications": {
+        "elderly": "Hands on chair seat instead of floor; 45° angle.",
+        "obese": "Use chair; feet wider; do not force heel-to-floor.",
+        "beginners": "Bend knees generously; focus on spinal length over leg straightening.",
+        "pregnancy": "Dolphin variation (forearms) or hands-on-wall version."
+      },
+      "searchTags": ["prone", "beginner", "hamstring", "shoulder", "low back", "fatigue", "depression", "decompression"]
+    },
+
+    {
+      "id": "yoga_026",
+      "sanskrit": "Savasana",
+      "english": "Corpse Pose",
+      "tamil": "சவாசனம்",
+      "category": "supine",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–20 minutes",
+        "repetitions": "Once at end of session",
+        "sessionTime": "5–20 minutes"
+      },
+      "instructions": [
+        "Lie on back. Legs slightly apart, feet falling out naturally.",
+        "Arms slightly away from body, palms facing up.",
+        "Close eyes. Allow the entire body weight to surrender into the floor.",
+        "Systematically relax from feet upward: toes, feet, calves, knees, thighs, hips, abdomen, chest, hands, arms, shoulders, neck, face, scalp.",
+        "Observe breath passively. Remain still for 5–20 minutes.",
+        "To exit: gently wiggle fingers and toes; roll to right side; sit up slowly."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Complete neuromuscular relaxation", "Releases chronic muscle tension"],
+        "respiratory": ["Deepens diaphragmatic breathing", "Reduces respiratory rate"],
+        "digestive": ["Stimulates parasympathetic 'rest and digest' function"],
+        "endocrine": ["Lowers cortisol and adrenaline", "Balances ANS"],
+        "nervous": ["Most profound relaxation pose — directly activates PNS", "Reduces anxiety, PTSD symptoms, chronic pain"],
+        "cardiovascular": ["Reduces heart rate and blood pressure", "Essential in hypertension management"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["hypertension", "anxiety", "insomnia", "chronic fatigue", "fibromyalgia", "post-surgery recovery", "PTSD", "burnout", "all conditions as cool-down"],
+      "contraindications": {
+        "absolute": [],
+        "relative": ["severe depression with withdrawal tendencies — use brief Savasana only", "late pregnancy — use left lateral position instead"]
+      },
+      "modifications": {
+        "elderly": "Pillow under head and knees for comfort.",
+        "obese": "Pillow under knees; arms slightly elevated on blanket.",
+        "beginners": "Eye pillow helps reduce distraction.",
+        "pregnancy": "Left lateral Savasana (use bolster between knees) from second trimester."
+      },
+      "searchTags": ["supine", "relaxation", "beginner", "hypertension", "anxiety", "insomnia", "PNS", "cortisol", "burnout"]
+    },
+
+    {
+      "id": "yoga_027",
+      "sanskrit": "Pawanmuktasana",
+      "english": "Wind-Relieving Pose",
+      "tamil": "பவன முக்தாசனம்",
+      "category": "supine",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "30–60 seconds each variation",
+        "repetitions": "3–5 times",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Lie on back. Inhale; on exhale, bring right knee to chest and clasp with both hands.",
+        "Gently press knee toward right shoulder; extend left leg flat on floor.",
+        "Hold 30–60 seconds. Release and repeat with left knee.",
+        "Both knees variation: bring both knees to chest simultaneously; clasp both knees.",
+        "Optionally rock gently side to side for spinal massage.",
+        "Advanced: lift head and touch chin or forehead to knee(s)."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Stretches lower back, sacrum, hip flexors", "Releases sacroiliac joint compression"],
+        "respiratory": [],
+        "digestive": ["Highly effective for gas, bloating, flatulence", "Stimulates large intestine — excellent for constipation"],
+        "endocrine": [],
+        "nervous": ["Gently calming"],
+        "cardiovascular": [],
+        "urogenital": ["Massages reproductive organs"]
+      },
+      "therapeuticUses": ["constipation", "flatulence", "gas", "IBS", "low back pain", "sacroiliac pain", "abdominal bloating"],
+      "contraindications": {
+        "absolute": ["recent abdominal surgery", "acute hernia", "acute low back disc herniation"],
+        "relative": ["menstruation — gentle variation only", "pregnancy — single leg variation only in first trimester"]
+      },
+      "modifications": {
+        "elderly": "Single leg; gentle pressure; pillow under head.",
+        "obese": "Single leg variation; use belt if arms can't reach around knee.",
+        "beginners": "Single leg; no head lift initially.",
+        "pregnancy": "Single leg only; extremely gentle in first trimester only."
+      },
+      "searchTags": ["supine", "beginner", "constipation", "gas", "bloating", "IBS", "low back", "flatulence"]
+    },
+
+    {
+      "id": "yoga_028",
+      "sanskrit": "Setu Bandhasana",
+      "english": "Bridge Pose",
+      "tamil": "சேது பந்தாசனம்",
+      "category": "supine",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "30–60 seconds",
+        "repetitions": "3–5 times",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Lie on back. Bend knees, feet flat on floor hip-width apart, close to hips.",
+        "Arms alongside body, palms flat on floor.",
+        "Inhale; press feet into floor and lift hips toward ceiling.",
+        "Roll shoulders under; clasp hands under back for a stronger lift.",
+        "Keep thighs parallel; knees over ankles — do not let them splay outward.",
+        "Hold 30–60 seconds. Exhale, unroll spine back to floor vertebra by vertebra."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strengthens glutes, hamstrings, erector spinae", "Opens hip flexors and chest", "Relieves low back pain"],
+        "respiratory": ["Opens chest; improves lung capacity"],
+        "digestive": ["Mild stimulation of abdominal organs"],
+        "endocrine": ["Stimulates thyroid (neck extension)", "Mild stimulation of pituitary"],
+        "nervous": ["Calming; reduces anxiety and mild depression"],
+        "cardiovascular": ["Mild inversion benefit"],
+        "urogenital": ["Strengthens pelvic floor; beneficial in urinary incontinence"]
+      },
+      "therapeuticUses": ["low back pain", "thyroid disorders", "anxiety", "insomnia", "urinary incontinence", "osteoporosis (hip strengthening)", "mild depression"],
+      "contraindications": {
+        "absolute": ["acute neck injury", "severe cervical spondylosis"],
+        "relative": ["knee pain — keep knees aligned", "shoulder injury — use hands flat instead of clasped"]
+      },
+      "modifications": {
+        "elderly": "Use block under sacrum for supported bridge; less effort.",
+        "obese": "Supported bridge with block under sacrum; feet wider.",
+        "beginners": "Supported bridge with block is excellent introduction.",
+        "pregnancy": "Supported bridge with block; after second trimester avoid flat back if dizzy."
+      },
+      "searchTags": ["supine", "beginner", "low back", "thyroid", "anxiety", "pelvic floor", "glutes", "insomnia"]
+    },
+
+    {
+      "id": "yoga_029",
+      "sanskrit": "Halasana",
+      "english": "Plow Pose",
+      "tamil": "ஹலாசனம்",
+      "category": "supine",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "1–5 minutes",
+        "repetitions": "1–2 times",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Lie on back. Lift legs to 90°. Support back with palms.",
+        "Exhale, swing legs overhead until toes touch the floor behind the head (or hover if tight).",
+        "Arms can stay supporting back or extend along floor.",
+        "Keep neck relaxed — do not turn head; weight on shoulders, not neck.",
+        "Hold 1–5 minutes. To exit: slowly roll down, vertebra by vertebra."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Intense posterior chain stretch — entire spine, hamstrings", "Decompresses lumbar vertebrae"],
+        "respiratory": ["Stimulates thyroid and parathyroid glands"],
+        "digestive": ["Strong stimulation of abdominal organs, liver, spleen", "Highly effective for constipation"],
+        "endocrine": ["Strong thyroid and parathyroid stimulation"],
+        "nervous": ["Deeply calming; reduces chronic fatigue"],
+        "cardiovascular": ["Semi-inversion; beneficial for venous return"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["thyroid disorders", "constipation", "low back pain", "menopause", "chronic fatigue", "insomnia", "diabetes"],
+      "contraindications": {
+        "absolute": ["cervical spondylosis — significant", "hypertension", "glaucoma", "retinal detachment", "during menstruation", "slipped disc in cervical region"],
+        "relative": ["asthma — chest compression limits breathing", "obesity — increased cervical pressure"]
+      },
+      "modifications": {
+        "elderly": "Supported Halasana — toes on chair behind head; reduced spinal load.",
+        "obese": "Not recommended; use Viparita Karani instead.",
+        "beginners": "Let toes rest on chair or block; keep support of hands on back.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["supine", "intermediate", "inversion", "thyroid", "constipation", "spine", "menopause", "insomnia"]
+    },
+
+    {
+      "id": "yoga_030",
+      "sanskrit": "Sarvangasana",
+      "english": "Shoulder Stand",
+      "tamil": "சர்வாங்காசனம்",
+      "category": "supine",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "2–10 minutes",
+        "repetitions": "1 time",
+        "sessionTime": "5–10 minutes"
+      },
+      "instructions": [
+        "Lie on back. Bring legs to 90°, then lift hips off floor with hand support on lower back.",
+        "Continue lifting until body is vertical, resting on upper shoulders and back of neck.",
+        "Hands support mid-back; elbows on floor, close together.",
+        "Gaze at chest; do not turn the head.",
+        "Keep neck in natural position — do not press neck into floor.",
+        "Hold for 2–10 minutes with diaphragmatic breathing.",
+        "Lower slowly: bend knees, unroll spine to floor."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Tones the entire body — the 'mother of all asanas'"],
+        "respiratory": ["Improves venous drainage of head and thorax"],
+        "digestive": ["Reverses abdominal organ position — relieves constipation, prolapsed conditions"],
+        "endocrine": ["Very strong thyroid and parathyroid stimulation — key for hypothyroidism"],
+        "nervous": ["Deeply calming; major effect on parasympathetic dominance"],
+        "cardiovascular": ["Reduces heart rate; improves cardiac efficiency; beneficial in mild heart conditions"],
+        "urogenital": ["Reverses pelvic organ prolapse tendencies; benefits uterine and ovarian health"]
+      },
+      "therapeuticUses": ["hypothyroidism", "varicose veins", "constipation", "insomnia", "anxiety", "menopausal symptoms", "prolapse prevention", "hypertension (NOT suitable — see contraindications)", "chronic fatigue"],
+      "contraindications": {
+        "absolute": ["hypertension — ABSOLUTE CONTRAINDICATION", "glaucoma", "retinal detachment", "cervical spondylosis — ABSOLUTE CONTRAINDICATION", "acute thyroid disorders", "menstruation", "ear infection", "after recent eye surgery", "obesity — significant cervical pressure risk"],
+        "relative": ["asthma — limit time", "heart disease — medical clearance required", "headache — avoid"]
+      },
+      "modifications": {
+        "elderly": "Supported Sarvangasana against wall; use folded blankets under shoulders.",
+        "obese": "Not recommended; use Viparita Karani instead.",
+        "beginners": "Blankets stacked under shoulders to protect cervical spine; use wall initially.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["supine", "inversion", "thyroid", "hypothyroidism", "varicose veins", "constipation", "insomnia", "anxiety", "menopause"]
+    },
+
+    {
+      "id": "yoga_031",
+      "sanskrit": "Viparita Karani",
+      "english": "Legs Up the Wall Pose",
+      "tamil": "விபரீத கரணி",
+      "category": "supine",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–20 minutes",
+        "repetitions": "Once",
+        "sessionTime": "5–20 minutes"
+      },
+      "instructions": [
+        "Sit sideways against a wall. As you lie back, swing legs up the wall.",
+        "Hips close to or touching wall; legs straight up (or slightly bent).",
+        "Arms out to sides, palms up. Close eyes and breathe naturally.",
+        "A folded blanket under hips creates a more restorative inverted angle.",
+        "Hold 5–20 minutes. To exit: bend knees, push off wall, roll to side."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Relieves tired and swollen legs", "Gentle hamstring stretch"],
+        "respiratory": ["Calms the nervous system and respiratory rate"],
+        "digestive": [],
+        "endocrine": ["Mild thyroid and endocrine stimulation"],
+        "nervous": ["Deep relaxation and anxiety relief", "Beneficial for insomnia, burnout"],
+        "cardiovascular": ["Drains venous pooling from lower limbs — excellent for varicose veins, oedema", "Reduces blood pressure"],
+        "urogenital": ["Beneficial for menstrual disorders, PCOS when combined with breathing"]
+      },
+      "therapeuticUses": ["varicose veins", "leg oedema", "insomnia", "anxiety", "hypertension", "burnout", "menopause", "menstrual disorders", "chronic fatigue"],
+      "contraindications": {
+        "absolute": ["serious venous blood clot (DVT) — risk of dislodgement", "glaucoma"],
+        "relative": ["menstruation — avoid for heavy flow (some traditions)", "hypertension — may use without bolster under hips"]
+      },
+      "modifications": {
+        "elderly": "Excellent for elderly; blanket under hips optional; fully supported.",
+        "obese": "Safe and beneficial; blanket under hips helps.",
+        "beginners": "Easiest restorative pose — highly recommended.",
+        "pregnancy": "Not recommended from second trimester onward; use left lateral."
+      },
+      "searchTags": ["supine", "beginner", "restorative", "varicose veins", "oedema", "insomnia", "anxiety", "hypertension", "menopause"]
+    },
+
+    {
+      "id": "yoga_032",
+      "sanskrit": "Supta Matsyendrasana",
+      "english": "Supine Spinal Twist",
+      "tamil": "சுப்த மத்ஸ்யேந்திராசனம்",
+      "category": "supine",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "1–3 minutes each side",
+        "repetitions": "2–3 each side",
+        "sessionTime": "6–10 minutes"
+      },
+      "instructions": [
+        "Lie on back. Bring right knee to chest; extend left leg flat.",
+        "On exhale, drop right knee across body to left side; left hand guides knee down gently.",
+        "Extend right arm to the right at shoulder height; gaze toward right hand.",
+        "Keep right shoulder grounded; let gravity do the work.",
+        "Hold 1–3 minutes. Inhale to return to centre. Repeat on left side."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Releases paraspinal muscles; mobilises thoracic and lumbar spine", "Stretches IT band, piriformis, outer hip"],
+        "respiratory": ["Alternating chest compression retrains thoracic breathing"],
+        "digestive": ["Stimulates peristalsis; relieves constipation and IBS"],
+        "endocrine": ["Massages adrenal glands"],
+        "nervous": ["Deeply calming; reduces sympathetic nervous activity"],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["low back pain", "sciatica", "IBS", "constipation", "spinal stiffness", "insomnia", "fibromyalgia"],
+      "contraindications": {
+        "absolute": ["recent hip replacement", "acute disc herniation causing radiculopathy"],
+        "relative": ["pregnancy — avoid from second trimester"]
+      },
+      "modifications": {
+        "elderly": "Place pillow under dropped knee for support.",
+        "obese": "Block or pillow under rotated knee.",
+        "beginners": "Ideal restorative twist; no complex modifications needed.",
+        "pregnancy": "Not safe from second trimester onward."
+      },
+      "searchTags": ["supine", "twist", "beginner", "low back", "sciatica", "IBS", "insomnia", "piriformis"]
+    },
+
+    {
+      "id": "yoga_033",
+      "sanskrit": "Matsyasana",
+      "english": "Fish Pose",
+      "tamil": "மத்ஸ்யாசனம்",
+      "category": "supine",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "30–60 seconds",
+        "repetitions": "2–3 times",
+        "sessionTime": "4–6 minutes"
+      },
+      "instructions": [
+        "Lie on back, legs extended. Slide hands under hips, palms facing down.",
+        "Inhale; press elbows into floor and lift chest high, arching the back.",
+        "Tilt head back and gently rest crown of head on floor.",
+        "Chest, not head, carries the weight. Keep legs active.",
+        "Breathe deeply into the chest — the pose should expand breathing capacity.",
+        "Hold 30–60 seconds. Press elbows, lift head, lower back to floor."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Stretches entire anterior body — neck, throat, chest, abdomen", "Counterpose to shoulder stand (Sarvangasana)"],
+        "respiratory": ["Maximally opens chest and intercostals — excellent for asthma", "Stretches trachea and throat"],
+        "digestive": ["Stimulates thyroid; stretches abdominal organs"],
+        "endocrine": ["Strong thyroid stimulation — one of best poses for hypothyroidism", "Stimulates parathyroid"],
+        "nervous": ["Stimulating and energising"],
+        "cardiovascular": ["Opens anterior chest wall; good for mild cardiac conditions"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["asthma", "bronchitis", "hypothyroidism", "constipation", "mild depression", "backache", "fatigue"],
+      "contraindications": {
+        "absolute": ["cervical spondylosis — SIGNIFICANT CONTRAINDICATION", "neck injury", "migraine", "high blood pressure", "insomnia — energising"],
+        "relative": ["peptic ulcer", "hyperthyroidism"]
+      },
+      "modifications": {
+        "elderly": "Supported fish — use bolster under thoracic spine; no deep neck extension.",
+        "obese": "Supported fish with bolster; head on small pillow.",
+        "beginners": "Keep head gently on floor; do not force deep neck extension.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["supine", "backbend", "asthma", "thyroid", "chest opener", "depression", "bronchitis"]
+    },
+
+    {
+      "id": "yoga_034",
+      "sanskrit": "Sirsasana",
+      "english": "Headstand",
+      "tamil": "சீர்ஷாசனம்",
+      "category": "inverted",
+      "difficulty": "advanced",
+      "duration": {
+        "hold": "2–10 minutes",
+        "repetitions": "Once",
+        "sessionTime": "5–10 minutes (with preparation)"
+      },
+      "instructions": [
+        "Kneel; interlace fingers on mat; place crown of head on floor between palms.",
+        "Forearms on floor form a stable tripod.",
+        "Tuck toes; lift hips and walk feet toward head until hips stack over shoulders.",
+        "Engage core; slowly lift both legs toward ceiling — straight and together.",
+        "Hold with steady breath; gaze at fixed point; full body engaged.",
+        "Lower slowly; rest in Balasana for the same duration as the headstand."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strengthens shoulders, arms, core", "Improves spinal alignment"],
+        "respiratory": ["Reversal of lung circulation — improves respiratory function"],
+        "digestive": ["Reverses gravitational pull on intestines — relieves constipation, prolapse"],
+        "endocrine": ["Maximum pituitary and pineal gland stimulation", "Regulates hormonal system"],
+        "nervous": ["Improves focus and cognitive clarity", "Reduces anxiety and depression"],
+        "cardiovascular": ["Reduces cardiac workload — reduces BP in legs", "Improves cerebral circulation"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["diabetes", "asthma", "constipation", "infertility (with caution)", "anxiety", "cognitive decline prevention", "menopause"],
+      "contraindications": {
+        "absolute": ["hypertension", "glaucoma", "retinal problems", "cervical spondylosis", "ear/neck infections", "headache at time of practice", "heart disease", "osteoporosis of cervical spine", "menstruation", "obesity"],
+        "relative": ["beginners — must be under guidance", "pregnancy — avoid"]
+      },
+      "modifications": {
+        "elderly": "Contraindicated for elderly without prior experience; use Viparita Karani.",
+        "obese": "Contraindicated; use Viparita Karani.",
+        "beginners": "Only under direct supervision; use wall; master Dolphin pose first.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["inverted", "advanced", "headstand", "pituitary", "hormones", "cognitive", "constipation", "anxiety"]
+    },
+
+    {
+      "id": "yoga_035",
+      "sanskrit": "Ustrasana",
+      "english": "Camel Pose",
+      "tamil": "உஷ்ட்ராசனம்",
+      "category": "inverted",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "20–40 seconds",
+        "repetitions": "2–3 times",
+        "sessionTime": "4–6 minutes"
+      },
+      "instructions": [
+        "Kneel hip-width apart; knees and feet hip-width apart, tops of feet flat on floor.",
+        "Place hands on lower back, fingers pointing down; elbows drawing together.",
+        "Inhale, lift chest high; begin to arch back.",
+        "Reach hands to heels one at a time (tuck toes for easier access).",
+        "Push hips forward; lift chest toward ceiling; head drops back if no neck issues.",
+        "Hold 20–40 seconds. To exit: hands to lower back, engage core, rise chin last."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Deep spinal extension; stretches entire anterior body", "Opens hip flexors significantly"],
+        "respiratory": ["Major chest opener — excellent for asthma, bronchitis, kyphosis"],
+        "digestive": ["Stimulates abdominal organs; aids constipation"],
+        "endocrine": ["Thyroid stimulation"],
+        "nervous": ["Energising; combats depression"],
+        "cardiovascular": ["Opens cardiac region"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["asthma", "bronchitis", "kyphosis", "hip flexor tightness", "mild depression", "fatigue", "spinal stiffness", "thyroid"],
+      "contraindications": {
+        "absolute": ["severe low back pain", "neck injury", "recent abdominal surgery"],
+        "relative": ["hypertension", "migraine", "insomnia — energising, avoid at night"]
+      },
+      "modifications": {
+        "elderly": "Hands on lower back only; no reaching to heels.",
+        "obese": "Hands on lower back; no heel reach; minimal arch.",
+        "beginners": "Tuck toes to raise heel height; use blocks beside feet.",
+        "pregnancy": "Not recommended from first trimester."
+      },
+      "searchTags": ["kneeling", "backbend", "asthma", "kyphosis", "chest opener", "thyroid", "depression", "hip flexor"]
+    },
+
+    {
+      "id": "yoga_036",
+      "sanskrit": "Chakrasana",
+      "english": "Wheel Pose / Upward Bow",
+      "tamil": "சக்ராசனம்",
+      "category": "core",
+      "difficulty": "advanced",
+      "duration": {
+        "hold": "10–30 seconds",
+        "repetitions": "2–3 times",
+        "sessionTime": "4–6 minutes"
+      },
+      "instructions": [
+        "Lie on back. Bend knees, feet flat, hip-width. Bend elbows, place palms beside ears.",
+        "Inhale; press into hands and feet; lift hips, trunk, and shoulders off floor.",
+        "Straighten arms; roll onto crown of head briefly; then fully extend arms.",
+        "Hold with strong arms, legs, and engaged core.",
+        "Hold 10–30 seconds. Lower slowly to head, then back to floor."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Intense full spinal extension", "Strengthens wrists, arms, shoulders, core, thighs, glutes"],
+        "respiratory": ["Maximally opens thorax and chest"],
+        "digestive": ["Stimulates abdominal organs"],
+        "endocrine": ["Stimulates thyroid, adrenal glands"],
+        "nervous": ["Highly energising and mood elevating"],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["kyphosis", "spinal stiffness", "mild depression", "asthma", "fatigue", "thyroid"],
+      "contraindications": {
+        "absolute": ["cardiac disease", "hypertension", "any spine pathology", "wrist injury", "pregnancy", "carpal tunnel"],
+        "relative": ["headache", "diarrhoea"]
+      },
+      "modifications": {
+        "elderly": "Not appropriate; use supported bridge instead.",
+        "obese": "Not recommended.",
+        "beginners": "Master bridge and camel first; never attempt without guidance.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["backbend", "advanced", "spinal extension", "depression", "kyphosis", "thyroid", "wheel"]
+    },
+
+    {
+      "id": "yoga_037",
+      "sanskrit": "Phalakasana",
+      "english": "Plank Pose",
+      "tamil": "பலகாசனம்",
+      "category": "core",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "15–60 seconds",
+        "repetitions": "3–5 times",
+        "sessionTime": "4–6 minutes"
+      },
+      "instructions": [
+        "From tabletop, step feet back until body is in one straight line.",
+        "Arms straight, wrists under shoulders; spread fingers wide.",
+        "Engage core, thighs, glutes; body straight from head to heels.",
+        "Do not let hips sag or pike up.",
+        "Breathe steadily. Hold 15–60 seconds."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Core (deep and superficial), arms, shoulders, chest, legs all strengthened simultaneously"],
+        "respiratory": [],
+        "digestive": ["Tones abdominal organs"],
+        "endocrine": [],
+        "nervous": ["Builds mental focus and endurance"],
+        "cardiovascular": ["Mild cardiovascular conditioning"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["core weakness", "low back pain prevention", "obesity", "diabetes", "osteoporosis prevention", "postural correction"],
+      "contraindications": {
+        "absolute": ["acute wrist injury", "shoulder injury", "carpal tunnel — use forearm plank"],
+        "relative": ["hypertension — avoid breath holding"]
+      },
+      "modifications": {
+        "elderly": "Knee plank (modify on knees); build toward full plank.",
+        "obese": "Knee plank initially; forearm plank reduces wrist stress.",
+        "beginners": "Knee plank; forearm plank.",
+        "pregnancy": "Not recommended after first trimester."
+      },
+      "searchTags": ["core", "beginner", "strength", "low back prevention", "obesity", "diabetes", "postural"]
+    },
+
+    {
+      "id": "yoga_038",
+      "sanskrit": "Dandasana",
+      "english": "Staff Pose",
+      "tamil": "டண்டாசனம்",
+      "category": "additional",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "1–2 minutes",
+        "repetitions": "2–3 times",
+        "sessionTime": "3–5 minutes"
+      },
+      "instructions": [
+        "Sit on mat with legs fully extended together in front.",
+        "Sit on sitting bones; flex feet (toes pointing to ceiling).",
+        "Palms flat on floor beside hips; fingertips pointing forward.",
+        "Sit upright; elongate spine; do not lean back.",
+        "Engage quadriceps; press thighs into floor.",
+        "Breathe normally and hold 1–2 minutes."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Foundation pose — teaches correct sitting alignment", "Stretches hamstrings gently", "Strengthens back muscles"],
+        "respiratory": ["Encourages upright breathing"],
+        "digestive": [],
+        "endocrine": [],
+        "nervous": ["Calming; improves body awareness"],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["postural correction", "back weakness", "hamstring tightness", "beginner yoga foundation"],
+      "contraindications": {
+        "absolute": [],
+        "relative": ["tight hamstrings — sit on blanket to tilt pelvis forward", "wrist pain — use fists"]
+      },
+      "modifications": {
+        "elderly": "Sit on blanket; use wall for back support.",
+        "obese": "Sit on firm blanket; slight bend in knees acceptable.",
+        "beginners": "Blanket under hips; wall support.",
+        "pregnancy": "Safe; use blanket under hips."
+      },
+      "searchTags": ["seated", "beginner", "foundational", "posture", "hamstring", "back strength"]
+    },
+
+    {
+      "id": "yoga_039",
+      "sanskrit": "Virasana",
+      "english": "Hero Pose",
+      "tamil": "வீராசனம்",
+      "category": "additional",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "2–5 minutes",
+        "repetitions": "1–2 times",
+        "sessionTime": "5–10 minutes"
+      },
+      "instructions": [
+        "Kneel, knees together. Widen feet slightly beyond hip-width.",
+        "Slowly lower hips to sit between (not on) the feet.",
+        "Hands on thighs or in mudra. Spine upright.",
+        "If hips don't reach floor, sit on a block between feet.",
+        "Hold 2–5 minutes; alternate with Vajrasana."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Deep quadriceps and ankle stretch", "Improves knee joint mobility", "Relieves flat feet"],
+        "respiratory": [],
+        "digestive": ["Digestion benefits similar to Vajrasana"],
+        "endocrine": [],
+        "nervous": ["Calming meditative posture"],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["flat feet", "knee arthritis (mild)", "quadricep tightness", "indigestion", "meditation"],
+      "contraindications": {
+        "absolute": ["knee injury or surgery", "ankle injury"],
+        "relative": ["heart conditions — brief duration only"]
+      },
+      "modifications": {
+        "elderly": "Block between feet for hip support; padded surface under knees.",
+        "obese": "Block under hips mandatory; padded mat.",
+        "beginners": "Block between feet; blanket under ankles.",
+        "pregnancy": "Use block; safe in first trimester."
+      },
+      "searchTags": ["kneeling", "intermediate", "quadriceps", "flat feet", "knee", "digestion", "meditation"]
+    },
+
+    {
+      "id": "yoga_040",
+      "sanskrit": "Upavistha Konasana",
+      "english": "Wide-Angle Seated Forward Bend",
+      "tamil": "உபவிஷ்ட கோணாசனம்",
+      "category": "additional",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "1–3 minutes",
+        "repetitions": "2–3 times",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Sit in Dandasana. Open legs wide apart — as wide as comfortable without strain.",
+        "Flex feet; engage thighs; knee caps facing ceiling.",
+        "Inhale, lengthen spine. Exhale, hinge from hips and walk hands forward.",
+        "Aim chin, then chest toward floor — do not round the lower back.",
+        "Hold 1–3 minutes with steady breath."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Intense inner thigh and hamstring stretch", "Stretches adductors and hip abductors"],
+        "respiratory": [],
+        "digestive": ["Stimulates kidney function; beneficial in kidney disorders"],
+        "endocrine": [],
+        "nervous": ["Calming and cooling"],
+        "cardiovascular": [],
+        "urogenital": ["Stimulates ovaries and uterus", "Beneficial for menstrual disorders, PCOS"]
+      },
+      "therapeuticUses": ["menstrual disorders", "PCOS", "groin tightness", "sciatica", "kidney health", "urinary disorders"],
+      "contraindications": {
+        "absolute": ["groin injury", "hamstring tear"],
+        "relative": ["low back injury — minimal forward fold", "pregnancy — use bolster between legs and torso"]
+      },
+      "modifications": {
+        "elderly": "Sit on blanket; walk hands only slightly forward.",
+        "obese": "Sit on blanket; reduce leg opening angle.",
+        "beginners": "No deep fold — work on leg opening width first.",
+        "pregnancy": "Wide leg variation with bolster under chest."
+      },
+      "searchTags": ["seated", "intermediate", "groin", "PCOS", "menstrual", "kidney", "sciatica", "inner thigh"]
+    },
+
+    {
+      "id": "yoga_041",
+      "sanskrit": "Supta Baddha Konasana",
+      "english": "Reclined Butterfly / Reclined Bound Angle",
+      "tamil": "சுப்த பத்த கோணாசனம்",
+      "category": "additional",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "3–10 minutes",
+        "repetitions": "Once",
+        "sessionTime": "5–10 minutes"
+      },
+      "instructions": [
+        "Lie on back. Bring soles of feet together; let knees fall open to sides.",
+        "Arms out to sides, palms up. Close eyes.",
+        "Use bolsters, blankets, or blocks under knees for support.",
+        "Allow hips and inner thighs to release passively.",
+        "Breathe deeply; 3–10 minutes."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Passive deep groin and hip opening", "Decompresses sacroiliac joint"],
+        "respiratory": ["Opens chest in reclined position — very calming breath"],
+        "digestive": [],
+        "endocrine": ["Stimulates reproductive organs"],
+        "nervous": ["Deeply restorative; reduces anxiety, fatigue", "Excellent for hormonal balance via PNS activation"],
+        "cardiovascular": ["Reduces blood pressure"],
+        "urogenital": ["Highly therapeutic for menstrual pain, PCOS, endometriosis", "Benefits prostate"]
+      },
+      "therapeuticUses": ["PCOS", "dysmenorrhoea", "endometriosis", "menopause", "prostate health", "anxiety", "insomnia", "stress", "prenatal yoga"],
+      "contraindications": {
+        "absolute": ["acute groin injury"],
+        "relative": ["knee injury — use higher blanket supports under knees"]
+      },
+      "modifications": {
+        "elderly": "Generous blanket support under both knees.",
+        "obese": "Blocks or rolled blankets under each knee.",
+        "beginners": "Use blocks or blankets — do not force knees toward floor.",
+        "pregnancy": "Excellent — use bolster under back and blankets under knees."
+      },
+      "searchTags": ["supine", "beginner", "restorative", "PCOS", "menstrual", "anxiety", "insomnia", "prenatal", "prostate"]
+    },
+
+    {
+      "id": "yoga_042",
+      "sanskrit": "Garudasana",
+      "english": "Eagle Pose",
+      "tamil": "கருடாசனம்",
+      "category": "additional",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "30–60 seconds each side",
+        "repetitions": "2–3 each side",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Stand in Tadasana. Bend knees slightly; lift right foot and cross right thigh over left.",
+        "Hook right foot behind left calf if possible, or rest right foot beside left ankle.",
+        "Cross right arm under left at elbow level; wrap forearms; press palms together.",
+        "Squeeze elbows and knees toward midline; lift elbows to shoulder height.",
+        "Gaze at a fixed point; hold 30–60 seconds. Unwind and repeat other side."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strengthens and stretches ankles, calves, hips, thighs", "Opens upper back and scapular region", "Improves balance and proprioception"],
+        "respiratory": ["Opens rhomboid region between scapulae — helpful for kyphosis"],
+        "digestive": [],
+        "endocrine": [],
+        "nervous": ["Improves concentration"],
+        "cardiovascular": [],
+        "urogenital": ["Loosens legs — beneficial for varicose veins, urinary disorders"]
+      },
+      "therapeuticUses": ["sciatica", "balance training", "kyphosis", "rheumatism", "varicose veins", "urinary problems"],
+      "contraindications": {
+        "absolute": ["acute ankle or knee injury"],
+        "relative": ["varicose veins — limit hold time"]
+      },
+      "modifications": {
+        "elderly": "Wall support; foot rest against ankle rather than wrapped.",
+        "obese": "Wall support; arm variation only if balance difficult.",
+        "beginners": "Wall support; focus on one element at a time (leg first, then arm).",
+        "pregnancy": "Not recommended."
+      },
+      "searchTags": ["standing", "balance", "intermediate", "sciatica", "kyphosis", "varicose veins", "ankle"]
+    },
+
+    {
+      "id": "yoga_043",
+      "sanskrit": "Prasarita Padottanasana",
+      "english": "Wide-Legged Standing Forward Bend",
+      "tamil": "பிரசாரித படோத்தானாசனம்",
+      "category": "additional",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "30–60 seconds",
+        "repetitions": "3–4 times",
+        "sessionTime": "4–6 minutes"
+      },
+      "instructions": [
+        "Stand, step feet wide apart (4–5 feet). Feet parallel or slightly turned in.",
+        "Hands on hips. Inhale, lengthen spine. Exhale, hinge from hips forward.",
+        "Place hands on floor between feet (shoulder-width); top of head toward floor.",
+        "Work toward placing crown of head on floor between hands.",
+        "Hold 30–60 seconds. Inhale, hands on hips, come up slowly."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Stretches adductors, hamstrings, calves", "Lengthens spine"],
+        "respiratory": [],
+        "digestive": ["Tones abdominal organs"],
+        "endocrine": [],
+        "nervous": ["Calming with head below heart"],
+        "cardiovascular": ["Mild inversion benefit"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["hamstring tightness", "groin tightness", "mild headache", "fatigue", "low back pain", "stress"],
+      "contraindications": {
+        "absolute": ["uncontrolled hypertension", "acute lumbar disc"],
+        "relative": ["glaucoma — keep head above heart level"]
+      },
+      "modifications": {
+        "elderly": "Hands on blocks; minimal depth.",
+        "obese": "Hands on blocks; reduced angle.",
+        "beginners": "Blocks under hands; emphasis on hip hinge.",
+        "pregnancy": "Not recommended from second trimester; head should not invert."
+      },
+      "searchTags": ["standing", "forward bend", "beginner", "hamstring", "adductor", "stress", "fatigue"]
+    },
+
+    {
+      "id": "yoga_044",
+      "sanskrit": "Supta Virasana",
+      "english": "Reclined Hero Pose",
+      "tamil": "சுப்த வீராசனம்",
+      "category": "additional",
+      "difficulty": "advanced",
+      "duration": {
+        "hold": "1–5 minutes",
+        "repetitions": "Once",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Begin in Virasana. Place hands behind you.",
+        "Lean back slowly, first onto forearms, then fully recline onto the floor.",
+        "Arms overhead or alongside body. Breathe naturally.",
+        "If knees are uncomfortable, place bolster under back.",
+        "Hold 1–5 minutes. Use arms to press up to sitting."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Intense quadricep stretch", "Opens hip flexors (psoas, iliacus)", "Stretches ankles"],
+        "respiratory": ["Opens anterior chest and ribs"],
+        "digestive": ["Stimulates abdominal organs"],
+        "endocrine": [],
+        "nervous": [],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["runner's knee", "quadricep tightness", "hip flexor syndrome", "flat feet", "digestion", "kyphosis (via chest opening)"],
+      "contraindications": {
+        "absolute": ["knee injury or surgery", "ankle injury", "sacroiliac joint disorder"],
+        "relative": ["tight quadriceps — use bolster under back"]
+      },
+      "modifications": {
+        "elderly": "Do not attempt without Virasana mastery; use bolster.",
+        "obese": "Not recommended without supervision.",
+        "beginners": "Use bolster under back; remain on elbows.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["supine", "advanced", "quadricep", "hip flexor", "psoas", "flat feet", "chest opener"]
+    },
+
+    {
+      "id": "yoga_045",
+      "sanskrit": "Pincha Mayurasana",
+      "english": "Feathered Peacock / Forearm Stand",
+      "tamil": "பிஞ்ச மயூராசனம்",
+      "category": "inverted",
+      "difficulty": "advanced",
+      "duration": {
+        "hold": "15–60 seconds",
+        "repetitions": "2–3 times",
+        "sessionTime": "5–8 minutes (with prep)"
+      },
+      "instructions": [
+        "Begin on forearms; elbows shoulder-width apart; press palms flat.",
+        "Tuck toes; lift hips high into Dolphin pose.",
+        "Walk feet toward head; kick one leg up at a time to invert.",
+        "Stack hips over shoulders; engage core; toes toward ceiling.",
+        "Hold with steady breath. Lower carefully."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strengthens shoulders, forearms, core", "Improves thoracic extension and spinal strength"],
+        "respiratory": ["Chest and shoulder opener"],
+        "digestive": ["Inversion benefits to digestive organs"],
+        "endocrine": [],
+        "nervous": ["Builds confidence; reduces anxiety over time"],
+        "cardiovascular": ["Inversion cardiac benefits"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["shoulder strengthening", "inversion alternative to headstand", "anxiety rehabilitation"],
+      "contraindications": {
+        "absolute": ["shoulder injury", "neck injury", "hypertension", "glaucoma", "heart conditions", "pregnancy", "menstruation"],
+        "relative": ["back pain — master alignment first"]
+      },
+      "modifications": {
+        "elderly": "Not appropriate; use Viparita Karani.",
+        "obese": "Not appropriate.",
+        "beginners": "Dolphin pose preparation; wall support mandatory.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["inverted", "advanced", "shoulder strength", "core", "forearm stand", "balance"]
+    },
+
+    {
+      "id": "yoga_046",
+      "sanskrit": "Anulom Vilom Pranayama",
+      "english": "Alternate Nostril Breathing",
+      "tamil": "அனுலோம் விலோம் பிராணாயாமம்",
+      "category": "pranayama",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–20 minutes",
+        "repetitions": "5–20 cycles",
+        "sessionTime": "5–20 minutes"
+      },
+      "instructions": [
+        "Sit in Sukhasana or Padmasana. Spine erect.",
+        "Right hand in Vishnu mudra: fold index and middle finger; use thumb and ring finger.",
+        "Close right nostril with thumb; inhale through left for 4 counts.",
+        "Close both nostrils (kumbhaka) — optional for beginners, hold for 2 counts.",
+        "Release right nostril; exhale through right for 8 counts.",
+        "Inhale right for 4 counts; hold 2 counts; exhale left for 8 counts.",
+        "This is ONE cycle. Repeat 5–20 cycles."
+      ],
+      "benefits": {
+        "musculoskeletal": [],
+        "respiratory": ["Balances right and left nasal passages", "Strengthens respiratory musculature", "Beneficial for asthma, sinusitis, rhinitis"],
+        "digestive": [],
+        "endocrine": ["Balances ANS-endocrine axis"],
+        "nervous": ["Balances sympathetic and parasympathetic nervous systems", "Most effective single technique for reducing anxiety and stress", "Improves concentration and cognitive function"],
+        "cardiovascular": ["Reduces blood pressure significantly with regular practice", "Improves heart rate variability"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["hypertension", "anxiety", "asthma", "sinusitis", "stress", "insomnia", "migraine", "ADHD", "mild depression", "cardiac arrhythmia (supportive)"],
+      "contraindications": {
+        "absolute": ["acute fever", "nasal polyps blocking one nostril"],
+        "relative": ["cold/congestion — avoid kumbhaka", "epilepsy — avoid breath retention"]
+      },
+      "modifications": {
+        "elderly": "Shorter ratios; no kumbhaka; seated in chair.",
+        "obese": "Chair seated; no kumbhaka initially.",
+        "beginners": "Start with 4:0:4 ratio (no retention); progress to 4:2:8.",
+        "pregnancy": "Safe without kumbhaka; very beneficial."
+      },
+      "searchTags": ["pranayama", "beginner", "anxiety", "hypertension", "asthma", "sinusitis", "insomnia", "stress", "ANS balance"]
+    },
+
+    {
+      "id": "yoga_047",
+      "sanskrit": "Kapalbhati Pranayama",
+      "english": "Skull Shining Breath",
+      "tamil": "கபாலபாதி பிராணாயாமம்",
+      "category": "pranayama",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "1–5 minutes (start with 30 seconds)",
+        "repetitions": "1–3 rounds",
+        "sessionTime": "3–10 minutes"
+      },
+      "instructions": [
+        "Sit comfortably with spine erect.",
+        "Take a deep inhale through both nostrils.",
+        "Begin short, sharp, forceful exhalations through the nose, pulled by rapid abdominal contractions.",
+        "Inhalation is passive — it happens automatically after each sharp exhale.",
+        "Rhythm: 1–2 exhalations per second. Start with 30 strokes.",
+        "After a round, exhale fully and breathe normally for 1 minute before the next round."
+      ],
+      "benefits": {
+        "musculoskeletal": [],
+        "respiratory": ["Clears bronchial tubes and upper airways", "Strengthens diaphragm and intercostal muscles", "Excellent for asthma, COPD (sub-acute)"],
+        "digestive": ["Massages abdominal organs — liver, spleen, kidneys, intestines", "Relieves constipation and gas"],
+        "endocrine": ["Stimulates pancreas — beneficial for diabetes", "Activates metabolism significantly"],
+        "nervous": ["Clears frontal lobe 'brain fog'", "Energising; combats depression and lethargy"],
+        "cardiovascular": ["Improves circulation"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["diabetes", "obesity", "constipation", "asthma (stable)", "depression", "fatigue", "sinusitis", "PCOS"],
+      "contraindications": {
+        "absolute": ["hypertension — AVOID", "cardiac disease", "epilepsy", "acute asthma attack", "pregnancy", "hernia", "recent abdominal surgery", "menstruation (heavy)", "glaucoma"],
+        "relative": ["vertigo — reduce speed", "anxiety disorder — gentle rhythm only"]
+      },
+      "modifications": {
+        "elderly": "Slow rhythm (1 per 2 seconds); short duration; no vigorous contractions.",
+        "obese": "Moderate pace; start with 20 strokes per round.",
+        "beginners": "30 strokes at slow rhythm; build over weeks.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["pranayama", "beginner", "diabetes", "obesity", "constipation", "asthma", "depression", "metabolism", "sinusitis"]
+    },
+
+    {
+      "id": "yoga_048",
+      "sanskrit": "Bhramari Pranayama",
+      "english": "Humming Bee Breath",
+      "tamil": "பிரம்மரி பிராணாயாமம்",
+      "category": "pranayama",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–10 minutes",
+        "repetitions": "5–15 rounds",
+        "sessionTime": "5–15 minutes"
+      },
+      "instructions": [
+        "Sit comfortably. Close eyes.",
+        "Raise arms; close ears with thumbs; index fingers on forehead; middle fingers on closed eyes; ring fingers below nostrils; little fingers on lips (Shanmukhi mudra) — OR simply close ears with thumbs.",
+        "Inhale deeply through nostrils.",
+        "Exhale slowly making a humming sound like a bee — 'mmmmm' — deep and resonant.",
+        "Feel the vibration in the skull, throat, and chest.",
+        "5–15 rounds."
+      ],
+      "benefits": {
+        "musculoskeletal": [],
+        "respiratory": ["Lengthens exhalation — activates vagal brake", "Useful for rhinitis and sinusitis"],
+        "digestive": [],
+        "endocrine": ["Stimulates pituitary gland via cranial vibration"],
+        "nervous": ["Most effective for instant anxiety and panic relief", "Reduces tinnitus", "Beneficial in Alzheimer's and cognitive decline", "Improves sleep quality"],
+        "cardiovascular": ["Reduces heart rate and BP rapidly"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["anxiety", "panic disorder", "tinnitus", "insomnia", "hypertension", "migraine", "sinusitis", "stress", "dementia prevention"],
+      "contraindications": {
+        "absolute": ["ear infection — do not close ears with thumbs", "acute sinusitis with closed passages"],
+        "relative": ["epilepsy — avoid prolonged breath retention variant"]
+      },
+      "modifications": {
+        "elderly": "Simply close ears with thumbs; no mudra needed; shorter sessions.",
+        "obese": "Chair seated; very accessible.",
+        "beginners": "Start with 5 rounds; simply close ears with thumbs.",
+        "pregnancy": "Excellent — safe; no modifications needed."
+      },
+      "searchTags": ["pranayama", "beginner", "anxiety", "panic", "tinnitus", "insomnia", "hypertension", "migraine", "dementia"]
+    },
+
+    {
+      "id": "yoga_049",
+      "sanskrit": "Ujjayi Pranayama",
+      "english": "Victorious Breath / Ocean Breath",
+      "tamil": "உஜ்ஜாயி பிராணாயாமம்",
+      "category": "pranayama",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–15 minutes or throughout asana practice",
+        "repetitions": "Continuous",
+        "sessionTime": "5–15 minutes"
+      },
+      "instructions": [
+        "Sit comfortably or use during asana practice.",
+        "Slightly constrict the glottis (back of throat) as if fogging a mirror — same constriction for inhalation and exhalation.",
+        "Both inhale and exhale produce a soft ocean-wave or snoring sound.",
+        "Breathe through nose only; mouth closed.",
+        "Inhalation fills the chest expansively. Exhalation is controlled and complete.",
+        "Ratio: 1:2 (inhale:exhale) ideally."
+      ],
+      "benefits": {
+        "musculoskeletal": [],
+        "respiratory": ["Increases airway resistance — improves lung efficiency", "Beneficial for asthma and COPD", "Warms the bronchial passages"],
+        "digestive": [],
+        "endocrine": ["Mild thyroid stimulation via throat engagement"],
+        "nervous": ["Strong parasympathetic activation", "Reduces anxiety during stressful situations"],
+        "cardiovascular": ["Slows heart rate; reduces blood pressure"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["asthma", "anxiety", "hypertension", "insomnia", "thyroid (mild)", "COPD", "stress management in clinical settings"],
+      "contraindications": {
+        "absolute": ["acute hypotension"],
+        "relative": ["cardiac disease — avoid strong breath retention"]
+      },
+      "modifications": {
+        "elderly": "Easy to practice; chair seated; excellent for daily use.",
+        "obese": "Chair seated; very accessible.",
+        "beginners": "Focus on the throat sound first; ratio second.",
+        "pregnancy": "Safe throughout; very beneficial."
+      },
+      "searchTags": ["pranayama", "beginner", "asthma", "anxiety", "COPD", "hypertension", "thyroid", "stress"]
+    },
+
+    {
+      "id": "yoga_050",
+      "sanskrit": "Bhastrika Pranayama",
+      "english": "Bellows Breath",
+      "tamil": "பஸ்திரிகா பிராணாயாமம்",
+      "category": "pranayama",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "3–5 minutes",
+        "repetitions": "3 rounds of 20",
+        "sessionTime": "5–8 minutes"
+      },
+      "instructions": [
+        "Sit upright. Begin with a natural breath.",
+        "Inhale forcefully through the nose expanding the chest; exhale forcefully through the nose contracting the abdomen.",
+        "Both inhale and exhale are active and equal in Bhastrika (unlike Kapalbhati where only exhale is active).",
+        "Rhythm: 1 breath cycle per second. Start with 20 strokes per round.",
+        "After each round: take a deep inhalation, retain briefly, exhale slowly."
+      ],
+      "benefits": {
+        "musculoskeletal": [],
+        "respiratory": ["Clears and strengthens entire respiratory tract", "Highly effective for asthma, bronchitis, sinusitis"],
+        "digestive": ["Stimulates abdominal organs"],
+        "endocrine": ["Activates metabolism; stimulates adrenal glands"],
+        "nervous": ["Energising; clears mental fog; improves alertness"],
+        "cardiovascular": ["Increases circulation significantly"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["obesity", "diabetes", "asthma", "bronchitis", "sinusitis", "depression", "fatigue", "hypothyroidism"],
+      "contraindications": {
+        "absolute": ["hypertension", "cardiac disease", "epilepsy", "pregnancy", "hernia", "menstruation", "acute fever", "glaucoma"],
+        "relative": ["anxiety disorders — use mild version", "vertigo"]
+      },
+      "modifications": {
+        "elderly": "Mild version; 10 strokes per round; slow rhythm.",
+        "obese": "Moderate pace; 15 strokes; short rounds.",
+        "beginners": "10–15 strokes per round; slow build.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["pranayama", "intermediate", "obesity", "asthma", "diabetes", "bronchitis", "depression", "sinusitis", "metabolism"]
+    },
+
+    {
+      "id": "yoga_051",
+      "sanskrit": "Sheetali Pranayama",
+      "english": "Cooling Breath",
+      "tamil": "சீதளி பிராணாயாமம்",
+      "category": "pranayama",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–10 minutes",
+        "repetitions": "5–15 rounds",
+        "sessionTime": "5–10 minutes"
+      },
+      "instructions": [
+        "Sit comfortably. Roll the tongue into a tube (like a straw); if unable, use Sheetkari instead.",
+        "Inhale deeply through the rolled tongue — the air passes over the tongue and is cooled.",
+        "Close mouth; hold briefly (optional).",
+        "Exhale slowly through both nostrils.",
+        "5–15 rounds."
+      ],
+      "benefits": {
+        "musculoskeletal": [],
+        "respiratory": ["Cooling and moistening of airways"],
+        "digestive": ["Reduces gastric heat; beneficial for acidity and GERD"],
+        "endocrine": [],
+        "nervous": ["Reduces excess heat in body and mind", "Calms aggression and irritability", "Very beneficial for pitta-type disorders"],
+        "cardiovascular": ["Reduces blood pressure"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["acidity", "GERD", "pitta disorders", "anger management", "hypertension", "summer heat exhaustion", "burning sensations", "mouth ulcers"],
+      "contraindications": {
+        "absolute": ["respiratory infections", "asthma — cold air may trigger bronchospasm"],
+        "relative": ["cold climates — reduce duration", "Kapha disorders — not suitable"]
+      },
+      "modifications": {
+        "elderly": "Chair seated; very accessible.",
+        "obese": "Chair seated.",
+        "beginners": "If tongue roll not possible, use Sheetkari (teeth slightly apart, inhale through teeth).",
+        "pregnancy": "Safe; very beneficial for heat and discomfort."
+      },
+      "searchTags": ["pranayama", "beginner", "cooling", "acidity", "GERD", "pitta", "hypertension", "anger"]
+    },
+
+    {
+      "id": "yoga_052",
+      "sanskrit": "Sheetkari Pranayama",
+      "english": "Hissing Breath",
+      "tamil": "சீத்கரி பிராணாயாமம்",
+      "category": "pranayama",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–10 minutes",
+        "repetitions": "5–15 rounds",
+        "sessionTime": "5–10 minutes"
+      },
+      "instructions": [
+        "Sit comfortably. Fold tongue back (or keep flat) and bring upper and lower teeth together lightly.",
+        "Part lips; inhale through the gap between the teeth with a hissing sound.",
+        "Close mouth; hold briefly; exhale through both nostrils.",
+        "5–15 rounds."
+      ],
+      "benefits": {
+        "musculoskeletal": [],
+        "respiratory": ["Same as Sheetali — cooling and calming"],
+        "digestive": ["Reduces gastric heat; beneficial for acidity"],
+        "endocrine": [],
+        "nervous": ["Cools and calms the nervous system"],
+        "cardiovascular": ["Reduces blood pressure"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["acidity", "GERD", "hypertension", "heat exhaustion", "burning sensations", "oral hygiene support"],
+      "contraindications": {
+        "absolute": ["severe dental sensitivity"],
+        "relative": ["asthma — cold air", "cold climates"]
+      },
+      "modifications": {
+        "elderly": "Chair seated; easy to perform.",
+        "obese": "Chair seated.",
+        "beginners": "Use when tongue-rolling for Sheetali is not possible.",
+        "pregnancy": "Safe."
+      },
+      "searchTags": ["pranayama", "beginner", "cooling", "acidity", "hypertension", "heat", "GERD"]
+    },
+
+    {
+      "id": "yoga_053",
+      "sanskrit": "Surya Bhedana Pranayama",
+      "english": "Right Nostril Breathing / Sun Breath",
+      "tamil": "சூர்ய பேதன பிராணாயாமம்",
+      "category": "pranayama",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–10 minutes",
+        "repetitions": "5–15 rounds",
+        "sessionTime": "5–10 minutes"
+      },
+      "instructions": [
+        "Sit comfortably. Close left nostril with ring finger.",
+        "Inhale through right nostril (Surya/Sun nadi) slowly and deeply.",
+        "Close both nostrils; hold briefly.",
+        "Exhale through left nostril only.",
+        "Repeat: inhale right, exhale left. 5–15 rounds."
+      ],
+      "benefits": {
+        "musculoskeletal": [],
+        "respiratory": ["Activates and balances respiratory patterns"],
+        "digestive": ["Stimulates digestive fire (Agni)"],
+        "endocrine": ["Activates sympathetic nervous system mildly — raises metabolic activity"],
+        "nervous": ["Activating and warming — combats lethargy and cold", "Beneficial for hypothyroid, sluggish metabolism"],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["depression", "fatigue", "hypothyroidism", "low metabolic rate", "lethargy", "morning sluggishness", "diabetes (activates metabolism)"],
+      "contraindications": {
+        "absolute": ["hypertension", "cardiac disease", "fever"],
+        "relative": ["anxiety — warming; may increase agitation", "pitta disorders — avoid in summer heat"]
+      },
+      "modifications": {
+        "elderly": "Chair seated; gentle rhythm.",
+        "obese": "Chair seated.",
+        "beginners": "No retention initially; 5 rounds.",
+        "pregnancy": "Use with caution; short practice only."
+      },
+      "searchTags": ["pranayama", "beginner", "activating", "depression", "hypothyroidism", "fatigue", "metabolism"]
+    },
+
+    {
+      "id": "yoga_054",
+      "sanskrit": "Chandra Bhedana Pranayama",
+      "english": "Left Nostril Breathing / Moon Breath",
+      "tamil": "சந்திர பேதன பிராணாயாமம்",
+      "category": "pranayama",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–10 minutes",
+        "repetitions": "5–15 rounds",
+        "sessionTime": "5–10 minutes"
+      },
+      "instructions": [
+        "Sit comfortably. Close right nostril with thumb.",
+        "Inhale through left nostril (Chandra/Moon nadi) slowly and deeply.",
+        "Close both; hold briefly.",
+        "Exhale through right nostril only.",
+        "Repeat: inhale left, exhale right. 5–15 rounds."
+      ],
+      "benefits": {
+        "musculoskeletal": [],
+        "respiratory": [],
+        "digestive": ["Reduces gastric heat"],
+        "endocrine": ["Activates parasympathetic system — calming and cooling"],
+        "nervous": ["Deeply cooling and calming", "Reduces anxiety, irritability", "Beneficial for insomnia and hyperactivity"],
+        "cardiovascular": ["Reduces blood pressure"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["anxiety", "insomnia", "hypertension", "pitta disorders", "anger", "heat stroke", "hyperactivity", "migraine"],
+      "contraindications": {
+        "absolute": ["depression", "hypothyroidism"],
+        "relative": ["cold weather — reduce duration", "Kapha dominant — limit use"]
+      },
+      "modifications": {
+        "elderly": "Chair seated.",
+        "obese": "Chair seated.",
+        "beginners": "No retention; 5 rounds.",
+        "pregnancy": "Safe and beneficial."
+      },
+      "searchTags": ["pranayama", "beginner", "calming", "anxiety", "insomnia", "hypertension", "anger", "pitta"]
+    },
+
+    {
+      "id": "yoga_055",
+      "sanskrit": "Nadi Shodhana Pranayama",
+      "english": "Channel Purification Breath",
+      "tamil": "நாடி சோதன பிராணாயாமம்",
+      "category": "pranayama",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "15–30 minutes",
+        "repetitions": "10–20 rounds (with retention)",
+        "sessionTime": "15–30 minutes"
+      },
+      "instructions": [
+        "Sit in comfortable meditative posture. Spine erect.",
+        "Advanced version of Anulom Vilom — includes kumbhaka (breath retention).",
+        "Ratio: Inhale (1) : Hold (4) : Exhale (2) — e.g., 4:16:8 counts.",
+        "Inhale left nostril for 4 counts; hold both closed for 16 counts; exhale right for 8 counts.",
+        "Inhale right for 4; hold 16; exhale left for 8. This is one cycle.",
+        "10–20 cycles. Only after mastery of basic Anulom Vilom."
+      ],
+      "benefits": {
+        "musculoskeletal": [],
+        "respiratory": ["Deep purification of all 72,000 nadis (energy channels)", "Maximum respiratory efficiency"],
+        "digestive": [],
+        "endocrine": ["Deep hormonal balancing"],
+        "nervous": ["Most powerful ANS balancing technique", "Significantly reduces cortisol", "Improves heart rate variability"],
+        "cardiovascular": ["Reduces BP significantly; improves cardiac function"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["hypertension", "anxiety disorders", "insomnia", "asthma", "COPD", "chronic stress", "hormonal imbalance", "all chronic diseases (adjunct)"],
+      "contraindications": {
+        "absolute": ["cardiac disease — high retention ratio", "epilepsy", "acute fever", "pregnancy — avoid retention"],
+        "relative": ["beginners — use 1:0:2 ratio only"]
+      },
+      "modifications": {
+        "elderly": "Reduced retention time; lower count ratio.",
+        "obese": "Accessible; chair seated; avoid prolonged retention.",
+        "beginners": "Must master Anulom Vilom first; no retention initially.",
+        "pregnancy": "Use without retention; ratio 1:0:2 only."
+      },
+      "searchTags": ["pranayama", "intermediate", "hypertension", "anxiety", "hormonal balance", "ANS", "chronic disease", "cortisol"]
+    },
+
+    {
+      "id": "yoga_056",
+      "sanskrit": "Kumbhaka Pranayama",
+      "english": "Breath Retention",
+      "tamil": "கும்பக பிராணாயாமம்",
+      "category": "pranayama",
+      "difficulty": "advanced",
+      "duration": {
+        "hold": "As per ratio in combined pranayama",
+        "repetitions": "Within pranayama sessions",
+        "sessionTime": "Within pranayama sessions"
+      },
+      "instructions": [
+        "Two types: Antar Kumbhaka (retention after inhalation) and Bahya Kumbhaka (retention after exhalation).",
+        "ANTAR: Inhale fully; close both nostrils; pause before exhaling. Start with 2–4 seconds; progress to 16+ seconds.",
+        "BAHYA: Exhale completely; close both nostrils; pause before inhaling.",
+        "NEVER hold the breath forcibly or to the point of gasping.",
+        "Always practiced within a pranayama framework — not as standalone."
+      ],
+      "benefits": {
+        "musculoskeletal": [],
+        "respiratory": ["Increases CO2 tolerance; trains respiratory chemoreceptors", "Improves lung function in asthma"],
+        "digestive": ["Bahya Kumbhaka with bandhas stimulates digestive organs powerfully"],
+        "endocrine": ["Stimulates endocrine glands through pressure changes"],
+        "nervous": ["Raises prana (vital energy)", "Deep meditative states"],
+        "cardiovascular": ["Strengthens cardiac muscle with advanced practice"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["asthma", "COPD", "meditative practice", "energy enhancement"],
+      "contraindications": {
+        "absolute": ["cardiac disease", "hypertension", "epilepsy", "pregnancy", "respiratory infections", "glaucoma"],
+        "relative": ["anxiety — avoid until anxiety is well-controlled"]
+      },
+      "modifications": {
+        "elderly": "Very brief retention only; always under supervision.",
+        "obese": "Brief retention; no vigorous bandhas.",
+        "beginners": "Only under direct guidance; start with 1–2 second holds.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["pranayama", "advanced", "breath retention", "kumbhaka", "asthma", "meditation", "prana"]
+    },
+
+    {
+      "id": "yoga_057",
+      "sanskrit": "Dirgha Pranayama",
+      "english": "Three-Part / Complete Yogic Breath",
+      "tamil": "தீர்க பிராணாயாமம்",
+      "category": "pranayama",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "5–15 minutes",
+        "repetitions": "10–20 cycles",
+        "sessionTime": "5–15 minutes"
+      },
+      "instructions": [
+        "Lie in Savasana or sit upright.",
+        "Place one hand on belly, one on chest.",
+        "Inhale in three stages: first belly rises (diaphragmatic), then ribs expand laterally, then upper chest lifts.",
+        "Exhale in reverse: upper chest falls, ribs contract, belly draws in.",
+        "No pauses; smooth and continuous flow.",
+        "10–20 cycles. Ideal as introductory breathing practice."
+      ],
+      "benefits": {
+        "musculoskeletal": [],
+        "respiratory": ["Retrains full diaphragmatic breathing", "Increases tidal volume by 200–300%", "Foundation for all pranayama and singing/voice therapy"],
+        "digestive": ["Diaphragm movement massages abdominal organs"],
+        "endocrine": [],
+        "nervous": ["Activates parasympathetic system immediately", "Reduces anxiety and panic"],
+        "cardiovascular": ["Lowers blood pressure and heart rate"],
+        "urogenital": []
+      },
+      "therapeuticUses": ["asthma", "anxiety", "COPD", "hypertension", "chronic pain", "pre-surgery breathing rehab", "postnatal recovery"],
+      "contraindications": {
+        "absolute": [],
+        "relative": ["acute respiratory infection — gentle only"]
+      },
+      "modifications": {
+        "elderly": "Supine position with knees bent; very accessible.",
+        "obese": "Supine; excellent for retraining breathing pattern.",
+        "beginners": "Best starting pranayama; no modifications needed.",
+        "pregnancy": "Excellent throughout pregnancy."
+      },
+      "searchTags": ["pranayama", "beginner", "diaphragmatic breathing", "anxiety", "asthma", "COPD", "hypertension", "pain management"]
+    },
+
+    {
+      "id": "yoga_058",
+      "sanskrit": "Mula Bandha (Foundation Lock)",
+      "english": "Root Lock",
+      "tamil": "மூல பந்தம்",
+      "category": "pranayama",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "Hold during kumbhaka",
+        "repetitions": "Within pranayama practice",
+        "sessionTime": "Within pranayama sessions"
+      },
+      "instructions": [
+        "Sit in comfortable meditative posture with spine erect.",
+        "After inhalation and during retention (kumbhaka): contract the perineal muscles (area between anus and genitals).",
+        "Lift and hold; breathe continues or is retained based on practice.",
+        "Gradually release on exhalation.",
+        "Practice in isolation first: rhythmically contract and release the perineum 10–20 times."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Strengthens pelvic floor muscles"],
+        "respiratory": ["Seals prana in the body — used with pranayama"],
+        "digestive": ["Stimulates descending colon and rectum"],
+        "endocrine": ["Stimulates sacral plexus and reproductive glands"],
+        "nervous": ["Awakens Muladhara chakra; grounds the nervous system"],
+        "cardiovascular": [],
+        "urogenital": ["Highly beneficial for urinary incontinence, pelvic organ prolapse", "Benefits prostate disorders", "Treats chronic constipation"]
+      },
+      "therapeuticUses": ["urinary incontinence", "prolapse", "constipation", "erectile dysfunction", "PCOS", "prostate health", "postnatal recovery"],
+      "contraindications": {
+        "absolute": ["acute haemorrhoids", "prostatitis (acute)"],
+        "relative": ["pregnancy — modified version only with supervision"]
+      },
+      "modifications": {
+        "elderly": "Isolated contractions; no full kumbhaka required.",
+        "obese": "Seated; accessible without complex posture.",
+        "beginners": "Practice isolation contractions before integrating with pranayama.",
+        "pregnancy": "Gentle perineal contractions only; no strong retention."
+      },
+      "searchTags": ["pranayama", "intermediate", "pelvic floor", "incontinence", "prolapse", "constipation", "prostate", "postnatal"]
+    },
+
+    {
+      "id": "yoga_059",
+      "sanskrit": "Uddiyana Bandha",
+      "english": "Abdominal Lock",
+      "tamil": "உட்டியான பந்தம்",
+      "category": "pranayama",
+      "difficulty": "intermediate",
+      "duration": {
+        "hold": "5–15 seconds per lock",
+        "repetitions": "5–10 rounds",
+        "sessionTime": "3–5 minutes"
+      },
+      "instructions": [
+        "Stand with feet shoulder-width. Bend forward slightly, hands on knees.",
+        "Exhale completely through the mouth.",
+        "After exhale (Bahya Kumbhaka): draw the abdomen sharply upward and inward — under the rib cage.",
+        "Hold this 'hollow belly' for 5–15 seconds.",
+        "Relax abdomen, then slowly inhale.",
+        "Repeat 5–10 rounds on an empty stomach only."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Tones deep abdominal muscles"],
+        "respiratory": ["Massages diaphragm and lungs"],
+        "digestive": ["Powerful massage for all abdominal organs", "Stimulates liver, spleen, kidneys, adrenals", "Excellent for constipation and sluggish digestion", "Reduces gastric acid"],
+        "endocrine": ["Stimulates adrenal glands and solar plexus"],
+        "nervous": ["Activates Manipura chakra; increases confidence and energy"],
+        "cardiovascular": [],
+        "urogenital": []
+      },
+      "therapeuticUses": ["constipation", "sluggish digestion", "obesity", "diabetes", "adrenal fatigue", "gastric acidity"],
+      "contraindications": {
+        "absolute": ["hypertension", "cardiac disease", "hernia", "pregnancy", "peptic ulcer", "glaucoma", "menstruation"],
+        "relative": ["recent abdominal surgery", "IBS acute flare"]
+      },
+      "modifications": {
+        "elderly": "Very gentle; limited contraction; no vigorous pull.",
+        "obese": "Accessible; excellent for abdominal toning.",
+        "beginners": "Learn on empty stomach; master Bahya Kumbhaka first.",
+        "pregnancy": "Contraindicated."
+      },
+      "searchTags": ["pranayama", "intermediate", "constipation", "digestion", "obesity", "diabetes", "adrenal", "abdominal"]
+    },
+
+    {
+      "id": "yoga_060",
+      "sanskrit": "Surya Namaskar",
+      "english": "Sun Salutation",
+      "tamil": "சூர்ய நமஸ்காரம்",
+      "category": "pranayama",
+      "difficulty": "beginner",
+      "duration": {
+        "hold": "1 round = 12 postures",
+        "repetitions": "3–12 rounds",
+        "sessionTime": "10–30 minutes"
+      },
+      "instructions": [
+        "A dynamic sequence of 12 postures performed in a flowing cycle:",
+        "1. Pranamasana (Prayer) — exhale",
+        "2. Hasta Uttanasana (Raised Arms) — inhale",
+        "3. Uttanasana (Forward Fold) — exhale",
+        "4. Ashwa Sanchalanasana (Equestrian right leg back) — inhale",
+        "5. Dandasana/Plank — hold",
+        "6. Ashtanga Namaskar (8-point prostration) — exhale",
+        "7. Bhujangasana (Cobra) — inhale",
+        "8. Adho Mukha Svanasana (Downward Dog) — exhale",
+        "9. Ashwa Sanchalanasana (Equestrian left leg forward) — inhale",
+        "10. Uttanasana — exhale",
+        "11. Hasta Uttanasana — inhale",
+        "12. Pranamasana — exhale",
+        "Left leg back = one round; right leg back = second round."
+      ],
+      "benefits": {
+        "musculoskeletal": ["Full-body workout — all major muscle groups activated", "Spinal flexibility in all directions", "Improves mobility of all joints"],
+        "respiratory": ["Synchronised breath-movement — maximal respiratory training", "Alternating chest compression and expansion"],
+        "digestive": ["Stimulates all abdominal organs sequentially"],
+        "endocrine": ["Stimulates entire endocrine system including thyroid, adrenals, pancreas, gonads"],
+        "nervous": ["Balances ANS; energises and calms alternately", "Comprehensive stress reduction"],
+        "cardiovascular": ["Excellent cardiovascular conditioning — equivalent to moderate-intensity aerobic exercise", "Reduces cholesterol and improves circulation"],
+        "urogenital": ["Stimulates pelvic organs"]
+      },
+      "therapeuticUses": ["obesity", "diabetes", "cardiovascular rehabilitation", "anxiety", "constipation", "hypothyroidism", "PCOS", "fatigue", "all-round health maintenance"],
+      "contraindications": {
+        "absolute": ["acute fever", "during menstruation (heavy flow)", "acute back injury"],
+        "relative": ["hypertension — slow pace; avoid holding breath", "hernia — avoid step 5–6", "pregnancy — modified prenatal version only"]
+      },
+      "modifications": {
+        "elderly": "Slow pace; use chair for support in standing poses; skip inversions.",
+        "obese": "Start with 2–3 slow rounds; chair-supported variations.",
+        "beginners": "Learn each posture individually before attempting the flow.",
+        "pregnancy": "Modified prenatal Sun Salutation — avoid Bhujangasana; replace with Balasana."
+      },
+      "searchTags": ["dynamic", "sequence", "beginner", "obesity", "diabetes", "thyroid", "PCOS", "cardiovascular", "constipation", "whole body"]
+    }
+
+  ]
+}
