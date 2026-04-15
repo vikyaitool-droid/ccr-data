@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-13T18:32:32.874Z",
+  "generatedAt": "2026-04-15T06:20:48.120Z",
   "sections": [
     {
-      "id": "ayurveda_siddha",
-      "file": "ayurveda_siddha.json",
+      "id": "naturaref_yoga_library",
+      "file": "naturaref_yoga_library.json",
       "cardCount": 0,
-      "sizeKb": "111.3",
+      "sizeKb": "129.7",
       "priority": "lazy",
-      "lastUpdated": "2026-04-13",
-      "etag": "2c5cd45fdea0"
+      "lastUpdated": "2026-04-15",
+      "etag": "1363a286c94a"
     }
   ]
 }
