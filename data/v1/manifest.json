@@ -1,79 +1,106 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-18T10:10:14.457Z",
+  "generatedAt": "2026-04-18T10:28:07.197Z",
   "sections": [
     {
-      "id": "chromotherapy",
-      "file": "chromotherapy.json",
-      "cardCount": 10,
-      "sizeKb": "6.3",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "ae3147a08f7c"
-    },
-    {
-      "id": "colon",
-      "file": "colon.json",
+      "id": "clinnut",
+      "file": "clinnut.json",
       "cardCount": 8,
-      "sizeKb": "5.9",
+      "sizeKb": "8.3",
       "priority": "lazy",
       "lastUpdated": "2026-04-18",
-      "etag": "954d8618a2e4"
+      "etag": "afe39851a4f5"
     },
     {
-      "id": "intpain",
-      "file": "intpain.json",
-      "cardCount": 8,
-      "sizeKb": "6.7",
+      "id": "counselling",
+      "file": "counselling.json",
+      "cardCount": 6,
+      "sizeKb": "6.6",
       "priority": "lazy",
       "lastUpdated": "2026-04-18",
-      "etag": "dd75896065d2"
+      "etag": "8db1f1b4c250"
     },
     {
-      "id": "helio",
-      "file": "helio.json",
+      "id": "helioaero",
+      "file": "helioaero.json",
       "cardCount": 7,
-      "sizeKb": "5.3",
+      "sizeKb": "6.8",
       "priority": "lazy",
       "lastUpdated": "2026-04-18",
-      "etag": "32cf62c23929"
-    },
-    {
-      "id": "firstaid",
-      "file": "firstaid.json",
-      "cardCount": 16,
-      "sizeKb": "12.7",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "8c0566b4804b"
+      "etag": "cffbbaec795e"
     },
     {
       "id": "magneto",
       "file": "magneto.json",
+      "cardCount": 7,
+      "sizeKb": "6.3",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-18",
+      "etag": "4250469c4701"
+    },
+    {
+      "id": "colon",
+      "file": "colon.json",
+      "cardCount": 6,
+      "sizeKb": "6.3",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-18",
+      "etag": "fdf15e4a1881"
+    },
+    {
+      "id": "chromotherapy",
+      "file": "chromotherapy.json",
+      "cardCount": 10,
+      "sizeKb": "7.5",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-18",
+      "etag": "e32a90b19f54"
+    },
+    {
+      "id": "lifestyle",
+      "file": "lifestyle.json",
+      "cardCount": 6,
+      "sizeKb": "6.4",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-18",
+      "etag": "fe5100c2e633"
+    },
+    {
+      "id": "metabolic",
+      "file": "metabolic.json",
+      "cardCount": 6,
+      "sizeKb": "7.2",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-18",
+      "etag": "b29dd0329352"
+    },
+    {
+      "id": "bnys_protocols",
+      "file": "bnys_protocols.json",
+      "cardCount": 6,
+      "sizeKb": "8.0",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-18",
+      "etag": "63041fb4af0e"
+    },
+    {
+      "id": "naturotreat",
+      "file": "naturotreat.json",
       "cardCount": 8,
+      "sizeKb": "9.5",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-18",
+      "etag": "3c12a635e9a4"
+    },
+    {
+      "id": "detox",
+      "file": "detox.json",
+      "cardCount": 5,
       "sizeKb": "5.7",
       "priority": "lazy",
       "lastUpdated": "2026-04-18",
-      "etag": "d8e4a9b8714e"
-    },
-    {
-      "id": "physio",
-      "file": "physio.json",
-      "cardCount": 14,
-      "sizeKb": "11.6",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "08d392973dff"
-    },
-    {
-      "id": "treatmanip",
-      "file": "treatmanip.json",
-      "cardCount": 7,
-      "sizeKb": "5.6",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "6b52857e1b9b"
+      "etag": "21172dede8ea"
     }
   ]
 }
