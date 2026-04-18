@@ -2,59 +2,45 @@
   "cards": [
     {
       "id": "col_001",
-      "title": "Water Enema",
+      "title": "Enema — Types & Clinical Use",
       "category": "col",
-      "badge": "Basic",
-      "_legacyHtml": "<b>Types:</b><ul><li><b>Cleansing enema:</b> Warm water (37–38°C), 500–1000 mL. For constipation and pre-treatment bowel prep.</li><li><b>Retention enema:</b> 100–250 mL held 15–20 min. For local mucosal effect.</li></ul><b>Equipment:</b> Enema can/bag, rubber tube, rectal nozzle, stand, lubricant (coconut oil), gloves.<br><b>Procedure:</b> Left lateral position → lubricate nozzle → insert 8–10 cm → release clamp slowly → hold 5–10 min → expel.<br><b>Frequency:</b> 1–2× daily for detox protocols; 1× weekly maintenance.<br><b>Water temperature:</b> 37°C (body temp) — never hot."
+      "badge": "Foundation",
+      "_legacyHtml": "<b>Water Enema (Cleansing):</b> 1–1.5 L lukewarm water (37°C). Bowel cleansing before procedures, acute constipation, toxic states. Retain 5–10 min.<br><b>Saline Enema:</b> 1 tsp salt in 1 L water. Safer for electrolyte-sensitive patients. Less water absorption than plain water. Acute constipation, faecal impaction.<br><b>Neem Enema:</b> Neem leaf decoction (10 leaves boiled in 1 L water, cooled). Anti-infective. Indications: intestinal parasites, amoebiasis, haemorrhoids, rectal infections. Retain 10–15 min.<br><b>Triphala Enema:</b> 1 tsp Triphala powder boiled in 500 ml water, filtered, cooled to 37°C. Colon toning, chronic constipation, IBS, Crohn's (mild). Retain 10–15 min.<br><b>Dashamoola Enema (Basti):</b> Ayurvedic decoction. Vatahara (Vata-pacifying). For: lower back pain, neurological conditions, constipation. Part of Panchakarma."
     },
     {
       "id": "col_002",
-      "title": "Coffee Enema",
+      "title": "Coffee Enema — Procedure & Evidence",
       "category": "col",
       "badge": "Detox",
-      "_legacyHtml": "<b>Preparation:</b> 3 tbsp organic ground coffee + 1L water. Boil 3 min, simmer 15 min, strain, cool to 37°C.<br><b>Volume:</b> 500 mL per session. Retain for 12–15 minutes.<br><b>Mechanism:</b> Palmitates in coffee stimulate glutathione S-transferase in liver → enhanced Phase II detox. Theophylline dilates bile ducts → bile flow ↑.<br><b>Indications:</b> Liver detox protocols, chronic fatigue, cancer supportive (Gerson therapy), constipation, headaches from toxin load.<br><b>Frequency:</b> 1–3× weekly (detox); once daily during Gerson protocol.<br><b>Contraindications:</b> Caffeine sensitivity, IBS, ulcerative colitis, cardiac arrhythmias."
+      "_legacyHtml": "<b>Preparation:</b> 3 tbsp organic ground coffee (not instant) in 1 L distilled water. Boil 5 min, simmer 15 min, cool to 37°C, strain thoroughly.<br><b>Procedure:</b> Left lateral position (Sims). Insert enema tip 7–10 cm into rectum. Administer 500 ml slowly over 5–10 min. Retain for 12–15 min. Evacuate.<br><b>Proposed mechanism:</b> Palmitates in coffee → stimulate glutathione S-transferase (GST) in liver → phase II detoxification. Theophylline → bile duct dilation → bile flow ↑.<br><b>Clinical use in naturopathy:</b> Gerson therapy (cancer adjunct), liver support, chronic fatigue, fibromyalgia, heavy metal detox support.<br><b>Frequency:</b> 1–2 times/week. Maximum 1/day in acute protocols (only under supervision).<br><b>Contraindications:</b> Ulcerative colitis, Crohn's disease, diverticulitis (acute), recent bowel surgery, cardiac conditions, caffeine sensitivity, pregnancy."
     },
     {
       "id": "col_003",
-      "title": "Herbal Enema",
+      "title": "Oil Enema (Sneha Basti)",
       "category": "col",
-      "badge": "Therapeutic",
-      "_legacyHtml": "<b>Common Herbs Used:</b><ul><li><b>Triphala decoction (100 mL):</b> Anti-inflammatory, colon tonic — IBS, IBD, constipation.</li><li><b>Dashamoola decoction (100 mL):</b> Vata pacifying — neurological, musculoskeletal conditions (Ayurvedic Basti).</li><li><b>Chamomile (250 mL):</b> Antispasmodic — spastic colon, anxiety, insomnia.</li><li><b>Neem decoction (100 mL):</b> Antimicrobial — parasites, colon infections.</li></ul><b>Preparation:</b> 20 g herb per 500 mL water, decoct to 250 mL, strain, cool to body temp. Administer as retention enema 10–15 min."
+      "badge": "Ayurvedic",
+      "_legacyHtml": "<b>Type:</b> Anuvasana Basti (oil retention enema). Classic Panchakarma treatment.<br><b>Oils used:</b> Sesame oil (most common), Dashamoola taila, Mahanarayan taila, Dhanwantaram taila.<br><b>Preparation:</b> 60–120 ml warm medicated oil (40–42°C).<br><b>Procedure:</b> Left lateral position. Administer warm oil slowly. Retain as long as comfortable (minimum 30 min, ideally 3 hours or overnight). Gentle abdominal massage after administration.<br><b>Indications:</b> Chronic constipation, Vata disorders, lower back pain, sciatica, neurological conditions, degenerative arthritis, debility, post-illness recovery.<br><b>Benefit:</b> Lubricates and nourishes colon mucosa, pacifies Vata dosha, strengthens nervous system.<br><b>Frequency:</b> Daily for 8 days in Panchakarma course. Once weekly for maintenance.<br><b>Contraindications:</b> Acute diarrhoea, fever, indigestion, obesity (excess Kapha), rectal bleeding."
     },
     {
       "id": "col_004",
-      "title": "Oil Enema",
+      "title": "Colonic Irrigation — Procedure",
       "category": "col",
-      "badge": "Lubricating",
-      "_legacyHtml": "<b>Oils Used:</b> Sesame oil (warm), olive oil, coconut oil. Volume: 100–200 mL.<br><b>Mechanism:</b> Lubricates and softens hardened faecal matter; soothes intestinal mucosa; helps impacted stool release.<br><b>Indications:</b> Faecal impaction, chronic constipation, spastic colon, pre-operative bowel prep, anal fissure (soothing).<br><b>Procedure:</b> Warm oil to 37–38°C. Administer 100–200 mL. Retain 30–60 minutes (or overnight if tolerated). Follow with cleansing water enema next morning.<br><b>Ayurvedic use:</b> Snehavasti (Basti with oil) — pacifies Vata, nourishes colon and nervous system."
+      "badge": "Procedure",
+      "_legacyHtml": "<b>Definition:</b> Hydrotherapy of the colon using large volumes of water (20–60 L total) in multiple fill-release cycles under controlled pressure. Also called colonic hydrotherapy or high colonic.<br><b>Equipment:</b> Colonic irrigation machine (gravity-fed or pump). Speculum, tubing (sterile/disposable). Temperature control: 37–38°C.<br><b>Procedure:</b> 45–60 min session. Patient supine. Disposable speculum inserted. Alternating warm and cool water cycles (2–3 L per cycle × 10–20 cycles). Therapist massages abdomen during procedure. Closed system — waste exits through separate tube (no odour).<br><b>Indications:</b> Chronic constipation, IBS (non-acute), pre-colonoscopy prep, detox protocols, candida overgrowth, colon preparation in Panchakarma.<br><b>Contraindications:</b> Active IBD (Crohn's/UC flare), colorectal cancer, diverticulitis (acute), rectal bleeding, recent bowel surgery (&lt;3 months), abdominal hernia, severe haemorrhoids, pregnancy, cardiac failure, renal failure."
     },
     {
       "id": "col_005",
-      "title": "Colonic Irrigation (Colonic Hydrotherapy)",
+      "title": "Colon Hydrotherapy — Protocols by Condition",
       "category": "col",
-      "badge": "Advanced",
-      "_legacyHtml": "<b>Definition:</b> Controlled infusion and evacuation of warm water through the entire large bowel via closed-circuit machine.<br><b>Volume:</b> 20–60 litres of water used per session (cycled in and out). Water temp: 37–38°C. Pressure: ≤0.3 bar.<br><b>Duration:</b> 30–45 min per session. Course: 3–6 sessions over 2–3 weeks.<br><b>Indications:</b> Constipation, IBS, pre-colonoscopy prep, detox, candidiasis, colon cleansing protocols.<br><b>Equipment:</b> FDA-registered colonic hydrotherapy device; disposable speculum and tubing.<br><b>Advantage over enema:</b> Reaches entire colon including transverse and ascending sections."
+      "badge": "Protocol",
+      "_legacyHtml": "<b>Chronic Constipation:</b> 3–6 sessions over 3 weeks. Week 1: cleansing (plain water). Week 2–3: probiotic implant after final session (Lactobacillus acidophilus in water). Diet: fibre, hydration, flaxseed.<br><b>IBS-C (constipation-predominant):</b> 4–6 sessions. Alternate plain and chamomile/peppermint tea enemas. Combine with low-FODMAP diet and probiotics.<br><b>Pre-Panchakarma (Virechana prep):</b> 1–2 cleansing sessions. Plain lukewarm water. Done 1–2 days before Virechana administration.<br><b>Detox Programme:</b> 3 sessions week 1, 2 sessions week 2, 1 session week 3. Alternate with coffee enema (only for robust patients). Combine with liver-support diet.<br><b>Post-session care:</b> Rest 30 min. Warm soup or broth only for 2–3 hours. Probiotic supplementation after each session (Lactobacillus + Bifidobacterium). Avoid heavy meals for 4 hours."
     },
     {
       "id": "col_006",
-      "title": "Standard Detox Enema Protocol",
-      "category": "col",
-      "badge": "Protocol",
-      "_legacyHtml": "<b>7-Day Enema Detox Protocol (BNYS):</b><br><b>Days 1–2:</b> Plain water enema, 500 mL, morning, 37°C — bowel preparation and irrigation.<br><b>Days 3–4:</b> Triphala herbal enema, 250 mL retention, 12 min — colon toning and microbiome support.<br><b>Days 5–6:</b> Coffee enema, 500 mL retention, 12 min — liver and biliary detox phase.<br><b>Day 7:</b> Oil enema (sesame), 150 mL retention, 30 min — mucosal nourishment and closure.<br><b>Post-protocol:</b> Probiotics (Lactobacillus + Bifidobacterium 10 billion CFU/day) for 2 weeks. Maintain high-fibre diet."
-    },
-    {
-      "id": "col_007",
-      "title": "Contraindications — Colonic Therapy",
+      "title": "Colon Hydrotherapy — Contraindications & Safety",
       "category": "col",
       "badge": "Safety",
-      "_legacyHtml": "<b>Absolute Contraindications:</b><ul><li>Acute abdomen (appendicitis, peritonitis)</li><li>Rectal or colon cancer (active)</li><li>Rectal fissures or perforations</li><li>Recent bowel surgery (&lt;6 weeks)</li><li>Severe haemorrhoids (Grade III–IV)</li><li>Uncontrolled inflammatory bowel disease (acute flare)</li><li>Pregnancy</li><li>Congestive heart failure</li><li>Severe electrolyte imbalance</li></ul><b>Relative Contraindications:</b><ul><li>Cirrhosis / severe liver disease</li><li>Renal failure</li><li>Hernia (large inguinal/abdominal)</li><li>Diverticulitis (acute)</li></ul>"
-    },
-    {
-      "id": "col_008",
-      "title": "Equipment & Hygiene Standards",
-      "category": "col",
-      "badge": "Setup",
-      "_legacyHtml": "<b>Basic Enema Set:</b><ul><li>Enema can/bag (2 L capacity)</li><li>Soft rubber/silicone tubing with flow clamp</li><li>Rectal nozzle (lubricated tip)</li><li>IV stand or hook (height: 45–60 cm above rectum for gravity flow)</li><li>Waterproof mat, absorbent pads</li><li>Disposable gloves, lubricant (coconut/KY jelly)</li></ul><b>Hygiene:</b> All equipment sterilised between patients (autoclave or 2% glutaraldehyde). Single-use nozzles preferred. Colonic machines: use disposable speculums and lines. Document lot numbers and disinfection log."
+      "_legacyHtml": "<b>Absolute contraindications:</b><br>• Active ulcerative colitis or Crohn's disease (flare)<br>• Colorectal cancer or rectal polyps<br>• Diverticulitis (acute) or diverticular abscess<br>• Rectal bleeding (any cause)<br>• Recent colorectal or abdominal surgery (&lt;6 months)<br>• Severe haemorrhoids (Grade 3–4)<br>• Bowel perforation or fistula<br>• Pregnancy<br>• Renal failure, cardiac failure, liver failure<br>• Active severe infection (sepsis)<br><br><b>Relative contraindications:</b><br>• Abdominal hernia (use very low pressure)<br>• Mild anaemia<br>• Hypertension (controlled — monitor)<br><br><b>Safety standards:</b> Use disposable speculums only. Water temperature 37–38°C (never above 40°C). Maximum pressure: gravity-fed preferred. Document sessions. Therapist must be trained and certified."
     }
   ]
 }
