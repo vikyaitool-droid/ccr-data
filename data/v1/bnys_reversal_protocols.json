@@ -1,0 +1,1080 @@
+{
+  "meta": {
+    "version": "1.0",
+    "title": "BNYS Disease Reversal Protocols",
+    "subtitle": "Complete Clinical Reference — 3-Phase Protocol Family",
+    "system": "Naturopathy + Yoga + Diet",
+    "total_protocols": 10,
+    "last_updated": "2025-04",
+    "note": "For use under qualified BNYS clinical supervision only. Do not modify or discontinue prescribed medications without physician oversight. All herbal supplements require clinician approval before initiation."
+  },
+  "protocols": [
+    {
+      "id": "hypertension",
+      "protocol_number": "01",
+      "title": "Hypertension (High Blood Pressure)",
+      "category": "Metabolic / Cardiovascular",
+      "root_mechanism": "Sympathetic nervous system overactivation + vascular endothelial inflammation + renin–angiotensin–aldosterone system (RAAS) dysregulation → sustained vasoconstriction and sodium retention → elevated systemic vascular resistance → elevated BP.",
+      "goals": [
+        { "parameter": "Systolic BP", "target": "< 130 mmHg" },
+        { "parameter": "Diastolic BP", "target": "< 80 mmHg" },
+        { "parameter": "Resting heart rate", "target": "< 72 bpm" },
+        { "parameter": "Serum cortisol (8 AM)", "target": "< 18 µg/dL" },
+        { "parameter": "hs-CRP", "target": "< 1 mg/L" }
+      ],
+      "phases": {
+        "phase1": {
+          "label": "Acute Intervention",
+          "duration": "14–21 days",
+          "exit_threshold": "≥ 12 / 15 points",
+          "interventions": [
+            { "time": "Wake-up", "intervention": "Slow deep breathing (4-7-8 technique) + sunlight (10 min)", "duration": "10 min", "effect": "4-7-8 breathing activates vagus nerve → reduces sympathetic outflow → lowers peripheral vascular resistance within minutes" },
+            { "time": "6:30 AM", "intervention": "Cold water spinal pack (cervical to lumbar)", "duration": "20 min", "effect": "Cold stimulates posterior hypothalamus → paradoxically resets autonomic balance; reduces adrenal catecholamine surge" },
+            { "time": "7:00 AM", "intervention": "Abhyanga (warm sesame oil) head + foot massage", "duration": "15 min", "effect": "Head massage stimulates baroreceptors in scalp vessels; foot massage activates reflexology zones linked to kidney/heart → lowers RAAS activity" },
+            { "time": "Before breakfast", "intervention": "Nadi Shodhana + Bhramari pranayama (humming bee breath)", "duration": "10 min", "effect": "Bhramari produces nitric oxide in nasal sinuses → diffuses into pulmonary circulation → systemic vasodilation" },
+            { "time": "8:00 AM", "intervention": "Breakfast: DASH diet — oats, banana, flaxseed, low-fat milk", "duration": null, "effect": "Potassium (banana) competes with sodium at renal tubule → natriuresis; flaxseed omega-3 reduces vascular inflammation" },
+            { "time": "10:00 AM", "intervention": "Cold abdominal pack", "duration": "20 min", "effect": "Reduces splanchnic blood pooling; lowers cardiac preload; mild vagal activation" },
+            { "time": "Before lunch", "intervention": "Beetroot juice (200 mL) or Arjuna bark decoction", "duration": "15 min before", "effect": "Dietary nitrates → nitric oxide via salivary bacteria → smooth muscle relaxation → direct vasodilation" },
+            { "time": "Lunch", "intervention": "Low-sodium meal: whole grains + leafy greens + legumes + curd", "duration": null, "effect": "Magnesium in greens relaxes vascular smooth muscle; calcium in curd modulates intracellular calcium balance" },
+            { "time": "After lunch", "intervention": "Yoga Nidra or 20-min rest in Savasana", "duration": "20 min", "effect": "Induces theta brainwave state → cortisol drops 30–40% → reduces renal angiotensin release" },
+            { "time": "4:00 PM", "intervention": "Yoga sequence (see below)", "duration": "25 min", "effect": "Inversions improve baroreceptor sensitivity; forward bends reduce cardiac workload" },
+            { "time": "6:00 PM", "intervention": "Warm mustard oil foot bath + contrast arm bath", "duration": "15 min", "effect": "Peripheral vasodilation shifts blood to periphery → reduces central pressure; mustard oil allyl isothiocyanate relaxes arterioles" },
+            { "time": "7:00 PM", "intervention": "Light dinner: soup + steamed veg + small grain portion; no salt after 5 PM", "duration": null, "effect": "Eliminating evening sodium prevents nocturnal BP surge; light meal reduces cardiac demand during sleep" },
+            { "time": "9:00 PM", "intervention": "Warm full-body Epsom salt bath", "duration": "20 min", "effect": "Transdermal magnesium → smooth muscle relaxation; warmth lowers systemic vascular resistance" },
+            { "time": "Bedtime", "intervention": "Progressive muscle relaxation or guided meditation", "duration": "10 min", "effect": "Reduces muscle tension-mediated sympathetic feedforward; lowers overnight cortisol" }
+          ],
+          "exit_criteria": [
+            { "parameter": "Systolic BP", "target": "< 140 mmHg or drop ≥ 10 mmHg", "points": 3 },
+            { "parameter": "Diastolic BP", "target": "< 90 mmHg or drop ≥ 8 mmHg", "points": 3 },
+            { "parameter": "Resting HR", "target": "< 80 bpm", "points": 3 },
+            { "parameter": "Sleep quality (0-10)", "target": "≥ 7", "points": 3 },
+            { "parameter": "Stress (0-10)", "target": "≤ 4", "points": 3 }
+          ]
+        },
+        "phase2": {
+          "label": "Consolidation & Repair",
+          "duration": "4–6 weeks",
+          "interventions": [
+            { "intervention": "Cold spinal pack", "frequency": "4 x / week" },
+            { "intervention": "Abhyanga (head + foot)", "frequency": "3 x / week" },
+            { "intervention": "Epsom salt bath", "frequency": "4 x / week" },
+            { "intervention": "Contrast arm/foot bath", "frequency": "4 x / week" },
+            { "intervention": "Yoga + pranayama", "frequency": "Daily (25 min)" },
+            { "intervention": "DASH diet", "frequency": "Daily — sodium < 1500 mg/day" },
+            { "intervention": "Beetroot/Arjuna decoction", "frequency": "Daily" }
+          ],
+          "exit_criteria": [
+            { "parameter": "Systolic BP", "target": "< 130 mmHg", "points": 3 },
+            { "parameter": "Diastolic BP", "target": "< 80 mmHg", "points": 3 },
+            { "parameter": "Resting HR", "target": "< 72 bpm", "points": 3 },
+            { "parameter": "hs-CRP", "target": "< 1 mg/L", "points": 3 },
+            { "parameter": "Medication reduction", "target": "≥ 50% of initial dose", "points": 3 }
+          ]
+        },
+        "phase3": {
+          "label": "Maintenance & Relapse Prevention",
+          "duration": "Indefinite",
+          "practices": [
+            { "practice": "DASH diet", "dose_frequency": "Lifelong — sodium < 2000 mg/day" },
+            { "practice": "Pranayama (Bhramari + Nadi Shodhana)", "dose_frequency": "20 min daily" },
+            { "practice": "Walk", "dose_frequency": "30 min brisk walk, 6 x / week" },
+            { "practice": "Epsom salt bath", "dose_frequency": "2 x / week" },
+            { "practice": "Cold spinal pack", "dose_frequency": "If BP > 135/85 for 3 days" },
+            { "practice": "Yoga Nidra", "dose_frequency": "3 x / week minimum" }
+          ],
+          "relapse_rules": [
+            { "trigger": "BP > 140/90 for 3 days", "action": "Return to Phase 2 for 2 weeks + daily spinal pack" },
+            { "trigger": "BP > 160/100 any reading", "action": "Urgent physician review; restart Phase 1" },
+            { "trigger": "Diastolic > 95 on 2 readings", "action": "Phase 1 for 14 days" }
+          ]
+        }
+      },
+      "yoga_sequence": [
+        { "asana": "Sukhasana + Bhramari pranayama", "duration_min": 5, "effect": "Nitric oxide production → vasodilation; vagal activation" },
+        { "asana": "Paschimottanasana (seated forward bend)", "duration_min": 3, "effect": "Reduces cardiac sympathetic tone; stretches aorta" },
+        { "asana": "Viparita Karani (legs up wall)", "duration_min": 5, "effect": "Baroreceptor reset; reduces venous return → lowers preload" },
+        { "asana": "Setu Bandhasana (bridge)", "duration_min": 2, "effect": "Mild inversion; improves baroreceptor sensitivity" },
+        { "asana": "Supta Baddha Konasana", "duration_min": 3, "effect": "Opens chest; vagal activation via heart rate variability" },
+        { "asana": "Janu Sirsasana (head to knee)", "duration_min": 2, "effect": "Gentle abdominal compression; parasympathetic shift" },
+        { "asana": "Anulom Vilom + Bhramari", "duration_min": 5, "effect": "Sustained nitric oxide; HRV improvement" },
+        { "asana": "Savasana", "duration_min": 5, "effect": "Full parasympathetic dominance; cortisol normalisation" }
+      ],
+      "diet": {
+        "eat": ["Oats", "whole grains (ragi, jowar)", "bananas", "leafy greens (spinach, fenugreek)", "legumes", "beetroot", "garlic", "flaxseeds", "walnuts", "pomegranate", "low-fat curd", "fish (omega-3)", "Arjuna bark tea", "hibiscus tea", "coriander seed water"],
+        "avoid": ["Table salt (limit to < 1.5 g/day)", "pickles", "papads", "processed/canned foods", "red meat", "full-fat dairy", "alcohol", "caffeine excess (> 1 cup/day)", "tobacco"]
+      },
+      "red_flags": [
+        { "sign": "BP > 180/120 mmHg (Hypertensive Crisis)", "action": "Stop all stimulating interventions; urgent hospital referral immediately" },
+        { "sign": "Sudden severe headache + vision changes", "action": "Rule out hypertensive encephalopathy or stroke" },
+        { "sign": "Chest pain or shortness of breath", "action": "Rule out hypertensive heart disease; urgent ECG" },
+        { "sign": "Sudden confusion, facial droop, arm weakness", "action": "Stroke protocol — call emergency services" },
+        { "sign": "BP < 90/60 on medications", "action": "Hypotension — hold naturopathic vasodilating treatments; reduce drug dose" }
+      ],
+      "monitoring": [
+        { "frequency": "Daily", "parameters": ["Morning BP (after 5 min rest)", "evening BP", "resting HR"] },
+        { "frequency": "Weekly", "parameters": ["Weight", "sodium intake diary"] },
+        { "frequency": "Monthly", "parameters": ["Serum electrolytes (Na/K/Mg)", "hs-CRP", "renal function (creatinine)"] },
+        { "frequency": "Quarterly", "parameters": ["Lipid profile", "ECG", "kidney function panel", "cortisol (8 AM)"] }
+      ]
+    },
+    {
+      "id": "obesity",
+      "protocol_number": "02",
+      "title": "Obesity & Metabolic Syndrome",
+      "category": "Metabolic",
+      "root_mechanism": "Caloric excess + sedentary behaviour + circadian disruption → leptin resistance and ghrelin dysregulation → hyperphagia → visceral adipose tissue expansion → adipokine imbalance (↑TNF-α, IL-6, ↓adiponectin) → systemic insulin resistance and chronic low-grade inflammation.",
+      "goals": [
+        { "parameter": "BMI", "target": "< 25 kg/m²" },
+        { "parameter": "Waist circumference", "target": "Men < 90 cm / Women < 80 cm" },
+        { "parameter": "Body fat %", "target": "Men < 25% / Women < 32%" },
+        { "parameter": "HOMA-IR", "target": "< 2" },
+        { "parameter": "Fasting triglycerides", "target": "< 150 mg/dL" }
+      ],
+      "phases": {
+        "phase1": {
+          "label": "Acute Intervention",
+          "duration": "14–21 days",
+          "exit_threshold": "≥ 12 / 15 points",
+          "interventions": [
+            { "time": "5:30 AM", "intervention": "Cold shower (3 min) + 15-min outdoor walk/jog", "duration": "18 min", "effect": "Cold activates brown adipose tissue (BAT) thermogenesis via norepinephrine → burns calories; morning exercise raises 24-h metabolic rate by 10–15%" },
+            { "time": "After shower", "intervention": "Dry brushing full body (5 min) + Udvartana (herbal powder massage — triphala/mustard)", "duration": "15 min", "effect": "Udvartana stimulates subcutaneous lymphatic drainage and lipolysis; friction increases skin temperature → local fat mobilisation" },
+            { "time": "Before breakfast", "intervention": "Kapalabhati (60 strokes/min) + Nadi Shodhana", "duration": "10 min", "effect": "Kapalabhati raises metabolic rate 20% above resting; diaphragmatic contractions massage visceral organs → hepatic fat mobilisation" },
+            { "time": "Breakfast (12 PM)", "intervention": "Intermittent fasting — eating window 12 PM–7 PM; break fast with protein + fat meal", "duration": null, "effect": "18-h fast maximally depletes liver glycogen → sustained fat oxidation; later eating window aligns with peak thermogenic response" },
+            { "time": "10:00 AM", "intervention": "Abdominal mud pack (cool clay)", "duration": "25 min", "effect": "Clay draws heat from subcutaneous fat → increases local capillary blood flow → enhanced lipolysis in abdominal region" },
+            { "time": "Before lunch", "intervention": "Green tea (1 cup) + apple cider vinegar (2 tbsp)", "duration": "15 min before", "effect": "EGCG in green tea inhibits COMT enzyme → prolongs norepinephrine action on fat cells; ACV reduces caloric intake by 200–275 kcal/day" },
+            { "time": "Lunch", "intervention": "Low-carb high-protein: 40% protein, 35% fat, 25% complex carb", "duration": null, "effect": "High protein: thermic effect 25–30% (vs 6–8% for carbs) → more calories burned in digestion; keeps satiety hormones (CCK, PYY) elevated" },
+            { "time": "After lunch", "intervention": "10-min standing + calf raises + resistance band exercises", "duration": "15 min", "effect": "Post-meal muscle contraction depletes muscle glycogen → prevents dietary glucose storage as fat; EPOC effect raises metabolism for 2 h" },
+            { "time": "3:00 PM", "intervention": "Full cold pack on abdomen + thighs", "duration": "20 min", "effect": "Targeted cold exposure to adipose-rich areas → localised BAT activation and lipolysis via β3-adrenergic pathway" },
+            { "time": "4:00 PM", "intervention": "Yoga + strength exercises (bodyweight squats, push-ups)", "duration": "30 min", "effect": "Resistance exercise builds lean muscle mass → raises resting metabolic rate by 50–100 kcal/day per kg muscle gained" },
+            { "time": "6:00 PM", "intervention": "Steam bath or sauna (if available)", "duration": "15 min", "effect": "Hyperthermia → heat shock proteins → improves mitochondrial efficiency; sweating eliminates toxins stored in fat cells" },
+            { "time": "7:00 PM", "intervention": "Last meal — protein + non-starchy vegetables only", "duration": null, "effect": "Closes eating window; evening meal with protein maintains muscle while restricting calories; no insulin spike before sleep" },
+            { "time": "9:00 PM", "intervention": "Epsom salt bath", "duration": "20 min", "effect": "Magnesium improves insulin sensitivity; sulfate supports hepatic detoxification of fatty acid metabolites" }
+          ],
+          "exit_criteria": [
+            { "parameter": "Weight loss", "target": "≥ 2 kg", "points": 3 },
+            { "parameter": "Waist circumference", "target": "↓ ≥ 3 cm", "points": 3 },
+            { "parameter": "Hunger (0-10)", "target": "≤ 4", "points": 3 },
+            { "parameter": "Energy (0-10)", "target": "≥ 7", "points": 3 },
+            { "parameter": "Fasting glucose", "target": "< 110 mg/dL", "points": 3 }
+          ]
+        },
+        "phase2": {
+          "label": "Consolidation & Repair",
+          "duration": "4–6 weeks",
+          "interventions": [
+            { "intervention": "Cold shower", "frequency": "Daily" },
+            { "intervention": "Abdominal cold pack", "frequency": "5 x / week" },
+            { "intervention": "Udvartana massage", "frequency": "3 x / week" },
+            { "intervention": "Steam bath", "frequency": "3 x / week" },
+            { "intervention": "Yoga + resistance exercise", "frequency": "Daily (30 min)" },
+            { "intervention": "Intermittent fasting (18 h)", "frequency": "Daily" },
+            { "intervention": "Diet (low-carb, high-protein)", "frequency": "Daily" }
+          ],
+          "exit_criteria": [
+            { "parameter": "BMI", "target": "↓ ≥ 2 units or < 27", "points": 3 },
+            { "parameter": "Waist", "target": "Men ≤ 95 cm / Women ≤ 85 cm", "points": 3 },
+            { "parameter": "Fasting insulin", "target": "< 10 µIU/mL", "points": 3 },
+            { "parameter": "Triglycerides", "target": "< 150 mg/dL", "points": 3 },
+            { "parameter": "Physical fitness", "target": "Walk 5 km without stopping", "points": 3 }
+          ]
+        },
+        "phase3": {
+          "label": "Maintenance & Relapse Prevention",
+          "duration": "Indefinite",
+          "practices": [
+            { "practice": "16:8 intermittent fasting", "dose_frequency": "≥ 5 x / week" },
+            { "practice": "Low-carb diet", "dose_frequency": "80% compliance" },
+            { "practice": "Exercise (walk + resistance)", "dose_frequency": "45 min, 6 x / week" },
+            { "practice": "Cold pack on abdomen", "dose_frequency": "If waist increases > 2 cm" },
+            { "practice": "Udvartana", "dose_frequency": "2 x / week" },
+            { "practice": "Weekly 24-h fast", "dose_frequency": "If BMI > 27 (supervised)" }
+          ],
+          "relapse_rules": [
+            { "trigger": "Weight gain > 3 kg", "action": "Return to Phase 2 + daily cold packs" },
+            { "trigger": "Waist increase > 4 cm", "action": "Phase 1 for 14 days" },
+            { "trigger": "Fasting glucose > 110 mg/dL", "action": "Phase 2 + diabetes co-protocol" }
+          ]
+        }
+      },
+      "yoga_sequence": [
+        { "asana": "Surya Namaskar (12 rounds)", "duration_min": 10, "effect": "Full-body caloric burn (~13 cal/round); raises HGH" },
+        { "asana": "Navasana (boat pose)", "duration_min": 2, "effect": "Core activation → visceral fat compression" },
+        { "asana": "Ardha Chandrasana (half moon)", "duration_min": 2, "effect": "Lateral stretch → stimulates liver and spleen" },
+        { "asana": "Trikonasana (triangle)", "duration_min": 2, "effect": "Opens thorax; increases lung capacity for fat oxidation" },
+        { "asana": "Dhanurasana (bow pose)", "duration_min": 2, "effect": "Compresses abdomen → massages pancreas and liver" },
+        { "asana": "Kapalabhati + Agnisara Kriya", "duration_min": 7, "effect": "Metabolic stimulation; fat-burning pranayama" },
+        { "asana": "Savasana", "duration_min": 3, "effect": "Parasympathetic shift; growth hormone release for fat loss" }
+      ],
+      "diet": {
+        "eat": ["Eggs", "chicken breast", "fish", "lentils", "tofu", "paneer (small)", "leafy greens", "cucumber", "broccoli", "bitter gourd", "nuts (small portions)", "coconut oil", "olive oil", "low-GI fruits (guava, berries, jamun, amla)", "green tea", "jeera water", "detox waters"],
+        "avoid": ["All refined carbs (white rice, bread, maida)", "sugar", "fruit juices", "packaged snacks", "fried foods", "alcohol", "sodas", "trans fats", "excessive dairy", "large portion sizes"]
+      },
+      "red_flags": [
+        { "sign": "BMI > 40 with breathlessness", "action": "Rule out obesity hypoventilation syndrome; refer pulmonologist" },
+        { "sign": "Sudden chest pain during exercise", "action": "Rule out cardiac event; stop exercise immediately" },
+        { "sign": "Rapid weight loss > 4 kg/week", "action": "Rule out catabolism or malnutrition; check electrolytes" },
+        { "sign": "Severe fatigue with fasting + dizziness", "action": "Check blood sugar; may need modified fasting protocol" },
+        { "sign": "Sleep apnoea symptoms", "action": "Polysomnography required before intensifying exercise" }
+      ],
+      "monitoring": [
+        { "frequency": "Daily", "parameters": ["Weight", "step count", "caloric intake (app-tracked)"] },
+        { "frequency": "Weekly", "parameters": ["Waist circumference", "body fat % (if available)", "energy levels"] },
+        { "frequency": "Monthly", "parameters": ["Fasting insulin", "HOMA-IR", "lipid profile", "liver enzymes"] },
+        { "frequency": "Quarterly", "parameters": ["DEXA scan (body composition)", "thyroid panel", "cortisol"] }
+      ]
+    },
+    {
+      "id": "hypothyroidism",
+      "protocol_number": "03",
+      "title": "Hypothyroidism",
+      "category": "Metabolic / Endocrine",
+      "root_mechanism": "Autoimmune (Hashimoto's) or iodine/selenium deficiency → impaired T4 synthesis and/or T4→T3 peripheral conversion → low cellular thyroid hormone → reduced basal metabolic rate, slowed gut motility, fluid retention, and mitochondrial dysfunction.",
+      "goals": [
+        { "parameter": "TSH", "target": "0.5–2.5 mIU/L" },
+        { "parameter": "Free T3", "target": "3.5–4.5 pg/mL" },
+        { "parameter": "Free T4", "target": "1.0–1.6 ng/dL" },
+        { "parameter": "Anti-TPO Ab", "target": "< 35 IU/mL (Hashimoto's)" },
+        { "parameter": "Body weight", "target": "Return to pre-hypothyroid weight" }
+      ],
+      "phases": {
+        "phase1": {
+          "label": "Acute Intervention",
+          "duration": "14–21 days",
+          "exit_threshold": "≥ 12 / 15 points",
+          "interventions": [
+            { "time": "Wake-up", "intervention": "Cold shower (start 30 sec, build to 2 min) focusing cold water on neck/thyroid region", "duration": "2 min", "effect": "Cold stimulates thyroid gland directly via increased TSH release from pituitary; norepinephrine activates thyroid hormone synthesis pathway" },
+            { "time": "After shower", "intervention": "Neck/thyroid area Abhyanga with warm castor oil + gentle thyroid massage (circular)", "duration": "10 min", "effect": "Castor oil ricinoleic acid reduces local thyroid inflammation (anti-Hashimoto's); manual massage increases thyroid blood flow → better iodine delivery" },
+            { "time": "Before breakfast", "intervention": "Nadi Shodhana + Ujjayi pranayama (ocean breath)", "duration": "10 min", "effect": "Ujjayi creates mild heat in thoracic region overlying thyroid; vibrational stimulation of thyroid via laryngeal contraction" },
+            { "time": "Breakfast", "intervention": "Selenium-rich breakfast: Brazil nuts (2) + eggs + whole grain toast with coconut oil", "duration": null, "effect": "Selenium is essential cofactor for deiodinase enzymes (T4→T3 conversion); 2 Brazil nuts provide daily selenium requirement" },
+            { "time": "10:00 AM", "intervention": "Warm castor oil abdominal pack (liver area)", "duration": "20 min", "effect": "Stimulates hepatic T4 to T3 conversion (70% of T3 is made in liver); castor oil enhances lymphatic detoxification of reverse T3" },
+            { "time": "Before lunch", "intervention": "Ashwagandha decoction (500 mg in warm water)", "duration": "20 min before", "effect": "Withanolides in ashwagandha stimulate thyroid hormone synthesis; adaptogenic effect normalises HPA-HPT axis crosstalk" },
+            { "time": "Lunch", "intervention": "Iodine + selenium + zinc rich meal: seaweed, eggs, legumes, pumpkin seeds, wholegrains", "duration": null, "effect": "Iodine = thyroid hormone substrate; zinc required for TSH receptor function; avoid raw goitrogenic vegetables" },
+            { "time": "After lunch", "intervention": "20-min brisk walk or light resistance exercise", "duration": "20 min", "effect": "Exercise increases T3 receptor sensitivity in muscle; stimulates deiodinase activity; raises metabolic rate to compensate hypothyroid slowing" },
+            { "time": "3:00 PM", "intervention": "Warm sesame oil full-body massage (Sarvanga Abhyanga)", "duration": "20 min", "effect": "Stimulates peripheral T3 receptor uptake; increases circulation to sluggish tissues; reduces myxoedematous fluid accumulation" },
+            { "time": "4:00 PM", "intervention": "Yoga sequence (see below)", "duration": "25 min", "effect": "Neck postures directly stimulate thyroid gland mechanically; inversions increase blood supply to thyroid" },
+            { "time": "6:00 PM", "intervention": "Contrast neck bath (alternating hot and cold compress on neck)", "duration": "10 min", "effect": "Vascular pumping in thyroid region → flushes inflammatory cytokines; stimulates thyroid cell metabolism" },
+            { "time": "7:00 PM", "intervention": "Dinner: Easy-to-digest — moong dal soup, cooked vegetables, small amount grain", "duration": null, "effect": "Hypothyroid gut is sluggish — well-cooked, warm foods prevent constipation and bacterial overgrowth" },
+            { "time": "9:00 PM", "intervention": "Warm full-body bath with Himalayan pink salt (iodine source) + ginger powder", "duration": "20 min", "effect": "Transdermal iodine absorption; ginger raises body temperature offsetting hypothyroid thermogenesis deficit" }
+          ],
+          "exit_criteria": [
+            { "parameter": "TSH", "target": "Drop ≥ 30% from baseline", "points": 3 },
+            { "parameter": "Free T3", "target": "Increase ≥ 0.5 pg/mL", "points": 3 },
+            { "parameter": "Weight loss", "target": "≥ 1.5 kg", "points": 3 },
+            { "parameter": "Energy (0-10)", "target": "≥ 6", "points": 3 },
+            { "parameter": "Bowel regularity", "target": "Daily bowel movement achieved", "points": 3 }
+          ]
+        },
+        "phase2": {
+          "label": "Consolidation & Repair",
+          "duration": "4–6 weeks",
+          "interventions": [
+            { "intervention": "Cold neck shower", "frequency": "Daily" },
+            { "intervention": "Thyroid Abhyanga (castor oil)", "frequency": "3 x / week" },
+            { "intervention": "Warm castor oil liver pack", "frequency": "3 x / week" },
+            { "intervention": "Contrast neck bath", "frequency": "4 x / week" },
+            { "intervention": "Himalayan salt bath", "frequency": "3 x / week" },
+            { "intervention": "Yoga (neck sequence)", "frequency": "Daily (25 min)" },
+            { "intervention": "Ashwagandha", "frequency": "Daily (supervised)" }
+          ],
+          "exit_criteria": [
+            { "parameter": "TSH", "target": "0.5–4.0 mIU/L", "points": 3 },
+            { "parameter": "Free T3", "target": "≥ 3.0 pg/mL or rise ≥ 1.0", "points": 3 },
+            { "parameter": "Anti-TPO Ab", "target": "Decrease ≥ 20% from baseline", "points": 3 },
+            { "parameter": "Weight loss", "target": "≥ 3 kg or BMI drop ≥ 1", "points": 3 },
+            { "parameter": "Medication reduction", "target": "≥ 25% of initial thyroxine", "points": 3 }
+          ]
+        },
+        "phase3": {
+          "label": "Maintenance & Relapse Prevention",
+          "duration": "Indefinite",
+          "practices": [
+            { "practice": "Selenium-rich diet (Brazil nuts daily)", "dose_frequency": "Lifelong" },
+            { "practice": "Iodised food + seaweed", "dose_frequency": "2 x / week Lifelong" },
+            { "practice": "Cold neck shower", "dose_frequency": "Daily" },
+            { "practice": "Yoga neck sequence", "dose_frequency": "5 x / week" },
+            { "practice": "Contrast neck bath", "dose_frequency": "If TSH rises > 4.5" },
+            { "practice": "Ashwagandha (seasonal cycles)", "dose_frequency": "3 months on, 1 month off" }
+          ],
+          "relapse_rules": [
+            { "trigger": "TSH > 5.0 on repeat test", "action": "Phase 2 for 4 weeks; review medication" },
+            { "trigger": "Symptoms return (fatigue, cold, gain)", "action": "Phase 1 for 14 days" },
+            { "trigger": "Anti-TPO rises > 50%", "action": "Increase anti-inflammatory interventions; add turmeric protocol" }
+          ]
+        }
+      },
+      "yoga_sequence": [
+        { "asana": "Sarvangasana (shoulder stand)", "duration_min": 3, "effect": "Direct pressure on thyroid gland → mechanical stimulation of hormone release" },
+        { "asana": "Matsyasana (fish pose)", "duration_min": 2, "effect": "Arches neck; maximum stretch and blood supply to thyroid" },
+        { "asana": "Halasana (plough pose)", "duration_min": 2, "effect": "Chin-lock stimulates thyroid; compresses anterior neck" },
+        { "asana": "Ustrasana (camel pose)", "duration_min": 2, "effect": "Neck extension stimulates thyroid and parathyroid simultaneously" },
+        { "asana": "Sethu Bandhasana with chin lock", "duration_min": 2, "effect": "Jalandhara bandha — classic thyroid toning posture" },
+        { "asana": "Simhasana (lion pose)", "duration_min": 2, "effect": "Tongue protrusion + neck stretch stimulates thyroid + larynx" },
+        { "asana": "Ujjayi + Bhramari pranayama", "duration_min": 7, "effect": "Laryngeal vibration stimulates thyroid mechanically; calms Hashimoto's autoimmune response" },
+        { "asana": "Savasana", "duration_min": 5, "effect": "Parasympathetic dominance; reduces autoimmune Th1 cytokine activity" }
+      ],
+      "diet": {
+        "eat": ["Brazil nuts (2/day)", "eggs", "seaweed (nori, kelp — 2x/week)", "fish (tuna, sardines)", "pumpkin seeds", "sunflower seeds", "lean meat", "cooked vegetables", "coconut oil (stimulates T4→T3)", "ginger", "turmeric", "bone broth"],
+        "avoid": ["Raw cruciferous vegetables (broccoli, cabbage, cauliflower — goitrogenic when raw; cook thoroughly)", "soy products (phytoestrogens block thyroid receptors)", "millet in excess (goitrogen)", "gluten (Hashimoto's — consider gluten-free trial)", "processed foods", "fluoride-heavy water"]
+      },
+      "red_flags": [
+        { "sign": "TSH > 50 mIU/L with altered consciousness", "action": "Myxoedema coma risk — immediate hospital admission" },
+        { "sign": "Bradycardia < 50 bpm + hypothermia", "action": "Severe hypothyroid cardiac depression — urgent care" },
+        { "sign": "Pregnancy with TSH > 2.5", "action": "Immediate endocrinologist referral; foetal risk" },
+        { "sign": "Chest pain or pericardial effusion symptoms", "action": "Hypothyroid heart disease — urgent echo" },
+        { "sign": "Severe constipation + abdominal distension", "action": "Rule out hypothyroid ileus" }
+      ],
+      "monitoring": [
+        { "frequency": "Daily", "parameters": ["Basal body temperature (morning, pre-rising)", "energy level", "bowel frequency"] },
+        { "frequency": "Weekly", "parameters": ["Weight", "resting heart rate", "skin/hair condition"] },
+        { "frequency": "Monthly", "parameters": ["TSH", "Free T3", "Free T4"] },
+        { "frequency": "Quarterly", "parameters": ["Anti-TPO antibodies", "lipid profile", "vitamin D", "B12", "ferritin"] }
+      ]
+    },
+    {
+      "id": "pcos",
+      "protocol_number": "04",
+      "title": "Polycystic Ovary Syndrome (PCOS)",
+      "category": "Metabolic / Hormonal",
+      "root_mechanism": "Insulin resistance → compensatory hyperinsulinaemia → ovarian theca cell stimulation → androgen excess (testosterone, DHEAS) → LH/FSH ratio imbalance → anovulation and follicular cyst formation. Hypothalamic GnRH pulse dysregulation perpetuates the cycle.",
+      "goals": [
+        { "parameter": "Menstrual regularity", "target": "Cycle every 28–35 days" },
+        { "parameter": "Fasting insulin", "target": "< 8 µIU/mL" },
+        { "parameter": "Testosterone (total)", "target": "< 50 ng/dL" },
+        { "parameter": "LH:FSH ratio", "target": "< 2:1" },
+        { "parameter": "HOMA-IR", "target": "< 2" }
+      ],
+      "phases": {
+        "phase1": {
+          "label": "Acute Intervention",
+          "duration": "14–21 days",
+          "exit_threshold": "≥ 12 / 15 points",
+          "interventions": [
+            { "time": "Wake-up", "intervention": "Sunlight exposure (10 min) + cold shower (2 min)", "duration": "12 min", "effect": "Morning light resets SCN circadian clock → normalises nocturnal LH pulse amplitude; cold lowers elevated androgens via adrenal cortisol modulation" },
+            { "time": "After shower", "intervention": "Castor oil pelvic Abhyanga (lower abdomen + sacrum area)", "duration": "15 min", "effect": "Castor oil ricinoleic acid penetrates ovarian capsule → reduces cyst-associated inflammation; sacral massage stimulates parasympathetic pelvic nerves → improves ovarian blood flow" },
+            { "time": "Before breakfast", "intervention": "Nadi Shodhana + Anulom Vilom (15 min)", "duration": "15 min", "effect": "Balances hypothalamic-pituitary axis via autonomic modulation → normalises GnRH pulsatility → improves LH:FSH ratio" },
+            { "time": "Breakfast", "intervention": "Low-GI high-protein: eggs + avocado + flaxseed smoothie", "duration": null, "effect": "Flaxseeds: lignans compete with oestrogen receptors → reduce estrogen dominance; low-GI breakfast lowers fasting insulin surge" },
+            { "time": "10:00 AM", "intervention": "Hot castor oil pack on lower abdomen (ovarian region)", "duration": "25 min", "effect": "Heat + ricinoleic acid → increases local prostaglandin E1 → promotes follicular maturation; lymphatic stimulation reduces ovarian congestion" },
+            { "time": "Before lunch", "intervention": "Spearmint tea (2 cups/day) + Shatavari decoction", "duration": "15 min before", "effect": "Spearmint reduces free testosterone by 30% (documented in RCTs); Shatavari (phytoestrogen adaptogen) normalises FSH and LH" },
+            { "time": "Lunch", "intervention": "Anti-androgen, anti-inflammatory: rainbow salad + legumes + seed cycling", "duration": null, "effect": "Seed cycling: pumpkin + flax seeds (follicular phase), sesame + sunflower (luteal) — provides zinc, selenium, omega-3 to balance hormones phase-specifically" },
+            { "time": "After lunch", "intervention": "Walk 20 min + pelvic floor exercises (Kegel 3 x 15)", "duration": "25 min", "effect": "Exercise reduces androgen levels; pelvic floor strengthening improves uterine and ovarian circulation; GLUT4 translocation improves insulin sensitivity" },
+            { "time": "3:00 PM", "intervention": "Hip bath (warm, with neem or triphala decoction)", "duration": "15 min", "effect": "Warm hip bath dilates pelvic vessels → reduces ovarian congestion and cyst pressure; neem is anti-androgenic" },
+            { "time": "4:00 PM", "intervention": "Yoga sequence (see below)", "duration": "25 min", "effect": "Hip-opening postures increase pelvic blood flow; twisting postures massage ovaries; pranayama regulates cortisol and androgens" },
+            { "time": "7:00 PM", "intervention": "Dinner: light, anti-inflammatory — cooked vegetables + dal + small portion grain", "duration": null, "effect": "Early light dinner reduces overnight insulin; evening insulin spikes directly stimulate androgen production" },
+            { "time": "9:00 PM", "intervention": "Warm Epsom salt bath with lavender essential oil", "duration": "20 min", "effect": "Magnesium reduces stress-induced cortisol and DHEAS; lavender reduces anxiety-driven LH dysregulation via limbic system" }
+          ],
+          "exit_criteria": [
+            { "parameter": "Menstrual cycle", "target": "Onset within Phase 1 or regularising", "points": 3 },
+            { "parameter": "Fasting insulin", "target": "Drop ≥ 20% from baseline", "points": 3 },
+            { "parameter": "Acne/hirsutism", "target": "Subjective improvement ≥ 30%", "points": 3 },
+            { "parameter": "Energy (0-10)", "target": "≥ 6", "points": 3 },
+            { "parameter": "Mood/anxiety (0-10)", "target": "≤ 4 (low score = better)", "points": 3 }
+          ]
+        },
+        "phase2": {
+          "label": "Consolidation & Repair",
+          "duration": "4–6 weeks",
+          "interventions": [
+            { "intervention": "Castor oil pelvic Abhyanga", "frequency": "3 x / week" },
+            { "intervention": "Hot castor oil pelvic pack", "frequency": "4 x / week" },
+            { "intervention": "Hip bath", "frequency": "4 x / week" },
+            { "intervention": "Epsom salt bath", "frequency": "4 x / week" },
+            { "intervention": "Spearmint tea", "frequency": "Daily (2 cups)" },
+            { "intervention": "Yoga (pelvic + twists)", "frequency": "Daily (25 min)" },
+            { "intervention": "Low-GI + seed cycling diet", "frequency": "Daily" }
+          ],
+          "exit_criteria": [
+            { "parameter": "Menstrual cycle", "target": "Regular 28–35 days for 2 consecutive cycles", "points": 3 },
+            { "parameter": "Fasting insulin", "target": "< 8 µIU/mL", "points": 3 },
+            { "parameter": "Total testosterone", "target": "< 50 ng/dL", "points": 3 },
+            { "parameter": "LH:FSH ratio", "target": "< 2:1", "points": 3 },
+            { "parameter": "Ultrasound", "target": "Reduction in cyst number or size", "points": 3 }
+          ]
+        },
+        "phase3": {
+          "label": "Maintenance & Relapse Prevention",
+          "duration": "Indefinite",
+          "practices": [
+            { "practice": "Low-GI diet + seed cycling", "dose_frequency": "Lifelong" },
+            { "practice": "Spearmint tea (2 cups/day)", "dose_frequency": "Lifelong" },
+            { "practice": "Pelvic castor oil Abhyanga", "dose_frequency": "2 x / week" },
+            { "practice": "Yoga + pranayama", "dose_frequency": "Daily 20 min" },
+            { "practice": "Hot pelvic pack", "dose_frequency": "If cycle delays or pelvic pain returns" },
+            { "practice": "Shatavari (supervised)", "dose_frequency": "3 months on, 1 month off" }
+          ],
+          "relapse_rules": [
+            { "trigger": "Cycle > 45 days again", "action": "Phase 2 for 6 weeks + pelvic packs daily" },
+            { "trigger": "Testosterone rises > 60 ng/dL", "action": "Phase 1 for 14 days" },
+            { "trigger": "Weight gain > 3 kg", "action": "Combined obesity-PCOS protocol" }
+          ]
+        }
+      },
+      "yoga_sequence": [
+        { "asana": "Baddha Konasana (butterfly)", "duration_min": 5, "effect": "Hip opening → increases pelvic blood flow; stretches ovarian ligaments" },
+        { "asana": "Supta Baddha Konasana", "duration_min": 5, "effect": "Passive hip opening; reduces ovarian congestion; stimulates parasympathetic pelvic nerves" },
+        { "asana": "Malasana (squat/garland)", "duration_min": 3, "effect": "Compresses pelvic floor → massages ovaries and uterus mechanically" },
+        { "asana": "Viparita Karani", "duration_min": 5, "effect": "Improves venous drainage from pelvis; reduces ovarian cystic pressure" },
+        { "asana": "Ardha Matsyendrasana (twist)", "duration_min": 2, "effect": "Massages ovaries + adrenals; reduces androgen excess from adrenal source" },
+        { "asana": "Anulom Vilom + Nadi Shodhana", "duration_min": 5, "effect": "Hypothalamic-pituitary axis regulation via ANS balancing" },
+        { "asana": "Savasana with abdominal breathing", "duration_min": 5, "effect": "Cortisol reduction; HPA-HPO axis resetting" }
+      ],
+      "diet": {
+        "eat": ["Flaxseeds", "pumpkin seeds", "sesame seeds (seed cycling)", "spearmint tea", "cinnamon (insulin sensitiser)", "berries", "leafy greens", "legumes", "eggs", "fatty fish", "avocado", "walnuts", "Shatavari", "ashwagandha", "fenugreek", "probiotic foods (curd, kefir)"],
+        "avoid": ["Refined carbs", "white sugar", "dairy (excess — increases IGF-1 and androgens)", "soy in excess (phytoestrogen disruption at high doses)", "alcohol", "caffeine excess", "processed meats", "trans fats", "gluten (if gut-associated PCOS)"]
+      },
+      "red_flags": [
+        { "sign": "No menstruation for > 6 months", "action": "Rule out premature ovarian failure or secondary amenorrhoea" },
+        { "sign": "Severe pelvic pain", "action": "Rule out ovarian torsion — surgical emergency" },
+        { "sign": "Rapid virilisation (voice deepening, clitoromegaly)", "action": "Rule out ovarian/adrenal tumour; urgent endocrinology" },
+        { "sign": "Desire for fertility", "action": "Collaborate with reproductive endocrinologist before protocol intensification" },
+        { "sign": "Fasting glucose > 126 mg/dL", "action": "PCOS-associated T2DM — add diabetes protocol" }
+      ],
+      "monitoring": [
+        { "frequency": "Daily", "parameters": ["Basal body temperature (BBT chart)", "energy", "mood score"] },
+        { "frequency": "Weekly", "parameters": ["Weight", "waist circumference", "skin/acne", "hair loss assessment"] },
+        { "frequency": "Monthly", "parameters": ["Fasting insulin", "testosterone", "LH", "FSH (Day 2–3 of cycle if menstruating)"] },
+        { "frequency": "Quarterly", "parameters": ["Pelvic ultrasound", "AMH", "HOMA-IR", "cortisol", "prolactin"] }
+      ]
+    },
+    {
+      "id": "rheumatoid_arthritis",
+      "protocol_number": "05",
+      "title": "Rheumatoid Arthritis (RA)",
+      "category": "Inflammation",
+      "root_mechanism": "Molecular mimicry or gut dysbiosis → loss of immune tolerance → Th1/Th17 cell activation → synovial macrophage infiltration → TNF-α, IL-1β, IL-6 excess → synovitis, pannus formation, cartilage erosion, and systemic inflammation.",
+      "goals": [
+        { "parameter": "DAS28 score", "target": "< 2.6 (remission)" },
+        { "parameter": "hs-CRP", "target": "< 1 mg/L" },
+        { "parameter": "ESR", "target": "< 20 mm/hr" },
+        { "parameter": "RF / Anti-CCP", "target": "Downtrend from baseline" },
+        { "parameter": "Morning stiffness", "target": "< 15 minutes" }
+      ],
+      "phases": {
+        "phase1": {
+          "label": "Acute Intervention",
+          "duration": "14–21 days",
+          "exit_threshold": "≥ 12 / 15 points",
+          "interventions": [
+            { "time": "Wake-up", "intervention": "Warm paraffin bath or warm water soak for hands/feet (15 min)", "duration": "15 min", "effect": "Heat reduces synovial viscosity; promotes synovial fluid circulation; reduces morning stiffness by dilating periarticular capillaries" },
+            { "time": "After warm soak", "intervention": "Gentle joint mobilisation (range-of-motion exercises — all joints)", "duration": "10 min", "effect": "Passive-to-active ROM preserves cartilage nutrition (avascular cartilage feeds via synovial fluid diffusion during movement)" },
+            { "time": "Before breakfast", "intervention": "Nadi Shodhana + Bhramari (15 min)", "duration": "15 min", "effect": "Reduces systemic cortisol → lowers IL-6 and CRP; vagal activation reduces pro-inflammatory macrophage polarisation" },
+            { "time": "Breakfast", "intervention": "Anti-inflammatory: fatty fish / flaxseed + turmeric milk + berries", "duration": null, "effect": "Omega-3 EPA/DHA competitively inhibit arachidonic acid → reduce leukotriene B4 and PGE2 production; turmeric curcumin blocks NF-kB" },
+            { "time": "10:00 AM", "intervention": "Cold pack on acutely inflamed joints (hot pack for stiff joints — clinician choice)", "duration": "20 min", "effect": "Cold on inflamed joints: reduces prostaglandin synthesis; slows nerve conduction → analgesia. Hot on stiff: reduces adhesions, increases extensibility" },
+            { "time": "Before lunch", "intervention": "Boswellia (Shallaki) + Ginger decoction", "duration": "20 min before", "effect": "Boswellic acid inhibits 5-lipoxygenase (5-LOX) → blocks leukotriene B4 (primary neutrophil chemoattractant in RA); ginger's gingerols inhibit COX-2" },
+            { "time": "Lunch", "intervention": "Anti-inflammatory Mediterranean-type: olive oil, vegetables, whole grains, legumes, no red meat", "duration": null, "effect": "Mediterranean diet reduces CRP 20%; olive oil oleocanthal = natural ibuprofen equivalent; avoids arachidonic acid from red meat" },
+            { "time": "After lunch", "intervention": "Gentle 20-min pool walk or chair yoga", "duration": "20 min", "effect": "Aquatic exercise offloads joints (90% body weight supported); maintains muscle strength without synovial trauma" },
+            { "time": "3:00 PM", "intervention": "Castor oil joint pack on affected joints + medicated Mahanarayan oil massage", "duration": "20 min", "effect": "Castor oil ricinoleic acid: potent anti-inflammatory (reduces PGE2); Mahanarayan oil: sesame + 50 herb blend penetrates periarticular tissue" },
+            { "time": "4:00 PM", "intervention": "Yoga sequence (gentle, see below)", "duration": "20 min", "effect": "Gentle yoga reduces TNF-α by 18% (documented); improves joint proprioception; HPA axis regulation" },
+            { "time": "6:00 PM", "intervention": "Warm Epsom salt full-body bath", "duration": "20 min", "effect": "Magnesium sulfate reduces synovial prostaglandins; transdermal absorption; sulfate supports cartilage GAG synthesis" },
+            { "time": "7:00 PM", "intervention": "Light anti-inflammatory dinner: dal khichdi + turmeric + ghee", "duration": null, "effect": "Ghee butyrate reduces intestinal permeability (leaky gut drives RA autoimmunity); turmeric synergises with fat for absorption" },
+            { "time": "9:00 PM", "intervention": "Medicated herbal oil massage (Dhanwantharam oil) on all joints", "duration": "15 min", "effect": "Traditional Ayurvedic joint-penetrating oil blend; sesame oil base transports anti-inflammatory alkaloids across skin-joint barrier" }
+          ],
+          "exit_criteria": [
+            { "parameter": "Joint pain VAS (0-10)", "target": "≤ 4", "points": 3 },
+            { "parameter": "Morning stiffness", "target": "< 30 min", "points": 3 },
+            { "parameter": "hs-CRP", "target": "Drop ≥ 30%", "points": 3 },
+            { "parameter": "Grip strength", "target": "Improvement ≥ 20%", "points": 3 },
+            { "parameter": "Energy (0-10)", "target": "≥ 6", "points": 3 }
+          ]
+        },
+        "phase2": {
+          "label": "Consolidation & Repair",
+          "duration": "4–6 weeks",
+          "interventions": [
+            { "intervention": "Warm joint soaks", "frequency": "Daily (morning)" },
+            { "intervention": "Cold/hot packs on joints", "frequency": "Daily (as indicated)" },
+            { "intervention": "Castor oil joint packs", "frequency": "4 x / week" },
+            { "intervention": "Mahanarayan oil massage", "frequency": "Daily (15 min)" },
+            { "intervention": "Epsom salt bath", "frequency": "4 x / week" },
+            { "intervention": "Gentle yoga", "frequency": "Daily (20 min)" },
+            { "intervention": "Anti-inflammatory diet", "frequency": "Daily (strict compliance)" }
+          ],
+          "exit_criteria": [
+            { "parameter": "DAS28 score", "target": "< 3.2 (low disease activity)", "points": 3 },
+            { "parameter": "hs-CRP", "target": "< 2 mg/L", "points": 3 },
+            { "parameter": "ESR", "target": "< 30 mm/hr", "points": 3 },
+            { "parameter": "Joint count", "target": "< 3 swollen joints", "points": 3 },
+            { "parameter": "Medication reduction", "target": "≥ 25% dose reduction achieved", "points": 3 }
+          ]
+        },
+        "phase3": {
+          "label": "Maintenance & Relapse Prevention",
+          "duration": "Indefinite",
+          "practices": [
+            { "practice": "Anti-inflammatory diet", "dose_frequency": "Lifelong — no red meat, no refined sugar" },
+            { "practice": "Omega-3 supplementation (supervised)", "dose_frequency": "3 g/day EPA+DHA" },
+            { "practice": "Mahanarayan oil massage", "dose_frequency": "3 x / week" },
+            { "practice": "Warm joint soaks", "dose_frequency": "Daily morning ritual" },
+            { "practice": "Gentle yoga", "dose_frequency": "5 x / week" },
+            { "practice": "Cold packs on joints", "dose_frequency": "If swelling returns" }
+          ],
+          "relapse_rules": [
+            { "trigger": "DAS28 > 3.2", "action": "Return to Phase 2 + daily castor packs" },
+            { "trigger": "CRP > 5 mg/L", "action": "Phase 1 for 21 days" },
+            { "trigger": "New joint erosion on X-ray", "action": "Immediate rheumatologist collaboration" }
+          ]
+        }
+      },
+      "yoga_sequence": [
+        { "asana": "Sukhasana with gentle arm circles", "duration_min": 3, "effect": "Maintains shoulder ROM; gentle synovial fluid distribution" },
+        { "asana": "Pavanmuktasana series (gas release)", "duration_min": 5, "effect": "Systematic joint mobilisation from toes to neck; classic RA therapy" },
+        { "asana": "Viparita Karani", "duration_min": 5, "effect": "Reduces lower limb oedema; anti-gravity joint decompression" },
+        { "asana": "Shavasana with body scan", "duration_min": 5, "effect": "Reduces TNF-α via cortisol regulation; pain modulation via DMN" },
+        { "asana": "Gentle seated twists (no force)", "duration_min": 2, "effect": "Spinal facet mobilisation; reduces systemic inflammatory cytokines" },
+        { "asana": "Nadi Shodhana + Bhramari", "duration_min": 5, "effect": "Most potent anti-inflammatory pranayama — reduces IL-6 directly" }
+      ],
+      "diet": {
+        "eat": ["Fatty fish (salmon, sardines, mackerel 3x/week)", "walnuts", "flaxseeds", "chia seeds", "turmeric (with black pepper)", "ginger", "garlic", "olive oil", "berries (anthocyanins)", "leafy greens", "broccoli", "bone broth", "collagen-rich foods", "probiotic curd", "cherry juice"],
+        "avoid": ["Red meat (arachidonic acid)", "processed meats", "refined sugar", "white flour", "alcohol", "nightshade vegetables (tomato, eggplant, pepper — trial-avoid in flares)", "gluten (trial elimination for 6 weeks)", "trans fats"]
+      },
+      "red_flags": [
+        { "sign": "Fever > 38.5°C + swollen joint", "action": "Rule out septic arthritis — joint aspiration required urgently" },
+        { "sign": "Sudden respiratory symptoms", "action": "Rule out RA-associated interstitial lung disease" },
+        { "sign": "Eye redness + pain", "action": "Rule out scleritis or uveitis — urgent ophthalmology" },
+        { "sign": "Rapidly worsening neurological symptoms", "action": "Rule out atlanto-axial subluxation in cervical RA" },
+        { "sign": "Uncontrolled pain despite all interventions", "action": "Biologics consultation required" }
+      ],
+      "monitoring": [
+        { "frequency": "Daily", "parameters": ["Joint pain VAS", "morning stiffness duration", "step count"] },
+        { "frequency": "Weekly", "parameters": ["Grip strength (dynamometer)", "joint swelling count"] },
+        { "frequency": "Monthly", "parameters": ["hs-CRP", "ESR", "DAS28 score", "CBC"] },
+        { "frequency": "Quarterly", "parameters": ["RF", "Anti-CCP", "X-ray of hands/feet", "liver function (if on DMARDs)"] }
+      ]
+    },
+    {
+      "id": "osteoarthritis",
+      "protocol_number": "06",
+      "title": "Osteoarthritis (OA) — Knee & Hip",
+      "category": "Inflammation / Degenerative",
+      "root_mechanism": "Mechanical overload + chondrocyte senescence → proteoglycan loss (collagen type II degradation) → subchondral bone sclerosis → osteophyte formation → synovial inflammation (secondary) → cartilage thinning and joint space narrowing.",
+      "goals": [
+        { "parameter": "WOMAC pain score", "target": "Reduce ≥ 40%" },
+        { "parameter": "6-min walk distance", "target": "Increase ≥ 50 m" },
+        { "parameter": "VAS pain (0-10)", "target": "≤ 3" },
+        { "parameter": "Joint ROM", "target": "Improve ≥ 15 degrees knee flexion" },
+        { "parameter": "Weight (if obese)", "target": "Reduce ≥ 5% body weight" }
+      ],
+      "phases": {
+        "phase1": {
+          "label": "Acute Intervention",
+          "duration": "14–21 days",
+          "exit_threshold": "≥ 12 / 15 points",
+          "interventions": [
+            { "time": "Wake-up", "intervention": "Hot paraffin wax bath on knee/hip or warm mustard oil joint pack", "duration": "20 min", "effect": "Heat increases synovial fluid viscosity and distribution; reduces subchondral bone pain by dilating periarticular vasculature; relaxes periarticular muscle spasm" },
+            { "time": "After heat", "intervention": "Alternating hot-cold pack on joint (2 min each x 5 cycles)", "duration": "10 min", "effect": "Contrast therapy reduces secondary synovial oedema; vascular pumping flushes inflammatory metabolites from joint space" },
+            { "time": "Before breakfast", "intervention": "Gentle pranayama: Anulom Vilom + Bhramari (10 min)", "duration": "10 min", "effect": "Reduces systemic IL-6 and TNF-α; lowers pain catastrophising via limbic modulation → reduces central sensitisation" },
+            { "time": "Breakfast", "intervention": "Collagen-rich anti-inflammatory: bone broth / egg white + vitamin C foods + turmeric", "duration": null, "effect": "Vitamin C is essential for collagen type II synthesis in chondrocytes; turmeric curcumin inhibits MMP-3/13 (cartilage-degrading enzymes)" },
+            { "time": "10:00 AM", "intervention": "Mahanarayan oil deep massage around (not on) joint + drainage technique", "duration": "20 min", "effect": "Periarticular massage reduces muscle spasm and compensatory joint loading; oil penetrates bursa → reduces periarticular inflammation" },
+            { "time": "Before lunch", "intervention": "Boswellia (Shallaki) 400 mg + Guggul decoction", "duration": "20 min before", "effect": "Boswellic acid reduces cartilage-degrading leukotriene B4; guggulsterones reduce COX-2 expression in chondrocytes" },
+            { "time": "Lunch", "intervention": "Anti-inflammatory joint-supportive: selenium, zinc, omega-3 rich foods; avoid nightshades", "duration": null, "effect": "Selenium reduces oxidative damage to chondrocytes; zinc is cofactor for SOD — chondrocyte antioxidant protection" },
+            { "time": "After lunch", "intervention": "Pool exercise or chair exercise (non-weight-bearing strengthening)", "duration": "25 min", "effect": "Quadriceps strengthening reduces knee joint loading by 4 kg per 1 kg muscle gained; water buoyancy prevents shear forces on damaged cartilage" },
+            { "time": "3:00 PM", "intervention": "Cold pack on swollen joint (if warm/inflamed) or hot pack (if stiff, not inflamed)", "duration": "20 min", "effect": "Precise application: acute oedema → cold (reduces inflammatory exudate); chronic stiffness → heat (increases collagen extensibility)" },
+            { "time": "4:00 PM", "intervention": "Yoga sequence (see below)", "duration": "20 min", "effect": "Non-impact joint strengthening; periarticular muscle building; gentle ROM maintenance without cartilage compression" },
+            { "time": "6:00 PM", "intervention": "Epsom salt soak (full body or local knee/foot bath)", "duration": "20 min", "effect": "Magnesium sulfate reduces periarticular muscle tension; sulfate is substrate for chondroitin sulfate synthesis in cartilage" },
+            { "time": "7:00 PM", "intervention": "Dinner: bone broth soup + anti-inflammatory vegetables + small protein", "duration": null, "effect": "Evening bone broth provides glycine, proline, hydroxyproline — direct cartilage repair substrates during overnight tissue regeneration" }
+          ],
+          "exit_criteria": [
+            { "parameter": "VAS pain (0-10)", "target": "≤ 5", "points": 3 },
+            { "parameter": "Morning stiffness", "target": "< 20 min", "points": 3 },
+            { "parameter": "ROM improvement", "target": "≥ 10 degrees", "points": 3 },
+            { "parameter": "Walk distance", "target": "Increase ≥ 30 m", "points": 3 },
+            { "parameter": "Sleep quality (0-10)", "target": "≥ 6 (pain-free nights)", "points": 3 }
+          ]
+        },
+        "phase2": {
+          "label": "Consolidation & Repair",
+          "duration": "4–6 weeks",
+          "interventions": [
+            { "intervention": "Hot joint packs (morning)", "frequency": "Daily" },
+            { "intervention": "Mahanarayan oil massage", "frequency": "Daily (15 min)" },
+            { "intervention": "Cold/contrast packs", "frequency": "4 x / week (as indicated)" },
+            { "intervention": "Epsom salt bath/soak", "frequency": "4 x / week" },
+            { "intervention": "Pool/chair exercises", "frequency": "Daily (25 min)" },
+            { "intervention": "Yoga (non-impact)", "frequency": "Daily (20 min)" },
+            { "intervention": "Boswellia + Guggul", "frequency": "Daily (supervised)" }
+          ],
+          "exit_criteria": [
+            { "parameter": "WOMAC pain", "target": "Reduce ≥ 30% from baseline", "points": 3 },
+            { "parameter": "VAS", "target": "≤ 3 / 10", "points": 3 },
+            { "parameter": "6-min walk", "target": "Increase ≥ 50 m", "points": 3 },
+            { "parameter": "ROM", "target": "Improve ≥ 15 degrees", "points": 3 },
+            { "parameter": "NSAID use", "target": "Reduce ≥ 50%", "points": 3 }
+          ]
+        },
+        "phase3": {
+          "label": "Maintenance & Relapse Prevention",
+          "duration": "Indefinite",
+          "practices": [
+            { "practice": "Daily warm joint pack (morning)", "dose_frequency": "Lifelong — 10 min" },
+            { "practice": "Mahanarayan oil", "dose_frequency": "3 x / week" },
+            { "practice": "Quadriceps/glute strengthening", "dose_frequency": "Daily" },
+            { "practice": "Low-impact exercise (swim/cycle)", "dose_frequency": "5 x / week, 30 min" },
+            { "practice": "Anti-inflammatory diet", "dose_frequency": "Lifelong" },
+            { "practice": "Cold pack", "dose_frequency": "If joint swells or pain > 5 VAS" }
+          ],
+          "relapse_rules": [
+            { "trigger": "VAS > 6 for 3 days", "action": "Return to Phase 2 + daily packs" },
+            { "trigger": "New joint effusion", "action": "Phase 1 for 14 days; assess for aspiration" },
+            { "trigger": "Loss of > 15 degrees ROM", "action": "Phase 1 intensification + physiotherapy collaboration" }
+          ]
+        }
+      },
+      "yoga_sequence": [
+        { "asana": "Dandasana (staff pose — seated)", "duration_min": 3, "effect": "Strengthens quads without joint compression; improves posture" },
+        { "asana": "Viparita Karani", "duration_min": 5, "effect": "Decompresses knee joint; reduces intra-articular pressure" },
+        { "asana": "Setu Bandhasana (bridge)", "duration_min": 3, "effect": "Glute + hamstring strengthening; reduces knee valgus stress" },
+        { "asana": "Supta Padangusthasana", "duration_min": 3, "effect": "Gentle hamstring stretch; reduces posterior knee tension" },
+        { "asana": "Ardha Chandrasana (wall-supported)", "duration_min": 2, "effect": "Hip abductor strengthening without loading" },
+        { "asana": "Tadasana + heel raises (wall support)", "duration_min": 2, "effect": "Calf strengthening; improves ankle-knee chain mechanics" },
+        { "asana": "Bhramari + Anulom Vilom", "duration_min": 5, "effect": "Pain modulation via endorphin release; reduces central sensitisation" },
+        { "asana": "Savasana with leg elevation", "duration_min": 5, "effect": "Reduces knee oedema; pain-free recovery position" }
+      ],
+      "diet": {
+        "eat": ["Bone broth (daily)", "collagen peptides", "fatty fish", "eggs", "vitamin C foods (amla, bell pepper, kiwi)", "turmeric + black pepper", "ginger", "garlic", "leafy greens", "broccoli", "nuts (walnuts)", "olive oil", "berries", "pomegranate juice"],
+        "avoid": ["Red meat (inflammatory arachidonic acid)", "refined sugar", "fried foods", "excessive salt (joint fluid retention)", "alcohol", "white flour", "nightshade vegetables (tomato, eggplant — trial elimination)", "excess omega-6 oils (sunflower, corn oil)"]
+      },
+      "red_flags": [
+        { "sign": "Sudden joint locking or giving way", "action": "Rule out meniscal tear or loose body — orthopaedic review" },
+        { "sign": "Hot, red, swollen joint with fever", "action": "Rule out septic arthritis — emergency aspiration" },
+        { "sign": "VAS > 8 unresponsive to all measures", "action": "Surgical evaluation for joint replacement" },
+        { "sign": "Rapidly progressive joint space loss on X-ray", "action": "Aggressive rheumatology referral" },
+        { "sign": "Numbness or weakness in limb below joint", "action": "Rule out nerve entrapment or vascular compromise" }
+      ],
+      "monitoring": [
+        { "frequency": "Daily", "parameters": ["VAS pain score", "steps walked", "stiffness duration"] },
+        { "frequency": "Weekly", "parameters": ["ROM measurement", "swelling assessment", "weight"] },
+        { "frequency": "Monthly", "parameters": ["hs-CRP", "ESR", "WOMAC score"] },
+        { "frequency": "Quarterly", "parameters": ["X-ray of affected joint (standing)", "muscle strength assessment", "BMI"] }
+      ]
+    },
+    {
+      "id": "bronchial_asthma",
+      "protocol_number": "07",
+      "title": "Bronchial Asthma",
+      "category": "Inflammation / Respiratory",
+      "root_mechanism": "Atopic sensitisation + environmental triggers → mast cell degranulation → Th2-mediated eosinophilic bronchial inflammation → bronchial smooth muscle hyperreactivity + mucus hypersecretion + subepithelial fibrosis → airflow obstruction.",
+      "goals": [
+        { "parameter": "FEV1", "target": "> 80% predicted" },
+        { "parameter": "FEV1/FVC ratio", "target": "> 70%" },
+        { "parameter": "Peak flow variability", "target": "< 20% diurnal variation" },
+        { "parameter": "ACQ score", "target": "< 1.5 (well controlled)" },
+        { "parameter": "Rescue inhaler use", "target": "< 2 x / week" }
+      ],
+      "phases": {
+        "phase1": {
+          "label": "Acute Intervention",
+          "duration": "14–21 days",
+          "exit_threshold": "≥ 12 / 15 points",
+          "interventions": [
+            { "time": "Wake-up", "intervention": "Nasal irrigation (Jala Neti with saline) + warm steam inhalation with eucalyptus", "duration": "15 min", "effect": "Nasal irrigation clears allergens and reduces nasal eosinophil load; eucalyptus 1,8-cineole is mucolytic and bronchodilatory" },
+            { "time": "After neti", "intervention": "Buteyko breathing exercise (nasal-only, reduced volume breathing)", "duration": "10 min", "effect": "Buteyko method raises CO2 → smooth muscle relaxation via Bohr effect → bronchodilation; breaks hyperventilation-bronchospasm cycle" },
+            { "time": "Before breakfast", "intervention": "Pranayama: Anulom Vilom + slow Kapalabhati (30 strokes/min only)", "duration": "10 min", "effect": "Slow Kapalabhati increases alveolar ventilation without triggering bronchospasm; Anulom Vilom reduces mast cell reactivity via vagal modulation" },
+            { "time": "Breakfast", "intervention": "Anti-inflammatory, anti-allergic: turmeric milk, vitamin C fruits, honey + ginger", "duration": null, "effect": "Quercetin (onion, apple) stabilises mast cells; vitamin C reduces histamine levels; ginger inhibits 5-LOX and prostaglandin E2" },
+            { "time": "10:00 AM", "intervention": "Chest mustard oil pack (warm) + percussion massage on upper back", "duration": "20 min", "effect": "Mustard oil allyl isothiocyanate increases bronchial blood flow; percussion vibrates bronchial walls → loosens mucus plugs → aids expectoration" },
+            { "time": "Before lunch", "intervention": "Vasaka (Malabar nut) + Licorice (Yashtimadhu) decoction", "duration": "20 min before", "effect": "Vasaka leaf alkaloid vasicine is potent bronchodilator and mucolytic (10x more than bromhexine); licorice glycyrrhizin inhibits 11β-HSD → anti-inflammatory" },
+            { "time": "Lunch", "intervention": "Anti-histamine, anti-inflammatory: no dairy, no processed food, rainbow vegetables + fish", "duration": null, "effect": "Dairy increases mucus viscosity; processed food contains sulphites (asthma trigger); omega-3 shifts LTB4 to LTB5 → weaker bronchospasm mediator" },
+            { "time": "After lunch", "intervention": "Slow 20-min nasal-only walk in pollution-free environment", "duration": "20 min", "effect": "Nasal breathing warms, humidifies and filters air → reduces exercise-induced bronchospasm; aerobic exercise improves FEV1 long-term" },
+            { "time": "3:00 PM", "intervention": "Cold water chest pack (apply on upper chest/sternum)", "duration": "15 min", "effect": "Cold → reflex vasodilation on rewarming → improved bronchial mucosal circulation; reduces eosinophilic infiltration in bronchial wall" },
+            { "time": "4:00 PM", "intervention": "Yoga sequence (see below) — NO Kapalabhati in active wheeze", "duration": "20 min", "effect": "Chest-opening postures increase FRC; diaphragm strengthening reduces accessory muscle use; inversions drain sinus congestion" },
+            { "time": "6:00 PM", "intervention": "Steam inhalation with ajwain (carom seeds) + turmeric", "duration": "10 min", "effect": "Ajwain thymol is potent bronchodilator; steam hydrates bronchial mucosa; reduces nocturnal mucus plugging" },
+            { "time": "7:00 PM", "intervention": "Light easy-to-digest dinner: no dairy, no cold foods", "duration": null, "effect": "Nocturnal asthma worsens with large meals (diaphragm compression); avoid dairy's mucus-increasing effect before sleep" },
+            { "time": "9:00 PM", "intervention": "Warm mustard oil chest and back massage", "duration": "15 min", "effect": "Overnight mucolysis; reduces nocturnal bronchospasm via parasympathetic skin stimulation; warmth prevents cold-triggered bronchoconstriction" }
+          ],
+          "exit_criteria": [
+            { "parameter": "Wheeze episodes", "target": "< 2 / week", "points": 3 },
+            { "parameter": "Night waking", "target": "< 1 / week", "points": 3 },
+            { "parameter": "Peak flow", "target": "Improve ≥ 15% from baseline", "points": 3 },
+            { "parameter": "Rescue inhaler", "target": "< 2 uses / week", "points": 3 },
+            { "parameter": "Energy (0-10)", "target": "≥ 6", "points": 3 }
+          ]
+        },
+        "phase2": {
+          "label": "Consolidation & Repair",
+          "duration": "4–6 weeks",
+          "interventions": [
+            { "intervention": "Jala Neti (nasal irrigation)", "frequency": "Daily" },
+            { "intervention": "Buteyko breathing", "frequency": "Daily (10 min)" },
+            { "intervention": "Pranayama", "frequency": "Daily (15 min — no Kapalabhati in wheeze)" },
+            { "intervention": "Chest mustard oil pack", "frequency": "4 x / week" },
+            { "intervention": "Steam inhalation (Vasaka)", "frequency": "4 x / week" },
+            { "intervention": "Yoga (chest-opening)", "frequency": "Daily (20 min)" },
+            { "intervention": "Anti-allergic diet", "frequency": "Daily (dairy-free)" }
+          ],
+          "exit_criteria": [
+            { "parameter": "FEV1", "target": "Improve ≥ 10% from baseline", "points": 3 },
+            { "parameter": "ACQ score", "target": "< 1.5", "points": 3 },
+            { "parameter": "Rescue inhaler", "target": "< 2 x / week", "points": 3 },
+            { "parameter": "Night symptoms", "target": "0 / week", "points": 3 },
+            { "parameter": "Steroid dose", "target": "Reduce ≥ 25% (if on ICS)", "points": 3 }
+          ]
+        },
+        "phase3": {
+          "label": "Maintenance & Relapse Prevention",
+          "duration": "Indefinite",
+          "practices": [
+            { "practice": "Daily Jala Neti", "dose_frequency": "Year-round, especially dusty seasons" },
+            { "practice": "Pranayama (Buteyko + AN)", "dose_frequency": "Daily 15 min" },
+            { "practice": "Yoga (chest-opening)", "dose_frequency": "5 x / week" },
+            { "practice": "Dairy-free, anti-allergic diet", "dose_frequency": "Lifelong" },
+            { "practice": "Steam inhalation", "dose_frequency": "3 x / week; daily in winter" },
+            { "practice": "Chest pack", "dose_frequency": "If wheeze returns or on polluted days" }
+          ],
+          "relapse_rules": [
+            { "trigger": "> 3 wheeze episodes / week", "action": "Phase 2 for 4 weeks + daily chest packs" },
+            { "trigger": "FEV1 drops > 15%", "action": "Phase 1 for 14 days; medication review" },
+            { "trigger": "Steroid course required", "action": "Document and restart Phase 1 post-stabilisation" }
+          ]
+        }
+      },
+      "yoga_sequence": [
+        { "asana": "Sukhasana with slow diaphragmatic breathing", "duration_min": 3, "effect": "Trains diaphragm; increases tidal volume; reduces FRC deficiency" },
+        { "asana": "Bhujangasana (cobra)", "duration_min": 2, "effect": "Opens chest; stretches intercostal muscles; improves thoracic compliance" },
+        { "asana": "Dhanurasana (bow)", "duration_min": 2, "effect": "Maximum chest expansion; stretches anterior chest wall; drains posterior lung zones" },
+        { "asana": "Matsyasana (fish)", "duration_min": 3, "effect": "Stretches bronchial tree via neck-chest expansion; stimulates thymus (immune modulation)" },
+        { "asana": "Sethu Bandhasana", "duration_min": 2, "effect": "Diaphragm strengthening; thoracic spine extension improving rib cage mobility" },
+        { "asana": "Viparita Karani", "duration_min": 5, "effect": "Postural drainage of upper lobes; reverses gravitational mucus pooling" },
+        { "asana": "Anulom Vilom (slow)", "duration_min": 5, "effect": "Reduces bronchial hyperreactivity; improves peak flow by 12% in 4 weeks (studied)" },
+        { "asana": "Savasana with chest expansion bolster", "duration_min": 3, "effect": "Passive chest opening; reduces residual volume" }
+      ],
+      "diet": {
+        "eat": ["Turmeric (anti-mast cell)", "ginger", "garlic", "onion (quercetin)", "apples", "berries", "fatty fish (omega-3)", "flaxseeds", "honey + ginger (morning)", "Vasaka leaf tea", "licorice tea", "warm water throughout day", "vitamin C-rich foods (amla, guava)"],
+        "avoid": ["All dairy products (mucus-forming)", "cold drinks and food", "sulphite-containing foods (wine, dried fruits, packaged foods)", "food colourings/preservatives", "peanuts (allergenic)", "shellfish", "refined sugar", "alcohol", "excessive salt (increases bronchial reactivity)", "cold-pressed oils in excess"]
+      },
+      "red_flags": [
+        { "sign": "SpO2 < 92% or cyanosis", "action": "Acute severe asthma — administer rescue bronchodilator; hospital emergency immediately" },
+        { "sign": "Cannot complete a sentence", "action": "Life-threatening attack — call emergency services" },
+        { "sign": "Rescue inhaler > 3 x in 24 h with no relief", "action": "Status asthmaticus risk — urgent hospitalisation" },
+        { "sign": "Fever + purulent sputum + wheeze", "action": "Rule out infective exacerbation/pneumonia" },
+        { "sign": "Wheeze only on one side", "action": "Rule out foreign body or tumour — urgent imaging" }
+      ],
+      "monitoring": [
+        { "frequency": "Daily", "parameters": ["Peak expiratory flow (morning + evening)", "rescue inhaler use count", "symptom diary"] },
+        { "frequency": "Weekly", "parameters": ["ACQ score", "sleep quality", "exercise tolerance"] },
+        { "frequency": "Monthly", "parameters": ["Spirometry (FEV1, FVC)", "eosinophil count", "IgE"] },
+        { "frequency": "Quarterly", "parameters": ["Chest X-ray (annual)", "allergy panel review", "inhaler technique assessment"] }
+      ]
+    },
+    {
+      "id": "nafld",
+      "protocol_number": "08",
+      "title": "Non-Alcoholic Fatty Liver Disease (NAFLD)",
+      "category": "Detox / Metabolic",
+      "root_mechanism": "Insulin resistance → hepatic de novo lipogenesis ↑ + impaired VLDL export → hepatic triglyceride accumulation → mitochondrial oxidative stress → inflammatory cytokine production (TNF-α, IL-6) → hepatocyte injury → progression to NASH.",
+      "goals": [
+        { "parameter": "Liver fat (MRI-PDFF)", "target": "Reduce ≥ 30% from baseline" },
+        { "parameter": "ALT", "target": "< 40 U/L" },
+        { "parameter": "AST", "target": "< 40 U/L" },
+        { "parameter": "GGT", "target": "< 40 U/L" },
+        { "parameter": "Liver stiffness", "target": "< 7 kPa (FibroScan)" }
+      ],
+      "phases": {
+        "phase1": {
+          "label": "Acute Intervention",
+          "duration": "14–21 days",
+          "exit_threshold": "≥ 12 / 15 points",
+          "interventions": [
+            { "time": "Wake-up", "intervention": "Warm lemon water (300 mL) + 15-min sunlight", "duration": "20 min", "effect": "Lemon limonene stimulates hepatic phase I detoxification enzymes (CYP450); morning light activates CLOCK genes controlling hepatic metabolism" },
+            { "time": "After breakfast", "intervention": "Dry brushing + castor oil liver pack (right upper abdomen)", "duration": "30 min", "effect": "Castor oil pack increases hepatic lymphatic flow; ricinoleic acid reduces hepatic stellate cell activation" },
+            { "time": "Before breakfast", "intervention": "Nadi Shodhana + Kapalabhati (60 strokes/min)", "duration": "10 min", "effect": "Kapalabhati mechanically massages liver via diaphragmatic contractions; increases portal venous return → flushes fatty hepatocytes" },
+            { "time": "Breakfast (11 AM)", "intervention": "Intermittent fast until 11 AM; break fast with protein + vegetable meal", "duration": null, "effect": "Fasting activates hepatic autophagy (lipophagy) — liver literally self-digests stored triglycerides via autophagosomes" },
+            { "time": "10:00 AM", "intervention": "Warm castor oil pack on liver (right hypochondrium)", "duration": "30 min", "effect": "Documented to increase liver lymph flow 3x; activates hepatic NK cells (innate immunity); reduces hepatic inflammation and fibrosis markers" },
+            { "time": "Before lunch", "intervention": "Milk thistle (Silymarin) + Dandelion root decoction", "duration": "20 min before", "effect": "Silymarin inhibits lipid peroxidation in hepatocytes; upregulates glutathione synthesis; dandelion root increases hepatic bile flow → cholesterol excretion" },
+            { "time": "Lunch", "intervention": "Liver-supportive: cruciferous vegetables, beets, garlic, olive oil, NO fructose", "duration": null, "effect": "Cruciferous indole-3-carbinol upregulates hepatic phase II detox; beet betaine prevents hepatic fat accumulation; fructose directly drives DNL" },
+            { "time": "After lunch", "intervention": "20-min walk + abdominal breathing exercise", "duration": "25 min", "effect": "Exercise reduces hepatic fat independently of diet (increases FGF21 → hepatic fat oxidation); abdominal breathing massages portal vasculature" },
+            { "time": "3:00 PM", "intervention": "Coffee enema or clay abdominal pack (under BNYS supervision)", "duration": "25 min", "effect": "Coffee enema increases glutathione transferase 600–700%; clay pack draws hepatic heat → increases local lipolysis in fatty liver" },
+            { "time": "4:00 PM", "intervention": "Yoga sequence (see below)", "duration": "20 min", "effect": "Liver twist postures flush portal blood through hepatic sinusoids; inversions reverse hepatic venous pooling" },
+            { "time": "6:00 PM", "intervention": "Epsom salt bath", "duration": "20 min", "effect": "Sulfate is rate-limiting substrate for hepatic sulfation (phase II detox); magnesium cofactor for over 20 hepatic enzymes" },
+            { "time": "7:00 PM", "intervention": "Early, light dinner — dal + cooked vegetables; NO alcohol, NO fructose", "duration": null, "effect": "Liver's VLDL export peaks during day; evening meals with fat/fructose overwhelm export capacity → nocturnal fat accumulation" },
+            { "time": "9:00 PM", "intervention": "Turmeric + black pepper milk (golden milk)", "duration": null, "effect": "Curcumin upregulates PPAR-alpha (hepatic fat-burning transcription factor); piperine increases curcumin bioavailability 2000%" }
+          ],
+          "exit_criteria": [
+            { "parameter": "ALT", "target": "Drop ≥ 25% from baseline", "points": 3 },
+            { "parameter": "Waist circumference", "target": "↓ ≥ 3 cm", "points": 3 },
+            { "parameter": "Fatigue (0-10)", "target": "≤ 4", "points": 3 },
+            { "parameter": "Digestion", "target": "Daily bowel movement", "points": 3 },
+            { "parameter": "Right upper quadrant pain", "target": "Reduced ≥ 50%", "points": 3 }
+          ]
+        },
+        "phase2": {
+          "label": "Consolidation & Repair",
+          "duration": "4–6 weeks",
+          "interventions": [
+            { "intervention": "Warm castor oil liver pack", "frequency": "5 x / week" },
+            { "intervention": "Lemon water (morning)", "frequency": "Daily" },
+            { "intervention": "Intermittent fasting (16 h)", "frequency": "Daily" },
+            { "intervention": "Epsom salt bath", "frequency": "4 x / week" },
+            { "intervention": "Milk thistle + dandelion", "frequency": "Daily (supervised)" },
+            { "intervention": "Yoga (liver sequence)", "frequency": "Daily (20 min)" },
+            { "intervention": "Liver detox diet (low fructose)", "frequency": "Daily" }
+          ],
+          "exit_criteria": [
+            { "parameter": "ALT + AST", "target": "Within normal range", "points": 3 },
+            { "parameter": "GGT", "target": "< 40 U/L", "points": 3 },
+            { "parameter": "Liver fat (USS)", "target": "Grade reduction of 1 level", "points": 3 },
+            { "parameter": "Weight loss", "target": "≥ 7% body weight", "points": 3 },
+            { "parameter": "Insulin resistance", "target": "HOMA-IR < 2", "points": 3 }
+          ]
+        },
+        "phase3": {
+          "label": "Maintenance & Relapse Prevention",
+          "duration": "Indefinite",
+          "practices": [
+            { "practice": "No alcohol (lifelong)", "dose_frequency": "Absolute" },
+            { "practice": "No fructose / added sugar", "dose_frequency": "Lifelong — read labels" },
+            { "practice": "Castor oil liver pack", "dose_frequency": "3 x / week" },
+            { "practice": "Intermittent fasting", "dose_frequency": "5 x / week" },
+            { "practice": "Cruciferous vegetables", "dose_frequency": "Daily" },
+            { "practice": "Milk thistle (seasonal cycle)", "dose_frequency": "3 months on, 1 month off" }
+          ],
+          "relapse_rules": [
+            { "trigger": "ALT > 60 U/L", "action": "Phase 2 for 6 weeks + daily castor packs" },
+            { "trigger": "Liver fat increase on USS", "action": "Phase 1 for 21 days + fasting intensification" },
+            { "trigger": "Alcohol recommencement", "action": "Full Phase 1 restart + addiction counselling referral" }
+          ]
+        }
+      },
+      "yoga_sequence": [
+        { "asana": "Ardha Matsyendrasana (deep twist)", "duration_min": 3, "effect": "Maximum liver compression and release → portal blood flushing" },
+        { "asana": "Dhanurasana (bow)", "duration_min": 2, "effect": "Abdominal pressure on liver; stimulates hepatic blood flow" },
+        { "asana": "Jathara Parivartanasana (supine twist)", "duration_min": 3, "effect": "Bilateral liver massage; stimulates bile duct drainage" },
+        { "asana": "Paschimottanasana", "duration_min": 3, "effect": "Compresses liver against spine; stimulates portal flow" },
+        { "asana": "Viparita Karani", "duration_min": 5, "effect": "Reverses hepatic venous congestion; improves sinusoidal flow" },
+        { "asana": "Kapalabhati (60/min) + Agnisara Kriya", "duration_min": 7, "effect": "Direct hepatic mechanical massage via rapid diaphragm contractions" },
+        { "asana": "Savasana", "duration_min": 5, "effect": "Allows maximal hepatic perfusion at rest; growth hormone release supports hepatic repair" }
+      ],
+      "diet": {
+        "eat": ["Cruciferous vegetables (broccoli, Brussels sprouts, cabbage)", "beets", "garlic", "onions", "leafy greens", "fatty fish", "walnuts", "flaxseeds", "olive oil", "coffee (2 cups/day — documented hepatoprotective)", "green tea", "berries", "avocado", "turmeric", "dandelion leaf salad", "lemon water"],
+        "avoid": ["Fructose (fruit juices, HFCS, sweetened beverages — #1 driver of hepatic DNL)", "alcohol (absolute)", "refined carbs", "trans fats", "processed meats", "excess red meat", "full-fat dairy", "white sugar", "fast food", "excess omega-6 oils"]
+      },
+      "red_flags": [
+        { "sign": "Jaundice (yellow skin/eyes)", "action": "Rule out NASH cirrhosis or biliary obstruction — urgent liver panel" },
+        { "sign": "Ascites (abdominal swelling with fluid)", "action": "Decompensated cirrhosis — immediate hospital admission" },
+        { "sign": "Haematemesis (blood vomiting)", "action": "Variceal bleed — emergency surgical intervention" },
+        { "sign": "Mental confusion / asterixis (liver flap)", "action": "Hepatic encephalopathy — ICU level care" },
+        { "sign": "ALT > 3x upper limit on any test", "action": "Pause all supplements; urgent hepatology referral" }
+      ],
+      "monitoring": [
+        { "frequency": "Daily", "parameters": ["Fatigue level", "bowel frequency", "alcohol diary (if applicable)"] },
+        { "frequency": "Weekly", "parameters": ["Weight", "waist circumference", "right upper quadrant discomfort"] },
+        { "frequency": "Monthly", "parameters": ["ALT", "AST", "GGT", "ALP", "fasting glucose", "fasting insulin"] },
+        { "frequency": "Quarterly", "parameters": ["Liver ultrasound", "FibroScan (if available)", "lipid profile", "HbA1c"] }
+      ]
+    },
+    {
+      "id": "ibs_constipation",
+      "protocol_number": "09",
+      "title": "Irritable Bowel Syndrome & Chronic Constipation",
+      "category": "Gut Repair",
+      "root_mechanism": "Gut dysbiosis + increased intestinal permeability (leaky gut) + ENS hypersensitivity + microbiome imbalance → enteroendocrine dysfunction (serotonin dysregulation — 95% of serotonin is gut-derived) → abnormal motility (IBS-C or IBS-D) + visceral hypersensitivity + low-grade mucosal inflammation.",
+      "goals": [
+        { "parameter": "Bristol Stool Scale", "target": "Type 3–4 (formed, easy to pass)" },
+        { "parameter": "Bowel frequency", "target": "1–2 x / day without straining" },
+        { "parameter": "IBS-SSS score", "target": "< 75 (remission)" },
+        { "parameter": "Bloating (0-10)", "target": "≤ 2" },
+        { "parameter": "Gut microbiome", "target": "Increase Lactobacillus/Bifidobacterium (via stool test)" }
+      ],
+      "phases": {
+        "phase1": {
+          "label": "Acute Intervention",
+          "duration": "14–21 days",
+          "exit_threshold": "≥ 12 / 15 points",
+          "interventions": [
+            { "time": "6:00 AM", "intervention": "2 glasses warm water (40°C) + abdominal self-massage (clockwise, 5 min)", "duration": "10 min", "effect": "Warm water stimulates gastrocolic reflex within 30 min; clockwise massage follows colonic anatomy → mechanically propels stool; stimulates 5-HT4 receptors in gut wall" },
+            { "time": "6:15 AM", "intervention": "Triphala decoction (1 tsp in warm water, taken on empty stomach)", "duration": null, "effect": "Triphala's sennosides stimulate myenteric plexus; chebulinic acid in haritaki is cholinergic → increases colonic smooth muscle contraction" },
+            { "time": "After toilet", "intervention": "Squat position on toilet or footstool (Squatty Potty technique)", "duration": "5–10 min", "effect": "Squatting straightens the anorectal angle from 90° to 135° → reduces straining force needed by 65%; relaxes puborectalis muscle" },
+            { "time": "Before breakfast", "intervention": "Nadi Shodhana + abdominal breathing (diaphragmatic)", "duration": "10 min", "effect": "Diaphragmatic breathing massages transverse colon via up-down diaphragm excursion; vagal stimulation enhances migrating motor complex (MMC) initiation" },
+            { "time": "Breakfast", "intervention": "High-fibre prebiotic breakfast: oats + psyllium husk (1 tsp) + banana + curd (probiotic)", "duration": null, "effect": "Psyllium husk forms gel → increases stool bulk and moisture; banana resistant starch feeds Bifidobacterium; curd Lactobacillus colonises gut" },
+            { "time": "10:00 AM", "intervention": "Warm castor oil pack on abdomen (especially in constipation)", "duration": "25 min", "effect": "Castor oil ricinoleic acid binds EP3 receptors in small intestine → increases fluid secretion and smooth muscle contraction; topical pack absorbs through abdominal wall" },
+            { "time": "Before lunch", "intervention": "Ginger + fennel seed decoction (sip warm)", "duration": "15 min before", "effect": "Ginger 6-gingerol accelerates gastric emptying and small bowel transit; fennel anethole is antispasmodic for IBS-D, prokinetic for IBS-C" },
+            { "time": "Lunch", "intervention": "Gut-repair meal: cooked easily digestible, high-fibre, probiotic, low-FODMAP", "duration": null, "effect": "Low-FODMAP reduces fermentable substrate for dysbiotic bacteria; cooked vegetables easier on sensitised ENS; probiotic with meal survives gastric acid better" },
+            { "time": "After lunch", "intervention": "10-min walk + abdominal yoga (see sequence)", "duration": "20 min", "effect": "Walking increases MMC frequency; physical movement activates intrinsic enteric neurons directly" },
+            { "time": "3:00 PM", "intervention": "Clay pack on abdomen (cool)", "duration": "20 min", "effect": "Clay minerals (smectite) adsorb toxins and excess fermentation gases; soothing temperature reduces visceral hypersensitivity" },
+            { "time": "4:00 PM", "intervention": "Yoga sequence (see below)", "duration": "20 min", "effect": "Twisting postures compress and release bowel segments → mechanical stimulus for peristalsis; wind-relieving poses release trapped gas" },
+            { "time": "6:00 PM", "intervention": "Warm ginger foot bath", "duration": "15 min", "effect": "Foot reflexology zones of colon (midfoot) stimulated by warmth; systemic vagal activation via warm water → improves gut motility" },
+            { "time": "7:00 PM", "intervention": "Light dinner: khichdi / soup / easily digestible; include 1 tsp ghee", "duration": null, "effect": "Ghee butyrate feeds colonocytes and repairs tight junctions (leaky gut); light dinner prevents overnight gut stasis" },
+            { "time": "Bedtime", "intervention": "1 tsp Triphala in warm water OR psyllium husk (1 tsp in water)", "duration": null, "effect": "Overnight gut transit enhancement; psyllium absorbs water → softens and bulks morning stool" }
+          ],
+          "exit_criteria": [
+            { "parameter": "Bowel frequency", "target": "Daily without straining", "points": 3 },
+            { "parameter": "Stool type (Bristol)", "target": "Type 3–4", "points": 3 },
+            { "parameter": "Bloating (0-10)", "target": "≤ 4", "points": 3 },
+            { "parameter": "Abdominal pain (0-10)", "target": "≤ 3", "points": 3 },
+            { "parameter": "Energy (0-10)", "target": "≥ 6", "points": 3 }
+          ]
+        },
+        "phase2": {
+          "label": "Consolidation & Repair",
+          "duration": "4–6 weeks",
+          "interventions": [
+            { "intervention": "Morning warm water + massage", "frequency": "Daily" },
+            { "intervention": "Triphala decoction", "frequency": "Daily (evening)" },
+            { "intervention": "Castor oil abdominal pack", "frequency": "4 x / week" },
+            { "intervention": "Warm foot bath", "frequency": "4 x / week" },
+            { "intervention": "Yoga (gut sequence)", "frequency": "Daily (20 min)" },
+            { "intervention": "Probiotic curd + prebiotic", "frequency": "Daily" },
+            { "intervention": "Low-FODMAP diet", "frequency": "Daily — reintroduce foods every 2 weeks" }
+          ],
+          "exit_criteria": [
+            { "parameter": "IBS-SSS", "target": "< 75 (remission)", "points": 3 },
+            { "parameter": "Bowel frequency", "target": "1–2 x / day", "points": 3 },
+            { "parameter": "No laxative use", "target": "0 x / week", "points": 3 },
+            { "parameter": "Bloating", "target": "≤ 2 / 10", "points": 3 },
+            { "parameter": "Food reintroduction", "target": "Tolerating ≥ 5 foods well", "points": 3 }
+          ]
+        },
+        "phase3": {
+          "label": "Maintenance & Relapse Prevention",
+          "duration": "Indefinite",
+          "practices": [
+            { "practice": "Morning warm water ritual", "dose_frequency": "Lifelong" },
+            { "practice": "Triphala", "dose_frequency": "3–4 x / week (not daily long-term)" },
+            { "practice": "Probiotic foods", "dose_frequency": "Daily" },
+            { "practice": "Psyllium husk", "dose_frequency": "Daily if stool firms or constipation returns" },
+            { "practice": "Gut yoga", "dose_frequency": "5 x / week" },
+            { "practice": "Low-FODMAP", "dose_frequency": "80% compliance; test new foods every 2 weeks" }
+          ],
+          "relapse_rules": [
+            { "trigger": "Constipation > 3 days", "action": "Phase 2 + daily castor oil pack + Triphala" },
+            { "trigger": "IBS-SSS > 175", "action": "Phase 1 for 14 days; investigate triggers" },
+            { "trigger": "Blood in stool", "action": "STOP protocol — urgent colonoscopy" }
+          ]
+        }
+      },
+      "yoga_sequence": [
+        { "asana": "Pawanmuktasana (wind-relieving)", "duration_min": 5, "effect": "Direct mechanical gas release from colon; stimulates ENS via gut wall compression" },
+        { "asana": "Ardha Matsyendrasana", "duration_min": 3, "effect": "Compresses and releases sigmoid colon; stimulates myenteric plexus mechanically" },
+        { "asana": "Dhanurasana (bow)", "duration_min": 2, "effect": "Stimulates entire gut via abdominal compression; increases MMC activity" },
+        { "asana": "Malasana (garland squat)", "duration_min": 3, "effect": "Stimulates rectosigmoid junction; activates defaecation reflex" },
+        { "asana": "Supta Matsyendrasana", "duration_min": 3, "effect": "Bilateral colonic massage; reduces IBS abdominal cramping" },
+        { "asana": "Viparita Karani", "duration_min": 5, "effect": "Reduces anorectal venous congestion; relaxes pelvic floor for IBS-C" },
+        { "asana": "Nadi Shodhana + abdominal breathing", "duration_min": 5, "effect": "MMC activation; gut-brain axis vagal regulation" },
+        { "asana": "Savasana", "duration_min": 5, "effect": "Enteric nervous system reset; reduces visceral hypersensitivity" }
+      ],
+      "diet": {
+        "eat": ["Triphala", "psyllium husk", "oats", "banana (ripe)", "papaya", "probiotic curd", "kefir", "prebiotic foods (asparagus, garlic, onion — if tolerated)", "cooked vegetables (not raw in IBS-D)", "moong dal", "rice water", "ginger", "fennel", "peppermint tea", "ghee", "bone broth", "amla"],
+        "avoid": ["High-FODMAP foods (apples, pears, wheat, garlic in excess, beans in IBS-D, lactose — trial elimination)", "fried foods", "alcohol", "caffeine (IBS-D)", "cold foods and drinks", "artificial sweeteners (sorbitol, mannitol)", "processed foods", "red meat (slows transit)", "carbonated drinks"]
+      },
+      "red_flags": [
+        { "sign": "Blood or mucus in stool", "action": "STOP all gut naturopathy — urgent colonoscopy to rule out IBD/cancer" },
+        { "sign": "Weight loss > 5 kg unintentionally", "action": "Rule out Crohn's, coeliac, or colorectal cancer" },
+        { "sign": "Nocturnal diarrhoea waking from sleep", "action": "Organic disease (IBD, microscopic colitis) — not IBS — urgent referral" },
+        { "sign": "Severe pain not relieved by bowel movement", "action": "Rule out obstruction, volvulus, or adhesions" },
+        { "sign": "Jaundice with bowel change", "action": "Rule out pancreatic malignancy affecting bile" }
+      ],
+      "monitoring": [
+        { "frequency": "Daily", "parameters": ["Bristol Stool Chart entry", "abdominal pain score", "bloating score"] },
+        { "frequency": "Weekly", "parameters": ["IBS-SSS score", "food diary review", "weight"] },
+        { "frequency": "Monthly", "parameters": ["Calprotectin (if IBD concern)", "stool microbiome (if available)", "B12", "iron"] },
+        { "frequency": "Quarterly", "parameters": ["Colonoscopy (if red flags or > 50 years)", "SIBO breath test if bloating dominant"] }
+      ]
+    },
+    {
+      "id": "anxiety_depression",
+      "protocol_number": "10",
+      "title": "Anxiety & Depression (Neuroinflammatory Model)",
+      "category": "Mitochondrial / Neurological",
+      "root_mechanism": "HPA axis dysregulation + gut-brain axis disruption + mitochondrial dysfunction → neuroinflammation (elevated IL-6, TNF-α crossing BBB) → BDNF reduction → hippocampal neurogenesis impairment → serotonin / dopamine depletion → mood dysregulation, anxiety hyperarousal, and anhedonia.",
+      "goals": [
+        { "parameter": "PHQ-9 score", "target": "< 5 (minimal depression)" },
+        { "parameter": "GAD-7 score", "target": "< 5 (minimal anxiety)" },
+        { "parameter": "Cortisol (8 AM)", "target": "10–18 µg/dL (normalized)" },
+        { "parameter": "BDNF", "target": "Increase ≥ 20% from baseline" },
+        { "parameter": "Sleep quality", "target": "PSQI score < 5" }
+      ],
+      "phases": {
+        "phase1": {
+          "label": "Acute Intervention",
+          "duration": "14–21 days",
+          "exit_threshold": "≥ 12 / 15 points",
+          "interventions": [
+            { "time": "6:30 AM", "intervention": "10-min outdoor sunlight + 2-min cold shower (gradual exposure)", "duration": "12 min", "effect": "Morning sunlight resets cortisol awakening response; suppresses nocturnal melatonin; activates serotonin synthesis in raphe nuclei; cold activates norepinephrine + BDNF release" },
+            { "time": "After shower", "intervention": "Abhyanga (warm sesame oil full body — especially scalp and feet)", "duration": "20 min", "effect": "Scalp Abhyanga reduces cortisol and substance P; increases oxytocin (touch hormone); sesame tyrosine is dopamine precursor; foot massage stimulates hypothalamic parasympathetic centres" },
+            { "time": "Before breakfast", "intervention": "Pranayama: 4-7-8 breathing (10 rounds) + Bhramari (5 min)", "duration": "15 min", "effect": "4-7-8 activates parasympathetic via extended exhalation; Bhramari generates nitric oxide + vagal activation → reduces amygdala hyperactivity by 20% (fMRI documented)" },
+            { "time": "Breakfast", "intervention": "Neurotrophin-supportive: eggs + blueberries + walnuts + turmeric oats", "duration": null, "effect": "Eggs: choline → acetylcholine; blueberries anthocyanins cross BBB → reduce neuroinflammation; walnuts DHA → neuronal membrane fluidity; oats tryptophan → serotonin precursor" },
+            { "time": "9:30 AM", "intervention": "Sunlight + grounding (barefoot on grass/earth)", "duration": "20 min", "effect": "Grounding reduces cortisol by normalising diurnal pattern; reduces inflammatory cytokines (electron transfer from earth); sunlight D3 synthesis → reduces neuroinflammation" },
+            { "time": "10:00 AM", "intervention": "Head and neck cold pack", "duration": "15 min", "effect": "Cold on forehead and occiput → reduces cortisol output from HPA; anti-inflammatory effect on glial cells; vagal nerve at neck stimulated" },
+            { "time": "Before lunch", "intervention": "Ashwagandha + Brahmi (Bacopa) decoction", "duration": "20 min before", "effect": "Ashwagandha reduces cortisol 27% in RCTs; withanolides increase GABA-A receptor sensitivity; Brahmi bacosides stimulate BDNF production + improve hippocampal neurogenesis" },
+            { "time": "Lunch", "intervention": "Gut-brain axis support: probiotic curd + prebiotic fibre + omega-3 + tryptophan-rich", "duration": null, "effect": "95% serotonin made in gut → gut health directly determines mood; Lactobacillus produces GABA; omega-3 reduces neuroinflammation; tryptophan from protein → serotonin pathway" },
+            { "time": "After lunch", "intervention": "15-min walk + 5-min gratitude journalling", "duration": "20 min", "effect": "Walking increases BDNF (equal to antidepressants in mild-moderate depression — multiple RCTs); gratitude activates ventromedial PFC → downregulates amygdala" },
+            { "time": "3:00 PM", "intervention": "Warm sesame oil Shirodhara (if available) OR self-forehead oil press", "duration": "20 min", "effect": "Shirodhara (continuous warm oil on forehead) induces theta brainwaves; reduces cortisol by 35%; documented reduction in GAD-7 score by 6 points in 2 weeks" },
+            { "time": "4:00 PM", "intervention": "Yoga + Yoga Nidra (see below)", "duration": "30 min", "effect": "Yoga Nidra reduces cortisol 40%; increases dopamine 65% (PET scan documented); stimulates GABA production; reduces amygdala volume in 8 weeks" },
+            { "time": "6:00 PM", "intervention": "Cold/contrast foot bath + warm chest compress", "duration": "15 min", "effect": "Foot bath activates serotonin-containing enterochromaffin cells in skin; chest warmth reduces anxiety-associated chest tightness; stimulates cardiac vagal tone" },
+            { "time": "7:00 PM", "intervention": "Social meal / connection time; light dinner with tryptophan: banana, milk, dates, nuts", "duration": null, "effect": "Social connection is #1 protective factor for depression; evening tryptophan → overnight serotonin and melatonin synthesis" },
+            { "time": "9:00 PM", "intervention": "Warm full-body Epsom salt bath + lavender essential oil", "duration": "20 min", "effect": "Magnesium is NMDA receptor antagonist → reduces glutamate-driven anxiety; sulfate supports cortisol clearance; lavender linalool binds GABA-A receptors" },
+            { "time": "9:30 PM", "intervention": "Yoga Nidra or body scan meditation (30 min) + no screens after 9 PM", "duration": "30 min", "effect": "Screens suppress melatonin via blue light; Yoga Nidra induces NREM-like sleep state → hippocampal memory consolidation; theta waves promote neuroplasticity" }
+          ],
+          "exit_criteria": [
+            { "parameter": "PHQ-9", "target": "Drop ≥ 5 points from baseline", "points": 3 },
+            { "parameter": "GAD-7", "target": "Drop ≥ 3 points from baseline", "points": 3 },
+            { "parameter": "Sleep quality (PSQI)", "target": "Improve ≥ 3 points", "points": 3 },
+            { "parameter": "Morning cortisol", "target": "Normalising (not > 25 µg/dL)", "points": 3 },
+            { "parameter": "Energy (0-10)", "target": "≥ 6", "points": 3 }
+          ]
+        },
+        "phase2": {
+          "label": "Consolidation & Repair",
+          "duration": "4–6 weeks",
+          "interventions": [
+            { "intervention": "Morning sunlight + cold shower", "frequency": "Daily" },
+            { "intervention": "Abhyanga (scalp + foot)", "frequency": "Daily" },
+            { "intervention": "Pranayama (4-7-8 + Bhramari)", "frequency": "Daily (15 min)" },
+            { "intervention": "Grounding (outdoor barefoot)", "frequency": "5 x / week" },
+            { "intervention": "Shirodhara / forehead press", "frequency": "3 x / week" },
+            { "intervention": "Yoga + Yoga Nidra", "frequency": "Daily (30 min)" },
+            { "intervention": "Ashwagandha + Brahmi", "frequency": "Daily (supervised)" }
+          ],
+          "exit_criteria": [
+            { "parameter": "PHQ-9", "target": "< 10 (mild range)", "points": 3 },
+            { "parameter": "GAD-7", "target": "< 10 (mild range)", "points": 3 },
+            { "parameter": "Cortisol", "target": "10–18 µg/dL (morning)", "points": 3 },
+            { "parameter": "Sleep PSQI", "target": "< 8", "points": 3 },
+            { "parameter": "Medication reduction", "target": "≥ 25% if on antidepressants", "points": 3 }
+          ]
+        },
+        "phase3": {
+          "label": "Maintenance & Relapse Prevention",
+          "duration": "Indefinite",
+          "practices": [
+            { "practice": "Daily pranayama + Yoga Nidra", "dose_frequency": "Lifelong — non-negotiable" },
+            { "practice": "Morning sunlight + cold shower", "dose_frequency": "Daily" },
+            { "practice": "Exercise (walk/yoga)", "dose_frequency": "30 min, 6 x / week" },
+            { "practice": "Gut-brain supportive diet", "dose_frequency": "80% compliance" },
+            { "practice": "Ashwagandha (seasonal cycles)", "dose_frequency": "3 months on, 1 month off" },
+            { "practice": "Social engagement", "dose_frequency": "≥ 3 meaningful interactions/week" }
+          ],
+          "relapse_rules": [
+            { "trigger": "PHQ-9 > 10", "action": "Phase 2 for 4 weeks + daily Shirodhara" },
+            { "trigger": "Sleep < 5 h for 3+ nights", "action": "Phase 1 for 14 days; medication review" },
+            { "trigger": "Active suicidal ideation", "action": "IMMEDIATE psychiatric referral; do not manage in BNYS alone" }
+          ]
+        }
+      },
+      "yoga_sequence": [
+        { "asana": "Sukhasana + 4-7-8 breathing", "duration_min": 5, "effect": "Parasympathetic dominance; GABA release; amygdala downregulation" },
+        { "asana": "Viparita Karani", "duration_min": 7, "effect": "Cortisol reduction; vagal activation; reverses gravitational stress on brain" },
+        { "asana": "Setu Bandhasana", "duration_min": 3, "effect": "Stimulates thyroid and thymus; improves HPA axis regulation" },
+        { "asana": "Balasana (child's pose)", "duration_min": 5, "effect": "Forehead on ground stimulates 3rd eye point (vagal reflex); profound cortisol reduction" },
+        { "asana": "Supta Baddha Konasana", "duration_min": 5, "effect": "Heart-opening; oxytocin release; reduces anxiety chest tightness" },
+        { "asana": "Anulom Vilom + Bhramari", "duration_min": 5, "effect": "Most studied pranayama for anxiety — reduces GAD-7 by 4+ points in 3 weeks" },
+        { "asana": "Yoga Nidra (guided)", "duration_min": 15, "effect": "Theta brainwave; dopamine 65% increase (PET scan); PTSD trauma processing" },
+        { "asana": "Savasana", "duration_min": 5, "effect": "Full cortisol reset; BDNF consolidation" }
+      ],
+      "diet": {
+        "eat": ["Tryptophan-rich: eggs, turkey, milk, banana, dates, nuts", "omega-3: fatty fish, walnuts, flaxseed", "polyphenols: blueberries, dark chocolate (70%+), green tea, turmeric", "probiotic: curd, kefir, miso", "B-vitamins: whole grains, legumes, leafy greens", "magnesium: dark chocolate, almonds, spinach", "vitamin D: sunlight + fatty fish"],
+        "avoid": ["Refined sugar (spikes cortisol, feeds dysbiotic bacteria)", "alcohol (worsens depression)", "caffeine excess (amplifies anxiety)", "processed foods (ultra-processed diet = 80% increased depression risk)", "gluten (trial elimination in anxiety)", "artificial sweeteners", "skipping meals (hypoglycaemia → cortisol → anxiety)"]
+      },
+      "red_flags": [
+        { "sign": "Active suicidal ideation or plan", "action": "IMMEDIATE REFERRAL — psychiatric emergency; naturopathy alone is CONTRAINDICATED" },
+        { "sign": "Psychosis or delusional symptoms", "action": "Psychiatric medication required; BNYS is adjunctive only" },
+        { "sign": "Refusal to eat for > 2 days", "action": "Rule out severe depression with psychotic features — hospitalisation" },
+        { "sign": "Sudden mania/hypomania after Kapalabhati", "action": "Stop stimulating pranayama; assess for bipolar disorder" },
+        { "sign": "Substance use escalating", "action": "Dual diagnosis referral; adjust protocol" }
+      ],
+      "monitoring": [
+        { "frequency": "Daily", "parameters": ["Mood score (0-10)", "sleep hours", "energy", "gratitude journal entry"] },
+        { "frequency": "Weekly", "parameters": ["PHQ-9", "GAD-7", "PSQI sleep score", "morning cortisol (salivary if possible)"] },
+        { "frequency": "Monthly", "parameters": ["Serum cortisol", "BDNF (if available)", "vitamin D", "B12", "ferritin", "thyroid"] },
+        { "frequency": "Quarterly", "parameters": ["Full hormonal panel", "gut microbiome assessment", "neuropsychological assessment"] }
+      ]
+    }
+  ]
+}
