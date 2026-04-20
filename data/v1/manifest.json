@@ -1,106 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-18T10:28:07.197Z",
+  "generatedAt": "2026-04-20T07:18:13.388Z",
   "sections": [
     {
-      "id": "clinnut",
-      "file": "clinnut.json",
-      "cardCount": 8,
-      "sizeKb": "8.3",
+      "id": "bnys_reversal_protocols",
+      "file": "bnys_reversal_protocols.json",
+      "cardCount": 0,
+      "sizeKb": "101.9",
       "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "afe39851a4f5"
-    },
-    {
-      "id": "counselling",
-      "file": "counselling.json",
-      "cardCount": 6,
-      "sizeKb": "6.6",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "8db1f1b4c250"
-    },
-    {
-      "id": "helioaero",
-      "file": "helioaero.json",
-      "cardCount": 7,
-      "sizeKb": "6.8",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "cffbbaec795e"
-    },
-    {
-      "id": "magneto",
-      "file": "magneto.json",
-      "cardCount": 7,
-      "sizeKb": "6.3",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "4250469c4701"
-    },
-    {
-      "id": "colon",
-      "file": "colon.json",
-      "cardCount": 6,
-      "sizeKb": "6.3",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "fdf15e4a1881"
-    },
-    {
-      "id": "chromotherapy",
-      "file": "chromotherapy.json",
-      "cardCount": 10,
-      "sizeKb": "7.5",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "e32a90b19f54"
-    },
-    {
-      "id": "lifestyle",
-      "file": "lifestyle.json",
-      "cardCount": 6,
-      "sizeKb": "6.4",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "fe5100c2e633"
-    },
-    {
-      "id": "metabolic",
-      "file": "metabolic.json",
-      "cardCount": 6,
-      "sizeKb": "7.2",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "b29dd0329352"
-    },
-    {
-      "id": "bnys_protocols",
-      "file": "bnys_protocols.json",
-      "cardCount": 6,
-      "sizeKb": "8.0",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "63041fb4af0e"
-    },
-    {
-      "id": "naturotreat",
-      "file": "naturotreat.json",
-      "cardCount": 8,
-      "sizeKb": "9.5",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "3c12a635e9a4"
-    },
-    {
-      "id": "detox",
-      "file": "detox.json",
-      "cardCount": 5,
-      "sizeKb": "5.7",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-18",
-      "etag": "21172dede8ea"
+      "lastUpdated": "2026-04-20",
+      "etag": "90b3c1906430"
     }
   ]
 }
