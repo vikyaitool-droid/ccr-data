@@ -1,0 +1,227 @@
+{
+  "schema_version": "1.0",
+  "protocol_id": "hypertension",
+  "protocol_number": "01",
+  "title": "Hypertension (High Blood Pressure)",
+  "short_title": "Hypertension",
+  "category": "Metabolic / Cardiovascular",
+  "version": "2.0",
+  "protocol_family": "BNYS",
+  "icon": "❤️",
+  "color": "#dc2626",
+
+  "root_mechanism": "Sympathetic nervous system overactivation + vascular endothelial inflammation + renin–angiotensin–aldosterone system (RAAS) dysregulation → sustained vasoconstriction and sodium retention → elevated systemic vascular resistance → elevated BP.",
+
+  "goals": [
+    {"parameter": "Systolic BP", "target": "< 130 mmHg"},
+    {"parameter": "Diastolic BP", "target": "< 80 mmHg"},
+    {"parameter": "Resting heart rate", "target": "< 72 bpm"},
+    {"parameter": "Serum cortisol (8 AM)", "target": "< 18 µg/dL"},
+    {"parameter": "hs-CRP", "target": "< 1 mg/L"}
+  ],
+
+  "phases": {
+    "phase1": {
+      "label": "Acute Intervention",
+      "duration": "14–21 days",
+      "exit_threshold": "≥ 12 / 15 points",
+      "interventions": [
+        {"time": "Wake-up", "duration": "10 min", "intervention": "Slow deep breathing (4-7-8 technique) + sunlight (10 min)", "physiological_effect": "4-7-8 breathing activates vagus nerve → reduces sympathetic outflow → lowers peripheral vascular resistance within minutes"},
+        {"time": "6:30 AM", "duration": "20 min", "intervention": "Cold water spinal pack (cervical to lumbar)", "physiological_effect": "Cold stimulates posterior hypothalamus → paradoxically resets autonomic balance; reduces adrenal catecholamine surge"},
+        {"time": "7:00 AM", "duration": "15 min", "intervention": "Abhyanga (warm sesame oil) head + foot massage", "physiological_effect": "Head massage stimulates baroreceptors in scalp vessels; foot massage activates reflexology zones linked to kidney/heart → lowers RAAS activity"},
+        {"time": "Before breakfast", "duration": "10 min", "intervention": "Nadi Shodhana + Bhramari pranayama (humming bee breath)", "physiological_effect": "Bhramari produces nitric oxide in nasal sinuses → diffuses into pulmonary circulation → systemic vasodilation"},
+        {"time": "8:00 AM", "duration": "—", "intervention": "Breakfast: DASH diet — oats, banana, flaxseed, low-fat milk", "physiological_effect": "Potassium (banana) competes with sodium at renal tubule → natriuresis; flaxseed omega-3 reduces vascular inflammation"},
+        {"time": "10:00 AM", "duration": "20 min", "intervention": "Cold abdominal pack", "physiological_effect": "Reduces splanchnic blood pooling; lowers cardiac preload; mild vagal activation"},
+        {"time": "Before lunch", "duration": "15 min before", "intervention": "Beetroot juice (200 mL) or Arjuna bark decoction", "physiological_effect": "Dietary nitrates → nitric oxide via salivary bacteria → smooth muscle relaxation → direct vasodilation"},
+        {"time": "Lunch", "duration": "—", "intervention": "Low-sodium meal: whole grains + leafy greens + legumes + curd", "physiological_effect": "Magnesium in greens relaxes vascular smooth muscle; calcium in curd modulates intracellular calcium balance"},
+        {"time": "After lunch", "duration": "20 min", "intervention": "Yoga Nidra or 20-min rest in Savasana", "physiological_effect": "Induces theta brainwave state → cortisol drops 30–40% → reduces renal angiotensin release"},
+        {"time": "4:00 PM", "duration": "25 min", "intervention": "Yoga sequence (see below)", "physiological_effect": "Inversions improve baroreceptor sensitivity; forward bends reduce cardiac workload"},
+        {"time": "6:00 PM", "duration": "15 min", "intervention": "Warm mustard oil foot bath + contrast arm bath", "physiological_effect": "Peripheral vasodilation shifts blood to periphery → reduces central pressure; mustard oil allyl isothiocyanate relaxes arterioles"},
+        {"time": "7:00 PM", "duration": "—", "intervention": "Light dinner: soup + steamed veg + small grain portion; no salt after 5 PM", "physiological_effect": "Eliminating evening sodium prevents nocturnal BP surge; light meal reduces cardiac demand during sleep"},
+        {"time": "9:00 PM", "duration": "20 min", "intervention": "Warm full-body Epsom salt bath", "physiological_effect": "Transdermal magnesium → smooth muscle relaxation; warmth lowers systemic vascular resistance"},
+        {"time": "Bedtime", "duration": "10 min", "intervention": "Progressive muscle relaxation or guided meditation", "physiological_effect": "Reduces muscle tension-mediated sympathetic feedforward; lowers overnight cortisol"}
+      ],
+      "exit_criteria": [
+        {"parameter": "Systolic BP", "target": "< 140 mmHg or drop ≥ 10 mmHg", "max_points": 3},
+        {"parameter": "Diastolic BP", "target": "< 90 mmHg or drop ≥ 8 mmHg", "max_points": 3},
+        {"parameter": "Resting HR", "target": "< 80 bpm", "max_points": 3},
+        {"parameter": "Sleep quality (0–10)", "target": "≥ 7", "max_points": 3},
+        {"parameter": "Stress (0–10)", "target": "≤ 4", "max_points": 3}
+      ]
+    },
+    "phase2": {
+      "label": "Consolidation & Repair",
+      "duration": "4–6 weeks",
+      "exit_threshold": "≥ 13 / 15 points",
+      "interventions": [
+        {"intervention": "Cold spinal pack", "frequency": "4 × / week"},
+        {"intervention": "Abhyanga (head + foot)", "frequency": "3 × / week"},
+        {"intervention": "Epsom salt bath", "frequency": "4 × / week"},
+        {"intervention": "Contrast arm/foot bath", "frequency": "4 × / week"},
+        {"intervention": "Yoga + pranayama", "frequency": "Daily (25 min)"},
+        {"intervention": "DASH diet", "frequency": "Daily — sodium < 1500 mg/day"},
+        {"intervention": "Beetroot/Arjuna decoction", "frequency": "Daily"}
+      ],
+      "exit_criteria": [
+        {"parameter": "Systolic BP", "target": "< 130 mmHg", "max_points": 3},
+        {"parameter": "Diastolic BP", "target": "< 80 mmHg", "max_points": 3},
+        {"parameter": "Resting HR", "target": "< 72 bpm", "max_points": 3},
+        {"parameter": "hs-CRP", "target": "< 1 mg/L", "max_points": 3},
+        {"parameter": "Medication reduction", "target": "≥ 50% of initial dose", "max_points": 3}
+      ]
+    },
+    "phase3": {
+      "label": "Maintenance & Relapse Prevention",
+      "duration": "Indefinite",
+      "practices": [
+        {"practice": "DASH diet", "maintenance_dose": "Lifelong — sodium < 2000 mg/day"},
+        {"practice": "Pranayama (Bhramari + Nadi Shodhana)", "maintenance_dose": "20 min daily"},
+        {"practice": "Walk", "maintenance_dose": "30 min brisk walk, 6 × / week"},
+        {"practice": "Epsom salt bath", "maintenance_dose": "2 × / week"},
+        {"practice": "Cold spinal pack", "maintenance_dose": "If BP > 135/85 for 3 days"},
+        {"practice": "Yoga Nidra", "maintenance_dose": "3 × / week minimum"}
+      ],
+      "relapse_rules": [
+        {"trigger": "BP > 140/90 for 3 days", "action": "Return to Phase 2 for 2 weeks + daily spinal pack"},
+        {"trigger": "BP > 160/100 any reading", "action": "Urgent physician review; restart Phase 1"},
+        {"trigger": "Diastolic > 95 on 2 readings", "action": "Phase 1 for 14 days"}
+      ]
+    }
+  },
+
+  "dietary_protocol": {
+    "eat_window": "7:00 AM – 7:00 PM",
+    "meal_order": "Vegetables / Fibre → Protein → Complex carbs",
+    "fasting_rules": [
+      {"rule": "12-hour overnight fast", "specification": "No calories after 7 PM", "frequency": "Daily all phases", "physiological_effect": "Overnight fast lowers nocturnal insulin → reduces aldosterone-driven sodium retention → morning BP lower"},
+      {"rule": "No salt after 5 PM", "specification": "Zero added sodium at dinner", "frequency": "Daily", "physiological_effect": "Prevents nocturnal BP surge driven by evening sodium load and RAAS overnight activation"},
+      {"rule": "Sodium restriction", "specification": "< 1500 mg/day (Phase 1–2); < 2000 mg/day (Phase 3)", "frequency": "Every meal", "physiological_effect": "Reduces extracellular fluid volume → lowers cardiac preload and vascular resistance"},
+      {"rule": "Potassium-first breakfast", "specification": "Banana or leafy greens at breakfast", "frequency": "Daily", "physiological_effect": "Dietary potassium competes with sodium at renal tubule → natriuresis → reduces blood volume"},
+      {"rule": "Beetroot juice / Arjuna decoction", "specification": "200 mL / one cup — 15 min before lunch", "frequency": "Daily Phase 1–2", "physiological_effect": "Dietary nitrates → NO via salivary bacteria → smooth muscle relaxation → acute vasodilation reducing SBP 4–8 mmHg"}
+    ],
+    "phase_macros": [
+      {
+        "phase": "Phase 1", "phase_key": "phase1", "duration": "14–21 days",
+        "carbohydrates": "Moderate-low: 40–45% of calories (low-GI, high potassium sources only)",
+        "protein": "Moderate: 20–25% of calories (plant-dominant: legumes, curd, fish)",
+        "fat": "Moderate: 30–35% (omega-3 emphasis — flaxseed, fish, walnuts; strictly no saturated fats)",
+        "rationale": "DASH-aligned macros with strict sodium restriction; potassium and magnesium maximised; saturated fat minimised to reduce vascular stiffness"
+      },
+      {
+        "phase": "Phase 2", "phase_key": "phase2", "duration": "4–6 weeks",
+        "carbohydrates": "Moderate: 45–50% of calories (introduce more whole grains and fruit)",
+        "protein": "Moderate: 20–25% (add fatty fish 3×/week)",
+        "fat": "Moderate: 25–30% (increase olive oil and walnuts)",
+        "rationale": "Sustained DASH pattern; increasing dietary diversity while maintaining sodium < 1500 mg/day and potassium > 3500 mg/day"
+      },
+      {
+        "phase": "Phase 3", "phase_key": "phase3", "duration": "Maintenance",
+        "carbohydrates": "Moderate: 45–55% of calories (Mediterranean-DASH hybrid)",
+        "protein": "Moderate: 20% (varied sources)",
+        "fat": "Moderate: 25–30% (olive oil, nuts, fatty fish)",
+        "rationale": "Long-term cardiovascular protective diet; sodium < 2000 mg/day lifelong; processed food elimination maintained"
+      }
+    ],
+    "foods_to_eat": [
+      {
+        "category": "Whole Grains",
+        "items": ["Oats (sodium-free)", "Ragi (finger millet)", "Jowar (sorghum)", "Barley", "Brown rice (small portions)"]
+      },
+      {
+        "category": "Vegetables (High Potassium / Magnesium)",
+        "items": ["Spinach", "Fenugreek leaves", "Beetroot", "Sweet potato", "Broccoli", "Celery", "Cucumber", "Drumstick (moringa)"]
+      },
+      {
+        "category": "Fruits",
+        "items": ["Banana (potassium-rich)", "Pomegranate (nitric oxide precursor)", "Watermelon (citrulline → NO)", "Berries (anthocyanins)", "Amla (vitamin C + vascular protection)"]
+      },
+      {
+        "category": "Proteins",
+        "items": ["Fatty fish — salmon, mackerel, sardines (3×/week)", "Low-fat curd (probiotic + calcium)", "Lentils and legumes (potassium + fibre)", "Egg whites", "Paneer (small amount, low-salt)"]
+      },
+      {
+        "category": "Healthy Fats",
+        "items": ["Flaxseeds (ground — 2 tbsp/day)", "Walnuts (4–5/day)", "Olive oil (2 tbsp/day)", "Sesame oil (cooking)"]
+      },
+      {
+        "category": "Therapeutic Herbs & Drinks",
+        "items": ["Arjuna bark tea (1 cup/day)", "Hibiscus tea (2 cups/day — ACE inhibitor effect)", "Coriander seed water", "Garlic (2 raw cloves/day)", "Ginger tea (1 cup)", "Green tea (no sugar)"]
+      }
+    ],
+    "foods_to_avoid": [
+      {
+        "category": "High-Sodium Foods",
+        "items": ["Table salt (limit to < 1.5 g/day total)", "Pickles and achaar", "Papads and chutneys", "Processed and canned foods", "Packaged snacks", "Soy sauce, ketchup, ready gravies"]
+      },
+      {
+        "category": "Saturated & Trans Fats",
+        "items": ["Red meat (beef, mutton)", "Full-fat dairy (cream, butter, cheese)", "Vanaspati and dalda", "Commercial fried foods", "Ghee in excess"]
+      },
+      {
+        "category": "Stimulants",
+        "items": ["Caffeine excess (> 1 cup/day)", "Tobacco (all forms)", "Alcohol (raises BP acutely and chronically)", "Energy drinks"]
+      },
+      {
+        "category": "Refined Foods",
+        "items": ["White bread, maida products", "Refined sugar and sweets", "Packaged breakfast cereals", "Instant noodles and fast food"]
+      }
+    ],
+    "sample_meal_plan": {
+      "phase": "Phase 1",
+      "meals": [
+        {"time": "7:00 AM (on waking)", "what_to_eat": "2 glasses warm water + 2 raw garlic cloves", "physiological_rationale": "Garlic allicin inhibits ACE enzyme → reduces angiotensin II → vasodilation; warm water initiates peristalsis"},
+        {"time": "7:30 AM", "what_to_eat": "Hibiscus tea (1 cup, no sugar) or beetroot juice (100 mL)", "physiological_rationale": "Hibiscus anthocyanins inhibit ACE; beetroot nitrates convert to NO in salivary glands → acute vasodilation"},
+        {"time": "8:00 AM (Breakfast)", "what_to_eat": "Oats porridge (no salt, no sugar) + 1 banana + ground flaxseed 1 tbsp + low-fat milk or curd", "physiological_rationale": "Oats beta-glucan reduces vascular inflammation; banana potassium promotes natriuresis; flaxseed ALA reduces systolic BP 3–5 mmHg"},
+        {"time": "11:00 AM (Mid-morning)", "what_to_eat": "Pomegranate (½ fruit) or 4–5 walnuts + hibiscus tea", "physiological_rationale": "Pomegranate punicalagins: ACE inhibition + antioxidant protection of vascular endothelium; walnuts provide vascular-protective omega-3"},
+        {"time": "12:30 PM — Before lunch", "what_to_eat": "Beetroot juice 200 mL or Arjuna bark decoction — 15 min before eating", "physiological_rationale": "Pre-meal NO boost; reduces postprandial BP spike which is common in hypertensives"},
+        {"time": "1:00 PM (Lunch)", "what_to_eat": "Brown rice (small portion, no added salt) + dal (no salt or minimal) + spinach sabzi + curd (unsalted) + salad (cucumber, tomato)", "physiological_rationale": "High potassium/magnesium meal; legumes provide arginine (NO precursor); curd calcium modulates vascular smooth muscle tone"},
+        {"time": "3:30 PM (Snack)", "what_to_eat": "Celery sticks + 1 cup green tea (no sugar)", "physiological_rationale": "Celery phthalides relax arterial smooth muscle; green tea EGCG improves endothelial function"},
+        {"time": "6:00 PM (Dinner)", "what_to_eat": "Moong dal soup + steamed vegetables (broccoli, spinach) + small ragi roti (no salt) — NO sodium after this", "physiological_rationale": "Light low-sodium dinner prevents nocturnal aldosterone activation; ragi high in magnesium for vascular relaxation"},
+        {"time": "7:00 PM onwards", "what_to_eat": "Warm water or herbal tea only (tulsi, cinnamon) — no food", "physiological_rationale": "12-hour overnight fast reduces overnight insulin and aldosterone → morning BP reduction"}
+      ]
+    }
+  },
+
+  "functional_foods": [
+    {"name": "Beetroot juice", "icon": "🫀", "dose_timing": "200 mL fresh juice — 15 min before lunch, daily", "mechanism_of_action": "Dietary nitrates → nitric oxide via salivary bacterial nitrate reductase → smooth muscle relaxation → reduces SBP 4–10 mmHg within 3 hours"},
+    {"name": "Garlic (raw)", "icon": "🧄", "dose_timing": "2 raw cloves daily — crushed and left 10 min before eating (morning)", "mechanism_of_action": "Allicin inhibits ACE enzyme → reduces angiotensin II → vasodilation; hydrogen sulfide production relaxes vascular smooth muscle"},
+    {"name": "Arjuna bark (Terminalia arjuna)", "icon": "🌿", "dose_timing": "1 cup decoction (5 g bark boiled in 300 mL water) — daily before lunch", "mechanism_of_action": "Arjunolic acid and glycosides have ACE-inhibiting, cardioprotective, and beta-blocking properties; improves cardiac output"},
+    {"name": "Hibiscus tea", "icon": "🌺", "dose_timing": "2 cups/day (morning and afternoon) — steep 5 min, no sugar", "mechanism_of_action": "Anthocyanins and quercetin inhibit ACE; documented to reduce SBP 7 mmHg and DBP 3 mmHg in 6 weeks (RCT data)"},
+    {"name": "Flaxseeds (ground)", "icon": "🌰", "dose_timing": "2 tbsp freshly ground — added to breakfast daily", "mechanism_of_action": "ALA omega-3 reduces endothelin-1 (vasoconstrictor); lignans reduce vascular inflammation; reduces SBP 3–5 mmHg in hypertensives"},
+    {"name": "Celery (Ajwain/Shalari)", "icon": "🥬", "dose_timing": "4 stalks raw daily or celery seed water (1 tsp seeds in 500 mL)", "mechanism_of_action": "3-n-Butylphthalide (3nB) relaxes arterial smooth muscle; diuretic effect reduces blood volume; inhibits RAAS locally"},
+    {"name": "Coriander seed water", "icon": "🫙", "dose_timing": "1 tsp coriander seeds soaked overnight — drink water in morning", "mechanism_of_action": "Acts as mild ACE inhibitor; diuretic effect promotes natriuresis; anti-inflammatory on vascular endothelium"},
+    {"name": "Pomegranate juice", "icon": "🍷", "dose_timing": "100–150 mL fresh pomegranate juice — daily morning", "mechanism_of_action": "Punicalagins are the most potent ACE inhibitors in plant kingdom; reduces arterial stiffness; anti-atherosclerotic via LDL oxidation inhibition"}
+  ],
+
+  "yoga_sequence": {
+    "total_duration_min": 25,
+    "best_time": "4:00 PM",
+    "asanas": [
+      {"asana": "Sukhasana + Bhramari pranayama", "duration_min": 5, "physiological_effect": "Nitric oxide production in nasal sinuses → pulmonary vasodilation; vagal activation reduces sympathetic outflow"},
+      {"asana": "Paschimottanasana (seated forward bend)", "duration_min": 3, "physiological_effect": "Reduces cardiac sympathetic tone; gentle aortic stretch; parasympathetic shift reduces HR and BP"},
+      {"asana": "Viparita Karani (legs up the wall)", "duration_min": 5, "physiological_effect": "Baroreceptor reset via increased venous return; gravity-assisted reduction of peripheral resistance; reduces preload"},
+      {"asana": "Setu Bandhasana (bridge pose)", "duration_min": 2, "physiological_effect": "Mild inversion; improves baroreceptor sensitivity at carotid sinus; strengthens parasympathetic regulation"},
+      {"asana": "Supta Baddha Konasana (reclined butterfly)", "duration_min": 3, "physiological_effect": "Opens chest cavity; increases HRV via vagal activation; reduces anxiety-driven sympathetic surges"},
+      {"asana": "Janu Sirsasana (head to knee)", "duration_min": 2, "physiological_effect": "Gentle abdominal compression reduces splanchnic pooling; strong parasympathetic shift"},
+      {"asana": "Anulom Vilom + Bhramari (combined)", "duration_min": 5, "physiological_effect": "Sustained nitric oxide production; HRV improvement; reduces cortisol and vascular catecholamines"},
+      {"asana": "Savasana", "duration_min": 5, "physiological_effect": "Full parasympathetic dominance; cortisol normalisation; acute SBP reduction 5–10 mmHg documented post-Savasana"}
+    ]
+  },
+
+  "red_flags": [
+    {"sign": "BP > 180/120 mmHg (Hypertensive Crisis)", "action": "Stop all stimulating interventions; urgent hospital referral immediately"},
+    {"sign": "Sudden severe headache + vision changes", "action": "Rule out hypertensive encephalopathy or stroke — emergency referral"},
+    {"sign": "Chest pain or shortness of breath", "action": "Rule out hypertensive heart disease; urgent ECG"},
+    {"sign": "Sudden confusion, facial droop, arm weakness", "action": "Stroke protocol — call emergency services immediately"},
+    {"sign": "BP < 90/60 on medications", "action": "Hypotension — hold all naturopathic vasodilating treatments; reduce drug dose with physician"}
+  ],
+
+  "monitoring": [
+    {"frequency": "Daily", "parameters": ["Morning BP (after 5 min rest)", "Evening BP", "Resting HR"]},
+    {"frequency": "Weekly", "parameters": ["Weight", "Sodium intake diary"]},
+    {"frequency": "Monthly", "parameters": ["Serum electrolytes (Na/K/Mg)", "hs-CRP", "Renal function (creatinine)"]},
+    {"frequency": "Quarterly", "parameters": ["Lipid profile", "ECG", "Kidney function panel", "Cortisol (8 AM)"]}
+  ],
+
+  "clinical_disclaimer": "This protocol is designed to be implemented under the supervision of a qualified BNYS physician. Patients on antihypertensive medications must have drug doses reviewed before initiating any vasodilating naturopathic interventions. Do not abruptly discontinue antihypertensives. This document is for clinical reference only and does not substitute for individualised medical assessment."
+}
