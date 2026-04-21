@@ -1,0 +1,685 @@
+{
+  "schema_version": "1.0",
+  "protocol_id": "t2dm",
+  "protocol_number": "01",
+  "title": "Type 2 Diabetes Mellitus",
+  "short_title": "T2DM",
+  "category": "Metabolic",
+  "version": "2.0",
+  "protocol_family": "BNYS",
+  "icon": "🩸",
+  "color": "#0f766e",
+
+  "root_mechanism": "Visceral adiposity → hepatic and muscle insulin resistance → pancreatic beta-cell stress. Excess ectopic fat triggers chronic low-grade inflammation and blunts the IRS-1/PI3K/GLUT4 signalling cascade, forcing hyperinsulinaemia until beta-cell exhaustion leads to overt hyperglycaemia.",
+
+  "goals": [
+    {
+      "parameter": "Visceral Fat",
+      "target": "Waist-to-height ratio < 0.5"
+    },
+    {
+      "parameter": "Insulin Sensitivity",
+      "target": "HOMA-IR < 2"
+    },
+    {
+      "parameter": "Glycaemic Control",
+      "target": "HbA1c < 6.5%"
+    },
+    {
+      "parameter": "Fasting Glucose",
+      "target": "< 100 mg/dL"
+    }
+  ],
+
+  "phases": {
+    "phase1": {
+      "label": "Acute Glucose Normalisation",
+      "duration": "14 days",
+      "exit_threshold": "≥ 12 / 15 points",
+      "interventions": [
+        {
+          "time": "Wake-up",
+          "intervention": "Sunlight exposure (10–15 min) + Cold shower (3 min)",
+          "physiological_effect": "Resets circadian clock; norepinephrine surge activates brown adipose tissue → lowers fasting glucose"
+        },
+        {
+          "time": "After shower",
+          "intervention": "Dry brushing (5 min) + Abhyanga — warm sesame oil massage (10 min)",
+          "physiological_effect": "Cutaneous lymphatic stimulation; skin mechanoreceptors trigger vagal activation → lowers cortisol"
+        },
+        {
+          "time": "Before breakfast",
+          "intervention": "Nadi Shodhana — alternate nostril breathing (5 min / 10 rounds)",
+          "physiological_effect": "Modulates hypothalamic lateralisation → balances sympatho-vagal tone → reduces sympathetic glucagon release"
+        },
+        {
+          "time": "Breakfast (skip)",
+          "intervention": "Fast until 11 AM — 14–16 h overnight fast",
+          "physiological_effect": "Depletes liver glycogen; lowers basal insulin; activates AMPK → triggers autophagy and fat oxidation"
+        },
+        {
+          "time": "10:00 AM",
+          "intervention": "Abdominal mud pack — room temperature clay (20 min)",
+          "physiological_effect": "Clay draws heat from visceral region; increases local blood flow and lipolysis; mild reflex parasympathetic activation"
+        },
+        {
+          "time": "Before lunch",
+          "intervention": "Apple cider vinegar — 2 tbsp in water (10 min before meal)",
+          "physiological_effect": "Acetic acid inhibits amylase, slows gastric emptying → natural GLP-1 mimic → blunts postprandial glucose spike"
+        },
+        {
+          "time": "Lunch",
+          "intervention": "Eat in order: Protein → Fibre → Carbs (small portion)",
+          "physiological_effect": "Protein stimulates incretin release; fibre forms viscous gel slowing glucose absorption; carbs enter an already-buffered gut"
+        },
+        {
+          "time": "After lunch",
+          "intervention": "Walk (15 min) or standing calf raises (3 × 20 reps)",
+          "physiological_effect": "Muscle contraction triggers GLUT4 vesicle translocation → insulin-independent glucose uptake"
+        },
+        {
+          "time": "2:00 PM",
+          "intervention": "Cold pack on upper abdomen — cloth between skin and pack (20 min)",
+          "physiological_effect": "Local cold → norepinephrine → beta-3 adrenergic activation on omental adipocytes → direct visceral lipolysis"
+        },
+        {
+          "time": "4:00 PM",
+          "intervention": "Yoga sequence (20 min)",
+          "physiological_effect": "Twisting postures compress pancreas/liver → improve microcirculation and insulin secretion; inversions reduce cortisol"
+        },
+        {
+          "time": "6:00 PM",
+          "intervention": "Contrast foot bath alternating hot/cold (10 min) + Cold spinal pack T6–T10 (15 min)",
+          "physiological_effect": "Vascular pumping via alternating vasodilation/vasoconstriction; cold spinal pack reduces splanchnic sympathetic outflow"
+        },
+        {
+          "time": "7:00 PM",
+          "intervention": "Dinner — no carbohydrates after 6 PM",
+          "physiological_effect": "Prevents late insulin spike; aligns with circadian insulin sensitivity nadir; forces overnight fat oxidation"
+        },
+        {
+          "time": "9:00 PM",
+          "intervention": "Warm Epsom salt bath (20 min)",
+          "physiological_effect": "Transdermal magnesium absorption → cofactor for insulin receptor tyrosine kinase → improves receptor signalling"
+        },
+        {
+          "time": "Overnight",
+          "intervention": "14–16 h fast (nightly)",
+          "physiological_effect": "Hours 12–14 deplete hepatic glycogen; fatty acid beta-oxidation dominates; ketone bodies reduce hunger hormones"
+        }
+      ],
+      "exit_criteria": [
+        {
+          "parameter": "Fasting glucose",
+          "target": "< 110 mg/dL or drop ≥ 20%",
+          "max_points": 3
+        },
+        {
+          "parameter": "Waist circumference",
+          "target": "Decrease ≥ 4 cm",
+          "max_points": 3
+        },
+        {
+          "parameter": "Post-lunch glucose (1 h)",
+          "target": "< 140 mg/dL",
+          "max_points": 3
+        },
+        {
+          "parameter": "Hunger / cravings (0–10)",
+          "target": "Score ≤ 4",
+          "max_points": 3
+        },
+        {
+          "parameter": "Energy level (0–10)",
+          "target": "Score ≥ 7",
+          "max_points": 3
+        }
+      ]
+    },
+
+    "phase2": {
+      "label": "Metabolic Repair & Beta-Cell Recovery",
+      "duration": "4–6 weeks (42 days)",
+      "exit_threshold": "≥ 13 / 15 points",
+      "interventions": [
+        {
+          "intervention": "Cold shower",
+          "frequency": "3 × / week"
+        },
+        {
+          "intervention": "Cold pack on abdomen",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Abdominal mud pack",
+          "frequency": "3 × / week"
+        },
+        {
+          "intervention": "Contrast foot bath",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Epsom salt bath",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Yoga",
+          "frequency": "Daily (20 min)"
+        },
+        {
+          "intervention": "Time-restricted eating",
+          "frequency": "Daily (14 h overnight fast)"
+        },
+        {
+          "intervention": "Diet",
+          "frequency": "Low-carb 50–100 g carbohydrate/day"
+        }
+      ],
+      "exit_criteria": [
+        {
+          "parameter": "Fasting glucose",
+          "target": "< 100 mg/dL",
+          "max_points": 3
+        },
+        {
+          "parameter": "HbA1c",
+          "target": "< 6.5% or drop ≥ 1%",
+          "max_points": 3
+        },
+        {
+          "parameter": "Fasting insulin",
+          "target": "< 8 uIU/mL",
+          "max_points": 3
+        },
+        {
+          "parameter": "Waist-to-height ratio",
+          "target": "< 0.5",
+          "max_points": 3
+        },
+        {
+          "parameter": "Medication reduction",
+          "target": "≥ 50% of initial dose",
+          "max_points": 3
+        }
+      ]
+    },
+
+    "phase3": {
+      "label": "Maintenance & Relapse Prevention",
+      "duration": "Indefinite",
+      "practices": [
+        {
+          "practice": "14-hour overnight fast",
+          "maintenance_dose": "≥ 5 × / week"
+        },
+        {
+          "practice": "Low-carb anti-inflammatory diet",
+          "maintenance_dose": "80% compliance"
+        },
+        {
+          "practice": "Walk or yoga",
+          "maintenance_dose": "30 min walk or 20 min yoga, 6 × / week"
+        },
+        {
+          "practice": "Cold pack on abdomen",
+          "maintenance_dose": "Only if waist increases OR fasting glucose > 105 mg/dL for 3 consecutive days"
+        },
+        {
+          "practice": "Epsom salt bath",
+          "maintenance_dose": "2 × / week"
+        },
+        {
+          "practice": "24-hour supervised water fast",
+          "maintenance_dose": "Only if HbA1c rises > 6.5% — clinician supervised only"
+        }
+      ],
+      "relapse_rules": [
+        {
+          "trigger": "Fasting glucose > 110 mg/dL for 3 days",
+          "action": "Return to Phase 2 for 2 weeks"
+        },
+        {
+          "trigger": "Waist circumference increase > 3 cm",
+          "action": "Return to Phase 2 + daily cold pack"
+        },
+        {
+          "trigger": "HbA1c > 6.5% on annual check",
+          "action": "Phase 1 for 14 days, then Phase 2 for 4 weeks"
+        }
+      ]
+    }
+  },
+
+  "dietary_protocol": {
+    "eat_window": "11 AM – 7 PM",
+    "meal_order": "Protein → Fibre → Carbs",
+    "fasting_rules": [
+      {
+        "rule": "Overnight fast",
+        "specification": "14–16 h",
+        "frequency": "Daily in all phases",
+        "physiological_effect": "Depletes liver glycogen; activates AMPK, autophagy and fat oxidation"
+      },
+      {
+        "rule": "Eating window",
+        "specification": "11 AM – 7 PM",
+        "frequency": "Daily",
+        "physiological_effect": "Aligns food intake with peak insulin sensitivity (morning–afternoon circadian peak)"
+      },
+      {
+        "rule": "Meal order at every meal",
+        "specification": "Protein → Fibre → Carbs",
+        "frequency": "Every meal",
+        "physiological_effect": "Protein triggers early GLP-1 release; fibre slows glucose absorption; carbs arrive into a buffered gut — blunts postprandial spike"
+      },
+      {
+        "rule": "Apple cider vinegar",
+        "specification": "2 tbsp in water — 10 min before lunch",
+        "frequency": "Daily Phase 1 & 2",
+        "physiological_effect": "Acetic acid inhibits amylase and slows gastric emptying — natural GLP-1 mimic"
+      },
+      {
+        "rule": "No carbs after 6 PM",
+        "specification": "Dinner: protein + non-starchy veg only",
+        "frequency": "Daily",
+        "physiological_effect": "Prevents late insulin spike; forces overnight fat oxidation aligned with circadian nadir"
+      },
+      {
+        "rule": "Post-meal walk",
+        "specification": "15 min or calf raises 3 × 20",
+        "frequency": "After lunch daily",
+        "physiological_effect": "GLUT4 translocation — insulin-independent skeletal muscle glucose uptake"
+      }
+    ],
+    "phase_macros": [
+      {
+        "phase": "Phase 1",
+        "phase_key": "phase1",
+        "duration": "14 days",
+        "carbohydrates": "Very low carb: 20–50 g/day",
+        "protein": "Moderate-high: 1.2–1.5 g/kg BW/day",
+        "fat": "Moderate: 30–40% of calories",
+        "rationale": "Aggressive glycogen depletion; ketosis induction; lower basal insulin"
+      },
+      {
+        "phase": "Phase 2",
+        "phase_key": "phase2",
+        "duration": "4–6 weeks",
+        "carbohydrates": "Low carb: 50–100 g/day",
+        "protein": "Adequate: 1.0–1.2 g/kg BW/day",
+        "fat": "Moderate: 30–35% of calories",
+        "rationale": "Sustained fat adaptation; beta-cell rest and recovery"
+      },
+      {
+        "phase": "Phase 3",
+        "phase_key": "phase3",
+        "duration": "Maintenance",
+        "carbohydrates": "Low carb: 80–120 g/day (80% compliance)",
+        "protein": "Standard: 0.8–1.0 g/kg BW/day",
+        "fat": "Moderate: 30–35% of calories",
+        "rationale": "Long-term metabolic flexibility; prevent visceral fat regain"
+      }
+    ],
+    "foods_to_eat": [
+      {
+        "category": "Non-starchy Vegetables",
+        "items": [
+          "Bitter gourd",
+          "Broccoli",
+          "Spinach",
+          "Fenugreek leaves",
+          "Cucumber",
+          "Cabbage",
+          "Cauliflower",
+          "Beans",
+          "Ridge gourd"
+        ]
+      },
+      {
+        "category": "Proteins",
+        "items": [
+          "Eggs",
+          "Chicken breast",
+          "Fish — especially fatty fish (salmon, mackerel)",
+          "Paneer (small amounts)",
+          "Lentils",
+          "Chickpeas",
+          "Moong dal"
+        ]
+      },
+      {
+        "category": "Healthy Fats",
+        "items": [
+          "Coconut oil",
+          "Ghee (small amounts)",
+          "Sesame oil",
+          "Flaxseeds",
+          "Walnuts",
+          "Almonds",
+          "Avocado"
+        ]
+      },
+      {
+        "category": "Low-GI Fruits",
+        "items": [
+          "Amla (Indian gooseberry)",
+          "Jamun",
+          "Guava",
+          "Berries (strawberry, blueberry)",
+          "Limit to 1 serving/day before 2 PM"
+        ]
+      },
+      {
+        "category": "Whole Grains (Phase 2–3 only)",
+        "items": [
+          "Millets — ragi, jowar, bajra (small portion at lunch only, never at dinner)",
+          "Oats",
+          "Barley"
+        ]
+      },
+      {
+        "category": "Functional Foods",
+        "items": [
+          "Methi seeds soaked overnight",
+          "Cinnamon — ½ tsp/day",
+          "Turmeric milk (no sugar)",
+          "Karela juice",
+          "Amla juice"
+        ]
+      },
+      {
+        "category": "Hydration",
+        "items": [
+          "Plain water — 2.5–3 L/day",
+          "Jeera water",
+          "Coriander seed water",
+          "Green tea (no sugar)",
+          "Herbal teas"
+        ]
+      },
+      {
+        "category": "Fermented Foods",
+        "items": [
+          "Buttermilk (takra) — 1 cup after lunch",
+          "Idli/dosa in small amounts (Phase 2–3 only) — for gut microbiome support"
+        ]
+      }
+    ],
+    "foods_to_avoid": [
+      {
+        "category": "Refined Carbohydrates",
+        "items": [
+          "White rice",
+          "White bread",
+          "Maida products",
+          "Biscuits",
+          "Cakes",
+          "Pastries",
+          "Pizza",
+          "Pasta"
+        ]
+      },
+      {
+        "category": "Sugars & Sweeteners",
+        "items": [
+          "Table sugar",
+          "Jaggery (in excess)",
+          "Honey",
+          "Fruit juices",
+          "Soft drinks",
+          "Energy drinks",
+          "Flavoured milk"
+        ]
+      },
+      {
+        "category": "High-GI Fruits",
+        "items": [
+          "Mango",
+          "Banana",
+          "Grapes",
+          "Dates",
+          "Watermelon",
+          "Pineapple"
+        ]
+      },
+      {
+        "category": "Processed & Packaged Foods",
+        "items": [
+          "Chips",
+          "Namkeen",
+          "Instant noodles",
+          "Ready-to-eat meals",
+          "Breakfast cereals — hidden sugars and trans fats"
+        ]
+      },
+      {
+        "category": "Trans Fats & Refined Oils",
+        "items": [
+          "Vanaspati",
+          "Dalda",
+          "Margarine",
+          "Commercial fried foods"
+        ]
+      },
+      {
+        "category": "Alcohol",
+        "items": [
+          "All alcohol — causes hypoglycaemia (especially with medications), impairs liver gluconeogenesis regulation"
+        ]
+      },
+      {
+        "category": "Late-Night Eating",
+        "items": [
+          "Any carbohydrate after 6 PM — disrupts circadian insulin rhythm, promotes fat storage"
+        ]
+      },
+      {
+        "category": "Excess Fruit",
+        "items": [
+          "More than 1 serving/day of any fruit — fructose directly raises triglycerides and worsens fatty liver"
+        ]
+      }
+    ],
+    "sample_meal_plan": {
+      "phase": "Phase 1",
+      "meals": [
+        {
+          "time": "6:30 AM (on waking)",
+          "what_to_eat": "Fast — plain water or jeera water only",
+          "physiological_rationale": "Maintains overnight fasting state; no insulin spike"
+        },
+        {
+          "time": "7:00 AM",
+          "what_to_eat": "Amla juice (30 mL) or methi seed water (soaked overnight seeds strained out)",
+          "physiological_rationale": "Amla = vitamin C + tannins that improve insulin sensitivity; methi reduces gastric emptying"
+        },
+        {
+          "time": "11:00 AM (Break-fast)",
+          "what_to_eat": "2–3 eggs (boiled/scrambled in coconut oil) + 1 cup sautéed vegetables (spinach, broccoli) + small salad with lemon dressing",
+          "physiological_rationale": "High protein + fibre opens the eating window; low carb keeps insulin low"
+        },
+        {
+          "time": "11:15 AM",
+          "what_to_eat": "15-min walk or calf raises immediately after",
+          "physiological_rationale": "GLUT4 translocation — glucose uptake without insulin"
+        },
+        {
+          "time": "1:00 PM (Lunch)",
+          "what_to_eat": "ACV water → Protein (100 g chicken/fish/dal) → Salad with fibre (cucumber, lettuce, flaxseed) → Small portion millet or brown rice (30–50 g cooked, Phase 2 only)",
+          "physiological_rationale": "Strict meal sequence to flatten glucose curve; ACV taken 10 min prior"
+        },
+        {
+          "time": "3:00 PM (Snack — if needed)",
+          "what_to_eat": "Handful of walnuts/almonds + 1 cup green tea (no sugar) OR 1 cup buttermilk with roasted jeera",
+          "physiological_rationale": "Healthy fat snack; buttermilk provides gut-friendly Lactobacillus"
+        },
+        {
+          "time": "6:00 PM (Dinner — early)",
+          "what_to_eat": "1 cup dal/lentil soup + 2 eggs or paneer (50 g) + non-starchy stir-fried vegetables (no roti, rice or bread)",
+          "physiological_rationale": "Protein + fat only — prevents nocturnal insulin spike; supports fat oxidation during sleep"
+        },
+        {
+          "time": "7:00 PM onwards",
+          "what_to_eat": "Fast begins — water, herbal tea (tulsi, cinnamon, ginger) allowed",
+          "physiological_rationale": "Overnight fast restarts; no calories until 11 AM next day"
+        }
+      ]
+    }
+  },
+
+  "functional_foods": [
+    {
+      "name": "Bitter gourd (Karela) juice",
+      "icon": "🥒",
+      "dose_timing": "50–100 mL fresh juice on empty stomach, 3 × /week",
+      "mechanism_of_action": "Charantin and polypeptide-P act as phytoinsulin; activates AMPK; inhibits intestinal glucose uptake"
+    },
+    {
+      "name": "Fenugreek (Methi) seeds",
+      "icon": "🌿",
+      "dose_timing": "1 tsp soaked overnight in water — eat seeds + drink water at 7 AM",
+      "mechanism_of_action": "Soluble fibre (galactomannan) slows gastric emptying; 4-hydroxyisoleucine directly stimulates insulin secretion"
+    },
+    {
+      "name": "Amla (Indian gooseberry)",
+      "icon": "🫐",
+      "dose_timing": "30 mL juice or 1 fresh fruit daily — morning",
+      "mechanism_of_action": "Chromium content improves insulin receptor binding; polyphenols reduce oxidative stress on beta cells"
+    },
+    {
+      "name": "Cinnamon (Dalchini)",
+      "icon": "🟤",
+      "dose_timing": "½ tsp powder in warm water or food daily",
+      "mechanism_of_action": "Methylhydroxychalcone polymer (MHCP) mimics insulin; enhances GLUT4 expression in muscle cells"
+    },
+    {
+      "name": "Turmeric (Haldi)",
+      "icon": "🌙",
+      "dose_timing": "1 tsp in warm water or milk (no sugar) — evening",
+      "mechanism_of_action": "Curcumin reduces NF-kB inflammation; protects beta cells from cytokine-mediated apoptosis"
+    },
+    {
+      "name": "Jamun seed powder",
+      "icon": "⚫",
+      "dose_timing": "1 tsp powder with water, twice daily before meals",
+      "mechanism_of_action": "Jamboline and jambosine slow starch-to-sugar conversion; reduces post-meal glucose spikes"
+    },
+    {
+      "name": "Gurmar (Gymnema sylvestre)",
+      "icon": "🌱",
+      "dose_timing": "400 mg standardised extract with meals — prescribed by clinician",
+      "mechanism_of_action": "Gymnemic acids block intestinal glucose absorption and reduce sweet taste sensation; promotes beta-cell regeneration"
+    },
+    {
+      "name": "Jeera (Cumin) water",
+      "icon": "🫙",
+      "dose_timing": "1 tsp seeds boiled in 2 cups water — drink warm, morning or with meals",
+      "mechanism_of_action": "Thymoquinone in cumin improves insulin sensitivity; reduces hepatic glucose production"
+    }
+  ],
+
+  "yoga_sequence": {
+    "total_duration_min": 20,
+    "best_time": "4:00 PM",
+    "asanas": [
+      {
+        "asana": "Sukhasana with deep belly breathing",
+        "duration_min": 2,
+        "physiological_effect": "Vagal activation → suppresses hepatic glucose output"
+      },
+      {
+        "asana": "Cat-Cow (Marjaryasana-Bitilasana)",
+        "duration_min": 1,
+        "physiological_effect": "Spinal mobilisation → improves pancreatic autonomic nerve input"
+      },
+      {
+        "asana": "Ardha Matsyendrasana (seated twist)",
+        "duration_min": 1,
+        "physiological_effect": "Mechanical compression of pancreas → increases local blood flow and insulin secretion"
+      },
+      {
+        "asana": "Viparita Karani (legs up the wall)",
+        "duration_min": 5,
+        "physiological_effect": "Venous return improvement; reduces sympathetic tone → lowers cortisol"
+      },
+      {
+        "asana": "Supta Matsyendrasana (supine twist)",
+        "duration_min": 1,
+        "physiological_effect": "Massages abdominal viscera → improves splanchnic circulation"
+      },
+      {
+        "asana": "Setu Bandhasana (bridge pose)",
+        "duration_min": 2,
+        "physiological_effect": "Mechanical thyroid stimulation → improves basal metabolic rate"
+      },
+      {
+        "asana": "Savasana with abdominal breathing",
+        "duration_min": 3,
+        "physiological_effect": "Parasympathetic dominance → resets HPA axis, lowers cortisol"
+      },
+      {
+        "asana": "Kapalabhati + Nadi Shodhana",
+        "duration_min": 5,
+        "physiological_effect": "Kapalabhati massages pancreas via abdominal contractions; Nadi Shodhana improves dynamic insulin response"
+      }
+    ]
+  },
+
+  "red_flags": [
+    {
+      "sign": "Fasting glucose > 250 mg/dL with ketones",
+      "action": "Rule out Diabetic Ketoacidosis (DKA) — halt fasting immediately."
+    },
+    {
+      "sign": "Hypoglycaemia < 70 mg/dL",
+      "action": "Especially on insulin or sulfonylureas — stop fasting, adjust medications urgently."
+    },
+    {
+      "sign": "Unexplained weight loss > 10% in 3 months",
+      "action": "Rule out LADA (Latent Autoimmune Diabetes in Adults) or occult malignancy."
+    },
+    {
+      "sign": "New vision changes, floaters or sudden visual loss",
+      "action": "Rule out retinal haemorrhage — urgent ophthalmology referral."
+    },
+    {
+      "sign": "Foot ulcer, numbness or non-healing wound",
+      "action": "Urgent wound care assessment — do not apply cold packs locally."
+    }
+  ],
+
+  "monitoring": [
+    {
+      "frequency": "Daily",
+      "parameters": [
+        "Fasting glucose",
+        "Post-lunch glucose (1 h)"
+      ]
+    },
+    {
+      "frequency": "Weekly",
+      "parameters": [
+        "Waist circumference",
+        "Morning resting heart rate"
+      ]
+    },
+    {
+      "frequency": "Monthly",
+      "parameters": [
+        "HbA1c",
+        "Fasting insulin",
+        "HOMA-IR",
+        "hs-CRP"
+      ]
+    },
+    {
+      "frequency": "Quarterly",
+      "parameters": [
+        "Lipid profile (LDL, HDL, TG)",
+        "Liver enzymes (ALT/AST)"
+      ]
+    }
+  ],
+
+  "clinical_disclaimer": "This protocol is designed to be implemented under the supervision of a qualified BNYS physician. Patients on antidiabetic medications (particularly insulin or sulfonylureas) must have drug doses reviewed before initiating fasting interventions to prevent hypoglycaemia. This document is for clinical reference only and does not substitute for individualised medical assessment."
+}
