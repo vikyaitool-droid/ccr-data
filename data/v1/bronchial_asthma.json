@@ -1,0 +1,616 @@
+{
+  "schema_version": "1.0",
+  "protocol_id": "bronchial_asthma",
+  "protocol_number": "07",
+  "title": "Bronchial Asthma",
+  "short_title": "Bronchial Asthma",
+  "category": "Inflammation / Respiratory",
+  "version": "2.0",
+  "protocol_family": "BNYS",
+  "icon": "🌬️",
+  "color": "#0369a1",
+  "root_mechanism": "Atopic sensitisation + environmental triggers → mast cell degranulation → Th2-mediated eosinophilic bronchial inflammation → bronchial smooth muscle hyperreactivity + mucus hypersecretion + subepithelial fibrosis → airflow obstruction.",
+  "goals": [
+    {
+      "parameter": "FEV1",
+      "target": "> 80% predicted"
+    },
+    {
+      "parameter": "FEV1/FVC ratio",
+      "target": "> 70%"
+    },
+    {
+      "parameter": "Peak flow variability",
+      "target": "< 20% diurnal variation"
+    },
+    {
+      "parameter": "ACQ score",
+      "target": "< 1.5 (well controlled)"
+    },
+    {
+      "parameter": "Rescue inhaler use",
+      "target": "< 2 × / week"
+    }
+  ],
+  "phases": {
+    "phase1": {
+      "label": "Acute Intervention",
+      "duration": "14–21 days",
+      "exit_threshold": "≥ 12 / 15 points",
+      "interventions": [
+        {
+          "time": "Wake-up",
+          "duration": "15 min",
+          "intervention": "Nasal irrigation (Jala Neti with saline) + warm steam inhalation with eucalyptus",
+          "physiological_effect": "Nasal irrigation clears allergens and reduces nasal eosinophil load; eucalyptus 1,8-cineole is mucolytic and bronchodilatory"
+        },
+        {
+          "time": "After neti",
+          "duration": "10 min",
+          "intervention": "Buteyko breathing exercise (nasal-only, reduced volume breathing)",
+          "physiological_effect": "Raises CO2 → smooth muscle relaxation via Bohr effect → bronchodilation; breaks hyperventilation-bronchospasm cycle"
+        },
+        {
+          "time": "Before breakfast",
+          "duration": "10 min",
+          "intervention": "Pranayama: Anulom Vilom + slow Kapalabhati (30 strokes/min only)",
+          "physiological_effect": "Slow Kapalabhati increases alveolar ventilation without bronchospasm; Anulom Vilom reduces mast cell reactivity via vagal modulation"
+        },
+        {
+          "time": "Breakfast",
+          "duration": "—",
+          "intervention": "Anti-inflammatory, anti-allergic: turmeric milk, vitamin C fruits, honey + ginger",
+          "physiological_effect": "Quercetin stabilises mast cells; vitamin C reduces histamine levels; ginger inhibits 5-LOX and prostaglandin E2"
+        },
+        {
+          "time": "10:00 AM",
+          "duration": "20 min",
+          "intervention": "Chest mustard oil pack (warm) + percussion massage on upper back",
+          "physiological_effect": "Mustard oil allyl isothiocyanate increases bronchial blood flow; percussion vibrates bronchial walls → loosens mucus plugs"
+        },
+        {
+          "time": "Before lunch",
+          "duration": "20 min before",
+          "intervention": "Vasaka (Malabar nut) + Licorice (Yashtimadhu) decoction",
+          "physiological_effect": "Vasaka alkaloid vasicine is potent bronchodilator and mucolytic (10× bromhexine); licorice glycyrrhizin inhibits 11β-HSD → anti-inflammatory"
+        },
+        {
+          "time": "Lunch",
+          "duration": "—",
+          "intervention": "Anti-histamine, anti-inflammatory: no dairy, rainbow vegetables + fish",
+          "physiological_effect": "Dairy increases mucus viscosity; omega-3 shifts LTB4 to LTB5 → weaker bronchospasm mediator"
+        },
+        {
+          "time": "After lunch",
+          "duration": "20 min",
+          "intervention": "Slow 20-min nasal-only walk in pollution-free environment",
+          "physiological_effect": "Nasal breathing warms, humidifies and filters air → reduces exercise-induced bronchospasm; aerobic exercise improves FEV1"
+        },
+        {
+          "time": "3:00 PM",
+          "duration": "15 min",
+          "intervention": "Cold water chest pack (upper chest/sternum)",
+          "physiological_effect": "Cold → reflex vasodilation on rewarming → improved bronchial mucosal circulation; reduces eosinophilic infiltration"
+        },
+        {
+          "time": "4:00 PM",
+          "duration": "20 min",
+          "intervention": "Yoga sequence — NO Kapalabhati in active wheeze (see below)",
+          "physiological_effect": "Chest-opening postures increase FRC; diaphragm strengthening reduces accessory muscle use; inversions drain sinus congestion"
+        },
+        {
+          "time": "6:00 PM",
+          "duration": "10 min",
+          "intervention": "Steam inhalation with ajwain (carom seeds) + turmeric",
+          "physiological_effect": "Ajwain thymol is potent bronchodilator; steam hydrates bronchial mucosa; reduces nocturnal mucus plugging"
+        },
+        {
+          "time": "7:00 PM",
+          "duration": "—",
+          "intervention": "Light easy-to-digest dinner: no dairy, no cold foods",
+          "physiological_effect": "Large meals worsen nocturnal asthma (diaphragm compression); no dairy prevents mucus formation before sleep"
+        },
+        {
+          "time": "9:00 PM",
+          "duration": "15 min",
+          "intervention": "Warm mustard oil chest and back massage",
+          "physiological_effect": "Overnight mucolysis; reduces nocturnal bronchospasm via parasympathetic skin stimulation"
+        }
+      ],
+      "exit_criteria": [
+        {
+          "parameter": "Wheeze episodes",
+          "target": "< 2 / week",
+          "max_points": 3
+        },
+        {
+          "parameter": "Night waking",
+          "target": "< 1 / week",
+          "max_points": 3
+        },
+        {
+          "parameter": "Peak flow",
+          "target": "Improve ≥ 15% from baseline",
+          "max_points": 3
+        },
+        {
+          "parameter": "Rescue inhaler",
+          "target": "< 2 uses / week",
+          "max_points": 3
+        },
+        {
+          "parameter": "Energy (0–10)",
+          "target": "≥ 6",
+          "max_points": 3
+        }
+      ]
+    },
+    "phase2": {
+      "label": "Consolidation & Repair",
+      "duration": "4–6 weeks",
+      "exit_threshold": "≥ 13 / 15 points",
+      "interventions": [
+        {
+          "intervention": "Jala Neti (nasal irrigation)",
+          "frequency": "Daily"
+        },
+        {
+          "intervention": "Buteyko breathing",
+          "frequency": "Daily (10 min)"
+        },
+        {
+          "intervention": "Pranayama",
+          "frequency": "Daily (15 min — no Kapalabhati in wheeze)"
+        },
+        {
+          "intervention": "Chest mustard oil pack",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Steam inhalation (Vasaka)",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Yoga (chest-opening)",
+          "frequency": "Daily (20 min)"
+        },
+        {
+          "intervention": "Anti-allergic diet (dairy-free)",
+          "frequency": "Daily"
+        }
+      ],
+      "exit_criteria": [
+        {
+          "parameter": "FEV1",
+          "target": "Improve ≥ 10% from baseline",
+          "max_points": 3
+        },
+        {
+          "parameter": "ACQ score",
+          "target": "< 1.5",
+          "max_points": 3
+        },
+        {
+          "parameter": "Rescue inhaler",
+          "target": "< 2 × / week",
+          "max_points": 3
+        },
+        {
+          "parameter": "Night symptoms",
+          "target": "0 / week",
+          "max_points": 3
+        },
+        {
+          "parameter": "Steroid dose",
+          "target": "Reduce ≥ 25% (if on ICS)",
+          "max_points": 3
+        }
+      ]
+    },
+    "phase3": {
+      "label": "Maintenance & Relapse Prevention",
+      "duration": "Indefinite",
+      "practices": [
+        {
+          "practice": "Daily Jala Neti",
+          "maintenance_dose": "Year-round, especially dusty seasons"
+        },
+        {
+          "practice": "Pranayama (Buteyko + Anulom Vilom)",
+          "maintenance_dose": "Daily 15 min"
+        },
+        {
+          "practice": "Yoga (chest-opening)",
+          "maintenance_dose": "5 × / week"
+        },
+        {
+          "practice": "Dairy-free, anti-allergic diet",
+          "maintenance_dose": "Lifelong"
+        },
+        {
+          "practice": "Steam inhalation",
+          "maintenance_dose": "3 × / week; daily in winter"
+        },
+        {
+          "practice": "Chest pack",
+          "maintenance_dose": "If wheeze returns or on polluted days"
+        }
+      ],
+      "relapse_rules": [
+        {
+          "trigger": "> 3 wheeze episodes / week",
+          "action": "Phase 2 for 4 weeks + daily chest packs"
+        },
+        {
+          "trigger": "FEV1 drops > 15%",
+          "action": "Phase 1 for 14 days; medication review"
+        },
+        {
+          "trigger": "Steroid course required",
+          "action": "Document and restart Phase 1 post-stabilisation"
+        }
+      ]
+    }
+  },
+  "dietary_protocol": {
+    "eat_window": "7:00 AM – 7:00 PM (no large evening meal — diaphragm compression worsens nocturnal asthma)",
+    "meal_order": "Anti-histamine foods first → Protein → Anti-inflammatory fats → Small complex carbs",
+    "fasting_rules": [
+      {
+        "rule": "No large meals within 3 hours of bedtime",
+        "specification": "Dinner by 7 PM; light (< 400 kcal)",
+        "frequency": "Daily",
+        "physiological_effect": "Large meals elevate diaphragm → reduces FRC; increases GERD (acid reflux triggers asthma in 75% of patients); light early dinner reduces nocturnal bronchospasm"
+      },
+      {
+        "rule": "Vasaka + Licorice decoction before lunch",
+        "specification": "1 cup decoction — 20 min before lunch",
+        "frequency": "Daily Phase 1–2",
+        "physiological_effect": "Vasicine peaks in bronchial mucosa 20–30 min post-dose; pre-meal timing ensures bronchodilatory cover during afternoon activity"
+      },
+      {
+        "rule": "Warm water throughout day — never cold",
+        "specification": "All water and drinks warm or at room temperature only",
+        "frequency": "Daily all phases",
+        "physiological_effect": "Warm water maintains bronchial mucosal hydration; cold water can trigger vagally-mediated bronchospasm in sensitive patients"
+      },
+      {
+        "rule": "Honey + ginger in morning (fasting)",
+        "specification": "1 tsp honey + 1/2 inch ginger juice in warm water — on waking",
+        "frequency": "Daily Phase 1–2",
+        "physiological_effect": "Honey hydrogen peroxide anti-inflammatory on bronchial mucosa; ginger gingerols inhibit phosphodiesterase → bronchial smooth muscle relaxation"
+      },
+      {
+        "rule": "Quercetin-rich food with every meal",
+        "specification": "Cooked onion, apple, or capers at every meal",
+        "frequency": "Every meal",
+        "physiological_effect": "Quercetin stabilises mast cell membranes → prevents IgE-mediated histamine and leukotriene release → reduces bronchial allergic response"
+      }
+    ],
+    "phase_macros": [
+      {
+        "phase": "Phase 1",
+        "phase_key": "phase1",
+        "duration": "14–21 days",
+        "carbohydrates": "Moderate: 40–45% (no processed foods; no sulphite-containing dried fruits; anti-inflammatory whole grains)",
+        "protein": "Moderate: 20–25% (fish 3×/week; avoid shellfish and peanuts — common asthma allergens)",
+        "fat": "Moderate: 30–35% (omega-3 dominant; no dairy fats; no trans fats)",
+        "rationale": "Anti-inflammatory anti-histamine diet; eliminate all dairy; maximise omega-3:omega-6 ratio; no cold or refrigerated foods; no sulphite-containing foods"
+      },
+      {
+        "phase": "Phase 2",
+        "phase_key": "phase2",
+        "duration": "4–6 weeks",
+        "carbohydrates": "Moderate: 45% (increase quercetin-rich vegetables and fruits; identify individual allergens via food diary)",
+        "protein": "Moderate: 20–25%",
+        "fat": "Moderate: 30% (olive oil, flaxseed oil, fish oil)",
+        "rationale": "Allergen identification via systematic reintroduction; track peak flow diary with food diary to identify personal triggers"
+      },
+      {
+        "phase": "Phase 3",
+        "phase_key": "phase3",
+        "duration": "Maintenance",
+        "carbohydrates": "Moderate: 45–50% (Mediterranean anti-allergic; dairy-free lifelong)",
+        "protein": "Moderate: 20%",
+        "fat": "Moderate: 30%",
+        "rationale": "Lifelong dairy-free diet; allergen avoidance personalised to triggers from Phase 2; Mediterranean diet reduces asthma severity 40% (epidemiological data)"
+      }
+    ],
+    "foods_to_eat": [
+      {
+        "category": "Anti-Histamine & Mast Cell Stabilising",
+        "items": [
+          "Quercetin: cooked onions, cooked apples, capers",
+          "Vitamin C: amla, guava (reduces histamine levels)",
+          "Turmeric (anti-mast cell)",
+          "Ginger (5-LOX inhibitor)",
+          "Nettles (natural anti-histamine)"
+        ]
+      },
+      {
+        "category": "Bronchodilatory Foods",
+        "items": [
+          "Honey + ginger (morning ritual)",
+          "Vasaka leaf tea (prescription)",
+          "Ajwain (carom seeds) in cooking or steam",
+          "Licorice root tea (under supervision)"
+        ]
+      },
+      {
+        "category": "Omega-3 Anti-Inflammatory",
+        "items": [
+          "Fatty fish — salmon, mackerel, sardines (3×/week)",
+          "Flaxseeds (2 tbsp ground daily)",
+          "Walnuts",
+          "Flaxseed oil (not heated)"
+        ]
+      },
+      {
+        "category": "Mucus-Reducing Foods",
+        "items": [
+          "Warm water throughout day (never cold)",
+          "Ginger and turmeric teas",
+          "Amla juice",
+          "Horseradish (small amounts — mucolytic)"
+        ]
+      },
+      {
+        "category": "General Anti-Inflammatory",
+        "items": [
+          "All vegetables (cooked, not raw in acute phase)",
+          "Whole grains: ragi, oats, barley",
+          "Legumes",
+          "Berries (low-sugar, high-antioxidant)"
+        ]
+      }
+    ],
+    "foods_to_avoid": [
+      {
+        "category": "Dairy (Mucus-Forming — Lifelong)",
+        "items": [
+          "All cow milk and milk products",
+          "Curd and buttermilk (acute phase)",
+          "Cheese, butter, cream",
+          "Ice cream"
+        ]
+      },
+      {
+        "category": "Asthma Triggers — Sulphite-Containing",
+        "items": [
+          "Wine and alcohol (sulphites)",
+          "Dried fruits (sulphur dioxide)",
+          "Packaged fruit juices",
+          "Bottled sauces and condiments"
+        ]
+      },
+      {
+        "category": "Cold Foods — Trigger",
+        "items": [
+          "Cold water and cold drinks",
+          "Refrigerated food eaten cold",
+          "Ice cream and cold desserts"
+        ]
+      },
+      {
+        "category": "Common Allergens",
+        "items": [
+          "Peanuts (common asthma allergen)",
+          "Shellfish",
+          "Food colourings (tartrazine triggers asthma)",
+          "Excess refined sugar (mast cell activating)"
+        ]
+      },
+      {
+        "category": "Inflammatory",
+        "items": [
+          "Alcohol (histamine release)",
+          "Excess salt (increases bronchial reactivity)",
+          "Processed and packaged foods (multiple triggers)"
+        ]
+      }
+    ],
+    "sample_meal_plan": {
+      "phase": "Phase 1",
+      "meals": [
+        {
+          "time": "6:30 AM (waking)",
+          "what_to_eat": "Jala Neti immediately; then 2 glasses warm water + 1 tsp honey + 1/2 inch ginger juice",
+          "physiological_rationale": "Neti clears overnight allergen load; honey-ginger: anti-inflammatory bronchial priming; warm water (never cold) prevents vagal bronchospasm"
+        },
+        {
+          "time": "7:00 AM",
+          "what_to_eat": "Buteyko breathing (10 min nasal-only) + Anulom Vilom (10 min)",
+          "physiological_rationale": "CO2 normalisation via Buteyko prevents hyperventilation-bronchospasm cycle; Anulom Vilom reduces mast cell reactivity"
+        },
+        {
+          "time": "8:00 AM (Breakfast)",
+          "what_to_eat": "Oats porridge (oat milk or water — NO dairy) + cooked apple + turmeric + ginger + amla juice (30 mL)",
+          "physiological_rationale": "Oats quercetin + beta-glucan reduce airway inflammation; cooked apple avoids cold trigger; vitamin C reduces histamine by 38% (RCT)"
+        },
+        {
+          "time": "12:30 PM — Before lunch",
+          "what_to_eat": "Vasaka + Licorice decoction (1 cup, warm) — 20 min before eating",
+          "physiological_rationale": "Vasicine reaches peak bronchial level 20–30 min post-dose; bronchodilatory cover during afternoon peak bronchospasm risk"
+        },
+        {
+          "time": "1:00 PM (Lunch)",
+          "what_to_eat": "Grilled salmon (150 g) + cooked onion and garlic sabzi + brown rice (small) + cooked broccoli — no dairy, warm only",
+          "physiological_rationale": "Salmon omega-3 shifts LTB4 to weaker LTB5; onion quercetin mast cell stabilisation; cooked avoids cold trigger"
+        },
+        {
+          "time": "4:00 PM (Snack)",
+          "what_to_eat": "Warm ginger tea + walnuts (8–10) + 1 tsp honey",
+          "physiological_rationale": "Ginger inhibits phosphodiesterase → sustained bronchial smooth muscle relaxation; walnuts omega-3; honey coats airway"
+        },
+        {
+          "time": "6:00 PM",
+          "what_to_eat": "Steam inhalation with ajwain (10 min) before dinner",
+          "physiological_rationale": "Ajwain thymol reaches bronchial epithelium via steam → bronchodilation before sleep (nocturnal asthma peak)"
+        },
+        {
+          "time": "6:30 PM (Dinner — early, light)",
+          "what_to_eat": "Moong dal soup (warm) + steamed vegetables (no dairy) + small ragi roti — finish by 7 PM",
+          "physiological_rationale": "Light early dinner prevents diaphragm compression; no dairy = no mucus formation overnight; finish 7 PM prevents GERD-triggered bronchospasm"
+        },
+        {
+          "time": "9:00 PM",
+          "what_to_eat": "Warm mustard oil chest + back massage (15 min) then sleep",
+          "physiological_rationale": "Mustard oil maintains overnight bronchial mucosal circulation; warmth prevents cold-triggered overnight bronchoconstriction"
+        }
+      ]
+    }
+  },
+  "functional_foods": [
+    {
+      "name": "Vasaka (Adhatoda vasica)",
+      "icon": "🌿",
+      "dose_timing": "1 cup decoction (5 g leaf) — 20 min before lunch; supervised",
+      "mechanism_of_action": "Vasicine alkaloid is potent bronchodilator and mucolytic — 10× bromhexine in vitro; vasicine oxidises to vasicinone (longer-acting bronchodilator); also anti-inflammatory at bronchial eosinophil level"
+    },
+    {
+      "name": "Licorice root (Yashtimadhu)",
+      "icon": "🟤",
+      "dose_timing": "3–5 g root decoction — 1 cup before meals, supervised (not > 6 weeks continuous)",
+      "mechanism_of_action": "Glycyrrhizin inhibits 11β-HSD → potentiates local cortisol anti-inflammatory effect in bronchial wall; also mucolytic; note: avoid in hypertension"
+    },
+    {
+      "name": "Honey (raw, unprocessed)",
+      "icon": "🍯",
+      "dose_timing": "1 tsp in warm water — morning on waking; combine with ginger juice",
+      "mechanism_of_action": "Hydrogen peroxide and methylglyoxal: direct anti-inflammatory on bronchial mucosa; phenolic compounds stabilise mast cells; reduces nocturnal cough comparable to dextromethorphan (trial data)"
+    },
+    {
+      "name": "Ginger",
+      "icon": "🫚",
+      "dose_timing": "1-inch fresh in decoction 3×/day; add freely to cooking",
+      "mechanism_of_action": "6-Gingerol inhibits 5-LOX and phosphodiesterase → bronchial smooth muscle relaxation; reduces eosinophil chemotaxis; documented peak flow improvement"
+    },
+    {
+      "name": "Ajwain (carom seeds) steam",
+      "icon": "🌿",
+      "dose_timing": "1 tsp seeds in boiling water — inhale steam 10 min, 2×/day",
+      "mechanism_of_action": "Thymol is potent bronchodilator via calcium channel antagonism; mucolytic via increased bronchial secretion hydration; antispasmodic reduces bronchospasm duration"
+    },
+    {
+      "name": "Quercetin (from foods)",
+      "icon": "🧅",
+      "dose_timing": "Cooked onions (1 cup/day), cooked apple, capers — daily with meals",
+      "mechanism_of_action": "Stabilises mast cell membranes preventing IgE-mediated degranulation; inhibits phosphodiesterase → bronchodilation; reduces eosinophil migration into bronchial wall"
+    },
+    {
+      "name": "Turmeric",
+      "icon": "🌙",
+      "dose_timing": "1 tsp in warm water or dairy-free milk — morning and evening",
+      "mechanism_of_action": "Curcumin inhibits NF-kB → reduces IL-4, IL-5, IL-13 (Th2 cytokines driving eosinophilic inflammation); stabilises mast cells; reduces IgE production"
+    },
+    {
+      "name": "Eucalyptus (steam inhalation)",
+      "icon": "🫁",
+      "dose_timing": "3–5 drops eucalyptus oil in boiling water — steam inhalation 10 min morning",
+      "mechanism_of_action": "1,8-Cineole (eucalyptol) is mucolytic and anti-inflammatory; inhibits leukocyte activation in bronchial mucosa; documented to reduce inhaled steroid dose in mild-moderate asthma (German RCT 2003)"
+    }
+  ],
+  "yoga_sequence": {
+    "total_duration_min": 20,
+    "best_time": "4:00 PM",
+    "asanas": [
+      {
+        "asana": "Sukhasana with slow diaphragmatic breathing",
+        "duration_min": 3,
+        "physiological_effect": "Trains diaphragm as primary breathing muscle; increases tidal volume; reduces functional residual capacity deficiency"
+      },
+      {
+        "asana": "Bhujangasana (cobra pose)",
+        "duration_min": 2,
+        "physiological_effect": "Opens anterior chest wall; stretches intercostals improving thoracic compliance; reverses forward-flexed asthma posture"
+      },
+      {
+        "asana": "Dhanurasana (bow pose)",
+        "duration_min": 2,
+        "physiological_effect": "Maximum chest expansion; drains posterior lung zones; diaphragm training via abdominal compression"
+      },
+      {
+        "asana": "Matsyasana (fish pose)",
+        "duration_min": 3,
+        "physiological_effect": "Stretches bronchial tree via neck-chest expansion; stimulates thymus (immune modulation — reduces Th2 bias)"
+      },
+      {
+        "asana": "Sethu Bandhasana (bridge)",
+        "duration_min": 2,
+        "physiological_effect": "Diaphragm strengthening; thoracic spine extension improves rib cage mobility and inspiratory volume"
+      },
+      {
+        "asana": "Viparita Karani (legs up wall)",
+        "duration_min": 5,
+        "physiological_effect": "Postural drainage of upper lung lobes; reverses gravitational mucus pooling; reduces sinus congestion"
+      },
+      {
+        "asana": "Anulom Vilom (slow rate)",
+        "duration_min": 5,
+        "physiological_effect": "Reduces bronchial hyperreactivity; documented 12% improvement in peak flow in 4 weeks; slows respiratory rate → increases CO2"
+      },
+      {
+        "asana": "Savasana with chest expansion bolster",
+        "duration_min": 3,
+        "physiological_effect": "Passive chest opening; reduces residual volume; full respiratory muscle relaxation"
+      }
+    ]
+  },
+  "red_flags": [
+    {
+      "sign": "SpO2 < 92% or cyanosis",
+      "action": "Acute severe asthma — administer rescue bronchodilator; hospital emergency immediately"
+    },
+    {
+      "sign": "Cannot complete a sentence due to breathlessness",
+      "action": "Life-threatening attack — call emergency services immediately"
+    },
+    {
+      "sign": "Rescue inhaler > 3 times in 24 h with no relief",
+      "action": "Status asthmaticus risk — urgent hospitalisation"
+    },
+    {
+      "sign": "Fever + purulent sputum + wheeze",
+      "action": "Rule out infective exacerbation/pneumonia"
+    },
+    {
+      "sign": "Wheeze only on one side of chest",
+      "action": "Rule out foreign body or endobronchial tumour — urgent imaging"
+    }
+  ],
+  "monitoring": [
+    {
+      "frequency": "Daily",
+      "parameters": [
+        "Peak expiratory flow (morning + evening)",
+        "Rescue inhaler use count",
+        "Symptom diary"
+      ]
+    },
+    {
+      "frequency": "Weekly",
+      "parameters": [
+        "ACQ score",
+        "Sleep quality",
+        "Exercise tolerance"
+      ]
+    },
+    {
+      "frequency": "Monthly",
+      "parameters": [
+        "Spirometry (FEV1, FVC)",
+        "Eosinophil count",
+        "Total IgE"
+      ]
+    },
+    {
+      "frequency": "Quarterly",
+      "parameters": [
+        "Chest X-ray (annual)",
+        "Allergy panel review",
+        "Inhaler technique assessment"
+      ]
+    }
+  ],
+  "clinical_disclaimer": "This protocol is for use under qualified BNYS clinical supervision. Patients on inhaled corticosteroids must NOT reduce medication without physician guidance. During active wheeze, skip Kapalabhati and Bhastrika. Vasaka and Licorice require clinician supervision. This document is for clinical reference only."
+}
