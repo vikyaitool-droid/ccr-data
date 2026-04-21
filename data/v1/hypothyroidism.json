@@ -1,0 +1,627 @@
+{
+  "schema_version": "1.0",
+  "protocol_id": "hypothyroidism",
+  "protocol_number": "03",
+  "title": "Hypothyroidism",
+  "short_title": "Hypothyroidism",
+  "category": "Metabolic / Endocrine",
+  "version": "2.0",
+  "protocol_family": "BNYS",
+  "icon": "🦋",
+  "color": "#7c3aed",
+  "root_mechanism": "Autoimmune (Hashimoto's) or iodine/selenium deficiency → impaired T4 synthesis and/or T4→T3 peripheral conversion → low cellular thyroid hormone → reduced basal metabolic rate, slowed gut motility, fluid retention, and mitochondrial dysfunction.",
+  "goals": [
+    {
+      "parameter": "TSH",
+      "target": "0.5–2.5 mIU/L"
+    },
+    {
+      "parameter": "Free T3",
+      "target": "3.5–4.5 pg/mL"
+    },
+    {
+      "parameter": "Free T4",
+      "target": "1.0–1.6 ng/dL"
+    },
+    {
+      "parameter": "Anti-TPO Ab",
+      "target": "< 35 IU/mL (Hashimoto's)"
+    },
+    {
+      "parameter": "Body weight",
+      "target": "Return to pre-hypothyroid weight"
+    }
+  ],
+  "phases": {
+    "phase1": {
+      "label": "Acute Intervention",
+      "duration": "14–21 days",
+      "exit_threshold": "≥ 12 / 15 points",
+      "interventions": [
+        {
+          "time": "Wake-up",
+          "duration": "2 min",
+          "intervention": "Cold shower (start 30 sec, build to 2 min) focusing cold water on neck/thyroid region",
+          "physiological_effect": "Cold stimulates thyroid gland directly via increased TSH release from pituitary; norepinephrine activates thyroid hormone synthesis pathway"
+        },
+        {
+          "time": "After shower",
+          "duration": "10 min",
+          "intervention": "Neck/thyroid area Abhyanga with warm castor oil + gentle thyroid massage (circular)",
+          "physiological_effect": "Castor oil ricinoleic acid reduces local thyroid inflammation (anti-Hashimoto's); manual massage increases thyroid blood flow → better iodine delivery"
+        },
+        {
+          "time": "Before breakfast",
+          "duration": "10 min",
+          "intervention": "Nadi Shodhana + Ujjayi pranayama (ocean breath)",
+          "physiological_effect": "Ujjayi creates mild heat in thoracic region overlying thyroid; vibrational stimulation of thyroid via laryngeal contraction"
+        },
+        {
+          "time": "Breakfast",
+          "duration": "—",
+          "intervention": "Selenium-rich breakfast: Brazil nuts (2) + eggs + whole grain toast with coconut oil",
+          "physiological_effect": "Selenium is essential cofactor for deiodinase enzymes (T4→T3 conversion); 2 Brazil nuts provide daily selenium requirement"
+        },
+        {
+          "time": "10:00 AM",
+          "duration": "20 min",
+          "intervention": "Warm castor oil abdominal pack (liver area)",
+          "physiological_effect": "Stimulates hepatic T4 to T3 conversion (70% of T3 is made in liver); castor oil enhances lymphatic detoxification of reverse T3"
+        },
+        {
+          "time": "Before lunch",
+          "duration": "20 min before",
+          "intervention": "Ashwagandha decoction (500 mg in warm water)",
+          "physiological_effect": "Withanolides in ashwagandha stimulate thyroid hormone synthesis; adaptogenic effect normalises HPA-HPT axis crosstalk"
+        },
+        {
+          "time": "Lunch",
+          "duration": "—",
+          "intervention": "Iodine + selenium + zinc rich meal: seaweed, eggs, legumes, pumpkin seeds, wholegrains (cooked, not raw cruciferous)",
+          "physiological_effect": "Iodine = thyroid hormone substrate; zinc required for TSH receptor function; avoid raw goitrogenic vegetables"
+        },
+        {
+          "time": "After lunch",
+          "duration": "20 min",
+          "intervention": "20-min brisk walk or light resistance exercise",
+          "physiological_effect": "Exercise increases T3 receptor sensitivity in muscle; stimulates deiodinase activity; raises metabolic rate to compensate hypothyroid slowing"
+        },
+        {
+          "time": "3:00 PM",
+          "duration": "20 min",
+          "intervention": "Warm sesame oil full-body massage (Sarvanga Abhyanga)",
+          "physiological_effect": "Stimulates peripheral T3 receptor uptake; increases circulation to sluggish tissues; reduces myxoedematous fluid accumulation"
+        },
+        {
+          "time": "4:00 PM",
+          "duration": "25 min",
+          "intervention": "Yoga sequence (neck sequence — see below)",
+          "physiological_effect": "Neck postures directly stimulate thyroid gland mechanically; inversions increase blood supply to thyroid"
+        },
+        {
+          "time": "6:00 PM",
+          "duration": "10 min",
+          "intervention": "Contrast neck bath (alternating hot and cold compress on neck)",
+          "physiological_effect": "Vascular pumping in thyroid region → flushes inflammatory cytokines; stimulates thyroid cell metabolism"
+        },
+        {
+          "time": "7:00 PM",
+          "duration": "—",
+          "intervention": "Dinner: easy-to-digest — moong dal soup, cooked vegetables, small amount grain",
+          "physiological_effect": "Hypothyroid gut is sluggish — well-cooked, warm foods prevent constipation and bacterial overgrowth"
+        },
+        {
+          "time": "9:00 PM",
+          "duration": "20 min",
+          "intervention": "Warm full-body bath with Himalayan pink salt (iodine source) + ginger powder",
+          "physiological_effect": "Transdermal iodine absorption; ginger raises body temperature offsetting hypothyroid thermogenesis deficit"
+        }
+      ],
+      "exit_criteria": [
+        {
+          "parameter": "TSH",
+          "target": "Drop ≥ 30% from baseline",
+          "max_points": 3
+        },
+        {
+          "parameter": "Free T3",
+          "target": "Increase ≥ 0.5 pg/mL",
+          "max_points": 3
+        },
+        {
+          "parameter": "Weight loss",
+          "target": "≥ 1.5 kg",
+          "max_points": 3
+        },
+        {
+          "parameter": "Energy (0–10)",
+          "target": "≥ 6",
+          "max_points": 3
+        },
+        {
+          "parameter": "Bowel regularity",
+          "target": "Daily bowel movement achieved",
+          "max_points": 3
+        }
+      ]
+    },
+    "phase2": {
+      "label": "Consolidation & Repair",
+      "duration": "4–6 weeks",
+      "exit_threshold": "≥ 13 / 15 points",
+      "interventions": [
+        {
+          "intervention": "Cold neck shower",
+          "frequency": "Daily"
+        },
+        {
+          "intervention": "Thyroid Abhyanga (castor oil)",
+          "frequency": "3 × / week"
+        },
+        {
+          "intervention": "Warm castor oil liver pack",
+          "frequency": "3 × / week"
+        },
+        {
+          "intervention": "Contrast neck bath",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Himalayan salt bath",
+          "frequency": "3 × / week"
+        },
+        {
+          "intervention": "Yoga (neck sequence)",
+          "frequency": "Daily (25 min)"
+        },
+        {
+          "intervention": "Ashwagandha",
+          "frequency": "Daily (supervised)"
+        }
+      ],
+      "exit_criteria": [
+        {
+          "parameter": "TSH",
+          "target": "0.5–4.0 mIU/L",
+          "max_points": 3
+        },
+        {
+          "parameter": "Free T3",
+          "target": "≥ 3.0 pg/mL or rise ≥ 1.0",
+          "max_points": 3
+        },
+        {
+          "parameter": "Anti-TPO Ab",
+          "target": "Decrease ≥ 20% from baseline",
+          "max_points": 3
+        },
+        {
+          "parameter": "Weight loss",
+          "target": "≥ 3 kg or BMI drop ≥ 1",
+          "max_points": 3
+        },
+        {
+          "parameter": "Medication reduction",
+          "target": "≥ 25% of initial thyroxine",
+          "max_points": 3
+        }
+      ]
+    },
+    "phase3": {
+      "label": "Maintenance & Relapse Prevention",
+      "duration": "Indefinite",
+      "practices": [
+        {
+          "practice": "Selenium-rich diet (Brazil nuts daily)",
+          "maintenance_dose": "Lifelong"
+        },
+        {
+          "practice": "Iodised food + seaweed",
+          "maintenance_dose": "2 × / week lifelong"
+        },
+        {
+          "practice": "Cold neck shower",
+          "maintenance_dose": "Daily"
+        },
+        {
+          "practice": "Yoga neck sequence",
+          "maintenance_dose": "5 × / week"
+        },
+        {
+          "practice": "Contrast neck bath",
+          "maintenance_dose": "If TSH rises > 4.5"
+        },
+        {
+          "practice": "Ashwagandha (seasonal cycles)",
+          "maintenance_dose": "3 months on, 1 month off"
+        }
+      ],
+      "relapse_rules": [
+        {
+          "trigger": "TSH > 5.0 on repeat test",
+          "action": "Phase 2 for 4 weeks; review medication"
+        },
+        {
+          "trigger": "Symptoms return (fatigue, cold intolerance, weight gain)",
+          "action": "Phase 1 for 14 days"
+        },
+        {
+          "trigger": "Anti-TPO rises > 50%",
+          "action": "Increase anti-inflammatory interventions; add turmeric protocol"
+        }
+      ]
+    }
+  },
+  "dietary_protocol": {
+    "eat_window": "7:00 AM – 7:00 PM (no strict IF — hypothyroid metabolism already suppressed)",
+    "meal_order": "Protein → Cooked vegetables → Complex carbs (cooked, never raw cruciferous)",
+    "fasting_rules": [
+      {
+        "rule": "No aggressive IF in Phase 1",
+        "specification": "3 meals/day mandatory — skipping meals suppresses already-slow metabolic rate further",
+        "frequency": "Daily Phase 1",
+        "physiological_effect": "Regular meals maintain thyroid hormone demand; prolonged fasting → T3 conversion drops → worsens hypothyroid state"
+      },
+      {
+        "rule": "Thyroxine timing",
+        "specification": "Take thyroxine medication 30–60 min before breakfast on empty stomach (if prescribed)",
+        "frequency": "Daily (if on medication)",
+        "physiological_effect": "Food (especially calcium, iron, fibre) reduces thyroxine absorption by 20–40%; empty stomach maximises bioavailability"
+      },
+      {
+        "rule": "Selenium before breakfast",
+        "specification": "2 Brazil nuts on waking — before any food",
+        "frequency": "Daily",
+        "physiological_effect": "Selenium is rate-limiting cofactor for type 1 deiodinase (T4→T3 conversion); morning timing maximises cofactor availability for daytime thyroid hormone synthesis"
+      },
+      {
+        "rule": "Avoid raw goitrogens",
+        "specification": "Cook all cruciferous vegetables thoroughly; no raw broccoli/cabbage/cauliflower",
+        "frequency": "Every meal",
+        "physiological_effect": "Heat deactivates glucosinolates (goitrogenic compounds) that inhibit thyroid peroxidase and iodine uptake"
+      },
+      {
+        "rule": "Ashwagandha 20 min before lunch",
+        "specification": "500 mg in warm water",
+        "frequency": "Daily (supervised)",
+        "physiological_effect": "Withanolides stimulate thyroid hormone synthesis and reduce cortisol-mediated HPT axis suppression; timing with food reduces GI side effects"
+      },
+      {
+        "rule": "12-hour gentle overnight fast (Phase 2–3)",
+        "specification": "No eating after 7 PM; resume at 7 AM",
+        "frequency": "Daily Phase 2–3",
+        "physiological_effect": "Gentle fast allows GH secretion overnight → supports metabolic rate; avoids aggressive IF that worsens T3 conversion"
+      }
+    ],
+    "phase_macros": [
+      {
+        "phase": "Phase 1",
+        "phase_key": "phase1",
+        "duration": "14–21 days",
+        "carbohydrates": "Moderate: 45–50% of calories (low-GI, fibre-rich; cooked vegetables; millets)",
+        "protein": "Moderate-high: 25–30% / 1.2–1.5 g/kg BW/day (eggs, fish, legumes — selenium + iodine sources)",
+        "fat": "Moderate: 25–30% (coconut oil prioritised — stimulates T4→T3 conversion; sesame oil for massage AND cooking)",
+        "rationale": "Support thyroid hormone synthesis via micronutrient-dense diet; protein raises T3 demand on tissues; coconut oil's MCTs stimulate conversion enzymes; avoid all goitrogens"
+      },
+      {
+        "phase": "Phase 2",
+        "phase_key": "phase2",
+        "duration": "4–6 weeks",
+        "carbohydrates": "Moderate: 45–50% (introduce more variety; still avoid raw cruciferous)",
+        "protein": "Moderate: 1.0–1.2 g/kg BW/day",
+        "fat": "Moderate: 25–30% (maintain coconut oil; add fatty fish 3×/week)",
+        "rationale": "Sustained thyroid support; increase selenium/iodine diversity; gentle caloric increase to support recovering metabolic rate"
+      },
+      {
+        "phase": "Phase 3",
+        "phase_key": "phase3",
+        "duration": "Maintenance",
+        "carbohydrates": "Moderate: 50% of calories (Mediterranean-style)",
+        "protein": "Standard: 0.8–1.0 g/kg BW/day",
+        "fat": "Moderate: 25–30%",
+        "rationale": "Lifelong selenium and iodine sufficiency; anti-Hashimoto's diet (gluten-reduced if autoimmune confirmed); maintain metabolic rate via regular exercise"
+      }
+    ],
+    "foods_to_eat": [
+      {
+        "category": "Selenium-Rich (T4→T3 Conversion)",
+        "items": [
+          "Brazil nuts — 2/day (do not exceed; selenium toxicity possible)",
+          "Eggs (whole — yolk contains selenium)",
+          "Tuna and sardines",
+          "Sunflower seeds",
+          "Mushrooms (shiitake)"
+        ]
+      },
+      {
+        "category": "Iodine-Rich (Thyroid Hormone Substrate)",
+        "items": [
+          "Seaweed/kelp — 2×/week (nori sheets)",
+          "Iodised salt (small amounts)",
+          "Fish (tuna, cod, shrimp)",
+          "Dairy — low-fat milk and curd (iodine from feed)",
+          "Himalayan pink salt (trace iodine)"
+        ]
+      },
+      {
+        "category": "Zinc-Rich (TSH Receptor Function)",
+        "items": [
+          "Pumpkin seeds (1 tbsp/day)",
+          "Legumes (lentils, chickpeas)",
+          "Cashews",
+          "Eggs",
+          "Lean meat"
+        ]
+      },
+      {
+        "category": "Anti-Hashimoto's / Anti-inflammatory",
+        "items": [
+          "Turmeric (1 tsp/day — reduces anti-TPO antibodies)",
+          "Ginger (freely in cooking)",
+          "Omega-3: fatty fish 3×/week and flaxseeds",
+          "Colourful vegetables (cooked)",
+          "Bone broth (glycine supports gut integrity — leaky gut drives Hashimoto's)"
+        ]
+      },
+      {
+        "category": "Thyroid-Supportive",
+        "items": [
+          "Coconut oil (stimulates T4→T3 in liver)",
+          "Cooked sweet potato (iodine + beta carotene)",
+          "Cooked spinach (iron — cofactor for thyroid peroxidase)",
+          "Brazil nuts",
+          "Ashwagandha (under supervision)"
+        ]
+      }
+    ],
+    "foods_to_avoid": [
+      {
+        "category": "Raw Goitrogenic Vegetables",
+        "items": [
+          "Raw broccoli (always cook thoroughly)",
+          "Raw cabbage",
+          "Raw cauliflower",
+          "Raw kale",
+          "Raw Brussels sprouts",
+          "Bok choy (raw)"
+        ]
+      },
+      {
+        "category": "Soy Products (Thyroid Receptor Blockers)",
+        "items": [
+          "Soy milk",
+          "Tofu (large amounts)",
+          "Edamame (large amounts)",
+          "Soy protein powder",
+          "Soy-based meat substitutes"
+        ]
+      },
+      {
+        "category": "Gluten (Hashimoto's — Trial Elimination)",
+        "items": [
+          "Wheat and wheat products",
+          "Maida (refined wheat flour)",
+          "Barley",
+          "Rye",
+          "Processed foods with hidden gluten"
+        ]
+      },
+      {
+        "category": "Excess Millet (Goitrogenic)",
+        "items": [
+          "Bajra (pearl millet) in excess",
+          "Jowar in large amounts (moderate amounts fine when cooked)"
+        ]
+      },
+      {
+        "category": "Other Thyroid Disruptors",
+        "items": [
+          "Fluoride-heavy water (use filtered water)",
+          "Processed and packaged foods",
+          "Alcohol (suppresses T4→T3 conversion)",
+          "Excess caffeine (raises cortisol → suppresses HPT axis)"
+        ]
+      }
+    ],
+    "sample_meal_plan": {
+      "phase": "Phase 1",
+      "meals": [
+        {
+          "time": "6:30 AM (on waking)",
+          "what_to_eat": "2 Brazil nuts + warm water (2 glasses)",
+          "physiological_rationale": "Brazil nuts provide daily selenium requirement for T4→T3 deiodinase enzymes; warm water on empty stomach before thyroid medication"
+        },
+        {
+          "time": "7:00 AM (if on thyroxine)",
+          "what_to_eat": "Thyroxine medication on empty stomach — wait 30–60 min before eating",
+          "physiological_rationale": "Empty stomach absorption of thyroxine maximised; calcium, iron, fibre in food reduce absorption 20–40%"
+        },
+        {
+          "time": "8:00 AM (Breakfast)",
+          "what_to_eat": "2 whole eggs (scrambled in coconut oil) + whole grain toast (small) + 1 tsp pumpkin seeds + ginger tea",
+          "physiological_rationale": "Eggs: selenium + iodine + zinc; coconut oil MCTs stimulate hepatic T4→T3 conversion; ginger raises body temperature offsetting hypothyroid thermogenesis deficit"
+        },
+        {
+          "time": "11:00 AM (Mid-morning)",
+          "what_to_eat": "Ashwagandha decoction (500 mg in warm water) + 1 cup warm water",
+          "physiological_rationale": "Withanolides stimulate thyroid synthesis; pre-lunch timing allows absorption before meal nutrients"
+        },
+        {
+          "time": "1:00 PM (Lunch)",
+          "what_to_eat": "Brown rice (small) or ragi roti + cooked dal + cooked spinach sabzi (iron) + nori sheet (iodine) + curd (selenium + probiotic)",
+          "physiological_rationale": "All cruciferous cooked — glucosinolates deactivated by heat; nori provides dietary iodine substrate; curd provides selenium + gut microbiome support (gut dysbiosis drives Hashimoto's)"
+        },
+        {
+          "time": "4:00 PM (Snack)",
+          "what_to_eat": "Sunflower seeds (1 tbsp) + warm turmeric milk (no sugar)",
+          "physiological_rationale": "Sunflower seeds: selenium + zinc; turmeric curcumin reduces anti-TPO antibodies (anti-Hashimoto's); warm milk provides iodine"
+        },
+        {
+          "time": "7:00 PM (Dinner)",
+          "what_to_eat": "Moong dal khichdi (well-cooked, warm) + cooked vegetables (pumpkin, sweet potato) + 1 tsp ghee",
+          "physiological_rationale": "Hypothyroid gut is sluggish — well-cooked easy foods; sweet potato iodine and beta-carotene; ghee butyrate supports gut integrity (leaky gut perpetuates Hashimoto's)"
+        },
+        {
+          "time": "9:00 PM",
+          "what_to_eat": "Warm Himalayan salt bath (20 min) — then sleep by 10 PM",
+          "physiological_rationale": "Transdermal iodine absorption from Himalayan salt; sleep is critical — GH peaks in early sleep → supports thyroid recovery"
+        }
+      ]
+    }
+  },
+  "functional_foods": [
+    {
+      "name": "Brazil nuts",
+      "icon": "🌰",
+      "dose_timing": "2 nuts daily — on waking before food (do not exceed 4/day)",
+      "mechanism_of_action": "Highest dietary selenium source; selenium is obligatory cofactor for type 1, 2, and 3 deiodinase enzymes governing T4→T3 conversion; reduces thyroid inflammation in Hashimoto's"
+    },
+    {
+      "name": "Ashwagandha (Withania somnifera)",
+      "icon": "🌿",
+      "dose_timing": "500 mg standardised extract in warm water — 20 min before lunch, supervised",
+      "mechanism_of_action": "Withanolides stimulate thyroid hormone synthesis (raises T4 and T3); adaptogenic — normalises HPA-HPT axis crosstalk; reduces cortisol-driven TSH suppression"
+    },
+    {
+      "name": "Seaweed/Kelp (nori)",
+      "icon": "🌊",
+      "dose_timing": "1–2 nori sheets — 2×/week in meals (not more — iodine excess also harmful)",
+      "mechanism_of_action": "Dietary iodine is the primary substrate for thyroid hormone (T3 = 3 iodine atoms, T4 = 4); deficiency is primary cause of hypothyroidism globally"
+    },
+    {
+      "name": "Coconut oil",
+      "icon": "🥥",
+      "dose_timing": "1–2 tbsp in cooking daily (replaces other oils)",
+      "mechanism_of_action": "Lauric and caprylic acid (MCTs) stimulate hepatic type 1 deiodinase activity → increases T4→T3 peripheral conversion; raises basal metabolic rate 5% counteracting hypothyroid BMR depression"
+    },
+    {
+      "name": "Pumpkin seeds",
+      "icon": "🎃",
+      "dose_timing": "1 tbsp daily — as snack or sprinkled on meals",
+      "mechanism_of_action": "Rich in zinc — essential cofactor for TSH receptor function; also provides selenium and tryptophan supporting mood in hypothyroid-associated depression"
+    },
+    {
+      "name": "Ginger (Zingiber officinale)",
+      "icon": "🫚",
+      "dose_timing": "1-inch fresh piece in warm water — morning; freely add to cooking",
+      "mechanism_of_action": "6-Gingerol raises core body temperature (thermogenic) compensating hypothyroid deficit; reduces TNF-α and IL-6 in Hashimoto's thyroiditis; improves gut motility (hypothyroid constipation)"
+    },
+    {
+      "name": "Turmeric",
+      "icon": "🌙",
+      "dose_timing": "1 tsp with black pepper in warm milk (no sugar) — evening",
+      "mechanism_of_action": "Curcumin reduces anti-TPO antibody production by downregulating Th1/Th17 immune response; reduces NF-kB inflammation in thyroid gland; piperine increases bioavailability 2000%"
+    },
+    {
+      "name": "Guggul (Commiphora mukul)",
+      "icon": "🌱",
+      "dose_timing": "250–500 mg standardised extract — with lunch, clinician supervised",
+      "mechanism_of_action": "Guggulsterones directly stimulate thyroid function by increasing iodine uptake; activate thyroid peroxidase enzyme; documented to increase T3 levels by 30% in 4 weeks"
+    }
+  ],
+  "yoga_sequence": {
+    "total_duration_min": 25,
+    "best_time": "4:00 PM",
+    "asanas": [
+      {
+        "asana": "Sarvangasana (shoulder stand)",
+        "duration_min": 3,
+        "physiological_effect": "Direct pressure on thyroid gland → mechanical stimulation of hormone release; increased blood supply to thyroid via venous drainage reversal"
+      },
+      {
+        "asana": "Matsyasana (fish pose)",
+        "duration_min": 2,
+        "physiological_effect": "Maximum neck arch exposes and stretches thyroid gland; maximises blood supply to thyroid; counter-pose to shoulder stand"
+      },
+      {
+        "asana": "Halasana (plough pose)",
+        "duration_min": 2,
+        "physiological_effect": "Chin-lock (Jalandhara bandha) stimulates thyroid; compresses anterior neck → mechanically activates thyroid cell metabolism"
+      },
+      {
+        "asana": "Ustrasana (camel pose)",
+        "duration_min": 2,
+        "physiological_effect": "Neck extension stimulates thyroid and parathyroid simultaneously; opens anterior chest improving respiratory exchange"
+      },
+      {
+        "asana": "Sethu Bandhasana with chin lock",
+        "duration_min": 2,
+        "physiological_effect": "Jalandhara bandha — classic thyroid toning posture; chin pressed to chest stimulates thyroid plexus"
+      },
+      {
+        "asana": "Simhasana (lion pose)",
+        "duration_min": 2,
+        "physiological_effect": "Tongue protrusion + neck stretch stimulates thyroid + larynx; increases circulation to anterior neck region"
+      },
+      {
+        "asana": "Ujjayi + Bhramari pranayama",
+        "duration_min": 7,
+        "physiological_effect": "Ujjayi laryngeal vibration mechanically stimulates thyroid; Bhramari calms Hashimoto's autoimmune response via vagal-mediated immune modulation"
+      },
+      {
+        "asana": "Savasana",
+        "duration_min": 5,
+        "physiological_effect": "Parasympathetic dominance; reduces autoimmune Th1 cytokine activity; allows thyroid tissue recovery"
+      }
+    ]
+  },
+  "red_flags": [
+    {
+      "sign": "TSH > 50 mIU/L with altered consciousness",
+      "action": "Myxoedema coma risk — immediate hospital admission"
+    },
+    {
+      "sign": "Bradycardia < 50 bpm + hypothermia",
+      "action": "Severe hypothyroid cardiac depression — urgent care"
+    },
+    {
+      "sign": "Pregnancy with TSH > 2.5",
+      "action": "Immediate endocrinologist referral; foetal risk"
+    },
+    {
+      "sign": "Chest pain or pericardial effusion symptoms",
+      "action": "Hypothyroid heart disease — urgent echocardiogram"
+    },
+    {
+      "sign": "Severe constipation + abdominal distension",
+      "action": "Rule out hypothyroid ileus — surgical emergency"
+    }
+  ],
+  "monitoring": [
+    {
+      "frequency": "Daily",
+      "parameters": [
+        "Basal body temperature (morning, pre-rising)",
+        "Energy level (0–10)",
+        "Bowel frequency"
+      ]
+    },
+    {
+      "frequency": "Weekly",
+      "parameters": [
+        "Weight",
+        "Resting heart rate",
+        "Skin/hair condition assessment"
+      ]
+    },
+    {
+      "frequency": "Monthly",
+      "parameters": [
+        "TSH",
+        "Free T3",
+        "Free T4"
+      ]
+    },
+    {
+      "frequency": "Quarterly",
+      "parameters": [
+        "Anti-TPO antibodies",
+        "Lipid profile",
+        "Vitamin D",
+        "B12",
+        "Ferritin"
+      ]
+    }
+  ],
+  "clinical_disclaimer": "This protocol is designed to be implemented under the supervision of a qualified BNYS physician. Patients on thyroxine medication must not adjust doses without physician oversight. Ashwagandha and guggul require clinician supervision due to potential interaction with thyroid medications. This document is for clinical reference only."
+}
