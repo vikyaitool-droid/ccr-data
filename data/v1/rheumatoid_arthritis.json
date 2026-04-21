@@ -1,0 +1,588 @@
+{
+  "schema_version": "1.0",
+  "protocol_id": "rheumatoid_arthritis",
+  "protocol_number": "05",
+  "title": "Rheumatoid Arthritis (RA)",
+  "short_title": "Rheumatoid Arthritis",
+  "category": "Inflammation",
+  "version": "2.0",
+  "protocol_family": "BNYS",
+  "icon": "🦴",
+  "color": "#c0392b",
+  "root_mechanism": "Molecular mimicry or gut dysbiosis → loss of immune tolerance → Th1/Th17 cell activation → synovial macrophage infiltration → TNF-α, IL-1β, IL-6 excess → synovitis, pannus formation, cartilage erosion, and systemic inflammation.",
+  "goals": [
+    {
+      "parameter": "DAS28 score",
+      "target": "< 2.6 (remission)"
+    },
+    {
+      "parameter": "hs-CRP",
+      "target": "< 1 mg/L"
+    },
+    {
+      "parameter": "ESR",
+      "target": "< 20 mm/hr"
+    },
+    {
+      "parameter": "RF / Anti-CCP",
+      "target": "Downtrend from baseline"
+    },
+    {
+      "parameter": "Morning stiffness",
+      "target": "< 15 minutes"
+    }
+  ],
+  "phases": {
+    "phase1": {
+      "label": "Acute Intervention",
+      "duration": "14–21 days",
+      "exit_threshold": "≥ 12 / 15 points",
+      "interventions": [
+        {
+          "time": "Wake-up",
+          "duration": "15 min",
+          "intervention": "Warm paraffin bath or warm water soak for hands/feet",
+          "physiological_effect": "Heat reduces synovial viscosity; promotes synovial fluid circulation; reduces morning stiffness by dilating periarticular capillaries"
+        },
+        {
+          "time": "After soak",
+          "duration": "10 min",
+          "intervention": "Gentle joint mobilisation — range-of-motion exercises all joints",
+          "physiological_effect": "Passive-to-active ROM preserves cartilage nutrition (avascular cartilage feeds via synovial fluid diffusion during movement)"
+        },
+        {
+          "time": "Before breakfast",
+          "duration": "15 min",
+          "intervention": "Nadi Shodhana + Bhramari pranayama",
+          "physiological_effect": "Reduces systemic cortisol → lowers IL-6 and CRP; vagal activation reduces pro-inflammatory macrophage polarisation"
+        },
+        {
+          "time": "Breakfast",
+          "duration": "—",
+          "intervention": "Anti-inflammatory: fatty fish/flaxseed + turmeric milk + berries",
+          "physiological_effect": "Omega-3 EPA/DHA competitively inhibit arachidonic acid → reduce leukotriene B4 and PGE2; turmeric curcumin blocks NF-kB"
+        },
+        {
+          "time": "10:00 AM",
+          "duration": "20 min",
+          "intervention": "Cold pack on acutely inflamed joints; hot pack for stiff joints — clinician choice",
+          "physiological_effect": "Cold on inflamed: reduces prostaglandin synthesis; slows nerve conduction → analgesia. Hot on stiff: reduces adhesions, increases extensibility"
+        },
+        {
+          "time": "Before lunch",
+          "duration": "20 min before",
+          "intervention": "Boswellia (Shallaki) + Ginger decoction",
+          "physiological_effect": "Boswellic acid inhibits 5-lipoxygenase → blocks leukotriene B4 (primary neutrophil chemoattractant in RA); ginger gingerols inhibit COX-2"
+        },
+        {
+          "time": "Lunch",
+          "duration": "—",
+          "intervention": "Anti-inflammatory Mediterranean: olive oil, vegetables, whole grains, legumes, no red meat",
+          "physiological_effect": "Mediterranean diet reduces CRP 20%; olive oil oleocanthal = natural ibuprofen equivalent; avoids arachidonic acid from red meat"
+        },
+        {
+          "time": "After lunch",
+          "duration": "20 min",
+          "intervention": "Gentle 20-min pool walk or chair yoga",
+          "physiological_effect": "Aquatic exercise offloads joints (90% body weight supported); maintains muscle strength without synovial trauma"
+        },
+        {
+          "time": "3:00 PM",
+          "duration": "20 min",
+          "intervention": "Castor oil joint pack on affected joints + medicated Mahanarayan oil massage",
+          "physiological_effect": "Castor oil ricinoleic acid reduces PGE2; Mahanarayan oil sesame + 50 herb blend penetrates periarticular tissue"
+        },
+        {
+          "time": "4:00 PM",
+          "duration": "20 min",
+          "intervention": "Gentle yoga sequence (see below)",
+          "physiological_effect": "Gentle yoga reduces TNF-α by 18% (documented); improves joint proprioception; HPA axis regulation"
+        },
+        {
+          "time": "6:00 PM",
+          "duration": "20 min",
+          "intervention": "Warm Epsom salt full-body bath",
+          "physiological_effect": "Magnesium sulfate reduces synovial prostaglandins; sulfate supports cartilage GAG synthesis"
+        },
+        {
+          "time": "7:00 PM",
+          "duration": "—",
+          "intervention": "Light anti-inflammatory dinner: dal khichdi + turmeric + ghee",
+          "physiological_effect": "Ghee butyrate reduces intestinal permeability (leaky gut drives RA autoimmunity); turmeric synergises with fat for absorption"
+        },
+        {
+          "time": "9:00 PM",
+          "duration": "15 min",
+          "intervention": "Medicated herbal oil massage (Dhanwantharam oil) on all joints",
+          "physiological_effect": "Sesame oil base transports anti-inflammatory alkaloids across skin-joint barrier"
+        }
+      ],
+      "exit_criteria": [
+        {
+          "parameter": "Joint pain VAS (0–10)",
+          "target": "≤ 4",
+          "max_points": 3
+        },
+        {
+          "parameter": "Morning stiffness",
+          "target": "< 30 min",
+          "max_points": 3
+        },
+        {
+          "parameter": "hs-CRP",
+          "target": "Drop ≥ 30%",
+          "max_points": 3
+        },
+        {
+          "parameter": "Grip strength",
+          "target": "Improvement ≥ 20%",
+          "max_points": 3
+        },
+        {
+          "parameter": "Energy (0–10)",
+          "target": "≥ 6",
+          "max_points": 3
+        }
+      ]
+    },
+    "phase2": {
+      "label": "Consolidation & Repair",
+      "duration": "4–6 weeks",
+      "exit_threshold": "≥ 13 / 15 points",
+      "interventions": [
+        {
+          "intervention": "Warm joint soaks",
+          "frequency": "Daily (morning)"
+        },
+        {
+          "intervention": "Cold/hot packs on joints",
+          "frequency": "Daily (as indicated)"
+        },
+        {
+          "intervention": "Castor oil joint packs",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Mahanarayan oil massage",
+          "frequency": "Daily (15 min)"
+        },
+        {
+          "intervention": "Epsom salt bath",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Gentle yoga",
+          "frequency": "Daily (20 min)"
+        },
+        {
+          "intervention": "Anti-inflammatory diet",
+          "frequency": "Daily (strict compliance)"
+        }
+      ],
+      "exit_criteria": [
+        {
+          "parameter": "DAS28 score",
+          "target": "< 3.2 (low disease activity)",
+          "max_points": 3
+        },
+        {
+          "parameter": "hs-CRP",
+          "target": "< 2 mg/L",
+          "max_points": 3
+        },
+        {
+          "parameter": "ESR",
+          "target": "< 30 mm/hr",
+          "max_points": 3
+        },
+        {
+          "parameter": "Joint count",
+          "target": "< 3 swollen joints",
+          "max_points": 3
+        },
+        {
+          "parameter": "Medication reduction",
+          "target": "≥ 25% dose reduction achieved",
+          "max_points": 3
+        }
+      ]
+    },
+    "phase3": {
+      "label": "Maintenance & Relapse Prevention",
+      "duration": "Indefinite",
+      "practices": [
+        {
+          "practice": "Anti-inflammatory diet",
+          "maintenance_dose": "Lifelong — no red meat, no refined sugar"
+        },
+        {
+          "practice": "Omega-3 supplementation (supervised)",
+          "maintenance_dose": "3 g/day EPA+DHA"
+        },
+        {
+          "practice": "Mahanarayan oil massage",
+          "maintenance_dose": "3 × / week"
+        },
+        {
+          "practice": "Warm joint soaks",
+          "maintenance_dose": "Daily morning ritual"
+        },
+        {
+          "practice": "Gentle yoga",
+          "maintenance_dose": "5 × / week"
+        },
+        {
+          "practice": "Cold packs on joints",
+          "maintenance_dose": "If swelling returns"
+        }
+      ],
+      "relapse_rules": [
+        {
+          "trigger": "DAS28 > 3.2",
+          "action": "Return to Phase 2 + daily castor packs"
+        },
+        {
+          "trigger": "CRP > 5 mg/L",
+          "action": "Phase 1 for 21 days"
+        },
+        {
+          "trigger": "New joint erosion on X-ray",
+          "action": "Immediate rheumatologist collaboration"
+        }
+      ]
+    }
+  },
+  "dietary_protocol": {
+    "eat_window": "7:00 AM – 7:00 PM (regular meals; omega-3 with every main meal)",
+    "meal_order": "Omega-3 rich foods first → Protein → Anti-inflammatory vegetables → Complex carbs last",
+    "fasting_rules": [
+      {
+        "rule": "12-hour overnight fast",
+        "specification": "No eating after 7 PM",
+        "frequency": "Daily all phases",
+        "physiological_effect": "Overnight fast reduces inflammatory cytokine production; reduces fasting IL-6 and TNF-α which peak in early morning causing RA morning stiffness"
+      },
+      {
+        "rule": "Boswellia + Ginger before meals",
+        "specification": "1 cup decoction — 20 min before lunch",
+        "frequency": "Daily Phase 1–2",
+        "physiological_effect": "Boswellic acid pre-meal timing ensures 5-LOX inhibition during peak post-meal inflammatory response"
+      },
+      {
+        "rule": "Omega-3 with every main meal",
+        "specification": "Fatty fish 3×/week; flaxseeds/walnuts daily",
+        "frequency": "Every meal",
+        "physiological_effect": "Consistent omega-3 competitively inhibits arachidonic acid at COX and LOX enzymes reducing synovial eicosanoids"
+      },
+      {
+        "rule": "No nightshades — 6-week trial",
+        "specification": "Eliminate tomato, eggplant, bell pepper for 6 weeks; reintroduce one at a time",
+        "frequency": "Phase 1 elimination trial",
+        "physiological_effect": "Solanine alkaloids may trigger gut permeability → increased antigen load → autoimmune flare in susceptible RA patients"
+      },
+      {
+        "rule": "Ghee with dinner mandatory",
+        "specification": "1 tsp organic ghee with dinner",
+        "frequency": "Daily",
+        "physiological_effect": "Butyrate seals intestinal tight junctions → reduces leaky gut → reduces antigen translocation driving RA autoimmunity"
+      }
+    ],
+    "phase_macros": [
+      {
+        "phase": "Phase 1",
+        "phase_key": "phase1",
+        "duration": "14–21 days",
+        "carbohydrates": "Moderate: 40–45% (anti-inflammatory whole grains; no refined carbs; no sugar)",
+        "protein": "Moderate: 20–25% (fatty fish 3×/week; plant proteins; collagen-rich bone broth)",
+        "fat": "Moderate-high: 30–35% (omega-3 dominant: fish oil, flaxseed, walnuts; olive oil; ghee)",
+        "rationale": "Anti-inflammatory Mediterranean macro pattern; maximise omega-3:omega-6 ratio; eliminate all arachidonic acid sources"
+      },
+      {
+        "phase": "Phase 2",
+        "phase_key": "phase2",
+        "duration": "4–6 weeks",
+        "carbohydrates": "Moderate: 45% (increase fermented foods; more legumes for gut microbiome repair)",
+        "protein": "Moderate: 20–25% (add collagen peptides for cartilage support)",
+        "fat": "Moderate: 30% (maintain omega-3 emphasis)",
+        "rationale": "Gut microbiome repair phase; increasing probiotic and prebiotic foods; collagen supplementation supports cartilage matrix repair"
+      },
+      {
+        "phase": "Phase 3",
+        "phase_key": "phase3",
+        "duration": "Maintenance",
+        "carbohydrates": "Moderate: 45–50% (Mediterranean pattern)",
+        "protein": "Moderate: 20% (plant-dominant; omega-3 supplementation 3g/day)",
+        "fat": "Moderate: 30–35%",
+        "rationale": "Lifelong anti-inflammatory Mediterranean diet; omega-3 supervised; no red meat or refined sugar"
+      }
+    ],
+    "foods_to_eat": [
+      {
+        "category": "Anti-Inflammatory Omega-3",
+        "items": [
+          "Fatty fish — salmon, sardines, mackerel (3×/week)",
+          "Walnuts (4–5 daily)",
+          "Flaxseeds (2 tbsp ground daily)",
+          "Chia seeds (1 tbsp)",
+          "Flaxseed oil (on salads)"
+        ]
+      },
+      {
+        "category": "Anti-Inflammatory Spices",
+        "items": [
+          "Turmeric (1 tsp with black pepper daily)",
+          "Ginger (freely — COX-2 inhibitor)",
+          "Garlic (2 raw cloves — NF-kB inhibitor)",
+          "Boswellia/Shallaki (under supervision)"
+        ]
+      },
+      {
+        "category": "Antioxidant-Rich",
+        "items": [
+          "Berries — blueberry, strawberry (anthocyanins)",
+          "Tart cherry juice (uric acid reduction)",
+          "Leafy greens — spinach, kale",
+          "Broccoli (sulforaphane — NF-kB inhibitor)",
+          "Bone broth (daily — seals gut lining)"
+        ]
+      },
+      {
+        "category": "Gut-Healing Foods",
+        "items": [
+          "Bone broth (glycine seals gut lining)",
+          "Probiotic curd and kefir",
+          "Ghee (butyrate repairs tight junctions)",
+          "Prebiotic vegetables — onion, garlic, asparagus"
+        ]
+      },
+      {
+        "category": "Joint-Supportive",
+        "items": [
+          "Olive oil (oleocanthal = ibuprofen equivalent)",
+          "Pomegranate juice (reduces MMP-3)",
+          "Collagen peptides (10 g/day)",
+          "Eggs (collagen precursors)"
+        ]
+      }
+    ],
+    "foods_to_avoid": [
+      {
+        "category": "Pro-Inflammatory Fats",
+        "items": [
+          "Red meat — beef, mutton, pork (arachidonic acid)",
+          "Processed meats",
+          "Trans fats — vanaspati, dalda",
+          "Refined omega-6 oils — sunflower, corn in excess",
+          "Commercial fried foods"
+        ]
+      },
+      {
+        "category": "Immune-Activating",
+        "items": [
+          "Refined sugar (feeds inflammatory gut bacteria)",
+          "Alcohol (increases gut permeability)",
+          "Gluten — 6-week trial elimination",
+          "Nightshades — 6-week trial (tomato, eggplant, bell pepper)"
+        ]
+      },
+      {
+        "category": "Refined Carbohydrates",
+        "items": [
+          "White bread and maida products",
+          "White rice in large portions",
+          "Biscuits, cakes, pastries"
+        ]
+      }
+    ],
+    "sample_meal_plan": {
+      "phase": "Phase 1",
+      "meals": [
+        {
+          "time": "7:00 AM (waking)",
+          "what_to_eat": "Warm water + turmeric (1/2 tsp) + black pepper + ginger decoction (1 cup)",
+          "physiological_rationale": "Triple COX-2 and 5-LOX inhibition before joints load-bear; warm water maintains joint warmth reducing morning stiffness"
+        },
+        {
+          "time": "7:30 AM",
+          "what_to_eat": "Warm water soak for hands/feet (15 min) then gentle ROM exercises all joints",
+          "physiological_rationale": "Paraffin/warm water reduces synovial viscosity; ROM distributes synovial fluid to cartilage before breakfast loading"
+        },
+        {
+          "time": "8:30 AM (Breakfast)",
+          "what_to_eat": "Oats porridge (no sugar) + 2 tbsp ground flaxseed + walnuts (4) + berries + turmeric milk (no sugar)",
+          "physiological_rationale": "Flaxseed ALA omega-3; walnuts DHA/EPA; berries anthocyanins block TNF-α; oats beta-glucan reduces systemic inflammation"
+        },
+        {
+          "time": "12:30 PM — Before lunch",
+          "what_to_eat": "Boswellia + ginger decoction (1 cup) — 20 min before eating",
+          "physiological_rationale": "5-LOX inhibition via boswellic acid peaks at joint tissue 20–30 min post-ingestion"
+        },
+        {
+          "time": "1:00 PM (Lunch)",
+          "what_to_eat": "Grilled salmon (150 g) + olive oil salad (leafy greens, broccoli, cherry) + small ragi roti + 1 tsp ghee + probiotic curd",
+          "physiological_rationale": "Salmon EPA/DHA most potent dietary anti-inflammatory; oleocanthal inhibits COX; ghee seals gut; curd repairs microbiome"
+        },
+        {
+          "time": "4:00 PM (Snack)",
+          "what_to_eat": "Tart cherry juice (150 mL) + collagen peptides (10 g) or bone broth (1 cup)",
+          "physiological_rationale": "Tart cherry anthocyanins reduce CRP and joint pain; collagen provides hydroxyproline for cartilage repair"
+        },
+        {
+          "time": "7:00 PM (Dinner)",
+          "what_to_eat": "Dal khichdi (moong dal + rice) + turmeric + 1 tsp ghee + cooked spinach",
+          "physiological_rationale": "Ghee butyrate seals gut tight junctions overnight; turmeric bioavailability enhanced by fat; easy-to-digest dinner minimises overnight gut inflammation"
+        },
+        {
+          "time": "9:00 PM",
+          "what_to_eat": "Dhanwantharam/Mahanarayan oil massage on all joints (15 min)",
+          "physiological_rationale": "Overnight transdermal anti-inflammatory alkaloid penetration to periarticular tissue during rest"
+        }
+      ]
+    }
+  },
+  "functional_foods": [
+    {
+      "name": "Boswellia (Shallaki)",
+      "icon": "🌿",
+      "dose_timing": "400 mg standardised extract — 20 min before meals, 2×/day; supervised",
+      "mechanism_of_action": "AKBA inhibits 5-lipoxygenase → blocks leukotriene B4 (primary RA neutrophil chemoattractant); reduces joint swelling and morning stiffness"
+    },
+    {
+      "name": "Ginger (Zingiber officinale)",
+      "icon": "🫚",
+      "dose_timing": "1-inch fresh in decoction 3×/day or 1 g dried in cooking",
+      "mechanism_of_action": "6-Gingerol inhibits COX-2 and 5-LOX; suppresses TNF-α; documented equivalent joint pain relief to ibuprofen (RCT 2015)"
+    },
+    {
+      "name": "Turmeric + black pepper",
+      "icon": "🌙",
+      "dose_timing": "1 tsp curcumin + 1/4 tsp black pepper with fat — daily",
+      "mechanism_of_action": "Curcumin blocks NF-kB → suppresses TNF-α, IL-1β, IL-6; reduces CRP and DAS28 in RA (multiple RCTs); piperine increases bioavailability 2000%"
+    },
+    {
+      "name": "Mahanarayan oil",
+      "icon": "🫙",
+      "dose_timing": "Warm massage on all joints — 15 min daily Phase 1; 3×/week Phase 2–3",
+      "mechanism_of_action": "Sesame base with 50+ herbs transdermally; reduces periarticular inflammation; improves joint circulation"
+    },
+    {
+      "name": "Tart cherry juice",
+      "icon": "🍒",
+      "dose_timing": "150 mL unsweetened daily — afternoon",
+      "mechanism_of_action": "Anthocyanins inhibit COX-1 and COX-2; reduce CRP and IL-6 in inflammatory arthritis"
+    },
+    {
+      "name": "Collagen peptides",
+      "icon": "🦴",
+      "dose_timing": "10 g hydrolysed collagen in warm water — daily (between meals)",
+      "mechanism_of_action": "Provides hydroxyproline and glycine for cartilage matrix; improves synovial fluid viscosity; reduces joint pain"
+    },
+    {
+      "name": "Castor oil (joint pack)",
+      "icon": "🌿",
+      "dose_timing": "Warm cloth soaked in castor oil on joints — 20 min daily Phase 1",
+      "mechanism_of_action": "Ricinoleic acid binds EP3 receptors → reduces synovial PGE2; increases local lymphatic drainage"
+    },
+    {
+      "name": "Omega-3 (fish oil)",
+      "icon": "🐟",
+      "dose_timing": "3 g EPA+DHA from fatty fish 3×/week; supplement if insufficient",
+      "mechanism_of_action": "EPA/DHA shift eicosanoid production from PGE2/LTB4 to anti-inflammatory PGE3/LTB5; reduce DAS28, CRP, ESR, morning stiffness (Cochrane 2012)"
+    }
+  ],
+  "yoga_sequence": {
+    "total_duration_min": 20,
+    "best_time": "4:00 PM",
+    "asanas": [
+      {
+        "asana": "Sukhasana with gentle arm circles",
+        "duration_min": 3,
+        "physiological_effect": "Maintains shoulder ROM; synovial fluid distribution to glenohumeral joints; prevents adhesive capsulitis"
+      },
+      {
+        "asana": "Pavanmuktasana series (joint freeing)",
+        "duration_min": 5,
+        "physiological_effect": "Systematic joint mobilisation from toes to neck; distributes synovial fluid to avascular cartilage; classic RA therapy"
+      },
+      {
+        "asana": "Viparita Karani (legs up wall)",
+        "duration_min": 5,
+        "physiological_effect": "Reduces lower limb oedema via gravity-assisted drainage; anti-gravity joint decompression"
+      },
+      {
+        "asana": "Savasana with body scan meditation",
+        "duration_min": 5,
+        "physiological_effect": "Reduces TNF-α via cortisol regulation; pain modulation via default mode network downregulation"
+      },
+      {
+        "asana": "Gentle seated twists (no force)",
+        "duration_min": 2,
+        "physiological_effect": "Spinal facet mobilisation; reduces systemic inflammatory cytokines"
+      },
+      {
+        "asana": "Nadi Shodhana + Bhramari",
+        "duration_min": 5,
+        "physiological_effect": "Most potent anti-inflammatory pranayama — reduces IL-6 directly"
+      }
+    ]
+  },
+  "red_flags": [
+    {
+      "sign": "Fever > 38.5°C + swollen joint",
+      "action": "Rule out septic arthritis — joint aspiration required urgently"
+    },
+    {
+      "sign": "Sudden respiratory symptoms (dyspnoea, dry cough)",
+      "action": "Rule out RA-associated interstitial lung disease"
+    },
+    {
+      "sign": "Eye redness + pain",
+      "action": "Rule out scleritis or uveitis — urgent ophthalmology"
+    },
+    {
+      "sign": "Rapidly worsening neurological symptoms",
+      "action": "Rule out atlanto-axial subluxation in cervical RA"
+    },
+    {
+      "sign": "Uncontrolled pain despite all interventions",
+      "action": "Biologics consultation required"
+    }
+  ],
+  "monitoring": [
+    {
+      "frequency": "Daily",
+      "parameters": [
+        "Joint pain VAS (0–10)",
+        "Morning stiffness duration (minutes)",
+        "Step count"
+      ]
+    },
+    {
+      "frequency": "Weekly",
+      "parameters": [
+        "Grip strength (dynamometer)",
+        "Joint swelling count",
+        "Energy levels"
+      ]
+    },
+    {
+      "frequency": "Monthly",
+      "parameters": [
+        "hs-CRP",
+        "ESR",
+        "DAS28 score",
+        "CBC (if on DMARDs)"
+      ]
+    },
+    {
+      "frequency": "Quarterly",
+      "parameters": [
+        "RF titre",
+        "Anti-CCP antibodies",
+        "X-ray hands/feet",
+        "Liver function (if on DMARDs)"
+      ]
+    }
+  ],
+  "clinical_disclaimer": "This protocol is designed for use under qualified BNYS clinical supervision in collaboration with a rheumatologist. Do not modify DMARDs or biologics without physician oversight. Boswellia and omega-3 require clinician approval with anticoagulants. This document is for clinical reference only."
+}
