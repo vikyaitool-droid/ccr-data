@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "protocol_id": "obesity",
+  "protocol_number": "02",
+  "title": "Obesity & Metabolic Syndrome",
+  "short_title": "Obesity",
+  "category": "Metabolic",
+  "version": "2.0",
+  "protocol_family": "BNYS",
+  "icon": "⚖️",
+  "color": "#d97706",
+
+  "root_mechanism": "Caloric excess + sedentary behaviour + circadian disruption → leptin resistance and ghrelin dysregulation → hyperphagia → visceral adipose tissue expansion → adipokine imbalance (↑TNF-α, IL-6, ↓adiponectin) → systemic insulin resistance and chronic low-grade inflammation.",
+
+  "goals": [
+    {"parameter": "BMI", "target": "< 25 kg/m²"},
+    {"parameter": "Waist circumference", "target": "Men < 90 cm / Women < 80 cm"},
+    {"parameter": "Body fat %", "target": "Men < 25% / Women < 32%"},
+    {"parameter": "HOMA-IR", "target": "< 2"},
+    {"parameter": "Fasting triglycerides", "target": "< 150 mg/dL"}
+  ],
+
+  "phases": {
+    "phase1": {
+      "label": "Acute Intervention",
+      "duration": "14–21 days",
+      "exit_threshold": "≥ 12 / 15 points",
+      "interventions": [
+        {"time": "5:30 AM", "duration": "18 min", "intervention": "Cold shower (3 min) + 15-min outdoor walk/jog", "physiological_effect": "Cold activates brown adipose tissue (BAT) thermogenesis via norepinephrine → burns calories; morning exercise raises 24-h metabolic rate by 10–15%"},
+        {"time": "After shower", "duration": "15 min", "intervention": "Dry brushing full body (5 min) + Udvartana (herbal powder massage — triphala/mustard)", "physiological_effect": "Udvartana stimulates subcutaneous lymphatic drainage and lipolysis; friction increases skin temperature → local fat mobilisation"},
+        {"time": "Before breakfast", "duration": "10 min", "intervention": "Kapalabhati (60 strokes/min) + Nadi Shodhana", "physiological_effect": "Kapalabhati raises metabolic rate 20% above resting; diaphragmatic contractions massage visceral organs → hepatic fat mobilisation"},
+        {"time": "Breakfast (12 PM)", "duration": "—", "intervention": "Intermittent fasting — eating window 12 PM–7 PM; break fast with protein + fat meal", "physiological_effect": "18-h fast maximally depletes liver glycogen → sustained fat oxidation; later eating window aligns with peak thermogenic response"},
+        {"time": "10:00 AM", "duration": "25 min", "intervention": "Abdominal mud pack (cool clay)", "physiological_effect": "Clay draws heat from subcutaneous fat → increases local capillary blood flow → enhanced lipolysis in abdominal region"},
+        {"time": "Before lunch", "duration": "15 min before", "intervention": "Green tea (1 cup) + apple cider vinegar (2 tbsp)", "physiological_effect": "EGCG in green tea inhibits COMT enzyme → prolongs norepinephrine action on fat cells; ACV reduces caloric intake by 200–275 kcal/day"},
+        {"time": "Lunch", "duration": "—", "intervention": "Low-carb high-protein: 40% protein, 35% fat, 25% complex carb", "physiological_effect": "High protein: thermic effect 25–30% (vs 6–8% for carbs) → more calories burned in digestion; keeps satiety hormones (CCK, PYY) elevated"},
+        {"time": "After lunch", "duration": "15 min", "intervention": "10-min standing + calf raises + resistance band exercises", "physiological_effect": "Post-meal muscle contraction depletes muscle glycogen → prevents dietary glucose storage as fat; EPOC effect raises metabolism for 2 h"},
+        {"time": "3:00 PM", "duration": "20 min", "intervention": "Full cold pack on abdomen + thighs", "physiological_effect": "Targeted cold exposure to adipose-rich areas → localised BAT activation and lipolysis via β3-adrenergic pathway"},
+        {"time": "4:00 PM", "duration": "30 min", "intervention": "Yoga + strength exercises (bodyweight squats, push-ups)", "physiological_effect": "Resistance exercise builds lean muscle mass → raises resting metabolic rate by 50–100 kcal/day per kg muscle gained"},
+        {"time": "6:00 PM", "duration": "15 min", "intervention": "Steam bath or sauna (if available)", "physiological_effect": "Hyperthermia → heat shock proteins → improves mitochondrial efficiency; sweating eliminates toxins stored in fat cells"},
+        {"time": "7:00 PM", "duration": "—", "intervention": "Last meal — protein + non-starchy vegetables only", "physiological_effect": "Closes eating window; evening meal with protein maintains muscle while restricting calories; no insulin spike before sleep"},
+        {"time": "9:00 PM", "duration": "20 min", "intervention": "Epsom salt bath", "physiological_effect": "Magnesium improves insulin sensitivity; sulfate supports hepatic detoxification of fatty acid metabolites"}
+      ],
+      "exit_criteria": [
+        {"parameter": "Weight loss", "target": "≥ 2 kg", "max_points": 3},
+        {"parameter": "Waist circumference", "target": "↓ ≥ 3 cm", "max_points": 3},
+        {"parameter": "Hunger (0–10)", "target": "≤ 4", "max_points": 3},
+        {"parameter": "Energy (0–10)", "target": "≥ 7", "max_points": 3},
+        {"parameter": "Fasting glucose", "target": "< 110 mg/dL", "max_points": 3}
+      ]
+    },
+    "phase2": {
+      "label": "Consolidation & Repair",
+      "duration": "4–6 weeks",
+      "exit_threshold": "≥ 13 / 15 points",
+      "interventions": [
+        {"intervention": "Cold shower", "frequency": "Daily"},
+        {"intervention": "Abdominal cold pack", "frequency": "5 × / week"},
+        {"intervention": "Udvartana massage", "frequency": "3 × / week"},
+        {"intervention": "Steam bath", "frequency": "3 × / week"},
+        {"intervention": "Yoga + resistance exercise", "frequency": "Daily (30 min)"},
+        {"intervention": "Intermittent fasting (18 h)", "frequency": "Daily"},
+        {"intervention": "Diet (low-carb, high-protein)", "frequency": "Daily"}
+      ],
+      "exit_criteria": [
+        {"parameter": "BMI", "target": "↓ ≥ 2 units or < 27", "max_points": 3},
+        {"parameter": "Waist — Men / Women", "target": "Men ≤ 95 cm / Women ≤ 85 cm", "max_points": 3},
+        {"parameter": "Fasting insulin", "target": "< 10 µIU/mL", "max_points": 3},
+        {"parameter": "Triglycerides", "target": "< 150 mg/dL", "max_points": 3},
+        {"parameter": "Physical fitness", "target": "Walk 5 km without stopping", "max_points": 3}
+      ]
+    },
+    "phase3": {
+      "label": "Maintenance & Relapse Prevention",
+      "duration": "Indefinite",
+      "practices": [
+        {"practice": "16:8 intermittent fasting", "maintenance_dose": "≥ 5 × / week"},
+        {"practice": "Low-carb diet", "maintenance_dose": "80% compliance"},
+        {"practice": "Exercise (walk + resistance)", "maintenance_dose": "45 min, 6 × / week"},
+        {"practice": "Cold pack on abdomen", "maintenance_dose": "If waist increases > 2 cm"},
+        {"practice": "Udvartana", "maintenance_dose": "2 × / week"},
+        {"practice": "Weekly 24-h fast", "maintenance_dose": "If BMI > 27 (supervised)"}
+      ],
+      "relapse_rules": [
+        {"trigger": "Weight gain > 3 kg", "action": "Return to Phase 2 + daily cold packs"},
+        {"trigger": "Waist increase > 4 cm", "action": "Phase 1 for 14 days"},
+        {"trigger": "Fasting glucose > 110 mg/dL", "action": "Phase 2 + diabetes co-protocol"}
+      ]
+    }
+  },
+
+  "dietary_protocol": {
+    "eat_window": "12:00 PM – 7:00 PM (Phase 1: 18:6 IF); 11:00 AM – 7:00 PM (Phase 2–3: 16:8 IF)",
+    "meal_order": "Protein → Fibre / Vegetables → Complex carbs (last)",
+    "fasting_rules": [
+      {"rule": "18-hour fast (Phase 1)", "specification": "Eating window 12 PM–7 PM only", "frequency": "Daily Phase 1", "physiological_effect": "18-h fast maximally depletes liver glycogen → forces fat oxidation; activates AMPK and autophagy → visceral fat breakdown"},
+      {"rule": "16-hour fast (Phase 2–3)", "specification": "Eating window 11 AM–7 PM", "frequency": "Daily Phase 2–3 (≥ 5×/week Phase 3)", "physiological_effect": "Sustained insulin suppression during fasting → lipolysis maintained; prevents leptin resistance relapse"},
+      {"rule": "Apple cider vinegar before meals", "specification": "2 tbsp in water — 10 min before lunch", "frequency": "Daily Phase 1–2", "physiological_effect": "Reduces caloric intake by 200–275 kcal/day (RCT); slows gastric emptying; reduces ghrelin (hunger hormone)"},
+      {"rule": "No eating after 7 PM", "specification": "Strict eating window closure", "frequency": "Daily all phases", "physiological_effect": "Aligns with circadian metabolic peak; late eating disrupts leptin secretion rhythm → prevents weight regain"},
+      {"rule": "Post-meal movement mandatory", "specification": "10 min walk or resistance exercise after every meal", "frequency": "Every meal", "physiological_effect": "GLUT4 translocation burns dietary glucose without insulin spike; EPOC raises metabolism 15% for 2 hours post-exercise"},
+      {"rule": "Green tea before lunch", "specification": "1 cup (no milk, no sugar) — 15 min before lunch", "frequency": "Daily Phase 1–2", "physiological_effect": "EGCG prolongs norepinephrine action on adipocytes via COMT inhibition → sustained fat oxidation during eating window"}
+    ],
+    "phase_macros": [
+      {
+        "phase": "Phase 1", "phase_key": "phase1", "duration": "14–21 days",
+        "carbohydrates": "Very low: 20–50 g/day (eliminates all refined carbs; only non-starchy vegetables)",
+        "protein": "High: 40% of calories / 1.6–2.0 g/kg BW/day (maximises thermic effect of food)",
+        "fat": "Moderate-high: 35–40% (healthy fats: coconut oil, nuts, ghee; no trans fats)",
+        "rationale": "Aggressive caloric deficit via 18-h IF + very low carb; maximise TEF via protein; deplete glycogen and force fat oxidation via BAT activation"
+      },
+      {
+        "phase": "Phase 2", "phase_key": "phase2", "duration": "4–6 weeks",
+        "carbohydrates": "Low: 50–100 g/day (introduce millets at lunch only)",
+        "protein": "High: 30–35% / 1.2–1.5 g/kg BW/day",
+        "fat": "Moderate: 30–35% of calories",
+        "rationale": "Continued fat adaptation; introduce resistance training → muscle building raises RMR; reduce insulin resistance via sustained low-carb"
+      },
+      {
+        "phase": "Phase 3", "phase_key": "phase3", "duration": "Maintenance",
+        "carbohydrates": "Low-moderate: 80–120 g/day (80% compliance — millet/oats only at lunch)",
+        "protein": "Moderate-high: 25–30% / 1.0–1.2 g/kg BW/day (muscle mass maintenance)",
+        "fat": "Moderate: 30–35% of calories",
+        "rationale": "Metabolic flexibility maintenance; prevent leptin resistance relapse via 16:8 IF ≥ 5×/week; muscle mass preservation prevents RMR decline"
+      }
+    ],
+    "foods_to_eat": [
+      {
+        "category": "Proteins (Thermic / Satiating)",
+        "items": ["Eggs (boiled, poached — 2–3/day)", "Chicken breast (grilled, no skin)", "Fish — salmon, mackerel, sardines (omega-3 + satiety)", "Lentils and legumes (protein + fibre)", "Tofu", "Paneer (small amounts — 50 g/meal)"]
+      },
+      {
+        "category": "Non-starchy Vegetables (Unlimited)",
+        "items": ["Leafy greens (spinach, kale, methi)", "Cucumber", "Broccoli", "Bitter gourd (karela — anti-lipogenic)", "Cauliflower", "Zucchini", "Bell peppers", "Asparagus", "Cabbage"]
+      },
+      {
+        "category": "Healthy Fats (Thermogenic)",
+        "items": ["Coconut oil (MCT — directly oxidised, not stored)", "Nuts — walnuts, almonds (small portions 15–20 g)", "Flaxseeds (2 tbsp ground)", "Avocado (½/day)", "Olive oil (2 tbsp)"]
+      },
+      {
+        "category": "Low-GI Fruits (Limited)",
+        "items": ["Guava", "Berries (strawberry, blueberry)", "Jamun", "Amla", "1 serving max before 2 PM only"]
+      },
+      {
+        "category": "Functional Metabolism Boosters",
+        "items": ["Green tea (3 cups/day — no sugar)", "Jeera water (morning)", "Apple cider vinegar (before meals)", "Cinnamon in cooking (½ tsp/day)", "Ginger and turmeric freely"]
+      },
+      {
+        "category": "Whole Grains (Phase 2–3 Only — Lunch Only)",
+        "items": ["Ragi (finger millet)", "Jowar", "Oats (plain)", "Barley", "Small portion brown rice"]
+      }
+    ],
+    "foods_to_avoid": [
+      {
+        "category": "Refined Carbohydrates",
+        "items": ["White rice", "White bread and maida products", "Pasta", "Biscuits, cakes, pastries", "Breakfast cereals (hidden sugar)"]
+      },
+      {
+        "category": "Sugars & Sweeteners",
+        "items": ["Table sugar", "Jaggery (in excess)", "Honey (excess)", "Fruit juices (liquid calories spike insulin)", "Soft drinks and energy drinks", "Flavoured milk and milkshakes"]
+      },
+      {
+        "category": "Processed & Packaged Foods",
+        "items": ["Chips, namkeen, crisps", "Instant noodles", "Ready-to-eat meals", "Commercial sauces and dressings (hidden sugar/fat)", "Alcohol — empty calories + inhibits fat oxidation"]
+      },
+      {
+        "category": "Inflammatory Fats",
+        "items": ["Trans fats (vanaspati, dalda, margarine)", "Excess omega-6 oils (sunflower, corn oil)", "Commercial fried foods", "Red meat (excess — arachidonic acid + saturated fat)"]
+      },
+      {
+        "category": "Other",
+        "items": ["Excess dairy (full-fat)", "Dried fruits (concentrated fructose)", "Large portion sizes of any food (caloric awareness mandatory)", "Late-night snacking after 7 PM"]
+      }
+    ],
+    "sample_meal_plan": {
+      "phase": "Phase 1",
+      "meals": [
+        {"time": "5:30 AM (on waking)", "what_to_eat": "Warm water (2 glasses) + jeera water or lemon water — NO calories", "physiological_rationale": "Maintains 18-h fasting state; lemon citrate supports hepatic fat metabolism without breaking fast"},
+        {"time": "6:00 AM", "what_to_eat": "Cold shower (3 min) + 15-min brisk walk or jog", "physiological_rationale": "Cold activates BAT thermogenesis; morning exercise raises 24-h resting metabolic rate 10–15%"},
+        {"time": "10:00 AM", "what_to_eat": "Green tea (1 cup, no sugar) + apple cider vinegar (2 tbsp in water) — still fasting", "physiological_rationale": "EGCG + acetic acid enhance fat oxidation; ACV reduces appetite; both safe during fasting window"},
+        {"time": "12:00 PM (Break-fast)", "what_to_eat": "3 scrambled eggs in coconut oil + 1 cup sautéed spinach/broccoli + small avocado salad (lemon dressing, no salt)", "physiological_rationale": "High protein + fat meal breaks fast; keeps insulin low; TEF of protein burns 25–30% of calories in digestion"},
+        {"time": "12:15 PM", "what_to_eat": "10-min resistance exercise or walk immediately after", "physiological_rationale": "Post-meal GLUT4 translocation prevents glucose storage as fat; EPOC effect continues fat burning for 2 hours"},
+        {"time": "2:30 PM (Lunch)", "what_to_eat": "ACV water first → 150 g grilled chicken/fish + large salad (cucumber, lettuce, flaxseed, lemon) → small amount coconut oil vegetables — no grains in Phase 1", "physiological_rationale": "Meal sequencing: protein first stimulates GLP-1; fibre slows absorption; no grains in Phase 1 maintains ketogenic state"},
+        {"time": "4:30 PM (Snack)", "what_to_eat": "15 walnuts or 20 almonds + 1 cup green tea (no sugar)", "physiological_rationale": "Healthy fats maintain satiety without insulin spike; green tea EGCG extends fat-burning window"},
+        {"time": "6:30 PM (Dinner — last meal)", "what_to_eat": "Moong dal soup + 2 eggs or 100 g paneer + non-starchy stir-fry (no grains, no rice)", "physiological_rationale": "Protein + vegetables last meal; closes eating window by 7 PM; prevents nocturnal fat storage"},
+        {"time": "7:00 PM onwards", "what_to_eat": "18-hour fast begins — water, black coffee (optional), herbal teas only", "physiological_rationale": "Hours 12–18 of fasting: maximal fat oxidation; GH secretion peaks during fasting → muscle preservation during caloric deficit"}
+      ]
+    }
+  },
+
+  "functional_foods": [
+    {"name": "Green tea", "icon": "🍵", "dose_timing": "3 cups/day (morning, pre-lunch, afternoon) — no milk, no sugar", "mechanism_of_action": "EGCG inhibits COMT enzyme → prolongs norepinephrine lipolytic action on adipocytes; raises metabolic rate 3–4% above resting; improves insulin sensitivity"},
+    {"name": "Apple cider vinegar", "icon": "🍶", "dose_timing": "2 tbsp in 200 mL water — 10 min before each main meal", "mechanism_of_action": "Acetic acid reduces caloric intake 200–275 kcal/day (RCT); slows gastric emptying → reduces ghrelin; improves insulin sensitivity via AMPK activation in liver"},
+    {"name": "Coconut oil (MCT)", "icon": "🥥", "dose_timing": "1–2 tbsp for cooking — replaces other oils", "mechanism_of_action": "Medium chain triglycerides bypass lymph → directly to liver via portal vein → oxidised for energy, not stored; raises metabolic rate 5% for 24 hours"},
+    {"name": "Jeera (Cumin) water", "icon": "🫙", "dose_timing": "1 tsp seeds boiled in 2 cups water — drink warm in morning (fasting)", "mechanism_of_action": "Thymoquinone improves insulin sensitivity; phytosterols block intestinal cholesterol absorption; mild thermogenic effect raises BMR"},
+    {"name": "Cinnamon", "icon": "🟤", "dose_timing": "½ tsp in warm water or food — daily", "mechanism_of_action": "MHCP mimics insulin signalling → reduces insulin resistance; enhances GLUT4 expression in muscle → glucose uptake without insulin; reduces appetite via GLP-1 stimulation"},
+    {"name": "Triphala (herbal blend)", "icon": "🌿", "dose_timing": "1 tsp in warm water — bedtime (3 months on, 1 month off)", "mechanism_of_action": "Haritaki reduces adipogenesis; amla antioxidants reduce lipid peroxidation; bibhitaki reduces fat absorption in gut; improves gut microbiome → reduces leptin resistance"},
+    {"name": "Ginger (fresh)", "icon": "🫚", "dose_timing": "1-inch piece grated in warm water — morning; add freely to cooking", "mechanism_of_action": "6-Gingerol: thermogenic effect raises metabolic rate; inhibits lipogenesis genes; reduces inflammation (TNF-α, IL-6) that drives adipokine imbalance in obesity"},
+    {"name": "Bitter gourd (Karela) juice", "icon": "🥒", "dose_timing": "50 mL fresh juice — 3 × / week on empty stomach", "mechanism_of_action": "Charantin and momordicin reduce lipid accumulation in hepatocytes; activate AMPK → inhibits de novo lipogenesis; improves insulin receptor sensitivity"}
+  ],
+
+  "yoga_sequence": {
+    "total_duration_min": 30,
+    "best_time": "4:00 PM",
+    "asanas": [
+      {"asana": "Surya Namaskar (12 rounds)", "duration_min": 10, "physiological_effect": "Full-body caloric burn (~13 cal/round); raises HGH (fat-burning hormone); dynamic sequence activates all major muscle groups"},
+      {"asana": "Navasana (boat pose)", "duration_min": 2, "physiological_effect": "Core activation → visceral fat compression; strengthens deep abdominal muscles reducing visceral fat mechanically"},
+      {"asana": "Ardha Chandrasana (half moon)", "duration_min": 2, "physiological_effect": "Lateral stretch → stimulates liver and spleen; improves hepatic fat metabolism; opens thoracic cavity"},
+      {"asana": "Trikonasana (triangle pose)", "duration_min": 2, "physiological_effect": "Opens thorax; increases lung capacity for fat oxidation (fat oxidation requires O2); improves spinal flexibility"},
+      {"asana": "Dhanurasana (bow pose)", "duration_min": 2, "physiological_effect": "Compresses abdomen → massages pancreas and liver; stimulates thyroid via neck extension; raises core temperature"},
+      {"asana": "Kapalabhati + Agnisara Kriya", "duration_min": 7, "physiological_effect": "Kapalabhati: 20% above resting metabolic rate during practice; Agnisara: abdominal visceral massage → reduces omental fat directly"},
+      {"asana": "Savasana", "duration_min": 3, "physiological_effect": "Parasympathetic shift → growth hormone secretion peaks → fat oxidation and muscle repair during recovery; cortisol reduction prevents stress-eating"}
+    ]
+  },
+
+  "red_flags": [
+    {"sign": "BMI > 40 with breathlessness on exertion", "action": "Rule out obesity hypoventilation syndrome; refer pulmonologist before exercise intensification"},
+    {"sign": "Sudden chest pain during exercise", "action": "Rule out cardiac event — stop exercise immediately; urgent ECG"},
+    {"sign": "Rapid weight loss > 4 kg/week", "action": "Rule out catabolism or malnutrition; check electrolytes and protein status"},
+    {"sign": "Severe fatigue with fasting + dizziness", "action": "Check blood sugar; may need modified fasting protocol with earlier eating window"},
+    {"sign": "Sleep apnoea symptoms (loud snoring, gasping, morning headaches)", "action": "Polysomnography required before intensifying exercise; CPAP evaluation"}
+  ],
+
+  "monitoring": [
+    {"frequency": "Daily", "parameters": ["Weight (morning, fasted)", "Step count", "Caloric intake (app-tracked)"]},
+    {"frequency": "Weekly", "parameters": ["Waist circumference", "Body fat % (if available)", "Energy levels (0–10)"]},
+    {"frequency": "Monthly", "parameters": ["Fasting insulin", "HOMA-IR", "Lipid profile", "Liver enzymes (ALT/AST)"]},
+    {"frequency": "Quarterly", "parameters": ["DEXA scan (body composition)", "Thyroid panel", "Cortisol", "Testosterone (men — obesity suppresses)"]}
+  ],
+
+  "clinical_disclaimer": "This protocol is designed to be implemented under the supervision of a qualified BNYS physician. Patients with BMI > 35 or comorbidities require medical clearance before initiating intensive fasting or exercise protocols. Electrolytes must be monitored during Phase 1. This document is for clinical reference only and does not substitute for individualised medical assessment."
+}
