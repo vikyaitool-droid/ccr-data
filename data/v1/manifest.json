@@ -1,16 +1,97 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-21T11:45:15.681Z",
+  "generatedAt": "2026-04-21T11:59:35.164Z",
   "sections": [
     {
-      "id": "t2dm",
-      "file": "t2dm.json",
+      "id": "ibs",
+      "file": "ibs.json",
       "cardCount": 0,
-      "sizeKb": "23.4",
+      "sizeKb": "26.0",
       "priority": "lazy",
       "lastUpdated": "2026-04-21",
-      "etag": "9127360f4011"
+      "etag": "9de86cc0de55"
+    },
+    {
+      "id": "anxiety_depression",
+      "file": "anxiety_depression.json",
+      "cardCount": 0,
+      "sizeKb": "34.5",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-21",
+      "etag": "4e9f23d6e934"
+    },
+    {
+      "id": "bronchial_asthma",
+      "file": "bronchial_asthma.json",
+      "cardCount": 0,
+      "sizeKb": "24.7",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-21",
+      "etag": "e1f59ab811a6"
+    },
+    {
+      "id": "osteoarthritis",
+      "file": "osteoarthritis.json",
+      "cardCount": 0,
+      "sizeKb": "22.6",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-21",
+      "etag": "a8b6e0a763d9"
+    },
+    {
+      "id": "pcos",
+      "file": "pcos.json",
+      "cardCount": 0,
+      "sizeKb": "25.2",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-21",
+      "etag": "bdb9b1f35fd3"
+    },
+    {
+      "id": "rheumatoid_arthritis",
+      "file": "rheumatoid_arthritis.json",
+      "cardCount": 0,
+      "sizeKb": "22.6",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-21",
+      "etag": "347a4a6d06f2"
+    },
+    {
+      "id": "hypertension",
+      "file": "hypertension.json",
+      "cardCount": 0,
+      "sizeKb": "20.0",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-21",
+      "etag": "6aa274dfa9b9"
+    },
+    {
+      "id": "nafld",
+      "file": "nafld.json",
+      "cardCount": 0,
+      "sizeKb": "24.9",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-21",
+      "etag": "32b5f13dd8c9"
+    },
+    {
+      "id": "hypothyroidism",
+      "file": "hypothyroidism.json",
+      "cardCount": 0,
+      "sizeKb": "25.2",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-21",
+      "etag": "fc3fd8edc619"
+    },
+    {
+      "id": "obesity",
+      "file": "obesity.json",
+      "cardCount": 0,
+      "sizeKb": "21.4",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-21",
+      "etag": "04a3d4b54dd8"
     }
   ]
 }
