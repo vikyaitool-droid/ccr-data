@@ -1,0 +1,589 @@
+{
+  "schema_version": "1.0",
+  "protocol_id": "osteoarthritis",
+  "protocol_number": "06",
+  "title": "Osteoarthritis (OA) — Knee & Hip",
+  "short_title": "Osteoarthritis",
+  "category": "Inflammation / Degenerative",
+  "version": "2.0",
+  "protocol_family": "BNYS",
+  "icon": "🦵",
+  "color": "#b45309",
+  "root_mechanism": "Mechanical overload + chondrocyte senescence → proteoglycan loss (collagen type II degradation) → subchondral bone sclerosis → osteophyte formation → synovial inflammation (secondary) → cartilage thinning and joint space narrowing.",
+  "goals": [
+    {
+      "parameter": "WOMAC pain score",
+      "target": "Reduce ≥ 40%"
+    },
+    {
+      "parameter": "6-min walk distance",
+      "target": "Increase ≥ 50 m"
+    },
+    {
+      "parameter": "VAS pain (0–10)",
+      "target": "≤ 3"
+    },
+    {
+      "parameter": "Joint ROM",
+      "target": "Improve ≥ 15 degrees knee flexion"
+    },
+    {
+      "parameter": "Weight (if obese)",
+      "target": "Reduce ≥ 5% body weight"
+    }
+  ],
+  "phases": {
+    "phase1": {
+      "label": "Acute Intervention",
+      "duration": "14–21 days",
+      "exit_threshold": "≥ 12 / 15 points",
+      "interventions": [
+        {
+          "time": "Wake-up",
+          "duration": "20 min",
+          "intervention": "Hot paraffin wax bath on knee/hip or warm mustard oil joint pack",
+          "physiological_effect": "Heat increases synovial fluid viscosity and distribution; reduces subchondral bone pain by dilating periarticular vasculature; relaxes periarticular muscle spasm"
+        },
+        {
+          "time": "After heat",
+          "duration": "10 min",
+          "intervention": "Alternating hot-cold pack on joint (2 min each × 5 cycles)",
+          "physiological_effect": "Contrast therapy reduces secondary synovial oedema; vascular pumping flushes inflammatory metabolites from joint space"
+        },
+        {
+          "time": "Before breakfast",
+          "duration": "10 min",
+          "intervention": "Gentle pranayama: Anulom Vilom + Bhramari",
+          "physiological_effect": "Reduces systemic IL-6 and TNF-α; reduces central sensitisation via limbic modulation"
+        },
+        {
+          "time": "Breakfast",
+          "duration": "—",
+          "intervention": "Collagen-rich anti-inflammatory: bone broth/egg white + vitamin C foods + turmeric",
+          "physiological_effect": "Vitamin C essential for collagen type II synthesis in chondrocytes; turmeric curcumin inhibits MMP-3/13"
+        },
+        {
+          "time": "10:00 AM",
+          "duration": "20 min",
+          "intervention": "Mahanarayan oil deep massage around (not on) joint + drainage technique",
+          "physiological_effect": "Periarticular massage reduces muscle spasm and compensatory joint loading; oil reduces periarticular inflammation"
+        },
+        {
+          "time": "Before lunch",
+          "duration": "20 min before",
+          "intervention": "Boswellia (Shallaki) 400 mg + Guggul decoction",
+          "physiological_effect": "Boswellic acid reduces cartilage-degrading leukotriene B4; guggulsterones reduce COX-2 in chondrocytes"
+        },
+        {
+          "time": "Lunch",
+          "duration": "—",
+          "intervention": "Anti-inflammatory joint-supportive: selenium, zinc, omega-3 rich foods; avoid nightshades",
+          "physiological_effect": "Selenium reduces oxidative damage to chondrocytes; zinc cofactor for SOD — chondrocyte antioxidant protection"
+        },
+        {
+          "time": "After lunch",
+          "duration": "25 min",
+          "intervention": "Pool exercise or chair exercise (non-weight-bearing strengthening)",
+          "physiological_effect": "Quadriceps strengthening reduces knee load by 4 kg per 1 kg muscle gained; water buoyancy prevents shear forces"
+        },
+        {
+          "time": "3:00 PM",
+          "duration": "20 min",
+          "intervention": "Cold pack on swollen joint (if inflamed) or hot pack (if stiff, not inflamed)",
+          "physiological_effect": "Acute oedema → cold reduces inflammatory exudate; chronic stiffness → heat increases collagen extensibility"
+        },
+        {
+          "time": "4:00 PM",
+          "duration": "20 min",
+          "intervention": "Yoga sequence — non-impact (see below)",
+          "physiological_effect": "Non-impact joint strengthening; periarticular muscle building; gentle ROM without cartilage compression"
+        },
+        {
+          "time": "6:00 PM",
+          "duration": "20 min",
+          "intervention": "Epsom salt soak (full body or local knee/foot bath)",
+          "physiological_effect": "Magnesium sulfate reduces periarticular muscle tension; sulfate is substrate for chondroitin sulfate synthesis"
+        },
+        {
+          "time": "7:00 PM",
+          "duration": "—",
+          "intervention": "Dinner: bone broth soup + anti-inflammatory vegetables + small protein",
+          "physiological_effect": "Evening bone broth provides glycine, proline, hydroxyproline — cartilage repair substrates during overnight regeneration"
+        }
+      ],
+      "exit_criteria": [
+        {
+          "parameter": "VAS pain (0–10)",
+          "target": "≤ 5",
+          "max_points": 3
+        },
+        {
+          "parameter": "Morning stiffness",
+          "target": "< 20 min",
+          "max_points": 3
+        },
+        {
+          "parameter": "ROM improvement",
+          "target": "≥ 10 degrees",
+          "max_points": 3
+        },
+        {
+          "parameter": "Walk distance",
+          "target": "Increase ≥ 30 m",
+          "max_points": 3
+        },
+        {
+          "parameter": "Sleep quality (0–10)",
+          "target": "≥ 6",
+          "max_points": 3
+        }
+      ]
+    },
+    "phase2": {
+      "label": "Consolidation & Repair",
+      "duration": "4–6 weeks",
+      "exit_threshold": "≥ 13 / 15 points",
+      "interventions": [
+        {
+          "intervention": "Hot joint packs (morning)",
+          "frequency": "Daily"
+        },
+        {
+          "intervention": "Mahanarayan oil massage",
+          "frequency": "Daily (15 min)"
+        },
+        {
+          "intervention": "Cold/contrast packs",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Epsom salt bath/soak",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Pool/chair exercises",
+          "frequency": "Daily (25 min)"
+        },
+        {
+          "intervention": "Yoga (non-impact)",
+          "frequency": "Daily (20 min)"
+        },
+        {
+          "intervention": "Boswellia + Guggul",
+          "frequency": "Daily (supervised)"
+        }
+      ],
+      "exit_criteria": [
+        {
+          "parameter": "WOMAC pain",
+          "target": "Reduce ≥ 30% from baseline",
+          "max_points": 3
+        },
+        {
+          "parameter": "VAS",
+          "target": "≤ 3 / 10",
+          "max_points": 3
+        },
+        {
+          "parameter": "6-min walk",
+          "target": "Increase ≥ 50 m",
+          "max_points": 3
+        },
+        {
+          "parameter": "ROM",
+          "target": "Improve ≥ 15 degrees",
+          "max_points": 3
+        },
+        {
+          "parameter": "NSAID use",
+          "target": "Reduce ≥ 50%",
+          "max_points": 3
+        }
+      ]
+    },
+    "phase3": {
+      "label": "Maintenance & Relapse Prevention",
+      "duration": "Indefinite",
+      "practices": [
+        {
+          "practice": "Daily warm joint pack (morning)",
+          "maintenance_dose": "Lifelong — 10 min"
+        },
+        {
+          "practice": "Mahanarayan oil massage",
+          "maintenance_dose": "3 × / week"
+        },
+        {
+          "practice": "Quadriceps/glute strengthening",
+          "maintenance_dose": "Daily"
+        },
+        {
+          "practice": "Low-impact exercise (swim/cycle)",
+          "maintenance_dose": "5 × / week, 30 min"
+        },
+        {
+          "practice": "Anti-inflammatory diet",
+          "maintenance_dose": "Lifelong"
+        },
+        {
+          "practice": "Cold pack",
+          "maintenance_dose": "If joint swells or pain > 5 VAS"
+        }
+      ],
+      "relapse_rules": [
+        {
+          "trigger": "VAS > 6 for 3 days",
+          "action": "Return to Phase 2 + daily packs"
+        },
+        {
+          "trigger": "New joint effusion",
+          "action": "Phase 1 for 14 days; assess for aspiration"
+        },
+        {
+          "trigger": "Loss of > 15 degrees ROM",
+          "action": "Phase 1 intensification + physiotherapy collaboration"
+        }
+      ]
+    }
+  },
+  "dietary_protocol": {
+    "eat_window": "7:00 AM – 7:00 PM (regular 3 meals; cartilage repair requires consistent nutrient availability)",
+    "meal_order": "Vitamin C foods first → Protein (collagen precursors) → Anti-inflammatory fats → Complex carbs",
+    "fasting_rules": [
+      {
+        "rule": "Bone broth daily",
+        "specification": "1 cup warm bone broth — morning on waking or between meals",
+        "frequency": "Daily all phases",
+        "physiological_effect": "Provides glycine, proline, hydroxyproline — three amino acids in collagen type II; hydroxyproline directly incorporated into cartilage matrix during nocturnal repair"
+      },
+      {
+        "rule": "Collagen + Vitamin C timing",
+        "specification": "Collagen peptides (10 g) with vitamin C source — 30 min before exercise",
+        "frequency": "Daily before exercise session",
+        "physiological_effect": "Vitamin C obligatory cofactor for prolyl hydroxylase enzyme that cross-links collagen; before exercise maximises collagen deposition to loaded cartilage (AJSM 2019)"
+      },
+      {
+        "rule": "Boswellia before meals",
+        "specification": "400 mg extract — 20 min before lunch and dinner",
+        "frequency": "Daily Phase 1–2",
+        "physiological_effect": "AKBA inhibits MMP-3 and MMP-13 — pre-meal timing ensures therapeutic levels during post-meal inflammatory response"
+      },
+      {
+        "rule": "No nightshades — 6-week trial",
+        "specification": "Eliminate tomato, eggplant for 6 weeks; reintroduce one at a time",
+        "frequency": "Phase 1 elimination",
+        "physiological_effect": "Solanine alkaloids may inhibit cholinesterase → worsen joint pain in susceptible individuals"
+      },
+      {
+        "rule": "Weight management priority",
+        "specification": "Caloric deficit of 500 kcal/day if BMI > 25",
+        "frequency": "Daily Phases 1–2",
+        "physiological_effect": "Every 1 kg weight loss reduces knee joint load by 4 kg; 5% body weight loss reduces OA pain ≥ 20%"
+      }
+    ],
+    "phase_macros": [
+      {
+        "phase": "Phase 1",
+        "phase_key": "phase1",
+        "duration": "14–21 days",
+        "carbohydrates": "Moderate: 40% (anti-inflammatory whole grains; no refined carbs; no sugar)",
+        "protein": "Moderate-high: 25–30% (collagen peptides + bone broth + fatty fish + eggs)",
+        "fat": "Moderate: 30–35% (omega-3 dominant; olive oil; ghee)",
+        "rationale": "Maximise collagen synthesis substrates; minimise inflammatory eicosanoids; weight reduction via moderate caloric deficit"
+      },
+      {
+        "phase": "Phase 2",
+        "phase_key": "phase2",
+        "duration": "4–6 weeks",
+        "carbohydrates": "Moderate: 45% (introduce more variety; glucosamine from bone broth)",
+        "protein": "Moderate: 20–25% (continue bone broth + collagen)",
+        "fat": "Moderate: 30% (continue omega-3; add avocado)",
+        "rationale": "Continued cartilage repair; quadriceps building via adequate protein; glucosamine from food sources supports proteoglycan synthesis"
+      },
+      {
+        "phase": "Phase 3",
+        "phase_key": "phase3",
+        "duration": "Maintenance",
+        "carbohydrates": "Moderate: 45–50% (Mediterranean pattern)",
+        "protein": "Moderate: 20% (collagen 5 g/day maintained)",
+        "fat": "Moderate: 30–35%",
+        "rationale": "Lifelong anti-inflammatory diet; weight maintenance crucial; bone broth 3×/week maintained"
+      }
+    ],
+    "foods_to_eat": [
+      {
+        "category": "Collagen & Cartilage Repair",
+        "items": [
+          "Bone broth (daily)",
+          "Collagen peptides (10 g/day)",
+          "Eggs — egg white (collagen precursors)",
+          "Vitamin C: amla, guava, bell pepper (cooked)",
+          "Fish with skin — skin-on fatty fish"
+        ]
+      },
+      {
+        "category": "Anti-Inflammatory Omega-3",
+        "items": [
+          "Fatty fish — salmon, sardines, mackerel (3×/week)",
+          "Walnuts (daily)",
+          "Flaxseeds (2 tbsp ground daily)",
+          "Olive oil (2 tbsp/day)"
+        ]
+      },
+      {
+        "category": "Joint-Protective Antioxidants",
+        "items": [
+          "Turmeric + black pepper (MMP inhibition)",
+          "Ginger (COX-2 inhibition)",
+          "Pomegranate juice (MMP-3/13 inhibition)",
+          "Berries (anthocyanins)",
+          "Broccoli (sulforaphane)"
+        ]
+      },
+      {
+        "category": "Mineral-Rich for Cartilage",
+        "items": [
+          "Pumpkin seeds (zinc — SOD cofactor)",
+          "Sesame seeds (calcium + zinc)",
+          "Legumes (selenium, zinc)",
+          "Brazil nuts (selenium)"
+        ]
+      },
+      {
+        "category": "Weight Management",
+        "items": [
+          "All non-starchy vegetables freely",
+          "High-fibre foods for satiety",
+          "Lean proteins",
+          "Water 2.5–3 L/day (synovial fluid hydration)"
+        ]
+      }
+    ],
+    "foods_to_avoid": [
+      {
+        "category": "Inflammatory Triggers",
+        "items": [
+          "Red meat (arachidonic acid)",
+          "Processed meats",
+          "Refined sugar (glycation damages collagen II)",
+          "Trans fats and refined omega-6 oils",
+          "Alcohol (inhibits collagen synthesis)"
+        ]
+      },
+      {
+        "category": "Joint-Loading Foods",
+        "items": [
+          "Excess sodium (joint fluid retention)",
+          "Fried foods (trans fats worsen synovial inflammation)",
+          "Large portions (weight gain = joint load amplification)"
+        ]
+      },
+      {
+        "category": "Trial Elimination",
+        "items": [
+          "Tomatoes (solanine)",
+          "Eggplant/brinjal",
+          "White flour products (AGEs damage cartilage collagen)"
+        ]
+      }
+    ],
+    "sample_meal_plan": {
+      "phase": "Phase 1",
+      "meals": [
+        {
+          "time": "7:00 AM (waking)",
+          "what_to_eat": "1 cup warm bone broth + amla juice (30 mL) or lemon water",
+          "physiological_rationale": "Bone broth hydroxyproline absorbed first — maximises availability for cartilage repair; amla vitamin C activates collagen synthesis enzymes"
+        },
+        {
+          "time": "7:30 AM",
+          "what_to_eat": "Warm joint pack (20 min) then contrast therapy",
+          "physiological_rationale": "Thermal therapy before weight-bearing reduces stiffness; contrast therapy flushes overnight inflammatory metabolites"
+        },
+        {
+          "time": "8:30 AM (Breakfast)",
+          "what_to_eat": "2 eggs (ghee) + broccoli (cooked) + amla or kiwi (vitamin C) + turmeric milk (no sugar)",
+          "physiological_rationale": "Eggs: collagen precursors; broccoli sulforaphane blocks MMP enzymes; vitamin C enables collagen cross-linking"
+        },
+        {
+          "time": "10:00 AM",
+          "what_to_eat": "Collagen peptides (10 g) in warm water with lemon — 30 min before exercise",
+          "physiological_rationale": "Pre-exercise collagen + vitamin C doubles cartilage collagen deposition at loaded joints (AJSM 2019 RCT)"
+        },
+        {
+          "time": "12:30 PM — Before lunch",
+          "what_to_eat": "Boswellia 400 mg — 20 min before eating",
+          "physiological_rationale": "AKBA peaks at joint tissue 20 min post-ingestion; inhibits MMP enzymes during afternoon cartilage stress"
+        },
+        {
+          "time": "1:00 PM (Lunch)",
+          "what_to_eat": "Grilled salmon (150 g) + olive oil salad (leafy greens, broccoli, pomegranate) + small ragi or brown rice + curd",
+          "physiological_rationale": "Salmon omega-3 reduces synovial PGE2; olive oil oleocanthal = COX inhibitor; ragi calcium for subchondral bone"
+        },
+        {
+          "time": "4:00 PM (Snack)",
+          "what_to_eat": "Tart cherry juice (150 mL) or pomegranate juice (100 mL) + 10 walnuts",
+          "physiological_rationale": "Tart cherry anthocyanins inhibit COX-1/2; walnuts ALA omega-3; before yoga reduces exercise-induced joint inflammation"
+        },
+        {
+          "time": "7:00 PM (Dinner)",
+          "what_to_eat": "Bone broth soup (1 large bowl) + steamed non-starchy vegetables + small fish or paneer + turmeric + 1 tsp ghee",
+          "physiological_rationale": "Second bone broth dose: overnight cartilage repair substrates; ghee butyrate repairs gut lining (gut-joint axis)"
+        }
+      ]
+    }
+  },
+  "functional_foods": [
+    {
+      "name": "Bone broth",
+      "icon": "🦴",
+      "dose_timing": "1–2 cups daily — morning and/or evening",
+      "mechanism_of_action": "Provides glycine, proline, hydroxyproline — collagen type II amino acids; glucosamine and chondroitin from cartilage remnants; gelatin seals gut lining"
+    },
+    {
+      "name": "Collagen peptides (hydrolysed)",
+      "icon": "💊",
+      "dose_timing": "10 g in warm water + vitamin C — 30 min before exercise daily",
+      "mechanism_of_action": "Hydroxyproline dipeptides (Pro-Hyp, Hyp-Gly) directly stimulate chondrocyte collagen II synthesis; pre-exercise timing doubles deposition (AJSM RCT 2019)"
+    },
+    {
+      "name": "Boswellia (Shallaki)",
+      "icon": "🌿",
+      "dose_timing": "400 mg standardised 65% boswellic acid — 20 min before meals, 2×/day; supervised",
+      "mechanism_of_action": "AKBA inhibits MMP-3 and MMP-13 (collagen-degrading enzymes); reduces WOMAC pain score ≥ 40% in 8 weeks (multiple RCTs)"
+    },
+    {
+      "name": "Guggul (Commiphora mukul)",
+      "icon": "🌱",
+      "dose_timing": "250 mg guggulsterone equivalent — with lunch, supervised",
+      "mechanism_of_action": "Guggulsterones block NF-kB and reduce COX-2 in chondrocytes; anti-inflammatory synergist with Boswellia"
+    },
+    {
+      "name": "Turmeric + black pepper",
+      "icon": "🌙",
+      "dose_timing": "1 tsp curcumin + 1/4 tsp black pepper with fat — daily",
+      "mechanism_of_action": "Curcumin inhibits MMP-3/13; reduces chondrocyte apoptosis; reduces synovial IL-1β and TNF-α"
+    },
+    {
+      "name": "Pomegranate juice",
+      "icon": "🍷",
+      "dose_timing": "100–150 mL fresh pomegranate juice — daily afternoon",
+      "mechanism_of_action": "Ellagic acid and punicalagins inhibit MMP-3 — primary enzyme degrading type II collagen in OA cartilage"
+    },
+    {
+      "name": "Ginger (fresh)",
+      "icon": "🫚",
+      "dose_timing": "1-inch in decoction 3×/day; 1 tsp powder in food daily",
+      "mechanism_of_action": "Inhibits prostaglandin E2 and leukotriene B4; reduces substance P in joint; equivalent to ibuprofen in knee OA (2-year RCT)"
+    },
+    {
+      "name": "Mahanarayan oil",
+      "icon": "🫙",
+      "dose_timing": "Warm massage around joint (not on painful area) — 15–20 min daily Phase 1",
+      "mechanism_of_action": "Sesame base carries 50+ herbs transdermally; reduces periarticular muscle spasm; traditional reduction in WOMAC scores documented"
+    }
+  ],
+  "yoga_sequence": {
+    "total_duration_min": 20,
+    "best_time": "4:00 PM",
+    "asanas": [
+      {
+        "asana": "Dandasana (staff pose — seated)",
+        "duration_min": 3,
+        "physiological_effect": "Strengthens quadriceps without joint compression; improves posture reducing compressive joint forces"
+      },
+      {
+        "asana": "Viparita Karani (legs up wall)",
+        "duration_min": 5,
+        "physiological_effect": "Decompresses knee joint; reduces intra-articular pressure; gravity-assisted lymphatic drainage"
+      },
+      {
+        "asana": "Setu Bandhasana (bridge pose)",
+        "duration_min": 3,
+        "physiological_effect": "Glute and hamstring strengthening reduces knee valgus stress; improves hip extension"
+      },
+      {
+        "asana": "Supta Padangusthasana (reclined hand-to-toe)",
+        "duration_min": 3,
+        "physiological_effect": "Gentle hamstring stretch reduces posterior knee tension; improves knee extension ROM"
+      },
+      {
+        "asana": "Ardha Chandrasana (wall-supported)",
+        "duration_min": 2,
+        "physiological_effect": "Hip abductor strengthening without joint loading; reduces lateral knee pain"
+      },
+      {
+        "asana": "Tadasana + heel raises (wall support)",
+        "duration_min": 2,
+        "physiological_effect": "Calf strengthening improves ankle-knee chain mechanics; reduces ankle pronation"
+      },
+      {
+        "asana": "Bhramari + Anulom Vilom",
+        "duration_min": 5,
+        "physiological_effect": "Pain modulation via endorphin release; reduces central sensitisation in OA"
+      },
+      {
+        "asana": "Savasana with leg elevation",
+        "duration_min": 5,
+        "physiological_effect": "Reduces knee oedema; pain-free recovery position; synovial fluid redistribution"
+      }
+    ]
+  },
+  "red_flags": [
+    {
+      "sign": "Sudden joint locking or giving way",
+      "action": "Rule out meniscal tear or loose body — urgent orthopaedic review"
+    },
+    {
+      "sign": "Hot, red, swollen joint with fever",
+      "action": "Rule out septic arthritis — emergency joint aspiration"
+    },
+    {
+      "sign": "VAS > 8 unresponsive to all measures",
+      "action": "Surgical evaluation for joint replacement"
+    },
+    {
+      "sign": "Rapidly progressive joint space loss on X-ray",
+      "action": "Aggressive rheumatology referral"
+    },
+    {
+      "sign": "Numbness or weakness below joint",
+      "action": "Rule out nerve entrapment or vascular compromise"
+    }
+  ],
+  "monitoring": [
+    {
+      "frequency": "Daily",
+      "parameters": [
+        "VAS pain score",
+        "Steps walked",
+        "Stiffness duration"
+      ]
+    },
+    {
+      "frequency": "Weekly",
+      "parameters": [
+        "ROM measurement (goniometer)",
+        "Swelling assessment",
+        "Weight"
+      ]
+    },
+    {
+      "frequency": "Monthly",
+      "parameters": [
+        "hs-CRP",
+        "ESR",
+        "WOMAC score"
+      ]
+    },
+    {
+      "frequency": "Quarterly",
+      "parameters": [
+        "X-ray of affected joint (standing)",
+        "Muscle strength assessment",
+        "BMI"
+      ]
+    }
+  ],
+  "clinical_disclaimer": "This protocol is for use under qualified BNYS clinical supervision. Every 1 kg weight loss reduces knee joint load by 4 kg — weight reduction is the single most impactful intervention. Boswellia requires clinician approval with anticoagulants. This document is for clinical reference only."
+}
