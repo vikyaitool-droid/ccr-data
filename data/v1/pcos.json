@@ -1,0 +1,603 @@
+{
+  "schema_version": "1.0",
+  "protocol_id": "pcos",
+  "protocol_number": "04",
+  "title": "Polycystic Ovary Syndrome (PCOS)",
+  "short_title": "PCOS",
+  "category": "Metabolic / Hormonal",
+  "version": "2.0",
+  "protocol_family": "BNYS",
+  "icon": "🌸",
+  "color": "#db2777",
+  "root_mechanism": "Insulin resistance → compensatory hyperinsulinaemia → ovarian theca cell stimulation → androgen excess (testosterone, DHEAS) → LH/FSH ratio imbalance → anovulation and follicular cyst formation. Hypothalamic GnRH pulse dysregulation perpetuates the cycle.",
+  "goals": [
+    {
+      "parameter": "Menstrual regularity",
+      "target": "Cycle every 28–35 days"
+    },
+    {
+      "parameter": "Fasting insulin",
+      "target": "< 8 µIU/mL"
+    },
+    {
+      "parameter": "Testosterone (total)",
+      "target": "< 50 ng/dL"
+    },
+    {
+      "parameter": "LH:FSH ratio",
+      "target": "< 2:1"
+    },
+    {
+      "parameter": "HOMA-IR",
+      "target": "< 2"
+    }
+  ],
+  "phases": {
+    "phase1": {
+      "label": "Acute Intervention",
+      "duration": "14–21 days",
+      "exit_threshold": "≥ 12 / 15 points",
+      "interventions": [
+        {
+          "time": "Wake-up",
+          "duration": "12 min",
+          "intervention": "Sunlight exposure (10 min) + cold shower (2 min)",
+          "physiological_effect": "Morning light resets SCN circadian clock → normalises nocturnal LH pulse amplitude; cold lowers elevated androgens via adrenal cortisol modulation"
+        },
+        {
+          "time": "After shower",
+          "duration": "15 min",
+          "intervention": "Castor oil pelvic Abhyanga (lower abdomen + sacrum area)",
+          "physiological_effect": "Castor oil ricinoleic acid penetrates ovarian capsule → reduces cyst-associated inflammation; sacral massage stimulates parasympathetic pelvic nerves → improves ovarian blood flow"
+        },
+        {
+          "time": "Before breakfast",
+          "duration": "15 min",
+          "intervention": "Nadi Shodhana + Anulom Vilom (15 min)",
+          "physiological_effect": "Balances hypothalamic-pituitary axis via autonomic modulation → normalises GnRH pulsatility → improves LH:FSH ratio"
+        },
+        {
+          "time": "Breakfast",
+          "duration": "—",
+          "intervention": "Low-GI high-protein: eggs + avocado + flaxseed smoothie",
+          "physiological_effect": "Flaxseeds: lignans compete with oestrogen receptors → reduce estrogen dominance; low-GI breakfast lowers fasting insulin surge"
+        },
+        {
+          "time": "10:00 AM",
+          "duration": "25 min",
+          "intervention": "Hot castor oil pack on lower abdomen (ovarian region)",
+          "physiological_effect": "Heat + ricinoleic acid → increases local prostaglandin E1 → promotes follicular maturation; lymphatic stimulation reduces ovarian congestion"
+        },
+        {
+          "time": "Before lunch",
+          "duration": "15 min before",
+          "intervention": "Spearmint tea (2 cups/day) + Shatavari decoction",
+          "physiological_effect": "Spearmint reduces free testosterone by 30% (documented in RCTs); Shatavari (phytoestrogen adaptogen) normalises FSH and LH"
+        },
+        {
+          "time": "Lunch",
+          "duration": "—",
+          "intervention": "Anti-androgen, anti-inflammatory: rainbow salad + legumes + seed cycling",
+          "physiological_effect": "Seed cycling: pumpkin + flax seeds (follicular phase), sesame + sunflower (luteal) — provides zinc, selenium, omega-3 to balance hormones phase-specifically"
+        },
+        {
+          "time": "After lunch",
+          "duration": "25 min",
+          "intervention": "Walk 20 min + pelvic floor exercises (Kegel 3 × 15)",
+          "physiological_effect": "Exercise reduces androgen levels; pelvic floor strengthening improves uterine and ovarian circulation; GLUT4 translocation improves insulin sensitivity"
+        },
+        {
+          "time": "3:00 PM",
+          "duration": "15 min",
+          "intervention": "Hip bath (warm, with neem or triphala decoction)",
+          "physiological_effect": "Warm hip bath dilates pelvic vessels → reduces ovarian congestion and cyst pressure; neem is anti-androgenic"
+        },
+        {
+          "time": "4:00 PM",
+          "duration": "25 min",
+          "intervention": "Yoga sequence (hip-opening — see below)",
+          "physiological_effect": "Hip-opening postures increase pelvic blood flow; twisting postures massage ovaries; pranayama regulates cortisol and androgens"
+        },
+        {
+          "time": "7:00 PM",
+          "duration": "—",
+          "intervention": "Dinner: light, anti-inflammatory — cooked vegetables + dal + small portion grain",
+          "physiological_effect": "Early light dinner reduces overnight insulin; evening insulin spikes directly stimulate androgen production"
+        },
+        {
+          "time": "9:00 PM",
+          "duration": "20 min",
+          "intervention": "Warm Epsom salt bath with lavender essential oil",
+          "physiological_effect": "Magnesium reduces stress-induced cortisol and DHEAS; lavender reduces anxiety-driven LH dysregulation via limbic system"
+        }
+      ],
+      "exit_criteria": [
+        {
+          "parameter": "Menstrual cycle",
+          "target": "Onset within Phase 1 or regularising",
+          "max_points": 3
+        },
+        {
+          "parameter": "Fasting insulin",
+          "target": "Drop ≥ 20% from baseline",
+          "max_points": 3
+        },
+        {
+          "parameter": "Acne/hirsutism",
+          "target": "Subjective improvement ≥ 30%",
+          "max_points": 3
+        },
+        {
+          "parameter": "Energy (0–10)",
+          "target": "≥ 6",
+          "max_points": 3
+        },
+        {
+          "parameter": "Mood/anxiety (0–10)",
+          "target": "≤ 4 (lower = better)",
+          "max_points": 3
+        }
+      ]
+    },
+    "phase2": {
+      "label": "Consolidation & Repair",
+      "duration": "4–6 weeks",
+      "exit_threshold": "≥ 13 / 15 points",
+      "interventions": [
+        {
+          "intervention": "Castor oil pelvic Abhyanga",
+          "frequency": "3 × / week"
+        },
+        {
+          "intervention": "Hot castor oil pelvic pack",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Hip bath",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Epsom salt bath",
+          "frequency": "4 × / week"
+        },
+        {
+          "intervention": "Spearmint tea",
+          "frequency": "Daily (2 cups)"
+        },
+        {
+          "intervention": "Yoga (pelvic + twists)",
+          "frequency": "Daily (25 min)"
+        },
+        {
+          "intervention": "Low-GI + seed cycling diet",
+          "frequency": "Daily"
+        }
+      ],
+      "exit_criteria": [
+        {
+          "parameter": "Menstrual cycle",
+          "target": "Regular 28–35 days for 2 consecutive cycles",
+          "max_points": 3
+        },
+        {
+          "parameter": "Fasting insulin",
+          "target": "< 8 µIU/mL",
+          "max_points": 3
+        },
+        {
+          "parameter": "Total testosterone",
+          "target": "< 50 ng/dL",
+          "max_points": 3
+        },
+        {
+          "parameter": "LH:FSH ratio",
+          "target": "< 2:1",
+          "max_points": 3
+        },
+        {
+          "parameter": "Ultrasound",
+          "target": "Reduction in cyst number or size",
+          "max_points": 3
+        }
+      ]
+    },
+    "phase3": {
+      "label": "Maintenance & Relapse Prevention",
+      "duration": "Indefinite",
+      "practices": [
+        {
+          "practice": "Low-GI diet + seed cycling",
+          "maintenance_dose": "Lifelong"
+        },
+        {
+          "practice": "Spearmint tea (2 cups/day)",
+          "maintenance_dose": "Lifelong"
+        },
+        {
+          "practice": "Pelvic castor oil Abhyanga",
+          "maintenance_dose": "2 × / week"
+        },
+        {
+          "practice": "Yoga + pranayama",
+          "maintenance_dose": "Daily 20 min"
+        },
+        {
+          "practice": "Hot pelvic pack",
+          "maintenance_dose": "If cycle delays or pelvic pain returns"
+        },
+        {
+          "practice": "Shatavari (supervised)",
+          "maintenance_dose": "3 months on, 1 month off"
+        }
+      ],
+      "relapse_rules": [
+        {
+          "trigger": "Cycle > 45 days again",
+          "action": "Phase 2 for 6 weeks + pelvic packs daily"
+        },
+        {
+          "trigger": "Testosterone rises > 60 ng/dL",
+          "action": "Phase 1 for 14 days"
+        },
+        {
+          "trigger": "Weight gain > 3 kg",
+          "action": "Combined obesity-PCOS protocol"
+        }
+      ]
+    }
+  },
+  "dietary_protocol": {
+    "eat_window": "10:00 AM – 6:00 PM (16:8 IF — reduces overnight insulin and androgen production)",
+    "meal_order": "Protein → Fibre → Low-GI carbs (last and small)",
+    "fasting_rules": [
+      {
+        "rule": "14–16 hour overnight fast",
+        "specification": "No eating after 6–7 PM; resume 10–11 AM",
+        "frequency": "Daily all phases",
+        "physiological_effect": "Prolonged overnight fast reduces fasting insulin → reduces ovarian androgen stimulation; activates AMPK → improves insulin receptor sensitivity in ovarian theca cells"
+      },
+      {
+        "rule": "Seed cycling protocol",
+        "specification": "Days 1–14 (follicular): 1 tbsp flax + 1 tbsp pumpkin seeds/day. Days 15–28 (luteal): 1 tbsp sesame + 1 tbsp sunflower seeds/day",
+        "frequency": "Daily — phase-specific (track cycle day)",
+        "physiological_effect": "Follicular phase: flax lignans modulate oestrogen; pumpkin zinc supports follicular maturation. Luteal phase: sesame lignans support progesterone; sunflower vitamin E supports corpus luteum function"
+      },
+      {
+        "rule": "Spearmint tea 2×/day",
+        "specification": "1 cup morning, 1 cup afternoon — steep fresh spearmint 5 min",
+        "frequency": "Daily Phase 1–2; lifelong Phase 3",
+        "physiological_effect": "Free spearmint oil reduces 5-alpha reductase activity → reduces DHT conversion; documented 30% reduction in free testosterone in PCOS in RCT (30 days)"
+      },
+      {
+        "rule": "No refined carbs ever",
+        "specification": "Eliminate all white rice, maida, sugar, fruit juices completely",
+        "frequency": "Daily — strict in Phase 1",
+        "physiological_effect": "Every refined carb spike → insulin spike → theca cell stimulation → androgen surge; insulin is the primary driver of PCOS androgen production"
+      },
+      {
+        "rule": "Shatavari decoction before lunch",
+        "specification": "2 g powder in warm water 15 min before lunch",
+        "frequency": "Daily Phase 1–2 (supervised)",
+        "physiological_effect": "Phytoestrogenic saponins (Shatavarin I-IV) normalise FSH and LH by competing at hypothalamic oestrogen receptors; reduces LH:FSH ratio"
+      }
+    ],
+    "phase_macros": [
+      {
+        "phase": "Phase 1",
+        "phase_key": "phase1",
+        "duration": "14–21 days",
+        "carbohydrates": "Very low-GI: 20–40 g/day net carbs (non-starchy vegetables only; no grains in Phase 1)",
+        "protein": "High: 35–40% / 1.4–1.6 g/kg BW/day (animal + plant sources)",
+        "fat": "Moderate-high: 35–40% (flaxseed, avocado, olive oil — phytoestrogenic and anti-androgenic fats)",
+        "rationale": "Aggressive insulin reduction in Phase 1; low carb drops fasting insulin → reduces theca cell androgen stimulation directly; high protein + fat maintains satiety without insulin spikes"
+      },
+      {
+        "phase": "Phase 2",
+        "phase_key": "phase2",
+        "duration": "4–6 weeks",
+        "carbohydrates": "Low-GI: 50–80 g/day (introduce millets — ragi, oats — at lunch only)",
+        "protein": "Moderate-high: 30–35% / 1.2 g/kg BW/day",
+        "fat": "Moderate: 30–35% (continue anti-androgenic fats)",
+        "rationale": "Gradual reintroduction of complex carbs; monitor menstrual cycle and fasting insulin response; seed cycling maintained throughout"
+      },
+      {
+        "phase": "Phase 3",
+        "phase_key": "phase3",
+        "duration": "Maintenance",
+        "carbohydrates": "Low-GI: 80–100 g/day (80% compliance lifelong)",
+        "protein": "Moderate: 25–30% / 0.8–1.0 g/kg BW/day",
+        "fat": "Moderate: 30% (Mediterranean anti-androgenic pattern)",
+        "rationale": "Lifelong low-GI diet with seed cycling; no refined carbs; spearmint tea continued for anti-androgenic effect; monitor cycle regularity monthly"
+      }
+    ],
+    "foods_to_eat": [
+      {
+        "category": "Anti-Androgenic Fats (Seed Cycling)",
+        "items": [
+          "Flaxseeds — 1 tbsp/day (Days 1–14 of cycle)",
+          "Pumpkin seeds — 1 tbsp/day (Days 1–14)",
+          "Sesame seeds — 1 tbsp/day (Days 15–28)",
+          "Sunflower seeds — 1 tbsp/day (Days 15–28)",
+          "Avocado (daily — phytoestrogen precursors)",
+          "Walnuts (omega-3 + anti-androgenic)"
+        ]
+      },
+      {
+        "category": "Insulin-Sensitising Foods",
+        "items": [
+          "Cinnamon — ½ tsp/day (insulin mimetic)",
+          "Fenugreek seeds (soaked overnight)",
+          "Apple cider vinegar before meals",
+          "Bitter gourd juice (3×/week)",
+          "Berries — low fructose, high anthocyanins"
+        ]
+      },
+      {
+        "category": "Anti-Inflammatory Proteins",
+        "items": [
+          "Eggs (daily — zinc + choline for ovarian health)",
+          "Fatty fish — salmon, mackerel (omega-3 reduces androgens)",
+          "Lentils and legumes (phytoestrogens + protein + fibre)",
+          "Paneer (small — zinc)",
+          "Curd (probiotic — gut-hormone axis)"
+        ]
+      },
+      {
+        "category": "Fibre and Prebiotics",
+        "items": [
+          "Leafy greens — spinach, kale, fenugreek leaves",
+          "Non-starchy vegetables freely",
+          "Oats (Phase 2–3 only — beta-glucan reduces insulin)",
+          "Psyllium husk (1 tsp in water — reduces androgen absorption in gut)"
+        ]
+      },
+      {
+        "category": "Hormonal-Balance Herbs",
+        "items": [
+          "Spearmint tea (2 cups/day — anti-androgenic)",
+          "Shatavari (under supervision)",
+          "Ashwagandha (stress-cortisol-LH connection)",
+          "Turmeric (reduces ovarian inflammation)"
+        ]
+      }
+    ],
+    "foods_to_avoid": [
+      {
+        "category": "Insulin-Spiking Foods (Primary PCOS Triggers)",
+        "items": [
+          "White rice",
+          "White bread and maida products",
+          "Sugar and all sweeteners",
+          "Fruit juices (fructose → insulin spike)",
+          "Soft drinks and energy drinks",
+          "Breakfast cereals"
+        ]
+      },
+      {
+        "category": "Androgen-Stimulating Foods",
+        "items": [
+          "Dairy in excess (IGF-1 → stimulates ovarian androgen production)",
+          "Red meat in excess (saturated fat → androgen precursors)",
+          "Alcohol (increases testosterone by impairing liver oestrogen clearance)"
+        ]
+      },
+      {
+        "category": "Gut-Disrupting / Hormonal Disruptors",
+        "items": [
+          "Soy in excess at high doses (phytoestrogen disruption)",
+          "Gluten (if gut-associated PCOS — trial elimination for 6 weeks)",
+          "Processed meats (preservatives disrupt oestrogen metabolism)",
+          "Trans fats (worsen insulin resistance and inflammation)"
+        ]
+      },
+      {
+        "category": "High-GI Fruits",
+        "items": [
+          "Mango",
+          "Banana",
+          "Grapes",
+          "Watermelon",
+          "Dates",
+          "Pineapple"
+        ]
+      }
+    ],
+    "sample_meal_plan": {
+      "phase": "Phase 1",
+      "meals": [
+        {
+          "time": "7:00 AM (waking — fasting)",
+          "what_to_eat": "Spearmint tea (1 cup, fresh leaves, 5 min steep — no sugar) + 2 glasses warm water",
+          "physiological_rationale": "Spearmint immediately begins anti-androgenic action; warm water maintains fasting state; no calories to avoid insulin spike"
+        },
+        {
+          "time": "8:00 AM (Seed cycling + ACV)",
+          "what_to_eat": "1 tbsp flaxseeds (Days 1–14) OR sesame seeds (Days 15–28) + apple cider vinegar 2 tbsp in water — still fasting",
+          "physiological_rationale": "Seeds taken on empty stomach maximise lignan absorption; ACV primes gut for lower insulin response to first meal"
+        },
+        {
+          "time": "10:30 AM (Break-fast)",
+          "what_to_eat": "2–3 eggs (scrambled in coconut oil) + ½ avocado + small salad (cucumber, spinach, lemon) + 1 tsp pumpkin seeds",
+          "physiological_rationale": "High protein + anti-androgenic fats open eating window; avocado plant sterols reduce androgens; pumpkin seeds zinc supports follicular maturation"
+        },
+        {
+          "time": "12:30 PM — Before lunch",
+          "what_to_eat": "Shatavari decoction (2 g in warm water) — 15 min before eating",
+          "physiological_rationale": "Shatavarin saponins prepare hypothalamus for FSH normalisation; pre-meal timing allows absorption before food"
+        },
+        {
+          "time": "1:00 PM (Lunch)",
+          "what_to_eat": "Large rainbow salad (spinach, cucumber, bell pepper, beetroot, flaxseed dressing) + moong dal (protein + phytoestrogens) + ½ cup ragi (Phase 2 only — no grains Phase 1)",
+          "physiological_rationale": "Rainbow vegetables provide anti-oxidant protection for follicles; moong dal phytoestrogens compete with androgens at receptors; ragi low-GI maintains insulin stability"
+        },
+        {
+          "time": "3:30 PM (Snack)",
+          "what_to_eat": "Spearmint tea (2nd cup) + walnuts (4–5) + 1 tsp cinnamon in warm water",
+          "physiological_rationale": "2nd spearmint dose maintains anti-androgenic effect throughout day; walnuts omega-3 reduces ovarian inflammation; cinnamon reduces insulin resistance"
+        },
+        {
+          "time": "5:30 PM (Dinner — early)",
+          "what_to_eat": "Vegetable soup (no starchy vegetables) + grilled fish or paneer (50 g) + steamed vegetables with turmeric and ginger + small lentil portion",
+          "physiological_rationale": "Early dinner reduces overnight insulin → reduces overnight androgen production; fish omega-3 reduces LH-driven androgen surge; turmeric reduces ovarian cyst inflammation"
+        },
+        {
+          "time": "6:00 PM onwards",
+          "what_to_eat": "16-hour fast begins — spearmint tea allowed; no food until 10 AM next day",
+          "physiological_rationale": "Overnight insulin suppression is the primary therapeutic lever in PCOS; 16-h fast reduces androgen production by 25–40% in studies"
+        }
+      ]
+    }
+  },
+  "functional_foods": [
+    {
+      "name": "Spearmint tea",
+      "icon": "🌿",
+      "dose_timing": "2 cups/day — morning and afternoon; steep fresh spearmint 5 min, no sugar",
+      "mechanism_of_action": "Free spearmint oil inhibits 5-alpha reductase → reduces DHT; reduces luteinising hormone (LH); documented 30% reduction in free testosterone in PCOS in RCT (Phytotherapy Research, 2010)"
+    },
+    {
+      "name": "Flaxseeds (follicular phase)",
+      "icon": "🌰",
+      "dose_timing": "1 tbsp ground — Days 1–14 of menstrual cycle daily",
+      "mechanism_of_action": "Secoisolariciresinol diglucoside (SDG) lignans bind oestrogen receptors → modulate oestrogen dominance; reduce sex hormone binding globulin (SHBG) depression → reduce free androgen index"
+    },
+    {
+      "name": "Shatavari (Asparagus racemosus)",
+      "icon": "🌱",
+      "dose_timing": "2 g powder in warm water — before lunch, supervised (3 months on, 1 month off)",
+      "mechanism_of_action": "Shatavarin I–IV saponins act as phytoestrogenic adaptogens; normalise FSH and LH by competing at hypothalamic oestrogen receptors; reduce LH:FSH ratio in PCOS"
+    },
+    {
+      "name": "Cinnamon",
+      "icon": "🟤",
+      "dose_timing": "½ tsp in warm water or food — daily",
+      "mechanism_of_action": "MHCP improves insulin receptor signalling; documented to restore menstrual cyclicity in 4/15 PCOS women in 8 weeks (pilot RCT); reduces fasting insulin and HOMA-IR"
+    },
+    {
+      "name": "Pumpkin seeds (follicular phase)",
+      "icon": "🎃",
+      "dose_timing": "1 tbsp — Days 1–14 daily",
+      "mechanism_of_action": "Rich in zinc — essential for follicular development and LH receptor function; zinc deficiency worsens PCOS androgen excess; also provides anti-androgenic plant sterols"
+    },
+    {
+      "name": "Sesame seeds (luteal phase)",
+      "icon": "⚫",
+      "dose_timing": "1 tbsp — Days 15–28 daily",
+      "mechanism_of_action": "Sesamin lignans support progesterone production in corpus luteum; lignans modulate androgen receptor sensitivity; omega-6/omega-3 balance supports luteal phase adequacy"
+    },
+    {
+      "name": "Ashwagandha",
+      "icon": "🍃",
+      "dose_timing": "300 mg standardised extract — before bed, supervised (3 months on, 1 month off)",
+      "mechanism_of_action": "Reduces cortisol 27% (RCT) → reduces stress-driven DHEAS elevation in PCOS; withanolides normalise HPO-HPA axis crosstalk; improves thyroid function (commonly co-morbid in PCOS)"
+    },
+    {
+      "name": "Castor oil (pelvic pack)",
+      "icon": "🌿",
+      "dose_timing": "Warm pack on lower abdomen — 25 min, daily Phase 1 / 4×/week Phase 2",
+      "mechanism_of_action": "Ricinoleic acid penetrates ovarian capsule → reduces prostaglandin-mediated ovarian inflammation; lymphatic stimulation reduces ovarian congestion; documented to increase pelvic circulation in observational studies"
+    }
+  ],
+  "yoga_sequence": {
+    "total_duration_min": 25,
+    "best_time": "4:00 PM",
+    "asanas": [
+      {
+        "asana": "Baddha Konasana (butterfly pose)",
+        "duration_min": 5,
+        "physiological_effect": "Hip opening → increases pelvic blood flow; stretches ovarian ligaments reducing adhesion and congestion around follicles"
+      },
+      {
+        "asana": "Supta Baddha Konasana (reclined butterfly)",
+        "duration_min": 5,
+        "physiological_effect": "Passive hip opening; reduces ovarian congestion; stimulates parasympathetic pelvic nerves → improves follicular blood flow"
+      },
+      {
+        "asana": "Malasana (squat/garland pose)",
+        "duration_min": 3,
+        "physiological_effect": "Compresses pelvic floor → massages ovaries and uterus mechanically; stimulates pelvic floor reflex zones; opens sacral parasympathetic outflow"
+      },
+      {
+        "asana": "Viparita Karani (legs up the wall)",
+        "duration_min": 5,
+        "physiological_effect": "Improves venous drainage from pelvis; reduces ovarian cystic pressure; reverses gravitational stress on pelvic organs"
+      },
+      {
+        "asana": "Ardha Matsyendrasana (seated twist)",
+        "duration_min": 2,
+        "physiological_effect": "Massages ovaries + adrenals simultaneously; reduces androgen excess from adrenal source (DHEAS); compresses and releases ovarian capsule"
+      },
+      {
+        "asana": "Anulom Vilom + Nadi Shodhana",
+        "duration_min": 5,
+        "physiological_effect": "Hypothalamic-pituitary axis regulation via ANS balancing; normalises GnRH pulsatility → improves LH:FSH ratio"
+      },
+      {
+        "asana": "Savasana with abdominal breathing",
+        "duration_min": 5,
+        "physiological_effect": "Cortisol reduction → reduces DHEAS (adrenal androgen); HPA-HPO axis resetting; allows pelvic floor complete relaxation"
+      }
+    ]
+  },
+  "red_flags": [
+    {
+      "sign": "No menstruation for > 6 months",
+      "action": "Rule out premature ovarian failure or secondary amenorrhoea — urgent gynaecology"
+    },
+    {
+      "sign": "Severe pelvic pain",
+      "action": "Rule out ovarian torsion — surgical emergency"
+    },
+    {
+      "sign": "Rapid virilisation (voice deepening, clitoromegaly)",
+      "action": "Rule out ovarian/adrenal tumour; urgent endocrinology referral"
+    },
+    {
+      "sign": "Desire for fertility during protocol",
+      "action": "Collaborate with reproductive endocrinologist before protocol intensification"
+    },
+    {
+      "sign": "Fasting glucose > 126 mg/dL",
+      "action": "PCOS-associated T2DM — add diabetes protocol concurrently"
+    }
+  ],
+  "monitoring": [
+    {
+      "frequency": "Daily",
+      "parameters": [
+        "Basal body temperature (BBT chart)",
+        "Energy level (0–10)",
+        "Mood score (0–10)"
+      ]
+    },
+    {
+      "frequency": "Weekly",
+      "parameters": [
+        "Weight",
+        "Waist circumference",
+        "Skin/acne assessment",
+        "Hair loss assessment"
+      ]
+    },
+    {
+      "frequency": "Monthly",
+      "parameters": [
+        "Fasting insulin",
+        "Total testosterone",
+        "LH",
+        "FSH (Day 2–3 of cycle)"
+      ]
+    },
+    {
+      "frequency": "Quarterly",
+      "parameters": [
+        "Pelvic ultrasound",
+        "AMH (anti-Müllerian hormone)",
+        "HOMA-IR",
+        "Cortisol",
+        "Prolactin"
+      ]
+    }
+  ],
+  "clinical_disclaimer": "This protocol is designed to be implemented under the supervision of a qualified BNYS physician. Patients desiring fertility must consult a reproductive endocrinologist. Shatavari and ashwagandha require clinician supervision. This document is for clinical reference only and does not substitute for individualised medical assessment."
+}
