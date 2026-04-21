@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-20T07:18:13.388Z",
+  "generatedAt": "2026-04-21T11:45:15.681Z",
   "sections": [
     {
-      "id": "bnys_reversal_protocols",
-      "file": "bnys_reversal_protocols.json",
+      "id": "t2dm",
+      "file": "t2dm.json",
       "cardCount": 0,
-      "sizeKb": "101.9",
+      "sizeKb": "23.4",
       "priority": "lazy",
-      "lastUpdated": "2026-04-20",
-      "etag": "90b3c1906430"
+      "lastUpdated": "2026-04-21",
+      "etag": "9127360f4011"
     }
   ]
 }
