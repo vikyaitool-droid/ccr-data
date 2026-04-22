@@ -1,34 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-22T05:28:28.966Z",
+  "generatedAt": "2026-04-22T06:15:25.667Z",
   "sections": [
     {
-      "id": "nafld",
-      "file": "nafld.json",
+      "id": "ulcerative_colitis",
+      "file": "ulcerative_colitis.json",
       "cardCount": 0,
-      "sizeKb": "24.9",
+      "sizeKb": "28.9",
       "priority": "lazy",
       "lastUpdated": "2026-04-22",
-      "etag": "aa2b4d2189a8"
-    },
-    {
-      "id": "ibs",
-      "file": "ibs.json",
-      "cardCount": 0,
-      "sizeKb": "26.0",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-22",
-      "etag": "1730ff115f23"
-    },
-    {
-      "id": "anxiety_depression",
-      "file": "anxiety_depression.json",
-      "cardCount": 0,
-      "sizeKb": "34.5",
-      "priority": "lazy",
-      "lastUpdated": "2026-04-22",
-      "etag": "9cdd7a3e7eb2"
+      "etag": "29dba530d8c5"
     }
   ]
 }
