@@ -1,0 +1,580 @@
+{
+  "schema_version": "1.0",
+  "protocol_id": "ulcerative_colitis",
+  "protocol_number": "11",
+  "title": "Ulcerative Colitis",
+  "short_title": "UC",
+  "category": "Gut Repair",
+  "version": "2.0",
+  "protocol_family": "BNYS",
+  "icon": "🧫",
+  "color": "#7c2d12",
+  "root_mechanism": "Gut dysbiosis → Epithelial tight-junction breakdown → Luminal antigen translocation → NF-kB-driven Th1/Th17 mucosal immune activation → Crypt abscess formation → Goblet cell depletion → Bloody diarrhoea and mucosal ulceration.",
+  "goals": [
+    { "parameter": "Clinical remission (Mayo Score)", "target": "≤ 2" },
+    { "parameter": "Stool frequency", "target": "≤ 2/day, formed stools" },
+    { "parameter": "Blood in stool", "target": "Completely absent" },
+    { "parameter": "Faecal calprotectin", "target": "< 50 mcg/g" },
+    { "parameter": "CRP", "target": "< 5 mg/L" },
+    { "parameter": "Serum albumin", "target": "> 3.5 g/dL" }
+  ],
+  "phases": {
+    "phase1": {
+      "label": "Mucosal Rest & Acute Flare Suppression",
+      "duration": "14–21 Days",
+      "exit_threshold": "≥ 12 / 15 points",
+      "interventions": [
+        {
+          "time": "6:30 AM",
+          "duration": "15 min",
+          "intervention": "Warm sunlight exposure (face + abdomen uncovered)",
+          "physiological_effect": "Circadian VIP release reduces colonic spasm; cortisol peak harnessed constructively for ANS balance"
+        },
+        {
+          "time": "6:45 AM",
+          "duration": "15 min",
+          "intervention": "Abhyanga — warm sesame oil, clockwise abdominal massage",
+          "physiological_effect": "Stimulates enteric plexus via skin-gut axis; sesamol reduces prostaglandin E2; activates vagal afferents"
+        },
+        {
+          "time": "7:00 AM",
+          "duration": "10 min",
+          "intervention": "Nadi Shodhana (5 min) + Bhramari pranayama (5 min)",
+          "physiological_effect": "Nadi Shodhana rebalances ANS; Bhramari's laryngeal vibration reduces mast cell degranulation in colonic lamina propria"
+        },
+        {
+          "time": "7:30 AM",
+          "duration": "5 min",
+          "intervention": "Jala Neti (saline nasal irrigation)",
+          "physiological_effect": "Recalibrates nasal-gut immune axis; reduces systemic IgE load; lowers autoimmune amplification signals"
+        },
+        {
+          "time": "8:00 AM",
+          "duration": "—",
+          "intervention": "Phase 1 Breakfast (as per diet plan)",
+          "physiological_effect": "Low-residue substrate — zero mechanical irritation of inflamed crypts"
+        },
+        {
+          "time": "9:30 AM",
+          "duration": "20 min",
+          "intervention": "Cold abdominal pack — cold wet cloth (4 layers) on lower abdomen",
+          "physiological_effect": "Vasoconstriction then rebound hyperaemia increases submucosal blood flow; cold suppresses NF-kB via sympathetic inhibition"
+        },
+        {
+          "time": "11:00 AM",
+          "duration": "20 min",
+          "intervention": "Mud pack — room-temperature wet clay on lower abdomen",
+          "physiological_effect": "Clay minerals absorb endotoxins (LPS) via reflex zones; evaporative cooling reduces colonic oedema; draws excess heat from inflamed mucosa"
+        },
+        {
+          "time": "12:00 PM",
+          "duration": "15 min",
+          "intervention": "Slow barefoot walk on grass (grounding)",
+          "physiological_effect": "Earthing reduces systemic cytokine load; walking stimulates migrating motor complex, preventing SIBO"
+        },
+        {
+          "time": "1:00 PM",
+          "duration": "—",
+          "intervention": "Lunch (eat in Sukhasana — cross-leg sitting)",
+          "physiological_effect": "Cross-leg posture promotes vagal dominance during digestion; enhances secretory IgA production"
+        },
+        {
+          "time": "1:30 PM",
+          "duration": "20 min",
+          "intervention": "Supine rest — Shavasana",
+          "physiological_effect": "Post-prandial parasympathetic state enhances mucosal blood flow and sIgA synthesis"
+        },
+        {
+          "time": "3:30 PM",
+          "duration": "25 min",
+          "intervention": "Yoga sequence (see Yoga section)",
+          "physiological_effect": "ENS stimulation; reduces visceral hypersensitivity; activates sacral parasympathetic outflow S2-S4"
+        },
+        {
+          "time": "5:00 PM",
+          "duration": "15 min",
+          "intervention": "Hot foot bath (40–42°C)",
+          "physiological_effect": "Reflex hyperaemia draws blood to periphery, reduces pelvic/colonic vascular congestion; reduces tenesmus via spinal reflex arcs"
+        },
+        {
+          "time": "5:30 PM",
+          "duration": "5 min",
+          "intervention": "Nasya — 2 drops warm sesame oil in each nostril",
+          "physiological_effect": "Stimulates olfactory-vagal pathway; trigeminal-ENS calming; reduces neuroinflammatory brain-gut axis signals"
+        },
+        {
+          "time": "6:30 PM",
+          "duration": "—",
+          "intervention": "Dinner (as per diet plan)",
+          "physiological_effect": "Early light dinner allows 12-hour bowel rest overnight"
+        },
+        {
+          "time": "7:30 PM",
+          "duration": "20 min",
+          "intervention": "Cold spinal pack on lumbar-sacral spine (T10–S1)",
+          "physiological_effect": "Inhibits inferior mesenteric nerve plexus (sympathetic supply to descending colon); reduces colonic spasm, tenesmus, nocturnal urgency"
+        },
+        {
+          "time": "8:30 PM",
+          "duration": "20 min",
+          "intervention": "Epsom salt warm bath or hip bath (38–40°C)",
+          "physiological_effect": "Transdermal Mg2+ absorption: Mg is natural NF-kB inhibitor; relaxes colonic smooth muscle; improves sleep for overnight mucosal repair via GH/IGF-1"
+        },
+        {
+          "time": "9:30 PM",
+          "duration": "10 min",
+          "intervention": "Bhramari + body scan meditation",
+          "physiological_effect": "Reduces nocturnal cortisol spike that worsens early-morning UC; activates IL-10 anti-inflammatory pathway via vagal stimulation"
+        },
+        {
+          "time": "Overnight",
+          "duration": "12 h",
+          "intervention": "12-hour overnight fast (last food 7 PM; first food 7 AM)",
+          "physiological_effect": "Mucosal autophagy clears damaged colonocytes; stimulates intestinal stem cell (ISC) proliferation in crypts of Lieberkühn"
+        }
+      ],
+      "exit_criteria": [
+        { "parameter": "Stool frequency", "target": "≤ 3/day, or ≥ 50% drop from baseline", "max_points": 3 },
+        { "parameter": "Blood / mucus in stool", "target": "Absent or trace only", "max_points": 3 },
+        { "parameter": "Abdominal pain / cramping (0–10)", "target": "≤ 3", "max_points": 3 },
+        { "parameter": "Urgency score (0–10)", "target": "≤ 3", "max_points": 3 },
+        { "parameter": "Energy level (0–10)", "target": "≥ 6", "max_points": 3 }
+      ]
+    },
+    "phase2": {
+      "label": "Mucosal Repair & Microbiome Restoration",
+      "duration": "4–6 Weeks",
+      "exit_threshold": "≥ 13 / 15 points",
+      "interventions": [
+        { "intervention": "Cold abdominal pack", "frequency": "4× / week" },
+        { "intervention": "Abdominal mud pack", "frequency": "3× / week" },
+        { "intervention": "Hot foot bath", "frequency": "4× / week" },
+        { "intervention": "Cold spinal pack", "frequency": "4× / week" },
+        { "intervention": "Epsom salt bath", "frequency": "3× / week" },
+        { "intervention": "Abhyanga (abdominal)", "frequency": "4× / week" },
+        { "intervention": "Jala Neti", "frequency": "3× / week" },
+        { "intervention": "Nasya", "frequency": "3× / week" },
+        { "intervention": "Yoga sequence", "frequency": "Daily (25 min)" },
+        { "intervention": "Pranayama (Nadi Shodhana + Bhramari)", "frequency": "Daily — 10 min" },
+        { "intervention": "12-hour overnight fast", "frequency": "Daily" },
+        { "intervention": "Morning sunlight", "frequency": "Daily" }
+      ],
+      "exit_criteria": [
+        { "parameter": "Stool frequency", "target": "≤ 2/day, formed stools", "max_points": 3 },
+        { "parameter": "Blood in stool", "target": "Completely absent for ≥ 14 days", "max_points": 3 },
+        { "parameter": "Faecal calprotectin", "target": "< 150 mcg/g or ≥ 50% drop from baseline", "max_points": 3 },
+        { "parameter": "CRP / ESR", "target": "CRP < 5 mg/L, ESR < 20 mm/hr", "max_points": 3 },
+        { "parameter": "Mayo Score", "target": "≤ 2", "max_points": 3 }
+      ]
+    },
+    "phase3": {
+      "label": "Maintenance & Relapse Prevention",
+      "duration": "Indefinite",
+      "practices": [
+        { "practice": "12-hour overnight fast", "maintenance_dose": "≥ 6× / week" },
+        { "practice": "Yoga sequence (full)", "maintenance_dose": "4× / week — 30 min" },
+        { "practice": "Pranayama (Nadi Shodhana + Bhramari)", "maintenance_dose": "Daily — 10 min minimum" },
+        { "practice": "Abdominal Abhyanga", "maintenance_dose": "2× / week" },
+        { "practice": "Cold abdominal pack", "maintenance_dose": "Only if urgency or loose stools return for > 2 days" },
+        { "practice": "Mud pack", "maintenance_dose": "1× / week preventively" },
+        { "practice": "Hot foot bath", "maintenance_dose": "2× / week" },
+        { "practice": "Cold spinal pack", "maintenance_dose": "Only if abdominal cramps return" },
+        { "practice": "Epsom salt bath", "maintenance_dose": "2× / week" },
+        { "practice": "Jala Neti", "maintenance_dose": "3× / week" },
+        { "practice": "Anti-inflammatory diet compliance", "maintenance_dose": "≥ 90%" }
+      ],
+      "relapse_rules": [
+        {
+          "trigger": "Blood in stool for ≥ 2 days",
+          "action": "Immediately return to Phase 1 diet (bowel rest) + daily cold abdominal pack + cold spinal pack; reassess in 5 days"
+        },
+        {
+          "trigger": "Stool frequency > 4/day for 3 days",
+          "action": "Return to Phase 2 full intervention schedule for 2 weeks"
+        },
+        {
+          "trigger": "CRP > 10 mg/L or calprotectin > 200 on quarterly check",
+          "action": "Return to Phase 2 for 4 weeks; investigate and eliminate dietary trigger"
+        },
+        {
+          "trigger": "Mayo Score rise to ≥ 4",
+          "action": "Full Phase 1 restart (14 days) under direct clinical supervision"
+        },
+        {
+          "trigger": "Any NSAID or antibiotic course",
+          "action": "Immediately implement Phase 2 protocol for 4 weeks following course completion; add probiotic-rich foods daily"
+        }
+      ]
+    }
+  },
+  "dietary_protocol": {
+    "eat_window": "7:00 AM – 7:00 PM (12-hour fast overnight)",
+    "meal_order": "Warm liquid first → semi-solid → solid; eat in Sukhasana",
+    "fasting_rules": [
+      {
+        "rule": "12-hour overnight bowel rest",
+        "specification": "Last food 7:00 PM; first food 7:00 AM",
+        "frequency": "Daily (all phases)",
+        "physiological_effect": "Mucosal autophagy clears damaged colonocytes; stimulates intestinal stem cell proliferation in crypts of Lieberkühn"
+      },
+      {
+        "rule": "Bowel rest — Days 1–5 (Phase 1)",
+        "specification": "Rice kanji water, lauki juice, coconut water, strained moong soup only",
+        "frequency": "Days 1–5 of Phase 1",
+        "physiological_effect": "Zero osmotic load; prevents mechanical irritation of inflamed crypts; electrolyte maintenance with zero fermentation substrate"
+      },
+      {
+        "rule": "Graduated reintroduction — Days 6–14 (Phase 1)",
+        "specification": "Soft rice congee, ghee, moong dal, boiled carrot, ripe banana, soft idli",
+        "frequency": "Days 6–14 of Phase 1",
+        "physiological_effect": "Di/tripeptides absorbed in small intestine; ghee delivers butyrate to colonocytes; fermented idli introduces gentle lactobacilli"
+      }
+    ],
+    "phase_macros": [
+      {
+        "phase": "Phase 1",
+        "phase_key": "phase1",
+        "duration": "14–21 Days",
+        "carbohydrates": "High: 65–70% (white rice, moong, lauki — easily absorbed, zero residue)",
+        "protein": "Low–moderate: 10–15% (strained moong, soft idli — no mechanical load)",
+        "fat": "Low: 10–15% (ghee only — 1 tsp/meal for butyrate delivery)",
+        "rationale": "Bowel rest priority — zero fermentable residue reaching inflamed colon; ghee provides butyrate as primary colonocyte fuel"
+      },
+      {
+        "phase": "Phase 2",
+        "phase_key": "phase2",
+        "duration": "4–6 Weeks",
+        "carbohydrates": "Moderate: 55–60% (rice, idli, khichdi, stewed fruits — introduce soluble fibre)",
+        "protein": "Moderate: 15–20% (moong, toor dal, small curd portions — epithelial repair)",
+        "fat": "Moderate: 20–25% (ghee 1–2 tsp/meal — ZO-1, claudin-3 tight-junction upregulation)",
+        "rationale": "Mucosal repair via butyrate (ghee), prebiotic fibre (banana pectin), and live cultures (curd) while avoiding colonic fermentation overload"
+      },
+      {
+        "phase": "Phase 3",
+        "phase_key": "phase3",
+        "duration": "Maintenance",
+        "carbohydrates": "Moderate: 50–55% (diverse whole grains, cooked vegetables, prebiotic foods)",
+        "protein": "Moderate: 20% (lentils, homemade curd, cautious reintroduction)",
+        "fat": "Moderate: 25–30% (ghee 1–2 tsp/meal maintained lifelong for NF-kB suppression)",
+        "rationale": "Mediterranean-Ayurvedic hybrid maintaining microbiome diversity; ghee sustains colonocyte butyrate supply; curcumin maintains mucosal NF-kB suppression"
+      }
+    ],
+    "foods_to_eat": [
+      {
+        "category": "Phase 1 — Bowel Rest (Days 1–5)",
+        "items": [
+          "Warm rice kanji water (strained) + pinch rock salt",
+          "Freshly pressed bottle gourd (lauki) juice — 100 ml, room temperature",
+          "Coconut water (plain, no sugar)",
+          "Moong dal soup — thin, strained, no spices"
+        ]
+      },
+      {
+        "category": "Phase 1 — Graduated Reintroduction (Days 6–14)",
+        "items": [
+          "Soft-cooked white rice congee + cumin-tempered ghee + grated ash gourd",
+          "White rice + well-cooked yellow moong dal + 1 tsp ghee + boiled carrot (no skin)",
+          "Ripe banana (pectin prebiotic for Lactobacillus)",
+          "Plain rice congee OR soft idli + coriander-cumin broth"
+        ]
+      },
+      {
+        "category": "Phase 2 — Mucosal Repair Foods",
+        "items": [
+          "Soft idli (2–3) + coconut chutney (no raw onion) + warm cumin water",
+          "Moong dal chilla (thin, soft) + banana",
+          "Stewed apple (peeled, with cinnamon — not raw)",
+          "White rice + well-cooked toor/moong dal + ghee + 1 boiled vegetable",
+          "Small homemade curd (only if no blood in stool for 7 days)",
+          "Tender coconut water + 4 soaked almonds (skin removed)",
+          "Soft khichdi (rice:moong 2:1) + 1 tsp ghee + ajwain seasoning"
+        ]
+      },
+      {
+        "category": "Phase 3 — Maintenance Staples",
+        "items": [
+          "White/partially-milled rice, well-cooked lentils, ghee (1–2 tsp/meal)",
+          "Cooked seasonal vegetables, fresh coconut, turmeric, coriander, cumin, fennel",
+          "Ripe banana (daily prebiotic), cooked apple (3–4×/week)",
+          "Homemade curd (1 small bowl — live cultures without commercial additives)",
+          "Ajwain water (carminative, reduces bloating)",
+          "Oats (soaked overnight — cautious introduction Week 3+)",
+          "Buttermilk with cumin (post-remission)"
+        ]
+      },
+      {
+        "category": "Therapeutic Additions (All Phases)",
+        "items": [
+          "Ghee — 1–2 tsp every meal (butyrate = 60–70% colonocyte ATP; upregulates ZO-1, claudin-3)",
+          "Cumin water (warm, daily — carminative; stimulates digestive enzymes)",
+          "Coriander-cumin broth (anti-inflammatory; reduces colonic spasm)",
+          "Turmeric in food (curcumin maintains mucosal NF-kB suppression)"
+        ]
+      }
+    ],
+    "foods_to_avoid": [
+      {
+        "category": "Phase 1 Absolute Avoids",
+        "items": [
+          "All raw vegetables",
+          "Raw fruits (except ripe banana and cooked apple)",
+          "Wheat and gluten-containing foods",
+          "Dairy (except small amounts of ghee)",
+          "All legumes except moong dal",
+          "Spicy foods and all chilli",
+          "Alcohol — absolute prohibition",
+          "Coffee and caffeinated beverages",
+          "NSAIDs — direct mucosal toxin; prostaglandin inhibition",
+          "Carbonated drinks",
+          "Artificial sweeteners — disrupt mucus bilayer"
+        ]
+      },
+      {
+        "category": "Permanent Avoids (All Phases)",
+        "items": [
+          "Ultra-processed food",
+          "Alcohol (all forms, permanently)",
+          "NSAIDs (ibuprofen, diclofenac — inhibit prostaglandin-mediated mucosal repair)",
+          "Artificial sweeteners (disrupt mucus layer)",
+          "Carbonated drinks",
+          "Excessive raw food during stress periods"
+        ]
+      },
+      {
+        "category": "Cautious Reintroduction (Phase 3 only — one food per 5 days)",
+        "items": [
+          "Small wheat portions — assess for 3 days before continuing",
+          "Raw cucumber and carrot — post 3-month remission only",
+          "Lightly cooked tomato — post 3-month remission only",
+          "Oats (soaked overnight)"
+        ]
+      }
+    ],
+    "sample_meal_plan": {
+      "phase": "Phase 1 — Bowel Rest (Days 1–5)",
+      "meals": [
+        {
+          "time": "7:00 AM (Morning)",
+          "what_to_eat": "Warm rice kanji water (strained) + pinch rock salt — 200 mL",
+          "physiological_rationale": "Zero osmotic load; prevents mucosal irritation; rock salt provides electrolytes without triggering colonic secretion"
+        },
+        {
+          "time": "8:00 AM",
+          "what_to_eat": "Nadi Shodhana (5 min) + Bhramari (5 min) before eating",
+          "physiological_rationale": "ANS rebalancing before first food intake; Bhramari reduces mast cell degranulation in colonic lamina propria — reduces post-meal urgency"
+        },
+        {
+          "time": "12:00 PM (Midday)",
+          "what_to_eat": "Freshly pressed bottle gourd (lauki) juice — 100 mL, room temperature, plain",
+          "physiological_rationale": "Alkaline pH soothes colonic mucosa; citrulline supports epithelial repair; zero fructans = zero fermentation load on inflamed colon"
+        },
+        {
+          "time": "3:00 PM (Afternoon)",
+          "what_to_eat": "Coconut water (plain, no sugar, no packaged) — 150 mL",
+          "physiological_rationale": "Electrolyte replenishment (K, Na, Mg); no fructans = zero fermentation load; natural hydration without osmotic diarrhoea risk"
+        },
+        {
+          "time": "6:30 PM (Evening)",
+          "what_to_eat": "Moong dal soup — thin, strained, no spices, room temperature — 200 mL",
+          "physiological_rationale": "Di/tripeptides absorbed entirely in small intestine; zero colonic fermentation substrate; provides albumin precursors to prevent hypoalbuminaemia"
+        },
+        {
+          "time": "7:00 PM (Last food)",
+          "what_to_eat": "Final food — begin 12-hour overnight fast",
+          "physiological_rationale": "12-hour colonic rest initiates mucosal autophagy; intestinal stem cell (ISC) proliferation in crypts of Lieberkühn occurs overnight during fasting"
+        }
+      ]
+    }
+  },
+  "functional_foods": [
+    {
+      "name": "Ghee (Clarified Butter)",
+      "icon": "🫙",
+      "dose_timing": "1–2 tsp at every meal (Phase 1 onwards) — cumin-tempered preferred",
+      "mechanism_of_action": "Contains ~4% butyric acid (butyrate) — provides 60–70% of colonocyte ATP; upregulates tight-junction proteins ZO-1 and claudin-3; activates PPARgamma pathway which directly suppresses NF-kB in colonic epithelium — opposing the root inflammatory mechanism of UC"
+    },
+    {
+      "name": "Ripe Banana",
+      "icon": "🍌",
+      "dose_timing": "1 ripe banana daily as snack (Phase 1 Day 6 onwards)",
+      "mechanism_of_action": "Pectin acts as prebiotic specifically feeding Lactobacillus species; forms protective gel over inflamed mucosa reducing direct contact between luminal antigens and epithelium; pectin fermentation produces short-chain fatty acids supplementing butyrate supply"
+    },
+    {
+      "name": "Homemade Curd (Lactobacillus)",
+      "icon": "🥛",
+      "dose_timing": "1 small bowl daily — only after 7 consecutive blood-free days (Phase 2)",
+      "mechanism_of_action": "Live Lactobacillus cultures displace pathogenic species; restores Faecalibacterium prausnitzii populations; increases butyrate production; homemade preferred over commercial to avoid additives that disrupt mucus bilayer"
+    },
+    {
+      "name": "Ajwain (Carom Seeds)",
+      "icon": "🌿",
+      "dose_timing": "1/2 tsp in warm water after meals; use as seasoning in khichdi and dal",
+      "mechanism_of_action": "Thymol and carvacrol: potent anti-spasmodics reducing colonic smooth muscle hyperactivity; inhibit COX-2 reducing mucosal prostaglandin-driven inflammation; carminative action prevents gas-triggered colonic distension and urgency"
+    },
+    {
+      "name": "Turmeric (Curcumin)",
+      "icon": "🟡",
+      "dose_timing": "1/4 tsp in ghee-tempered dal or rice — daily (all phases)",
+      "mechanism_of_action": "Curcumin directly inhibits NF-kB transcription in colonic epithelium — the master switch of UC immunopathology; reduces TNF-alpha, IL-6, IL-1B simultaneously; upregulates mucin-2 secretion from goblet cells; documented equivalent to 5-ASA in mild–moderate UC remission maintenance (Holt et al. RCT)"
+    },
+    {
+      "name": "Coconut Water",
+      "icon": "🥥",
+      "dose_timing": "150 mL, plain (no sugar, not packaged) — afternoon daily in Phase 1; 3–4× week Phase 2+",
+      "mechanism_of_action": "Natural oral rehydration: K, Na, Mg in bioavailable ratio; zero fructans = zero fermentation; magnesium acts as natural NF-kB inhibitor; lauric acid provides mild antimicrobial action against pathogenic gut bacteria"
+    },
+    {
+      "name": "Sesame Oil (Abhyanga)",
+      "icon": "🫗",
+      "dose_timing": "Warm sesame oil — clockwise abdominal massage 15 min daily (Phase 1); 4× week (Phase 2)",
+      "mechanism_of_action": "Sesamol (sesame lignan) reduces prostaglandin E2 synthesis via COX-2 inhibition; topical application activates vagal afferents in abdominal skin; stimulates enteric plexus via skin-gut axis; reduces colonic spasm and visceral hypersensitivity without systemic absorption"
+    },
+    {
+      "name": "Epsom Salt (Magnesium Sulfate)",
+      "icon": "🛁",
+      "dose_timing": "2 cups in warm bath (38–40°C) — 20 min daily Phase 1; 3× week Phase 2; 2× week Phase 3",
+      "mechanism_of_action": "Transdermal Mg2+ absorption bypasses inflamed gut; Mg is natural NF-kB inhibitor reducing colonic inflammation; relaxes colonic smooth muscle reducing tenesmus and urgency; sulfate is substrate for intestinal mucosal sulfation (phase II detox); improves sleep quality → GH/IGF-1 overnight mucosal repair"
+    }
+  ],
+  "yoga_sequence": {
+    "total_duration_min": 25,
+    "best_time": "3:30 PM",
+    "asanas": [
+      {
+        "asana": "Shavasana + abdominal breathing",
+        "duration_min": 3,
+        "physiological_effect": "Initiates parasympathetic dominance; VIP release reduces colonic spasm; establishes safe foundation — safe in all phases including active flare"
+      },
+      {
+        "asana": "Supta Pawanmuktasana (supine wind-relieving, single leg)",
+        "duration_min": 2,
+        "physiological_effect": "Gentle compression of ascending/descending colon reflex zones; stimulates myenteric plexus without abdominal stress — safe in active flare"
+      },
+      {
+        "asana": "Vajrasana (seated on heels — after meals)",
+        "duration_min": 5,
+        "physiological_effect": "Increases mesenteric blood flow 30%; promotes sIgA production in colonic mucosa; supports rectal sphincter tone — safe in all phases"
+      },
+      {
+        "asana": "Balasana (Child's Pose)",
+        "duration_min": 3,
+        "physiological_effect": "Gentle lower abdominal compression massages sigmoid colon/rectum; activates sacral parasympathetic S2-S4, reduces rectal urgency — safe in all phases"
+      },
+      {
+        "asana": "Marjariasana-Bitilasana (Cat-Cow) — Phase 2 onwards",
+        "duration_min": 2,
+        "physiological_effect": "Spinal flexion/extension mobilises T10-L1 sympathetic outflow segments to large intestine; reduces neurogenic colonic inflammation — Phase 2 only"
+      },
+      {
+        "asana": "Viparita Karani (Legs Up Wall) — Phase 2 onwards",
+        "duration_min": 5,
+        "physiological_effect": "Reverses pelvic venous pooling; reduces rectal varicosity and haemorrhoidal congestion common in UC; lowers systemic cortisol — Phase 2 only"
+      },
+      {
+        "asana": "Nadi Shodhana (10 rounds)",
+        "duration_min": 3,
+        "physiological_effect": "Reduces sympathetic inflammatory signals to gut; increases sIgA by upregulating vagal cholinergic anti-inflammatory pathway — safe in all phases"
+      },
+      {
+        "asana": "Bhramari (humming bee breath — 10 rounds)",
+        "duration_min": 3,
+        "physiological_effect": "Increases NO in nasal sinuses; vagal vibration reduces mast cell degranulation in colonic lamina propria — directly targets UC immunopathology — safe in all phases"
+      },
+      {
+        "asana": "Kapalabhati (gentle — 30 strokes only) — Phase 2 ONLY",
+        "duration_min": 2,
+        "physiological_effect": "Rhythmic abdominal pumping massages large intestine; improves portal venous return — AVOID in Phase 1 with active bleeding"
+      }
+    ]
+  },
+  "red_flags": [
+    {
+      "sign": "Stool frequency > 8/day with heavy fresh blood",
+      "action": "Severe UC flare / risk of toxic megacolon — Emergency gastroenterology referral immediately"
+    },
+    {
+      "sign": "Fever > 38.5°C + abdominal rigidity + rebound tenderness",
+      "action": "Rule out toxic megacolon or perforation — Emergency surgical evaluation required"
+    },
+    {
+      "sign": "Haemoglobin < 9 g/dL or haematocrit < 28%",
+      "action": "Significant haemorrhagic anaemia — Transfusion evaluation before continuing fasting protocols"
+    },
+    {
+      "sign": "Sudden cessation of diarrhoea + abdominal distension + reduced bowel sounds",
+      "action": "Possible toxic megacolon (paradoxical sign — do NOT interpret as improvement) — Emergency evaluation"
+    },
+    {
+      "sign": "Colonic dilation > 6 cm on abdominal X-ray",
+      "action": "Toxic megacolon confirmed — Immediate surgical consultation"
+    },
+    {
+      "sign": "Weight loss > 10% body weight in 4 weeks",
+      "action": "Protein-energy malnutrition — Phase 1 bowel rest must be supervised with nutritional support"
+    },
+    {
+      "sign": "New joint swelling, skin lesions (pyoderma gangrenosum), eye redness/pain (uveitis)",
+      "action": "Extraintestinal UC manifestations indicating systemic activity — Immunomodulator review required"
+    },
+    {
+      "sign": "Patient on biologics (infliximab/adalimumab) or systemic steroids",
+      "action": "Do NOT use fasting protocols without gastroenterologist approval; coordinate BNYS and pharmacological therapy"
+    }
+  ],
+  "monitoring": [
+    {
+      "frequency": "Daily",
+      "parameters": [
+        "Stool frequency + Bristol Scale consistency",
+        "Blood / mucus presence",
+        "Abdominal pain (0–10)",
+        "Urgency score (0–10)"
+      ]
+    },
+    {
+      "frequency": "Weekly",
+      "parameters": [
+        "Body weight",
+        "Energy score (0–10)",
+        "Sleep quality",
+        "Detailed symptom diary"
+      ]
+    },
+    {
+      "frequency": "Monthly",
+      "parameters": [
+        "CRP",
+        "ESR",
+        "Complete blood count (Hb, WBC, platelets)",
+        "Serum albumin",
+        "Serum electrolytes (Na, K, Mg)"
+      ]
+    },
+    {
+      "frequency": "Every 6 Weeks",
+      "parameters": [
+        "Faecal calprotectin (primary mucosal inflammation marker)",
+        "Clinical Mayo Score assessment"
+      ]
+    },
+    {
+      "frequency": "Every 3 Months",
+      "parameters": [
+        "Vitamin B12",
+        "Vitamin D",
+        "Serum iron + ferritin",
+        "Zinc",
+        "Magnesium"
+      ]
+    },
+    {
+      "frequency": "Annually",
+      "parameters": [
+        "Colonoscopy (per gastroenterologist schedule)",
+        "Liver function tests (PSC screening)",
+        "Bone density (if on or was on steroids)"
+      ]
+    }
+  ],
+  "clinical_disclaimer": "This protocol is adjunctive and does not replace gastroenterologist-prescribed medical therapy. All pharmaceutical decisions remain with the treating physician. BNYS interventions are designed to work synergistically with standard of care. Fasting protocols must not be used in patients on biologics or systemic steroids without gastroenterologist approval. Red flag criteria require immediate medical escalation — do not continue BNYS protocol until medically cleared."
+}
