@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-22T06:15:25.667Z",
+  "generatedAt": "2026-04-23T05:52:40.568Z",
   "sections": [
     {
-      "id": "ulcerative_colitis",
-      "file": "ulcerative_colitis.json",
+      "id": "naturaref_yoga_library",
+      "file": "naturaref_yoga_library.json",
       "cardCount": 0,
-      "sizeKb": "28.9",
+      "sizeKb": "206.1",
       "priority": "lazy",
-      "lastUpdated": "2026-04-22",
-      "etag": "29dba530d8c5"
+      "lastUpdated": "2026-04-23",
+      "etag": "b17c30964c71"
     }
   ]
 }
