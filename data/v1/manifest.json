@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-25T10:25:59.462Z",
+  "generatedAt": "2026-04-25T19:20:32.315Z",
   "sections": [
     {
-      "id": "lab_ranges_india",
-      "file": "lab_ranges_india.json",
+      "id": "nnt_bnys",
+      "file": "nnt_bnys.json",
       "cardCount": 0,
-      "sizeKb": "22.3",
+      "sizeKb": "16.8",
       "priority": "lazy",
       "lastUpdated": "2026-04-25",
-      "etag": "35a795e349f2"
+      "etag": "c9505bcd7524"
     }
   ]
 }
