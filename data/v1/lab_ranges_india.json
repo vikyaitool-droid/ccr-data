@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "authored": "Dr. Vikranth BNYS · NaturaRef",
+    "note": "Indian population-calibrated reference ranges. Values reflect ICMR / RGUHS BNYS clinical guidelines. Ranges may vary slightly by laboratory method — always correlate clinically.",
+    "south_asian_note": "South Asian populations carry higher cardiometabolic risk at lower BMI and HbA1c thresholds. Interpret accordingly."
+  },
+  "CBC": {
+    "Hemoglobin": {
+      "male": [13.0, 17.0], "female": [11.0, 15.0], "unit": "g/dL",
+      "critical_low": 7.0, "critical_high": 20.0,
+      "notes": "ICMR-adjusted lower threshold for Indian population. Anaemia highly prevalent — Hb < 11 g/dL warrants iron studies.",
+      "bnys_insight": "Iron-deficiency anaemia: increase dietary iron (amaranth, drumstick, jaggery), vitamin C co-ingestion, avoid tea/coffee with meals. Fasting therapy contraindicated below 10 g/dL.",
+      "confirm_tests": ["Serum Ferritin", "Serum Iron", "TIBC", "Peripheral smear", "Reticulocyte count"]
+    },
+    "WBC (Total Leucocyte Count)": {
+      "range": [4000, 11000], "unit": "cells/µL",
+      "critical_low": 2000, "critical_high": 30000,
+      "notes": "Leucocytosis > 11000 suggests infection/inflammation. Leucopenia < 4000 in viral illness or bone marrow suppression.",
+      "bnys_insight": "Chronic low-grade leucocytosis may indicate subclinical inflammation — address gut health, sleep, and stress. Tulsi, Guduchi support immune regulation.",
+      "confirm_tests": ["Differential count", "C-reactive protein", "ESR", "Blood culture if febrile", "Bone marrow biopsy if persistent"]
+    },
+    "Neutrophils": {
+      "range": [40, 70], "unit": "%",
+      "notes": "Neutrophilia > 70%: bacterial infection. Neutropenia < 40%: viral, drugs, bone marrow issue.",
+      "confirm_tests": ["Blood culture", "Viral serology", "ANA/ANCA if autoimmune suspected"]
+    },
+    "Lymphocytes": {
+      "range": [20, 40], "unit": "%",
+      "notes": "Lymphocytosis > 40%: viral infection, CLL. Lymphopenia < 20%: HIV, TB, corticosteroid use.",
+      "confirm_tests": ["HIV ELISA", "CD4/CD8 count", "CBNAAT for TB", "Peripheral smear"]
+    },
+    "Eosinophils": {
+      "range": [1, 6], "unit": "%",
+      "notes": "Eosinophilia > 6% common in India — allergy, parasitic infection, ABPA.",
+      "bnys_insight": "Persistent eosinophilia with GI symptoms — stool examination for parasites mandatory. Neem, turmeric support anti-parasitic action.",
+      "confirm_tests": ["Stool for ova and cysts", "IgE total", "Serology for filaria/strongyloides", "Chest X-ray if pulmonary eosinophilia"]
+    },
+    "Platelets": {
+      "range": [150000, 400000], "unit": "cells/µL",
+      "critical_low": 50000, "critical_high": 1000000,
+      "notes": "Thrombocytopenia < 100,000 in dengue, ITP, SLE. Thrombocytosis > 400,000 in reactive or CML.",
+      "bnys_insight": "Dengue thrombocytopenia — papaya leaf extract (Carica papaya) has evidence (RCT) for platelet improvement. Avoid invasive procedures below 50,000.",
+      "confirm_tests": ["Peripheral smear", "NS1 antigen/dengue serology", "ANA", "Bone marrow biopsy"]
+    },
+    "MCV": {
+      "range": [80, 100], "unit": "fL",
+      "notes": "Microcytic (< 80): iron deficiency, thalassaemia. Macrocytic (> 100): B12/folate deficiency, hypothyroidism.",
+      "confirm_tests": ["Serum Ferritin", "Serum B12", "Folate", "Haemoglobin electrophoresis if microcytic with normal ferritin"]
+    },
+    "Hematocrit (PCV)": {
+      "male": [39, 50], "female": [35, 45], "unit": "%",
+      "notes": "Reflects red cell mass. Elevated in polycythaemia vera or dehydration.",
+      "confirm_tests": ["Erythropoietin level", "JAK2 mutation", "Arterial blood gas"]
+    }
+  },
+  "Metabolic": {
+    "Vitamin D (25-OH)": {
+      "range": [30, 100],
+      "deficiency_cutoff": 20,
+      "insufficiency_cutoff": 30,
+      "optimal_range": [40, 60],
+      "unit": "ng/mL",
+      "india_note": "Paradoxically, > 80% of Indians are deficient despite high sun exposure — melanin, sunscreen, indoor lifestyle, vegetarian diet reduce synthesis. Target 40–60 ng/mL for optimal BNYS outcomes.",
+      "bnys_insight": "Sunlight exposure (10:00 AM – 2:00 PM, 20 minutes, 40% skin exposure) is first-line. Supplement: Cholecalciferol 60,000 IU weekly × 8 weeks, then 2,000 IU daily maintenance. Monitor at 3 months.",
+      "confirm_tests": ["iPTH", "Serum Calcium", "Serum Phosphorus", "24-hr urine calcium", "Repeat 25-OH Vit D at 3 months"]
+    },
+    "Vitamin B12": {
+      "range": [200, 900], "unit": "pg/mL",
+      "deficiency_cutoff": 200, "grey_zone": [200, 300],
+      "india_note": "Vegetarians have 4× higher risk of B12 deficiency. Treat grey zone (200–300) symptomatically in vegetarians.",
+      "bnys_insight": "Dairy, eggs (if lacto-ovo), fortified foods. Supplement: Methylcobalamin 1500 µg daily or 500 µg TDS. IM cyanocobalamin 1000 µg × 10 days for severe neurological deficiency.",
+      "confirm_tests": ["Homocysteine", "MMA (methylmalonic acid)", "Peripheral smear for macrocytosis", "Intrinsic factor antibody if pernicious anaemia suspected"]
+    },
+    "Fasting Blood Glucose": {
+      "range": [70, 99], "unit": "mg/dL",
+      "prediabetes": [100, 125],
+      "diabetes_cutoff": 126,
+      "critical_low": 55, "critical_high": 400,
+      "india_note": "South Asians develop T2DM at lower BMI (≥ 23 kg/m²). Prediabetes management is critical — lifestyle intervention can prevent progression in 58% of cases (DPP trial).",
+      "bnys_insight": "Naturopathic protocol: Karela (bitter gourd) 50 mL juice fasting, Gurmar (Gymnema sylvestre) 400 mg BD, Fenugreek seed soaking overnight then consuming. Structured walking 45 min/day reduces FBG significantly.",
+      "confirm_tests": ["HbA1c", "Post-prandial glucose (2hr)", "Fasting insulin", "HOMA-IR", "C-peptide", "GAD antibody if type 1 suspected"]
+    },
+    "HbA1c": {
+      "range": [4.0, 5.6], "unit": "%",
+      "prediabetes": [5.7, 6.4],
+      "diabetes_cutoff": 6.5,
+      "south_asian_note": "South Asian T2DM risk begins at HbA1c > 5.7%. Earlier intervention indicated compared to Western populations. Target HbA1c < 7.0% for managed T2DM.",
+      "bnys_insight": "HbA1c reflects 3-month average. 1% reduction possible with: combined yoga + diet + fasting therapy programme over 12 weeks. Amla (Indian gooseberry) has RCT evidence for HbA1c reduction.",
+      "confirm_tests": ["Fasting blood glucose", "Postprandial glucose", "Fasting insulin + HOMA-IR", "Urine microalbumin", "Lipid profile", "Renal function tests"]
+    },
+    "Fasting Insulin": {
+      "range": [2, 20], "unit": "µIU/mL",
+      "notes": "HOMA-IR > 2.5 indicates insulin resistance. Optimal fasting insulin < 8 µIU/mL for metabolic health.",
+      "india_note": "Indians have inherently higher insulin resistance — even lean individuals may have HOMA-IR > 2.5 due to central adiposity.",
+      "bnys_insight": "Intermittent fasting, low-glycaemic diet, aerobic exercise reduce fasting insulin significantly. Berberine 500 mg TDS has RCT evidence comparable to metformin for insulin resistance.",
+      "confirm_tests": ["HbA1c", "Fasting glucose", "Lipid profile", "Liver function tests", "PCOS workup if female with IR"]
+    },
+    "Iron (Serum)": {
+      "male": [60, 170], "female": [50, 150], "unit": "µg/dL",
+      "notes": "Must interpret with TIBC and ferritin for complete iron status.",
+      "confirm_tests": ["Serum Ferritin", "TIBC", "Transferrin saturation", "Peripheral smear", "Reticulocyte count"]
+    },
+    "Ferritin": {
+      "male": [12, 300], "female": [12, 150], "unit": "ng/mL",
+      "iron_deficiency_cutoff": 30,
+      "iron_overload_cutoff": 300,
+      "notes": "Ferritin < 30 ng/mL even with normal Hb indicates depleted iron stores. Ferritin is also an acute-phase reactant — elevated in infection/inflammation masking true deficiency.",
+      "bnys_insight": "Iron-rich foods: dried figs, raisins, curry leaves, drumstick leaves, moringa, til (sesame). Combine with vitamin C sources. Avoid tea/coffee within 1 hour of iron-rich meals.",
+      "confirm_tests": ["Serum Iron", "TIBC", "CRP (to exclude inflammatory state elevating ferritin)", "Liver enzymes if > 500"]
+    }
+  },
+  "Liver": {
+    "ALT (SGPT)": {
+      "male": [7, 56], "female": [7, 45], "unit": "U/L",
+      "critical_high": 500,
+      "notes": "Most liver-specific transaminase. Elevated in hepatitis, NAFLD, drugs, alcohol. > 3× ULN is significant.",
+      "bnys_insight": "Hepato-protective BNYS herbs: Bhumi amla (Phyllanthus niruri) 300 mg TDS, Milk thistle (silymarin 140 mg TDS), Kutki (Picrorhiza kurroa) 200 mg BD. Avoid hepatotoxic supplements.",
+      "confirm_tests": ["AST/ALT ratio", "GGT", "Alkaline phosphatase", "Bilirubin", "Albumin", "PT/INR", "Ultrasound abdomen", "HBsAg", "Anti-HCV"]
+    },
+    "AST (SGOT)": {
+      "male": [10, 40], "female": [10, 35], "unit": "U/L",
+      "notes": "Less liver-specific than ALT — also elevated in muscle, heart. AST:ALT ratio > 2:1 suggests alcoholic liver disease.",
+      "confirm_tests": ["ALT", "GGT", "CK (if muscle suspected)", "LDH"]
+    },
+    "Total Bilirubin": {
+      "range": [0.3, 1.2], "unit": "mg/dL",
+      "critical_high": 15.0,
+      "notes": "Direct > 0.3: conjugated hyperbilirubinaemia (obstructive). Indirect > 1.0: haemolysis or Gilbert's syndrome.",
+      "bnys_insight": "Mild jaundice with normal liver enzymes: screen for Gilbert's syndrome (benign). Fasting aggravates Gilbert's — avoid prolonged fasts.",
+      "confirm_tests": ["Direct/indirect bilirubin fractionation", "Liver enzymes", "Full blood count", "Reticulocyte count", "USG abdomen"]
+    },
+    "Albumin": {
+      "range": [3.5, 5.0], "unit": "g/dL",
+      "notes": "Marker of hepatic synthetic function and nutritional status. Albumin < 3.5 in cirrhosis, malnutrition, nephrotic syndrome.",
+      "confirm_tests": ["Total protein", "PT/INR", "Urine protein", "Liver enzymes"]
+    },
+    "GGT": {
+      "male": [10, 71], "female": [6, 42], "unit": "U/L",
+      "notes": "Sensitive marker of alcohol consumption, enzyme induction, biliary disease. Elevated in NAFLD before ALT rises.",
+      "confirm_tests": ["Liver function panel", "AUDIT alcohol questionnaire", "USG liver"]
+    },
+    "Alkaline Phosphatase": {
+      "range": [44, 147], "unit": "U/L",
+      "notes": "Elevated in cholestasis, bone disease, pregnancy. Physiologically elevated in children and adolescents — cannot use adult range.",
+      "confirm_tests": ["GGT (if elevated — liver source confirmed)", "Bilirubin", "USG abdomen", "ALP isoenzymes", "Bone density scan if bone source suspected"]
+    }
+  },
+  "Kidney": {
+    "Serum Creatinine": {
+      "male": [0.7, 1.2], "female": [0.5, 1.0], "unit": "mg/dL",
+      "critical_high": 10.0,
+      "india_note": "Indian population has lower muscle mass — creatinine may be lower at equivalent GFR. Use CKD-EPI equation. Vegetarians have inherently lower creatinine.",
+      "bnys_insight": "CKD naturopathic support: low-protein plant-based diet, Punarnava (Boerhavia diffusa) 500 mg BD, avoid nephrotoxic herbs (aristolochic acid, comfrey). Monitor closely.",
+      "confirm_tests": ["eGFR (CKD-EPI)", "BUN/Urea", "Urine microalbumin-creatinine ratio", "Urine routine examination", "Serum electrolytes", "USG kidneys"]
+    },
+    "eGFR": {
+      "range": [60, 120], "unit": "mL/min/1.73m²",
+      "ckd_stages": {
+        "G1": "≥ 90 — Normal",
+        "G2": "60–89 — Mildly decreased",
+        "G3a": "45–59 — Mild-moderate decrease",
+        "G3b": "30–44 — Moderate-severe decrease",
+        "G4": "15–29 — Severely decreased",
+        "G5": "< 15 — Kidney failure"
+      },
+      "notes": "Calculate using CKD-EPI formula for most accurate estimation in Indian patients.",
+      "confirm_tests": ["Serum creatinine", "Urine ACR", "Serum cystatin C if borderline"]
+    },
+    "BUN (Blood Urea Nitrogen)": {
+      "range": [8, 20], "unit": "mg/dL",
+      "notes": "BUN:Creatinine ratio > 20:1 suggests pre-renal cause (dehydration, GI bleed). < 10:1 suggests intrinsic renal disease or low protein intake.",
+      "confirm_tests": ["Serum creatinine", "Serum electrolytes", "Urine specific gravity"]
+    },
+    "Uric Acid": {
+      "male": [3.5, 7.2], "female": [2.6, 6.0], "unit": "mg/dL",
+      "notes": "Hyperuricaemia > 7.0 associated with gout, CKD, metabolic syndrome.",
+      "india_note": "Rising hyperuricaemia in India linked to high fructose corn syrup, meat consumption, and diuretic use in hypertension.",
+      "bnys_insight": "Low-purine diet (avoid red meat, organ meat, shellfish, alcohol). Cherry extract 480 mg/day has RCT evidence for reducing gout flares. Dandelion root supports uric acid excretion.",
+      "confirm_tests": ["24-hr urine uric acid", "Joint fluid crystal analysis if gout", "Renal function tests", "Metabolic panel"]
+    },
+    "Urine Microalbumin-Creatinine Ratio (ACR)": {
+      "range": [0, 30], "unit": "mg/g creatinine",
+      "microalbuminuria": [30, 300],
+      "macroalbuminuria": 300,
+      "notes": "First sign of diabetic nephropathy and hypertensive nephropathy. Screen annually in all diabetics and hypertensives.",
+      "confirm_tests": ["Repeat ACR on 2 more occasions over 3 months", "Renal function tests", "HbA1c", "BP monitoring"]
+    }
+  },
+  "Thyroid": {
+    "TSH (Thyroid Stimulating Hormone)": {
+      "range": [0.4, 4.0], "unit": "mIU/L",
+      "subclinical_hypo": [4.0, 10.0],
+      "critical_low": 0.01, "critical_high": 100.0,
+      "india_note": "Iodine deficiency thyroid disease prevalent in inland states. Hypothyroidism affects 1 in 10 Indians, higher in women. TSH > 2.5 in pregnancy needs treatment.",
+      "bnys_insight": "Hypothyroidism BNYS support: seaweed (Kelp — use cautiously, iodine source), Ashwagandha 300 mg BD (RCT evidence for TSH normalisation in subclinical hypo), yoga (Sarvangasana, Matsyasana) for thyroid stimulation. Soy, cruciferous vegetables reduce absorption — separate by 4 hours from levothyroxine.",
+      "confirm_tests": ["Free T4", "Free T3", "TPO antibody", "Anti-TG antibody", "Thyroid USG"]
+    },
+    "Free T4": {
+      "range": [0.7, 1.9], "unit": "ng/dL",
+      "notes": "Low in hypothyroidism. Elevated in hyperthyroidism or acute illness. Test alongside TSH for complete picture.",
+      "confirm_tests": ["TSH", "Free T3", "TPO antibody", "Thyroid USG"]
+    },
+    "Free T3": {
+      "range": [2.0, 4.4], "unit": "pg/mL",
+      "notes": "Active thyroid hormone. Useful in monitoring T3 toxicosis and conversion efficiency assessment.",
+      "confirm_tests": ["TSH", "Free T4", "Reverse T3 if suspected impaired conversion"]
+    },
+    "TPO Antibody": {
+      "range": [0, 34], "unit": "IU/mL",
+      "notes": "Positive in Hashimoto's thyroiditis and Graves' disease. Strong predictor of progression to overt hypothyroidism.",
+      "bnys_insight": "Autoimmune thyroiditis — gluten-free trial for 3 months may reduce TPO antibody levels (evidence: PMID 27238603). Selenium 200 µg/day (Brazil nuts or supplement) reduces TPO antibodies (multiple RCTs).",
+      "confirm_tests": ["TSH", "Free T4", "Anti-TG antibody", "Thyroid USG", "Coeliac serology"]
+    }
+  },
+  "Lipids": {
+    "Total Cholesterol": {
+      "optimal": [0, 199], "borderline": [200, 239], "high": 240,
+      "unit": "mg/dL",
+      "notes": "Total cholesterol alone has limited clinical utility — always interpret with LDL, HDL, non-HDL, and TG.",
+      "confirm_tests": ["Full lipid panel with LDL, HDL, TG, non-HDL", "Thyroid function (hypothyroidism causes dyslipidaemia)", "Liver enzymes"]
+    },
+    "LDL Cholesterol": {
+      "optimal": [0, 99], "near_optimal": [100, 129], "borderline_high": [130, 159],
+      "high": [160, 189], "very_high": 190,
+      "unit": "mg/dL",
+      "india_note": "South Asian guidelines recommend more aggressive LDL targets: < 70 mg/dL for very high CV risk, < 55 mg/dL post-MI.",
+      "bnys_insight": "Plant stanols/sterols 2 g/day reduce LDL by 10–15%. Red yeast rice (10 mg monacolin K) equivalent to low-dose statin (RCT evidence). Flaxseed 30 g/day, psyllium 10 g/day, oat beta-glucan 3 g/day all have evidence.",
+      "confirm_tests": ["Lipoprotein(a)", "ApoB", "hs-CRP", "CIMT (carotid intima media thickness)", "Coronary calcium score if intermediate risk"]
+    },
+    "HDL Cholesterol": {
+      "male_low": 40, "female_low": 50, "optimal": 60,
+      "unit": "mg/dL",
+      "india_note": "Indians have characteristically low HDL even with normal-weight BMI — a major CV risk factor in this population.",
+      "bnys_insight": "Exercise (aerobic × 30 min daily) raises HDL 3–9%. Niacin (nicotinic acid) 1–2 g/day raises HDL significantly but flush side-effect limits use. Moderate wine → replaced by grape seed extract in BNYS practice.",
+      "confirm_tests": ["Full lipid panel", "Non-HDL cholesterol calculation", "ApoA1"]
+    },
+    "Triglycerides": {
+      "optimal": [0, 149], "borderline": [150, 199], "high": [200, 499], "very_high": 500,
+      "unit": "mg/dL",
+      "india_note": "Hypertriglyceridaemia disproportionately prevalent in India — refined carbohydrate diet, alcohol, uncontrolled diabetes.",
+      "bnys_insight": "Most modifiable lipid fraction — carbohydrate restriction and omega-3 (EPA+DHA 3–4 g/day) reduce TG 20–50%. Fish oil RCTs strongest evidence. Alcohol cessation essential.",
+      "confirm_tests": ["HbA1c (diabetes-driven TG elevation)", "Thyroid function", "Fasting glucose", "Lipoprotein panel"]
+    }
+  },
+  "HbA1c": {
+    "HbA1c": {
+      "range": [4.0, 5.6], "unit": "%",
+      "prediabetes": [5.7, 6.4],
+      "diabetes_cutoff": 6.5,
+      "south_asian_note": "South Asian populations carry T2DM risk at HbA1c > 5.7% — earlier than WHO/ADA thresholds designed for Western populations. Indian populations develop T2DM at younger age, lower BMI, and higher CV risk. Aggressive lifestyle intervention is indicated in prediabetes range.",
+      "bnys_insight": "12-week structured naturopathic programme: caloric restriction + 45-min brisk walk daily + yoga (Surya namaskar × 12 rounds) + Karela 50 mL juice fasting + Fenugreek 10 g soaked seeds can reduce HbA1c by 0.5–1.0% in prediabetes.",
+      "confirm_tests": ["Fasting blood glucose", "Post-prandial glucose", "Fasting insulin", "HOMA-IR", "Urine microalbumin", "Lipid profile", "Renal function", "Ophthalmology review if > 7.0%"]
+    }
+  },
+  "Inflammatory": {
+    "hs-CRP (High Sensitivity CRP)": {
+      "low_risk": [0, 1.0], "intermediate_risk": [1.0, 3.0], "high_risk": [3.0, 10.0],
+      "unit": "mg/L",
+      "notes": "Values > 10 mg/L suggest acute infection or tissue injury rather than chronic inflammation — repeat when acute event resolved.",
+      "bnys_insight": "Anti-inflammatory BNYS protocol: curcumin (BCM-95 formulation) 500 mg TDS has RCT-level evidence for CRP reduction. Omega-3 FA 3 g/day, elimination of refined carbohydrates, sleep optimisation (7–9 hrs). Mediterranean diet reduces hs-CRP significantly.",
+      "confirm_tests": ["ESR", "Liver function tests", "Full blood count", "ANA, ANCA, RF if autoimmune suspected", "Lipid profile (CRP + LDL composite risk)"]
+    },
+    "ESR (Erythrocyte Sedimentation Rate)": {
+      "male": [0, 15], "female": [0, 20], "unit": "mm/hr",
+      "age_correction": "Upper limit ≈ Age/2 (male) or Age/2+5 (female) — Westergren method",
+      "notes": "Non-specific marker of inflammation. Elevated in anaemia, pregnancy, infection, autoimmune disease, malignancy.",
+      "confirm_tests": ["hs-CRP", "Full blood count", "Urine routine", "ANA/RF/ANCA if autoimmune suspected"]
+    },
+    "Homocysteine": {
+      "range": [5, 15], "unit": "µmol/L",
+      "cardiovascular_risk_cutoff": 15,
+      "india_note": "Hyperhomocysteinaemia prevalent in vegetarians due to B12 deficiency. B12 + B6 + folate supplementation reduces homocysteine.",
+      "bnys_insight": "Treat underlying B12/folate deficiency first. Riboflavin 10 mg/day if MTHFR polymorphism (use methylfolate 400 µg/day). Betaine 3 g/day as adjunct.",
+      "confirm_tests": ["Serum B12", "Serum Folate", "MTHFR genetic testing", "Cardiovascular risk assessment"]
+    },
+    "Ferritin (as inflammatory marker)": {
+      "range": [12, 300], "unit": "ng/mL",
+      "hyperferritinaemia_cutoff": 500,
+      "notes": "Ferritin > 500 — exclude adult-onset Still's disease, haemophagocytic lymphohistiocytosis, hepatic disease, haemochromatosis. In metabolic syndrome, ferritin elevates without iron overload.",
+      "confirm_tests": ["Liver function tests", "Serum iron / transferrin saturation", "Full blood count", "ANA if autoimmune", "HFE gene if haemochromatosis suspected"]
+    },
+    "LDH (Lactate Dehydrogenase)": {
+      "range": [140, 280], "unit": "U/L",
+      "notes": "Non-specific marker — elevated in haemolysis, MI, PE, hepatitis, lymphoma. Useful in dengue, COVID complications.",
+      "confirm_tests": ["Context-specific: CK-MB/troponin for cardiac, haptoglobin for haemolysis, CT-PA for PE"]
+    },
+    "ANA (Anti-Nuclear Antibody)": {
+      "range": "Negative (< 1:80 titre)",
+      "unit": "titre",
+      "notes": "Positive ANA alone is insufficient for SLE diagnosis — up to 15% of healthy population may have low-titre positive. Requires specific ENA panel for diagnosis.",
+      "confirm_tests": ["dsDNA antibody", "ENA panel (anti-Sm, anti-SSA/SSB, anti-Jo-1, anti-Scl-70)", "Complement C3/C4", "Urine for casts", "Full blood count"]
+    }
+  },
+  "Electrolytes": {
+    "Sodium": {
+      "range": [136, 145], "unit": "mEq/L",
+      "critical_low": 125, "critical_high": 155,
+      "notes": "Hyponatraemia: excess water, SIADH, diuretics, hypothyroidism. Hypernatraemia: dehydration, diabetes insipidus.",
+      "confirm_tests": ["Serum osmolality", "Urine sodium", "Urine osmolality", "Thyroid function"]
+    },
+    "Potassium": {
+      "range": [3.5, 5.0], "unit": "mEq/L",
+      "critical_low": 3.0, "critical_high": 6.0,
+      "notes": "Hypokalaemia: diarrhoea, diuretics, hyperaldosteronism. Hyperkalaemia: CKD, ACE inhibitors, Addison's disease.",
+      "bnys_insight": "Dietary potassium: bananas, coconut water, sweet potato, spinach. For hypokalaemia — avoid loop diuretics without monitoring. Hypertension patients on naturo protocol often achieve BP control allowing diuretic reduction.",
+      "confirm_tests": ["ECG (both hypo and hyperkalaemia cause arrhythmia)", "Renal function", "Aldosterone/renin ratio if recurrent hypo"]
+    },
+    "Calcium (Total)": {
+      "range": [8.5, 10.5], "unit": "mg/dL",
+      "critical_low": 7.0, "critical_high": 13.0,
+      "notes": "Always correct for albumin: corrected Ca = total Ca + 0.8 × (4 – albumin). Ionised calcium is more reliable.",
+      "confirm_tests": ["Ionised calcium", "iPTH", "Vitamin D (25-OH)", "Phosphorus", "Alkaline phosphatase"]
+    }
+  }
+}
