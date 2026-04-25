@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-23T05:52:40.568Z",
+  "generatedAt": "2026-04-25T02:03:40.680Z",
   "sections": [
     {
-      "id": "naturaref_yoga_library",
-      "file": "naturaref_yoga_library.json",
+      "id": "lab_ranges_india",
+      "file": "lab_ranges_india.json",
       "cardCount": 0,
-      "sizeKb": "206.1",
+      "sizeKb": "22.3",
       "priority": "lazy",
-      "lastUpdated": "2026-04-23",
-      "etag": "b17c30964c71"
+      "lastUpdated": "2026-04-25",
+      "etag": "35a795e349f2"
     }
   ]
 }
