@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-25T19:22:53.122Z",
+  "generatedAt": "2026-04-28T03:58:46.799Z",
   "sections": [
     {
-      "id": "nnt_bnys",
-      "file": "nnt_bnys.json",
+      "id": "skills",
+      "file": "skills.json",
       "cardCount": 0,
-      "sizeKb": "16.8",
+      "sizeKb": "107.2",
       "priority": "lazy",
-      "lastUpdated": "2026-04-25",
-      "etag": "c9505bcd7524"
+      "lastUpdated": "2026-04-28",
+      "etag": "c61f82fc0b7f"
     }
   ]
 }
