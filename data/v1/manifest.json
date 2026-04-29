@@ -1,16 +1,34 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-28T03:58:46.799Z",
+  "generatedAt": "2026-04-29T06:46:01.257Z",
   "sections": [
+    {
+      "id": "womens_part2",
+      "file": "womens_part2.json",
+      "cardCount": 0,
+      "sizeKb": "97.9",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-29",
+      "etag": "a8839c88f5c4"
+    },
     {
       "id": "skills",
       "file": "skills.json",
       "cardCount": 0,
       "sizeKb": "107.2",
       "priority": "lazy",
-      "lastUpdated": "2026-04-28",
+      "lastUpdated": "2026-04-29",
       "etag": "c61f82fc0b7f"
+    },
+    {
+      "id": "womens",
+      "file": "womens.json",
+      "cardCount": 0,
+      "sizeKb": "87.6",
+      "priority": "lazy",
+      "lastUpdated": "2026-04-29",
+      "etag": "406efab2edf2"
     }
   ]
 }
